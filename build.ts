@@ -37,9 +37,22 @@ const fetchBooks = async (): Promise<any[]> => {
   return json
 };
 
+const fetchCourses= async (): Promise<any[]> => {
+  const baseUrl = "https://api.ashish.me/courses";
+
+  console.log("Fetching courses");
+  const res = await fetch(`${baseUrl}`, {
+    method: "GET",
+  });
+
+  const json = await res.json();
+  return json
+};
+
 await ensureDir("movies");
 await ensureDir("shows");
 await ensureDir("books");
+await ensureDir("courses");
 
 const movies = await fetchMovies();
 
@@ -62,6 +75,12 @@ await Deno.writeTextFile(
   JSON.stringify(books, null, 2) + "\n"
 );
 
+const courses = await fetchCourses();
+
+await Deno.writeTextFile(
+  "courses/all.json",
+  JSON.stringify(courses, null, 2) + "\n"
+);
 
 
 export {};
