@@ -3,6 +3,10 @@ name: Fetch Data
 permissions:
   contents: write
   pages: write
+  actions: write
+  checks: write
+  repository-projects: write
+  pull-requests: write
 
 on:
   schedule:
@@ -14,10 +18,6 @@ jobs:
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
-      repository-projects: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
