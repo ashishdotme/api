@@ -10,16 +10,13 @@
 
 <p align="center">📦 list of personal API's </p>
 
-
-
-| Name               | API endpoint                                                        |
-| --------------------------------- | ------------------------------------------------------------------- |
-|Movies          | https://app.ashish.me/api/movies/all.json                   |
-|Books          | https://app.ashish.me/api/books/all.json                   |
-|Shows          | https://app.ashish.me/api/shows/all.json                   |
-|Courses          | https://app.ashish.me/api/courses/all.json                   |
-
-
+| Name    | API endpoint                               |
+| ------- | ------------------------------------------ |
+| Movies  | https://app.ashish.me/api/movies/all.json  |
+| Books   | https://app.ashish.me/api/books/all.json   |
+| Shows   | https://app.ashish.me/api/shows/all.json   |
+| Courses | https://app.ashish.me/api/courses/all.json |
+| Github  | https://app.ashish.me/api/github/all.json  |
 
 ## Support
 
