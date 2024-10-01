@@ -102,7 +102,6 @@ const fetchCourses = async (): Promise<any[]> => {
 };
 
 const fetchGithub = async (): Promise<any[]> => {
-  const baseUrl = "https://api.ashish.me/github";
   const octokit = new Octokit({
     auth: Deno.env.get("GITHUB_TOKEN"),
   });
@@ -152,5 +151,7 @@ await Deno.writeTextFile(
   "courses/all.json",
   JSON.stringify(courses, null, 2) + "\n"
 );
+
+Deno.exit(1);
 
 export {};
