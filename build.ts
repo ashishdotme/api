@@ -152,6 +152,6 @@ await Deno.writeTextFile(
   JSON.stringify(courses, null, 2) + "\n"
 );
 
-Deno.exit(1);
+Deno.exit(0);
 
 export {};
