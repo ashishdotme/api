@@ -34,11 +34,16 @@ const getLastCommit = async (octokit: any): Promise<string | null> => {
 
   const filteredRepos = response.data.filter((x: any) => !automatedRepos.includes(x.name));
 
-  if (filteredRepos.length === 0) {
-    return null;
-  }
+  let lastCommitDate = null;
+  filteredRepos.forEach((x) => {
+    lastCommitDate = getLastCommitDetails(octokit, x.name);
 
-  return await getLastCommitDetails(octokit, filteredRepos[0].name);
+    if (lastCommitDate) {
+      return lastCommitDate;
+    }
+  });
+
+  return null;
 };
 
 const getRecentPublicRepos = async (octokit: any): Promise<{ name: string; createdAt: string }[]> => {
