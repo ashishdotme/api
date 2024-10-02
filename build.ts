@@ -18,13 +18,12 @@ const getLastCommitDetails = async (octokit: any, name: string): Promise<string 
   }
 
   const commitDetails = commit.data.find((x: any) => x.commit.committer.email === "ashishsushilpatel@gmail.com");
-
   return commitDetails?.commit?.committer?.date || null;
 };
 
 const getLastCommit = async (octokit: any): Promise<string | null> => {
   const response = await octokit.request("GET /user/repos", {
-    sort: "updated",
+    sort: "pushed",
     visibility: "all",
     per_page: 100,
     headers: {
@@ -35,20 +34,20 @@ const getLastCommit = async (octokit: any): Promise<string | null> => {
   const filteredRepos = response.data.filter((x: any) => !automatedRepos.includes(x.name));
 
   let lastCommitDate = null;
-  filteredRepos.forEach((x) => {
-    lastCommitDate = getLastCommitDetails(octokit, x.name);
+  for (let i = 0; i < filteredRepos.length; i++) {
+    lastCommitDate = getLastCommitDetails(octokit, filteredRepos[i].name);
 
     if (lastCommitDate) {
       return lastCommitDate;
     }
-  });
+  }
 
   return null;
 };
 
 const getRecentPublicRepos = async (octokit: any): Promise<{ name: string; createdAt: string }[]> => {
   const response = await octokit.request("GET /user/repos", {
-    sort: "updated",
+    sort: "pushed",
     visibility: "public",
     per_page: 20,
     headers: {
