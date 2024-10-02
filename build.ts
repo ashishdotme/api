@@ -56,10 +56,9 @@ const getRecentPublicRepos = async (octokit: any): Promise<{ name: string; creat
   });
 
   const filteredRepos = response.data.filter((x: any) => !automatedRepos.includes(x.name));
-
   return filteredRepos.map((x: any) => ({
     name: x.name,
-    createdAt: x.created_at,
+    pushedAt: x.pushed_at,
   }));
 };
 
