@@ -12,6 +12,7 @@
 
 | Name    | API endpoint                               |
 | ------- | ------------------------------------------ |
+| Summary | https://app.ashish.me/api/summary.json     |
 | Movies  | https://app.ashish.me/api/movies/all.json  |
 | Books   | https://app.ashish.me/api/books/all.json   |
 | Shows   | https://app.ashish.me/api/shows/all.json   |

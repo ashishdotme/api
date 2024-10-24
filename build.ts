@@ -71,6 +71,7 @@ const fetchMovies = async (): Promise<any[]> => fetchData("https://api.ashish.me
 const fetchShows = async (): Promise<any[]> => fetchData("https://api.ashish.me/shows", "shows");
 const fetchBooks = async (): Promise<any[]> => fetchData("https://api.ashish.me/books", "books");
 const fetchCourses = async (): Promise<any[]> => fetchData("https://api.ashish.me/courses", "courses");
+const fetchSummary = async (): Promise<any[]> => fetchData("https://api.ashish.me/stats", "summary");
 
 const fetchGithub = async (): Promise<{ lastCommit: string | null; recentRepos: { name: string; createdAt: string }[] }> => {
   const octokit = new Octokit({ auth: Deno.env.get("GITHUB_TOKEN") });
@@ -84,6 +85,7 @@ await ensureDir("shows");
 await ensureDir("books");
 await ensureDir("courses");
 await ensureDir("github");
+await ensureDir("summary");
 
 const github = await fetchGithub();
 await Deno.writeTextFile("github/all.json", JSON.stringify(github, null, 2) + "\n");
@@ -99,6 +101,9 @@ await Deno.writeTextFile("books/all.json", JSON.stringify(books, null, 2) + "\n"
 
 const courses = await fetchCourses();
 await Deno.writeTextFile("courses/all.json", JSON.stringify(courses, null, 2) + "\n");
+
+const summary = await fetchSummary();
+await Deno.writeTextFile("summary.json", JSON.stringify(summary, null, 2) + "\n");
 
 Deno.exit(0);
 
