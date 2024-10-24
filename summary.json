@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 7,
-      "batteryState": "unplugged",
-      "coordinates": "{\"-6.2211111\",\"53.263891\"}",
-      "batteryLevel": 50,
-      "timestamp": "2024-10-24T20:48:02.000Z",
-      "createdAt": "2024-10-24T20:48:03.502Z",
-      "updatedAt": "2024-10-24T20:48:03.502Z"
+      "id": 11,
+      "batteryState": "charging",
+      "coordinates": "{\"-6.223032\",\"53.2635347\"}",
+      "batteryLevel": 75,
+      "timestamp": "2024-10-24T22:26:01.000Z",
+      "createdAt": "2024-10-24T22:26:02.031Z",
+      "updatedAt": "2024-10-24T22:26:02.031Z"
     }
   ],
   "steps": [
@@ -15,9 +15,9 @@
       "id": 8153,
       "stepCount": 8922,
       "date": "10/23/24",
-      "fullDate": "2024-10-22T23:00:00.000Z",
-      "createdAt": "2024-10-24T12:43:33.970Z",
-      "updatedAt": "2024-10-24T12:43:33.970Z"
+      "fullDate": "2024-10-23T00:00:00.000Z",
+      "createdAt": "2024-10-24T13:43:33.970Z",
+      "updatedAt": "2024-10-24T13:43:33.970Z"
     }
   ],
   "sleep": [
@@ -25,11 +25,11 @@
       "id": 1,
       "sleep": "6.6",
       "date": "10/23/24",
-      "fullDate": "2024-10-22T23:00:00.000Z",
-      "sleepStart": "2024-10-22T23:26:00.000Z",
-      "sleepEnd": "2024-10-23T06:01:59.000Z",
-      "createdAt": "2024-10-24T20:15:20.036Z",
-      "updatedAt": "2024-10-24T20:15:20.036Z"
+      "fullDate": "2024-10-23T00:00:00.000Z",
+      "sleepStart": "2024-10-23T00:26:00.000Z",
+      "sleepEnd": "2024-10-23T07:01:59.000Z",
+      "createdAt": "2024-10-24T21:15:20.036Z",
+      "updatedAt": "2024-10-24T21:15:20.036Z"
     }
   ],
   "word": [
@@ -49,8 +49,8 @@
       "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
       "author": "Mark Twain",
-      "createdAt": "2024-10-21T21:28:52.934Z",
-      "updatedAt": "2024-10-21T21:28:52.934Z"
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -85,8 +85,8 @@
       "genre": "Personal Development",
       "completedDate": "2023-02-08T00:00:00.000Z",
       "loved": true,
-      "createdAt": "2024-10-22T13:53:34.755Z",
-      "updatedAt": "2024-10-22T13:53:34.755Z"
+      "createdAt": "2024-10-22T14:53:34.755Z",
+      "updatedAt": "2024-10-22T14:53:34.755Z"
     }
   ],
   "courses": [
@@ -112,12 +112,12 @@
       "language": "English",
       "year": 1997,
       "genre": "Drama, Mystery, Thriller",
-      "viewingDate": "2024-10-19T22:00:00.000Z",
+      "viewingDate": "2024-10-19T23:00:00.000Z",
       "loved": true,
       "imdbRating": "7.7",
       "imdbId": "tt0119174",
-      "createdAt": "2024-10-21T21:24:25.330Z",
-      "updatedAt": "2024-10-21T21:24:25.330Z"
+      "createdAt": "2024-10-21T22:24:25.330Z",
+      "updatedAt": "2024-10-21T22:24:25.330Z"
     }
   ],
   "tasks": [
@@ -129,9 +129,9 @@
       "todoId": "123",
       "completed": false,
       "completedDate": null,
-      "dueDate": "2024-10-20T14:52:50.926Z",
-      "createdAt": "2024-10-20T14:52:50.928Z",
-      "updatedAt": "2024-10-20T14:52:50.928Z"
+      "dueDate": "2024-10-20T15:52:50.926Z",
+      "createdAt": "2024-10-20T15:52:50.928Z",
+      "updatedAt": "2024-10-20T15:52:50.928Z"
     },
     {
       "id": 531,
@@ -141,9 +141,9 @@
       "todoId": "123",
       "completed": false,
       "completedDate": null,
-      "dueDate": "2024-10-20T14:53:17.984Z",
-      "createdAt": "2024-10-20T14:53:17.985Z",
-      "updatedAt": "2024-10-20T14:53:17.985Z"
+      "dueDate": "2024-10-20T15:53:17.984Z",
+      "createdAt": "2024-10-20T15:53:17.985Z",
+      "updatedAt": "2024-10-20T15:53:17.985Z"
     },
     {
       "id": 532,
@@ -153,9 +153,9 @@
       "todoId": "123",
       "completed": false,
       "completedDate": null,
-      "dueDate": "2024-10-24T20:19:52.967Z",
-      "createdAt": "2024-10-24T20:19:53.001Z",
-      "updatedAt": "2024-10-24T20:19:53.001Z"
+      "dueDate": "2024-10-24T21:19:52.967Z",
+      "createdAt": "2024-10-24T21:19:53.001Z",
+      "updatedAt": "2024-10-24T21:19:53.001Z"
     }
   ],
   "updates": [
@@ -164,18 +164,18 @@
       "category": "Life",
       "content": null,
       "title": "Moved to Dublin, Ireland",
-      "date": "2021-09-13T09:29:42.297Z",
-      "createdAt": "2024-09-15T12:36:36.858Z",
-      "updatedAt": "2024-09-15T12:36:36.858Z"
+      "date": "2021-09-13T10:29:42.297Z",
+      "createdAt": "2024-09-15T13:36:36.858Z",
+      "updatedAt": "2024-09-15T13:36:36.858Z"
     },
     {
       "id": 10,
       "category": "Life",
       "content": null,
       "title": "Started job at Honeywell, India",
-      "date": "2020-10-12T09:29:42.297Z",
-      "createdAt": "2024-09-15T12:32:54.840Z",
-      "updatedAt": "2024-09-15T12:32:54.840Z"
+      "date": "2020-10-12T10:29:42.297Z",
+      "createdAt": "2024-09-15T13:32:54.840Z",
+      "updatedAt": "2024-09-15T13:32:54.840Z"
     },
     {
       "id": 9,
@@ -183,44 +183,44 @@
       "content": null,
       "title": "Started job at Amdocs, India",
       "date": "2019-01-19T10:29:42.297Z",
-      "createdAt": "2024-09-15T12:28:28.681Z",
-      "updatedAt": "2024-09-15T12:33:11.559Z"
+      "createdAt": "2024-09-15T13:28:28.681Z",
+      "updatedAt": "2024-09-15T13:33:11.559Z"
     },
     {
       "id": 8,
       "category": "Life",
       "content": null,
       "title": "Started job at Nitor Infotech",
-      "date": "2016-06-27T09:29:42.000Z",
-      "createdAt": "2024-09-15T12:27:56.348Z",
-      "updatedAt": "2024-09-15T12:35:21.819Z"
+      "date": "2016-06-27T10:29:42.000Z",
+      "createdAt": "2024-09-15T13:27:56.348Z",
+      "updatedAt": "2024-09-15T13:35:21.819Z"
     },
     {
       "id": 7,
       "category": "Life",
       "content": null,
       "title": "Moved to Pune, India",
-      "date": "2016-06-17T09:29:42.000Z",
-      "createdAt": "2024-09-15T12:22:04.990Z",
-      "updatedAt": "2024-09-15T12:35:34.498Z"
+      "date": "2016-06-17T10:29:42.000Z",
+      "createdAt": "2024-09-15T13:22:04.990Z",
+      "updatedAt": "2024-09-15T13:35:34.498Z"
     },
     {
       "id": 6,
       "category": "Life",
       "content": null,
       "title": "Graduated in Computer Science and Engineering from Nagpur University, India",
-      "date": "2016-05-30T09:29:42.297Z",
-      "createdAt": "2024-09-15T12:21:23.009Z",
-      "updatedAt": "2024-09-15T12:32:38.727Z"
+      "date": "2016-05-30T10:29:42.297Z",
+      "createdAt": "2024-09-15T13:21:23.009Z",
+      "updatedAt": "2024-09-15T13:32:38.727Z"
     },
     {
       "id": 5,
       "category": "Life",
       "content": null,
       "title": "Born in Chhattisgarh, India",
-      "date": "1993-06-04T09:29:42.297Z",
-      "createdAt": "2024-09-15T12:19:16.078Z",
-      "updatedAt": "2024-09-15T12:19:16.078Z"
+      "date": "1993-06-04T10:29:42.297Z",
+      "createdAt": "2024-09-15T13:19:16.078Z",
+      "updatedAt": "2024-09-15T13:19:16.078Z"
     }
   ],
   "listens": [
@@ -231,14 +231,14 @@
       "album": "Sajni (From \"Laapataa Ladies\")",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-10-24T16:32:36.000Z",
+      "listenDate": "2024-10-24T17:32:36.000Z",
       "trackNumber": null,
-      "createdAt": "2024-10-24T16:32:37.857Z",
-      "updatedAt": "2024-10-24T16:32:37.857Z"
+      "createdAt": "2024-10-24T17:32:37.857Z",
+      "updatedAt": "2024-10-24T17:32:37.857Z"
     }
   ],
   "github": {
-    "lastCommit": "2024-10-24T21:35:13Z",
+    "lastCommit": "2024-10-24T22:35:04Z",
     "recentRepos": [
       {
         "name": "jobsapi.ashish.me",
