@@ -34,23 +34,23 @@
   ],
   "word": [
     {
-      "id": 1,
-      "word": "clandestine",
-      "meaning": "characterized by, done in, or executed with secrecy or concealment, especially for purposes of subversion or deception; private or surreptitious",
-      "pronounciation": "klan-des-tin",
-      "sentences": "Their clandestine meetings went undiscovered for two years.",
-      "createdAt": "2022-01-24T19:45:33.772Z",
-      "updatedAt": "2022-01-24T19:45:33.772Z"
+      "id": 2,
+      "word": "angry",
+      "meaning": "a",
+      "pronounciation": "a",
+      "sentences": "a",
+      "createdAt": "2024-08-24T12:18:26.016Z",
+      "updatedAt": "2024-08-24T12:18:26.016Z"
     }
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
