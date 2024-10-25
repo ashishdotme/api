@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 55,
-      "batteryState": "charging",
-      "coordinates": "{\"-6.2212507\",\"53.2637958\"}",
+      "id": 56,
+      "batteryState": "unplugged",
+      "coordinates": "{\"-6.2212272\",\"53.2638072\"}",
       "batteryLevel": 100,
-      "timestamp": "2024-10-25T09:21:38.000Z",
-      "createdAt": "2024-10-25T09:21:38.866Z",
-      "updatedAt": "2024-10-25T09:21:38.866Z"
+      "timestamp": "2024-10-25T09:27:26.000Z",
+      "createdAt": "2024-10-25T09:27:27.062Z",
+      "updatedAt": "2024-10-25T09:27:27.062Z"
     }
   ],
   "steps": [
@@ -156,6 +156,18 @@
       "dueDate": "2024-10-24T21:19:52.967Z",
       "createdAt": "2024-10-24T21:19:53.001Z",
       "updatedAt": "2024-10-24T21:19:53.001Z"
+    },
+    {
+      "id": 534,
+      "content": "Add step count, sleep data to the website",
+      "category": "Now",
+      "projectId": "2239311712",
+      "todoId": "123",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2024-10-25T09:29:41.214Z",
+      "createdAt": "2024-10-25T09:29:41.248Z",
+      "updatedAt": "2024-10-25T09:29:41.248Z"
     }
   ],
   "updates": [
