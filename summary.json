@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 32,
+      "id": 33,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262252\",\"53.2629475\"}",
+      "coordinates": "{\"-6.2258608\",\"53.2632202\"}",
       "batteryLevel": 85,
-      "timestamp": "2024-10-25T02:41:57.000Z",
-      "createdAt": "2024-10-25T02:41:58.307Z",
-      "updatedAt": "2024-10-25T02:41:58.307Z"
+      "timestamp": "2024-10-25T02:57:19.000Z",
+      "createdAt": "2024-10-25T02:57:20.373Z",
+      "updatedAt": "2024-10-25T02:57:20.373Z"
     }
   ],
   "steps": [
@@ -34,13 +34,13 @@
   ],
   "word": [
     {
-      "id": 1,
-      "word": "clandestine",
-      "meaning": "characterized by, done in, or executed with secrecy or concealment, especially for purposes of subversion or deception; private or surreptitious",
-      "pronounciation": "klan-des-tin",
-      "sentences": "Their clandestine meetings went undiscovered for two years.",
-      "createdAt": "2022-01-24T19:45:33.772Z",
-      "updatedAt": "2022-01-24T19:45:33.772Z"
+      "id": 2,
+      "word": "angry",
+      "meaning": "a",
+      "pronounciation": "a",
+      "sentences": "a",
+      "createdAt": "2024-08-24T12:18:26.016Z",
+      "updatedAt": "2024-08-24T12:18:26.016Z"
     }
   ],
   "quote": [
