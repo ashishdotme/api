@@ -1,35 +1,35 @@
 {
   "locations": [
     {
-      "id": 107,
+      "id": 462,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2216075\",\"53.2636439\"}",
-      "batteryLevel": 60,
-      "timestamp": "2024-10-25T19:04:16.000Z",
-      "createdAt": "2024-10-25T19:04:18.317Z",
-      "updatedAt": "2024-10-25T19:04:18.317Z"
+      "coordinates": "{\"-6.2262347\",\"53.2629554\"}",
+      "batteryLevel": 40,
+      "timestamp": "2024-10-27T11:20:59.000Z",
+      "createdAt": "2024-10-27T11:21:00.367Z",
+      "updatedAt": "2024-10-27T11:21:00.367Z"
     }
   ],
   "steps": [
     {
-      "id": 8163,
-      "stepCount": 1015,
-      "date": "10/24/24",
-      "fullDate": "2024-10-24T00:00:00.000Z",
-      "createdAt": "2024-10-25T09:08:35.613Z",
-      "updatedAt": "2024-10-25T09:08:35.613Z"
+      "id": 8174,
+      "stepCount": 6013,
+      "date": "10/26/24",
+      "fullDate": "2024-10-26T00:00:00.000Z",
+      "createdAt": "2024-10-27T09:36:20.203Z",
+      "updatedAt": "2024-10-27T09:36:20.203Z"
     }
   ],
   "sleep": [
     {
-      "id": 3,
-      "sleep": "7.0",
-      "date": "10/24/24",
-      "fullDate": "2024-10-24T00:00:00.000Z",
-      "sleepStart": "2024-10-24T01:03:00.000Z",
-      "sleepEnd": "2024-10-24T08:02:59.000Z",
-      "createdAt": "2024-10-25T00:29:30.977Z",
-      "updatedAt": "2024-10-25T00:29:30.977Z"
+      "id": 17,
+      "sleep": "7.4",
+      "date": "10/26/24",
+      "fullDate": "2024-10-26T00:00:00.000Z",
+      "sleepStart": "2024-10-26T00:09:00.000Z",
+      "sleepEnd": "2024-10-26T07:29:59.000Z",
+      "createdAt": "2024-10-27T09:36:20.290Z",
+      "updatedAt": "2024-10-27T09:36:20.290Z"
     }
   ],
   "word": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -125,8 +125,8 @@
       "id": 530,
       "content": "Create books page",
       "category": "Now",
-      "projectId": "2239311712",
-      "todoId": "123",
+      "projectId": null,
+      "todoId": null,
       "completed": false,
       "completedDate": null,
       "dueDate": "2024-10-20T15:52:50.926Z",
@@ -137,8 +137,8 @@
       "id": 531,
       "content": "Fix newsletter",
       "category": "Now",
-      "projectId": "2239311712",
-      "todoId": "123",
+      "projectId": null,
+      "todoId": null,
       "completed": false,
       "completedDate": null,
       "dueDate": "2024-10-20T15:53:17.984Z",
@@ -149,13 +149,25 @@
       "id": 532,
       "content": "Fix time zone in health data",
       "category": "Now",
-      "projectId": "2239311712",
-      "todoId": "123",
+      "projectId": null,
+      "todoId": null,
       "completed": false,
       "completedDate": null,
       "dueDate": "2024-10-24T21:19:52.967Z",
       "createdAt": "2024-10-24T21:19:53.001Z",
       "updatedAt": "2024-10-24T21:19:53.001Z"
+    },
+    {
+      "id": 550,
+      "content": "Update wiki home page",
+      "category": "Now",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "671d4b68eba7b80000000591",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2024-10-26T20:07:42.666Z",
+      "createdAt": "2024-10-26T20:07:42.669Z",
+      "updatedAt": "2024-10-26T20:07:42.669Z"
     }
   ],
   "updates": [
@@ -225,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 731,
-      "title": "Sajni (From \"Laapataa Ladies\")",
-      "artist": "Ram Sampath",
-      "album": "Sajni (From \"Laapataa Ladies\")",
+      "id": 753,
+      "title": "Lay Low",
+      "artist": "Tiësto",
+      "album": "Lay Low",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-10-24T17:32:36.000Z",
+      "listenDate": "2024-10-27T10:49:35.000Z",
       "trackNumber": null,
-      "createdAt": "2024-10-24T17:32:37.857Z",
-      "updatedAt": "2024-10-24T17:32:37.857Z"
+      "createdAt": "2024-10-27T10:49:37.444Z",
+      "updatedAt": "2024-10-27T10:49:37.444Z"
     }
   ],
   "github": {
