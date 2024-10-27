@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 558,
+      "id": 559,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262318\",\"53.2629502\"}",
+      "coordinates": "{\"-6.2262327\",\"53.2629567\"}",
       "batteryLevel": 80,
-      "timestamp": "2024-10-27T19:42:17.000Z",
-      "createdAt": "2024-10-27T19:42:18.192Z",
-      "updatedAt": "2024-10-27T19:42:18.192Z"
+      "timestamp": "2024-10-27T19:47:32.000Z",
+      "createdAt": "2024-10-27T19:47:33.240Z",
+      "updatedAt": "2024-10-27T19:47:33.240Z"
     }
   ],
   "steps": [
@@ -250,11 +250,11 @@
     }
   ],
   "github": {
-    "lastCommit": "2024-10-27T18:21:15Z",
+    "lastCommit": "2024-10-27T19:44:45Z",
     "recentRepos": [
       {
         "name": "notes",
-        "pushedAt": "2024-10-27T18:26:36Z"
+        "pushedAt": "2024-10-27T19:45:22Z"
       },
       {
         "name": "dotfiles",
