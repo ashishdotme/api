@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 718,
+      "id": 719,
       "batteryState": "charging",
-      "coordinates": "{\"-6.2262381\",\"53.2629553\"}",
-      "batteryLevel": 75,
-      "timestamp": "2024-10-28T09:34:04.000Z",
-      "createdAt": "2024-10-28T09:34:05.952Z",
-      "updatedAt": "2024-10-28T09:34:05.952Z"
+      "coordinates": "{\"-6.2262366\",\"53.2629603\"}",
+      "batteryLevel": 80,
+      "timestamp": "2024-10-28T09:39:19.000Z",
+      "createdAt": "2024-10-28T09:39:20.367Z",
+      "updatedAt": "2024-10-28T09:39:20.367Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 753,
-      "title": "Lay Low",
-      "artist": "Tiësto",
-      "album": "Lay Low",
+      "id": 755,
+      "title": "Tumse Kehna Hai Dil Mein Rehna Hai Mujhko Teri Kasam",
+      "artist": "Shivam",
+      "album": "Tumse Kehna Hai Dil Mein Rehna Hai Mujhko Teri Kasam",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-10-27T10:49:35.000Z",
+      "listenDate": "2024-10-28T09:39:51.000Z",
       "trackNumber": null,
-      "createdAt": "2024-10-27T10:49:37.444Z",
-      "updatedAt": "2024-10-27T10:49:37.444Z"
+      "createdAt": "2024-10-28T09:39:53.220Z",
+      "updatedAt": "2024-10-28T09:39:53.220Z"
     }
   ],
   "github": {
