@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 719,
+      "id": 720,
       "batteryState": "charging",
-      "coordinates": "{\"-6.2262366\",\"53.2629603\"}",
-      "batteryLevel": 80,
-      "timestamp": "2024-10-28T09:39:19.000Z",
-      "createdAt": "2024-10-28T09:39:20.367Z",
-      "updatedAt": "2024-10-28T09:39:20.367Z"
+      "coordinates": "{\"-6.2262369\",\"53.2629604\"}",
+      "batteryLevel": 85,
+      "timestamp": "2024-10-28T09:44:25.000Z",
+      "createdAt": "2024-10-28T09:44:26.144Z",
+      "updatedAt": "2024-10-28T09:44:26.144Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 755,
-      "title": "Tumse Kehna Hai Dil Mein Rehna Hai Mujhko Teri Kasam",
-      "artist": "Shivam",
-      "album": "Tumse Kehna Hai Dil Mein Rehna Hai Mujhko Teri Kasam",
+      "id": 757,
+      "title": "Gir Jaane De",
+      "artist": "Prabhanjan",
+      "album": "Gir Jaane De",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-10-28T09:39:51.000Z",
+      "listenDate": "2024-10-28T09:44:42.000Z",
       "trackNumber": null,
-      "createdAt": "2024-10-28T09:39:53.220Z",
-      "updatedAt": "2024-10-28T09:39:53.220Z"
+      "createdAt": "2024-10-28T09:44:44.620Z",
+      "updatedAt": "2024-10-28T09:44:44.620Z"
     }
   ],
   "github": {
