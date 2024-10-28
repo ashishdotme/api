@@ -195,6 +195,21 @@
     "updatedAt": "2024-10-19T11:11:57.274Z"
   },
   {
+    "id": 153,
+    "title": "Kathal: A Jackfruit Mystery",
+    "description": "A local politician whose prized jackfruits go missing and a young police officer who is adamant to solve this bizarre case to prove herself.",
+    "review": null,
+    "language": "Hindi",
+    "year": 2023,
+    "genre": "Comedy, Crime, Drama, Mystery",
+    "viewingDate": "2023-11-28T00:00:00.000Z",
+    "loved": true,
+    "imdbRating": "6.7",
+    "imdbId": "tt18413766",
+    "createdAt": "2024-10-28T23:52:53.364Z",
+    "updatedAt": "2024-10-28T23:52:53.364Z"
+  },
+  {
     "id": 118,
     "title": "Meet the Parents",
     "description": "Male nurse Greg Focker meets his girlfriend's parents before proposing, but her suspicious father is every date's worst nightmare.",
