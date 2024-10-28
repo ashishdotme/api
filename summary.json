@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 749,
+      "id": 753,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262367\",\"53.26296\"}",
+      "coordinates": "{\"-6.2167634\",\"53.2632832\"}",
       "batteryLevel": 100,
-      "timestamp": "2024-10-28T12:28:24.000Z",
-      "createdAt": "2024-10-28T12:28:24.990Z",
-      "updatedAt": "2024-10-28T12:28:24.990Z"
+      "timestamp": "2024-10-28T12:49:51.000Z",
+      "createdAt": "2024-10-28T12:49:51.655Z",
+      "updatedAt": "2024-10-28T12:49:51.655Z"
     }
   ],
   "steps": [
@@ -262,15 +262,15 @@
     }
   ],
   "github": {
-    "lastCommit": "2024-10-27T20:48:16Z",
+    "lastCommit": "2024-10-28T12:30:02Z",
     "recentRepos": [
+      {
+        "name": "notes",
+        "pushedAt": "2024-10-28T12:31:02Z"
+      },
       {
         "name": "dotfiles",
         "pushedAt": "2024-10-27T20:48:21Z"
-      },
-      {
-        "name": "notes",
-        "pushedAt": "2024-10-27T19:45:22Z"
       },
       {
         "name": "jobsapi.ashish.me",
