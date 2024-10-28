@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 840,
+      "id": 842,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262383\",\"53.2628956\"}",
-      "batteryLevel": 60,
-      "timestamp": "2024-10-28T20:15:45.000Z",
-      "createdAt": "2024-10-28T20:15:45.961Z",
-      "updatedAt": "2024-10-28T20:15:45.961Z"
+      "coordinates": "{\"-6.2262175\",\"53.2629539\"}",
+      "batteryLevel": 55,
+      "timestamp": "2024-10-28T20:26:03.000Z",
+      "createdAt": "2024-10-28T20:26:04.079Z",
+      "updatedAt": "2024-10-28T20:26:04.079Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -156,30 +156,6 @@
       "dueDate": "2024-10-24T21:19:52.967Z",
       "createdAt": "2024-10-24T21:19:53.001Z",
       "updatedAt": "2024-10-24T21:19:53.001Z"
-    },
-    {
-      "id": 550,
-      "content": "Update wiki home page",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "671d4b68eba7b80000000591",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2024-10-26T20:07:42.666Z",
-      "createdAt": "2024-10-26T20:07:42.669Z",
-      "updatedAt": "2024-10-26T20:07:42.669Z"
-    },
-    {
-      "id": 551,
-      "content": "Create wiki on workout plan",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "671f8029eba7b80000000909",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2024-10-28T12:15:28.625Z",
-      "createdAt": "2024-10-28T12:15:28.633Z",
-      "updatedAt": "2024-10-28T12:15:28.633Z"
     }
   ],
   "updates": [
@@ -262,11 +238,11 @@
     }
   ],
   "github": {
-    "lastCommit": "2024-10-28T12:30:02Z",
+    "lastCommit": "2024-10-28T20:16:10Z",
     "recentRepos": [
       {
         "name": "notes",
-        "pushedAt": "2024-10-28T12:31:02Z"
+        "pushedAt": "2024-10-28T20:16:45Z"
       },
       {
         "name": "dotfiles",
