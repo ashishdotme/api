@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -105,19 +105,19 @@
   ],
   "movies": [
     {
-      "id": 150,
-      "title": "The Game",
-      "description": "After a wealthy San Francisco banker is given an opportunity to participate in a mysterious game, his life is turned upside down as he begins to question if it might really be a concealed conspiracy to destroy him.",
+      "id": 151,
+      "title": "The Gift",
+      "description": "A married couple, Simon and Robyn, run into Gordo, an old classmate. Things take a turn when Gordo begins to drop in unannounced at their house and inundates them with mysterious gifts.",
       "review": null,
       "language": "English",
-      "year": 1997,
+      "year": 2015,
       "genre": "Drama, Mystery, Thriller",
-      "viewingDate": "2024-10-19T23:00:00.000Z",
+      "viewingDate": "2024-10-26T23:00:00.000Z",
       "loved": true,
-      "imdbRating": "7.7",
-      "imdbId": "tt0119174",
-      "createdAt": "2024-10-21T22:24:25.330Z",
-      "updatedAt": "2024-10-21T22:24:25.330Z"
+      "imdbRating": "7.0",
+      "imdbId": "tt4178092",
+      "createdAt": "2024-10-28T23:22:47.455Z",
+      "updatedAt": "2024-10-28T23:22:47.455Z"
     }
   ],
   "tasks": [
@@ -156,6 +156,18 @@
       "dueDate": "2024-10-24T21:19:52.967Z",
       "createdAt": "2024-10-24T21:19:53.001Z",
       "updatedAt": "2024-10-24T21:19:53.001Z"
+    },
+    {
+      "id": 552,
+      "content": "Add rss feed in the website",
+      "category": "Now",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "67201d81eba7b8000000099d",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2024-10-28T23:26:41.345Z",
+      "createdAt": "2024-10-28T23:26:41.347Z",
+      "updatedAt": "2024-10-28T23:26:41.347Z"
     }
   ],
   "updates": [
