@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 851,
+      "id": 853,
       "batteryState": "charging",
-      "coordinates": "{\"-6.2261958\",\"53.2630222\"}",
-      "batteryLevel": 55,
-      "timestamp": "2024-10-28T21:12:45.000Z",
-      "createdAt": "2024-10-28T21:12:45.973Z",
-      "updatedAt": "2024-10-28T21:12:45.973Z"
+      "coordinates": "{\"-6.2261961\",\"53.2630221\"}",
+      "batteryLevel": 70,
+      "timestamp": "2024-10-28T21:23:00.000Z",
+      "createdAt": "2024-10-28T21:23:01.385Z",
+      "updatedAt": "2024-10-28T21:23:01.385Z"
     }
   ],
   "steps": [
@@ -242,7 +242,7 @@
     "recentRepos": [
       {
         "name": "notes",
-        "pushedAt": "2024-10-28T21:09:01Z"
+        "pushedAt": "2024-10-28T21:09:34Z"
       },
       {
         "name": "dotfiles",
