@@ -12,24 +12,24 @@
   ],
   "steps": [
     {
-      "id": 8181,
-      "stepCount": 5476,
-      "date": "10/27/24",
-      "fullDate": "2024-10-27T00:00:00.000Z",
-      "createdAt": "2024-10-28T00:31:13.721Z",
-      "updatedAt": "2024-10-28T00:31:13.721Z"
+      "id": 8194,
+      "stepCount": 8368,
+      "date": "10/28/24",
+      "fullDate": "2024-10-28T00:00:00.000Z",
+      "createdAt": "2024-10-29T09:08:35.667Z",
+      "updatedAt": "2024-10-29T09:08:35.667Z"
     }
   ],
   "sleep": [
     {
-      "id": 17,
+      "id": 37,
       "sleep": "7.4",
-      "date": "10/26/24",
-      "fullDate": "2024-10-26T00:00:00.000Z",
-      "sleepStart": "2024-10-26T00:09:00.000Z",
-      "sleepEnd": "2024-10-26T07:29:59.000Z",
-      "createdAt": "2024-10-27T09:36:20.290Z",
-      "updatedAt": "2024-10-27T09:36:20.290Z"
+      "date": "10/28/24",
+      "fullDate": "2024-10-28T00:00:00.000Z",
+      "sleepStart": "2024-10-28T01:41:00.000Z",
+      "sleepEnd": "2024-10-28T09:01:59.000Z",
+      "createdAt": "2024-10-29T09:08:35.765Z",
+      "updatedAt": "2024-10-29T09:08:35.765Z"
     }
   ],
   "word": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
