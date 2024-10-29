@@ -1,6 +1,10 @@
 {
-  "lastCommit": "2024-10-29T17:02:01Z",
+  "lastCommit": "2024-10-29T19:06:28Z",
   "recentRepos": [
+    {
+      "name": "notes",
+      "pushedAt": "2024-10-29T19:07:18Z"
+    },
     {
       "name": "blog",
       "pushedAt": "2024-10-29T16:17:18Z"
@@ -8,10 +12,6 @@
     {
       "name": "shows.ashish.me",
       "pushedAt": "2024-10-29T00:22:34Z"
-    },
-    {
-      "name": "notes",
-      "pushedAt": "2024-10-28T21:31:57Z"
     },
     {
       "name": "dotfiles",
