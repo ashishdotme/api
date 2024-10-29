@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 968,
+      "id": 969,
       "batteryState": "charging",
-      "coordinates": "{\"-6.2261475\",\"53.2629035\"}",
-      "batteryLevel": 65,
-      "timestamp": "2024-10-29T19:16:56.000Z",
-      "createdAt": "2024-10-29T19:16:57.418Z",
-      "updatedAt": "2024-10-29T19:16:57.418Z"
+      "coordinates": "{\"-6.2261551\",\"53.2629078\"}",
+      "batteryLevel": 70,
+      "timestamp": "2024-10-29T19:21:57.000Z",
+      "createdAt": "2024-10-29T19:21:58.757Z",
+      "updatedAt": "2024-10-29T19:21:58.757Z"
     }
   ],
   "steps": [
@@ -262,7 +262,7 @@
     }
   ],
   "github": {
-    "lastCommit": "2024-10-29T19:06:28Z",
+    "lastCommit": "2024-10-29T19:10:01Z",
     "recentRepos": [
       {
         "name": "notes",
