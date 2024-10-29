@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 944,
+      "id": 945,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.138891\",\"53.2449162\"}",
+      "coordinates": "{\"-6.1389341\",\"53.2449002\"}",
       "batteryLevel": 50,
-      "timestamp": "2024-10-29T16:58:10.000Z",
-      "createdAt": "2024-10-29T16:58:11.213Z",
-      "updatedAt": "2024-10-29T16:58:11.213Z"
+      "timestamp": "2024-10-29T17:03:11.000Z",
+      "createdAt": "2024-10-29T17:03:11.953Z",
+      "updatedAt": "2024-10-29T17:03:11.953Z"
     }
   ],
   "steps": [
@@ -249,20 +249,20 @@
   ],
   "listens": [
     {
-      "id": 757,
-      "title": "Gir Jaane De",
-      "artist": "Prabhanjan",
-      "album": "Gir Jaane De",
+      "id": 758,
+      "title": "Is Pal",
+      "artist": "Salim–Sulaiman",
+      "album": "Aaja Nachle",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-10-28T09:44:42.000Z",
+      "listenDate": "2024-10-29T17:03:21.000Z",
       "trackNumber": null,
-      "createdAt": "2024-10-28T09:44:44.620Z",
-      "updatedAt": "2024-10-28T09:44:44.620Z"
+      "createdAt": "2024-10-29T17:03:24.026Z",
+      "updatedAt": "2024-10-29T17:03:24.026Z"
     }
   ],
   "github": {
-    "lastCommit": "2024-10-29T16:16:37Z",
+    "lastCommit": "2024-10-29T17:02:01Z",
     "recentRepos": [
       {
         "name": "blog",
