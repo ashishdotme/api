@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 1254,
+      "id": 1255,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262208\",\"53.262943\"}",
+      "coordinates": "{\"-6.2261621\",\"53.2628559\"}",
       "batteryLevel": 60,
-      "timestamp": "2024-10-30T20:24:54.000Z",
-      "createdAt": "2024-10-30T20:24:58.424Z",
-      "updatedAt": "2024-10-30T20:24:58.424Z"
+      "timestamp": "2024-10-30T20:29:59.000Z",
+      "createdAt": "2024-10-30T20:30:00.512Z",
+      "updatedAt": "2024-10-30T20:30:00.512Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
