@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 1325,
+      "id": 1330,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262996\",\"53.2628486\"}",
+      "coordinates": "{\"-6.2263051\",\"53.2628519\"}",
       "batteryLevel": 80,
-      "timestamp": "2024-10-31T02:30:10.000Z",
-      "createdAt": "2024-10-31T02:30:11.455Z",
-      "updatedAt": "2024-10-31T02:30:11.455Z"
+      "timestamp": "2024-10-31T02:56:06.000Z",
+      "createdAt": "2024-10-31T02:56:07.280Z",
+      "updatedAt": "2024-10-31T02:56:07.280Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -253,6 +253,14 @@
     "lastCommit": "2024-10-31T00:38:01Z",
     "recentRepos": [
       {
+        "name": "movies.ashish.me",
+        "pushedAt": "2024-10-31T02:32:41Z"
+      },
+      {
+        "name": "books.ashish.me",
+        "pushedAt": "2024-10-31T02:28:39Z"
+      },
+      {
         "name": "notes",
         "pushedAt": "2024-10-30T11:07:30Z"
       },
@@ -271,14 +279,6 @@
       {
         "name": "jobsapi.ashish.me",
         "pushedAt": "2024-10-26T19:07:37Z"
-      },
-      {
-        "name": "books.ashish.me",
-        "pushedAt": "2024-10-19T22:59:38Z"
-      },
-      {
-        "name": "movies.ashish.me",
-        "pushedAt": "2024-10-19T22:58:18Z"
       },
       {
         "name": "dashy",
