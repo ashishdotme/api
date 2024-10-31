@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 1301,
+      "id": 1306,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262604\",\"53.2628289\"}",
-      "batteryLevel": 40,
-      "timestamp": "2024-10-31T00:26:04.000Z",
-      "createdAt": "2024-10-31T00:26:05.554Z",
-      "updatedAt": "2024-10-31T00:26:05.554Z"
+      "coordinates": "{\"-6.2262039\",\"53.2627637\"}",
+      "batteryLevel": 35,
+      "timestamp": "2024-10-31T00:51:29.000Z",
+      "createdAt": "2024-10-31T00:51:29.707Z",
+      "updatedAt": "2024-10-31T00:51:29.707Z"
     }
   ],
   "steps": [
@@ -144,18 +144,6 @@
       "dueDate": "2024-10-24T21:19:52.967Z",
       "createdAt": "2024-10-24T21:19:53.001Z",
       "updatedAt": "2024-10-24T21:19:53.001Z"
-    },
-    {
-      "id": 556,
-      "content": "Improve login and logout page",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "6721f8abeba7b80000000040",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2024-10-30T09:14:19.734Z",
-      "createdAt": "2024-10-30T09:14:19.735Z",
-      "updatedAt": "2024-10-30T09:14:19.735Z"
     },
     {
       "id": 553,
