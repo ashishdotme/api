@@ -1,23 +1,23 @@
 {
   "locations": [
     {
-      "id": 1976,
-      "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262204\",\"53.2629376\"}",
-      "batteryLevel": 55,
-      "timestamp": "2024-11-03T00:56:18.000Z",
-      "createdAt": "2024-11-03T00:56:18.667Z",
-      "updatedAt": "2024-11-03T00:56:18.667Z"
+      "id": 1983,
+      "batteryState": "charging",
+      "coordinates": "{\"-6.2262137\",\"53.2628408\"}",
+      "batteryLevel": 70,
+      "timestamp": "2024-11-03T01:31:42.000Z",
+      "createdAt": "2024-11-03T01:31:43.516Z",
+      "updatedAt": "2024-11-03T01:31:43.516Z"
     }
   ],
   "steps": [
     {
-      "id": 8233,
-      "stepCount": 195,
-      "date": "11/1/24",
-      "fullDate": "2024-11-01T00:00:00.000Z",
-      "createdAt": "2024-11-01T12:13:22.065Z",
-      "updatedAt": "2024-11-01T12:13:22.065Z"
+      "id": 8256,
+      "stepCount": 13037,
+      "date": "11/2/24",
+      "fullDate": "2024-11-02T00:00:00.000Z",
+      "createdAt": "2024-11-03T01:16:33.978Z",
+      "updatedAt": "2024-11-03T01:16:33.978Z"
     }
   ],
   "sleep": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
