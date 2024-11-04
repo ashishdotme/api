@@ -1,23 +1,23 @@
 {
   "locations": [
     {
-      "id": 2244,
+      "id": 2248,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262576\",\"53.2629354\"}",
-      "batteryLevel": 30,
-      "timestamp": "2024-11-03T23:51:21.000Z",
-      "createdAt": "2024-11-03T23:51:22.729Z",
-      "updatedAt": "2024-11-03T23:51:22.729Z"
+      "coordinates": "{\"-6.2262631\",\"53.2627987\"}",
+      "batteryLevel": 25,
+      "timestamp": "2024-11-04T00:11:49.000Z",
+      "createdAt": "2024-11-04T00:11:49.810Z",
+      "updatedAt": "2024-11-04T00:11:49.810Z"
     }
   ],
   "steps": [
     {
-      "id": 8256,
-      "stepCount": 13037,
-      "date": "11/2/24",
-      "fullDate": "2024-11-02T00:00:00.000Z",
-      "createdAt": "2024-11-03T01:16:33.978Z",
-      "updatedAt": "2024-11-03T01:16:33.978Z"
+      "id": 8275,
+      "stepCount": 4683,
+      "date": "11/3/24",
+      "fullDate": "2024-11-03T00:00:00.000Z",
+      "createdAt": "2024-11-04T00:01:49.664Z",
+      "updatedAt": "2024-11-04T00:01:49.664Z"
     }
   ],
   "sleep": [
