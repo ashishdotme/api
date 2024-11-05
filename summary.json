@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2293,
+      "id": 2294,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262965\",\"53.2629236\"}",
+      "coordinates": "{\"-6.2263\",\"53.2629127\"}",
       "batteryLevel": 100,
-      "timestamp": "2024-11-05T22:54:39.000Z",
-      "createdAt": "2024-11-05T22:54:40.254Z",
-      "updatedAt": "2024-11-05T22:54:40.254Z"
+      "timestamp": "2024-11-05T23:09:41.000Z",
+      "createdAt": "2024-11-05T23:09:42.674Z",
+      "updatedAt": "2024-11-05T23:09:42.674Z"
     }
   ],
   "steps": [
@@ -250,11 +250,11 @@
     }
   ],
   "github": {
-    "lastCommit": "2024-11-05T22:40:00Z",
+    "lastCommit": "2024-11-05T23:01:24Z",
     "recentRepos": [
       {
         "name": "jobsapi.ashish.me",
-        "pushedAt": "2024-11-05T22:42:14Z"
+        "pushedAt": "2024-11-05T23:01:41Z"
       },
       {
         "name": "movies.ashish.me",
