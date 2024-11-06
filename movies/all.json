@@ -1515,6 +1515,21 @@
     "updatedAt": "2021-12-12T05:45:19.393Z"
   },
   {
+    "id": 155,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "description": "Harry Potter lives his second year at Hogwarts with Ron and Hermione when a message on the wall announces that the legendary Chamber of Secrets has been opened. The trio soon realize that, to save the school, it will take a lot of courage.",
+    "review": null,
+    "language": "English",
+    "year": 2002,
+    "genre": "Adventure, Family, Fantasy, Mystery",
+    "viewingDate": "2008-03-12T00:00:00.000Z",
+    "loved": true,
+    "imdbRating": "7.4",
+    "imdbId": "tt0295297",
+    "createdAt": "2024-11-06T23:27:52.562Z",
+    "updatedAt": "2024-11-06T23:27:52.562Z"
+  },
+  {
     "id": 96,
     "title": "Gandhi",
     "description": "Gandhi's character is fully explained as a man of nonviolence. Through his patience, he is able to drive the British out of the subcontinent. And the stubborn nature of Jinnah and his commitment towards Pakistan is portrayed.",
