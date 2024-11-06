@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2416,
+      "id": 2418,
       "batteryState": "charging",
-      "coordinates": "{\"-6.2262492\",\"53.2629149\"}",
-      "batteryLevel": 60,
-      "timestamp": "2024-11-06T13:05:08.000Z",
-      "createdAt": "2024-11-06T13:05:09.014Z",
-      "updatedAt": "2024-11-06T13:05:09.014Z"
+      "coordinates": "{\"-6.2262786\",\"53.2628834\"}",
+      "batteryLevel": 70,
+      "timestamp": "2024-11-06T13:15:22.000Z",
+      "createdAt": "2024-11-06T13:15:22.580Z",
+      "updatedAt": "2024-11-06T13:15:22.580Z"
     }
   ],
   "steps": [
@@ -22,14 +22,14 @@
   ],
   "sleep": [
     {
-      "id": 99,
-      "sleep": "7",
+      "id": 129,
+      "sleep": "7.3",
       "date": "11/5/24",
       "fullDate": "2024-11-05T00:00:00.000Z",
       "sleepStart": "2024-11-05T02:07:00.000Z",
       "sleepEnd": "2024-11-05T08:35:59.000Z",
-      "createdAt": "2024-11-06T13:02:54.604Z",
-      "updatedAt": "2024-11-06T13:02:54.604Z"
+      "createdAt": "2024-11-06T13:07:08.846Z",
+      "updatedAt": "2024-11-06T13:07:08.846Z"
     }
   ],
   "word": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 759,
-      "title": "Iktara",
-      "artist": "Amit Trivedi",
-      "album": "Wake Up Sid (Original Motion Picture Soundtrack) [Deluxe Edition]",
+      "id": 808,
+      "title": "Maahi Ve",
+      "artist": "A.R. Rahman",
+      "album": "Highway",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-10-29T17:07:46.000Z",
+      "listenDate": "2024-10-29T17:18:48.000Z",
       "trackNumber": null,
-      "createdAt": "2024-10-29T17:07:48.754Z",
-      "updatedAt": "2024-10-29T17:07:48.754Z"
+      "createdAt": "2024-11-06T13:19:05.044Z",
+      "updatedAt": "2024-11-06T13:19:05.044Z"
     }
   ],
   "github": {
