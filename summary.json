@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2529,
+      "id": 2530,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2263165\",\"53.2628893\"}",
+      "coordinates": "{\"-6.2263154\",\"53.2628896\"}",
       "batteryLevel": 90,
-      "timestamp": "2024-11-06T23:31:33.000Z",
-      "createdAt": "2024-11-06T23:31:33.801Z",
-      "updatedAt": "2024-11-06T23:31:33.801Z"
+      "timestamp": "2024-11-06T23:37:41.000Z",
+      "createdAt": "2024-11-06T23:37:41.740Z",
+      "updatedAt": "2024-11-06T23:37:41.740Z"
     }
   ],
   "steps": [
@@ -249,16 +249,16 @@
   ],
   "listens": [
     {
-      "id": 825,
-      "title": "Long Distance",
-      "artist": "The Districts",
-      "album": "Telephone",
+      "id": 826,
+      "title": "Be Good (Lion's Song)",
+      "artist": "Gregory Porter",
+      "album": "Be Good",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-11-06T23:32:11.000Z",
+      "listenDate": "2024-11-06T23:38:38.000Z",
       "trackNumber": null,
-      "createdAt": "2024-11-06T23:32:12.950Z",
-      "updatedAt": "2024-11-06T23:32:12.950Z"
+      "createdAt": "2024-11-06T23:38:39.534Z",
+      "updatedAt": "2024-11-06T23:38:39.534Z"
     }
   ],
   "github": {
