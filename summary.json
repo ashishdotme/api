@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2526,
+      "id": 2527,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.226281\",\"53.2628539\"}",
-      "batteryLevel": 95,
-      "timestamp": "2024-11-06T23:08:58.000Z",
-      "createdAt": "2024-11-06T23:08:59.191Z",
-      "updatedAt": "2024-11-06T23:08:59.191Z"
+      "coordinates": "{\"-6.2262963\",\"53.262859\"}",
+      "batteryLevel": 90,
+      "timestamp": "2024-11-06T23:14:06.000Z",
+      "createdAt": "2024-11-06T23:14:06.632Z",
+      "updatedAt": "2024-11-06T23:14:06.632Z"
     }
   ],
   "steps": [
@@ -249,16 +249,16 @@
   ],
   "listens": [
     {
-      "id": 820,
-      "title": "Les matins",
-      "artist": "Angèle",
-      "album": "Brol",
+      "id": 822,
+      "title": "Can't Get You out of My Head",
+      "artist": "Kylie Minogue",
+      "album": "Fever",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-11-06T23:09:31.000Z",
+      "listenDate": "2024-11-06T23:17:21.000Z",
       "trackNumber": null,
-      "createdAt": "2024-11-06T23:09:33.610Z",
-      "updatedAt": "2024-11-06T23:09:33.610Z"
+      "createdAt": "2024-11-06T23:17:23.007Z",
+      "updatedAt": "2024-11-06T23:17:23.007Z"
     }
   ],
   "github": {
