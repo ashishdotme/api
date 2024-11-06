@@ -195,6 +195,21 @@
     "updatedAt": "2024-08-26T00:16:03.643Z"
   },
   {
+    "id": 159,
+    "title": "Oppenheimer",
+    "description": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II.",
+    "review": null,
+    "language": "English",
+    "year": 2023,
+    "genre": "Biography, Drama, History",
+    "viewingDate": "2024-03-11T04:36:17.301Z",
+    "loved": true,
+    "imdbRating": "8.3",
+    "imdbId": "tt15398776",
+    "createdAt": "2024-11-06T23:54:03.121Z",
+    "updatedAt": "2024-11-06T23:54:03.121Z"
+  },
+  {
     "id": 146,
     "title": "Animal",
     "description": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
