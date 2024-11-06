@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2519,
+      "id": 2520,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262587\",\"53.2628288\"}",
+      "coordinates": "{\"-6.2262553\",\"53.2628262\"}",
       "batteryLevel": 100,
-      "timestamp": "2024-11-06T22:26:24.000Z",
-      "createdAt": "2024-11-06T22:26:24.926Z",
-      "updatedAt": "2024-11-06T22:26:24.926Z"
+      "timestamp": "2024-11-06T22:33:32.000Z",
+      "createdAt": "2024-11-06T22:33:33.707Z",
+      "updatedAt": "2024-11-06T22:33:33.707Z"
     }
   ],
   "steps": [
@@ -249,16 +249,16 @@
   ],
   "listens": [
     {
-      "id": 808,
-      "title": "Maahi Ve",
-      "artist": "A.R. Rahman",
-      "album": "Highway",
+      "id": 810,
+      "title": "RNP (feat. Anderson .Paak)",
+      "artist": "Cordae",
+      "album": "The Lost Boy",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-10-29T17:18:48.000Z",
+      "listenDate": "2024-11-06T22:32:38.000Z",
       "trackNumber": null,
-      "createdAt": "2024-11-06T13:19:05.044Z",
-      "updatedAt": "2024-11-06T13:19:05.044Z"
+      "createdAt": "2024-11-06T22:32:39.040Z",
+      "updatedAt": "2024-11-06T22:32:39.040Z"
     }
   ],
   "github": {
