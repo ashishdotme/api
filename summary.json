@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2456,
+      "id": 2458,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2263461\",\"53.2629603\"}",
-      "batteryLevel": 65,
-      "timestamp": "2024-11-06T16:42:53.000Z",
-      "createdAt": "2024-11-06T16:42:53.669Z",
-      "updatedAt": "2024-11-06T16:42:53.669Z"
+      "coordinates": "{\"-6.2262497\",\"53.2628335\"}",
+      "batteryLevel": 60,
+      "timestamp": "2024-11-06T16:53:14.000Z",
+      "createdAt": "2024-11-06T16:53:15.175Z",
+      "updatedAt": "2024-11-06T16:53:15.175Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -168,6 +168,18 @@
       "dueDate": "2024-10-28T23:59:41.793Z",
       "createdAt": "2024-10-28T23:59:41.795Z",
       "updatedAt": "2024-10-28T23:59:41.795Z"
+    },
+    {
+      "id": 557,
+      "content": "Add date range picker in movies page",
+      "category": "Now",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "672b9ecd8f08191c6ac161a8",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2024-11-06T16:52:28.932Z",
+      "createdAt": "2024-11-06T16:52:29.687Z",
+      "updatedAt": "2024-11-06T16:52:29.687Z"
     }
   ],
   "updates": [
