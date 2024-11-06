@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2531,
+      "id": 2532,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2263189\",\"53.2628699\"}",
+      "coordinates": "{\"-6.2262979\",\"53.2628532\"}",
       "batteryLevel": 85,
-      "timestamp": "2024-11-06T23:46:09.000Z",
-      "createdAt": "2024-11-06T23:46:10.049Z",
-      "updatedAt": "2024-11-06T23:46:10.049Z"
+      "timestamp": "2024-11-06T23:52:41.000Z",
+      "createdAt": "2024-11-06T23:52:41.832Z",
+      "updatedAt": "2024-11-06T23:52:41.832Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -249,16 +249,16 @@
   ],
   "listens": [
     {
-      "id": 828,
-      "title": "I'm Still Standing",
-      "artist": "Pomplamoose",
-      "album": "I'm Still Standing",
+      "id": 830,
+      "title": "Somedays",
+      "artist": "Andy Frasco & The U.N.",
+      "album": "Change of Pace",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-11-06T23:44:51.000Z",
+      "listenDate": "2024-11-06T23:51:57.000Z",
       "trackNumber": null,
-      "createdAt": "2024-11-06T23:44:52.903Z",
-      "updatedAt": "2024-11-06T23:44:52.903Z"
+      "createdAt": "2024-11-06T23:51:58.257Z",
+      "updatedAt": "2024-11-06T23:51:58.257Z"
     }
   ],
   "github": {
