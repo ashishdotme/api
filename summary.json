@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2528,
+      "id": 2529,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2263007\",\"53.2628628\"}",
+      "coordinates": "{\"-6.2263165\",\"53.2628893\"}",
       "batteryLevel": 90,
-      "timestamp": "2024-11-06T23:23:44.000Z",
-      "createdAt": "2024-11-06T23:23:45.194Z",
-      "updatedAt": "2024-11-06T23:23:45.194Z"
+      "timestamp": "2024-11-06T23:31:33.000Z",
+      "createdAt": "2024-11-06T23:31:33.801Z",
+      "updatedAt": "2024-11-06T23:31:33.801Z"
     }
   ],
   "steps": [
@@ -249,16 +249,16 @@
   ],
   "listens": [
     {
-      "id": 824,
-      "title": "Crazy",
-      "artist": "Scary Pockets",
-      "album": "Funk Box",
+      "id": 825,
+      "title": "Long Distance",
+      "artist": "The Districts",
+      "album": "Telephone",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-11-06T23:25:35.000Z",
+      "listenDate": "2024-11-06T23:32:11.000Z",
       "trackNumber": null,
-      "createdAt": "2024-11-06T23:25:36.132Z",
-      "updatedAt": "2024-11-06T23:25:36.132Z"
+      "createdAt": "2024-11-06T23:32:12.950Z",
+      "updatedAt": "2024-11-06T23:32:12.950Z"
     }
   ],
   "github": {

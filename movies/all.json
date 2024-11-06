@@ -210,6 +210,21 @@
     "updatedAt": "2024-10-28T23:52:53.364Z"
   },
   {
+    "id": 156,
+    "title": "Bhool Bhulaiyaa 2",
+    "description": "When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit that has been trapped for 18 years.",
+    "review": null,
+    "language": "Hindi",
+    "year": 2022,
+    "genre": "Comedy, Horror",
+    "viewingDate": "2022-06-07T23:00:00.000Z",
+    "loved": true,
+    "imdbRating": "5.7",
+    "imdbId": "tt6455162",
+    "createdAt": "2024-11-06T23:33:09.217Z",
+    "updatedAt": "2024-11-06T23:33:09.217Z"
+  },
+  {
     "id": 118,
     "title": "Meet the Parents",
     "description": "Male nurse Greg Focker meets his girlfriend's parents before proposing, but her suspicious father is every date's worst nightmare.",
