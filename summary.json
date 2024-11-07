@@ -120,20 +120,7 @@
       "updatedAt": "2024-10-28T23:22:47.455Z"
     }
   ],
-  "tasks": [
-    {
-      "id": 532,
-      "content": "Fix time zone in health data",
-      "category": "Now",
-      "projectId": null,
-      "todoId": null,
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2024-10-24T21:19:52.967Z",
-      "createdAt": "2024-10-24T21:19:53.001Z",
-      "updatedAt": "2024-10-24T21:19:53.001Z"
-    }
-  ],
+  "tasks": [],
   "updates": [
     {
       "id": 11,
