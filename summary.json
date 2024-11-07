@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -132,18 +132,6 @@
       "dueDate": "2024-10-24T21:19:52.967Z",
       "createdAt": "2024-10-24T21:19:53.001Z",
       "updatedAt": "2024-10-24T21:19:53.001Z"
-    },
-    {
-      "id": 559,
-      "content": "Add date range picker in todos",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "672c0332eba7b80000000415",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2024-11-07T00:01:34.940Z",
-      "createdAt": "2024-11-07T00:01:34.942Z",
-      "updatedAt": "2024-11-07T00:01:34.942Z"
     }
   ],
   "updates": [
