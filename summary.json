@@ -120,7 +120,20 @@
       "updatedAt": "2024-10-28T23:22:47.455Z"
     }
   ],
-  "tasks": [],
+  "tasks": [
+    {
+      "id": 560,
+      "content": "Update github profile",
+      "category": "Now",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "672d3db3eba7b8000000053d",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2024-11-07T22:23:01.624Z",
+      "createdAt": "2024-11-07T22:23:01.626Z",
+      "updatedAt": "2024-11-07T22:23:01.626Z"
+    }
+  ],
   "updates": [
     {
       "id": 11,
