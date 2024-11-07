@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2532,
+      "id": 2537,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262979\",\"53.2628532\"}",
-      "batteryLevel": 85,
-      "timestamp": "2024-11-06T23:52:41.000Z",
-      "createdAt": "2024-11-06T23:52:41.832Z",
-      "updatedAt": "2024-11-06T23:52:41.832Z"
+      "coordinates": "{\"-6.2262823\",\"53.2628562\"}",
+      "batteryLevel": 80,
+      "timestamp": "2024-11-07T00:23:36.000Z",
+      "createdAt": "2024-11-07T00:23:37.138Z",
+      "updatedAt": "2024-11-07T00:23:37.138Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -146,40 +146,16 @@
       "updatedAt": "2024-10-24T21:19:53.001Z"
     },
     {
-      "id": 553,
-      "content": "Improve movie create page",
+      "id": 559,
+      "content": "Add date range picker in todos",
       "category": "Now",
       "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "6720235deba7b800000009ea",
+      "todoId": "672c0332eba7b80000000415",
       "completed": false,
       "completedDate": null,
-      "dueDate": "2024-10-28T23:51:41.566Z",
-      "createdAt": "2024-10-28T23:51:41.569Z",
-      "updatedAt": "2024-10-28T23:51:41.569Z"
-    },
-    {
-      "id": 554,
-      "content": "Add login in create movie page",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "6720255feba7b800000009fc",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2024-10-28T23:59:41.793Z",
-      "createdAt": "2024-10-28T23:59:41.795Z",
-      "updatedAt": "2024-10-28T23:59:41.795Z"
-    },
-    {
-      "id": 558,
-      "content": "Add autocomplete in movie create page",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "672be9fceba7b800000003af",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2024-11-06T22:13:32.832Z",
-      "createdAt": "2024-11-06T22:13:32.834Z",
-      "updatedAt": "2024-11-06T22:13:32.834Z"
+      "dueDate": "2024-11-07T00:01:34.940Z",
+      "createdAt": "2024-11-07T00:01:34.942Z",
+      "updatedAt": "2024-11-07T00:01:34.942Z"
     }
   ],
   "updates": [
@@ -249,16 +225,16 @@
   ],
   "listens": [
     {
-      "id": 831,
-      "title": "Losing My Religion",
-      "artist": "R.E.M.",
-      "album": "Out Of Time (25th Anniversary Edition)",
+      "id": 834,
+      "title": "Sh'Diah",
+      "artist": "Bon Iver",
+      "album": "i,i",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-11-06T23:56:26.000Z",
+      "listenDate": "2024-11-07T00:07:39.000Z",
       "trackNumber": null,
-      "createdAt": "2024-11-06T23:56:27.080Z",
-      "updatedAt": "2024-11-06T23:56:27.080Z"
+      "createdAt": "2024-11-07T00:07:40.924Z",
+      "updatedAt": "2024-11-07T00:07:40.924Z"
     }
   ],
   "github": {
