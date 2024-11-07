@@ -122,18 +122,6 @@
   ],
   "tasks": [
     {
-      "id": 531,
-      "content": "Fix newsletter",
-      "category": "Now",
-      "projectId": null,
-      "todoId": null,
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2024-10-20T15:53:17.984Z",
-      "createdAt": "2024-10-20T15:53:17.985Z",
-      "updatedAt": "2024-10-20T15:53:17.985Z"
-    },
-    {
       "id": 532,
       "content": "Fix time zone in health data",
       "category": "Now",
