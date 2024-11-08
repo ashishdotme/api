@@ -225,16 +225,16 @@
   ],
   "listens": [
     {
-      "id": 896,
-      "title": "Evergreen",
-      "artist": "Richy Mitch & The Coal Miners",
-      "album": "RMCM",
+      "id": 897,
+      "title": "Clay Pigeons",
+      "artist": "Michael Cera",
+      "album": "True That",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-11-08T15:48:26.000Z",
+      "listenDate": "2024-11-08T15:51:32.000Z",
       "trackNumber": null,
-      "createdAt": "2024-11-08T15:48:28.408Z",
-      "updatedAt": "2024-11-08T15:48:28.408Z"
+      "createdAt": "2024-11-08T15:51:35.265Z",
+      "updatedAt": "2024-11-08T15:51:35.265Z"
     }
   ],
   "github": {
