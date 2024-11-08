@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -225,16 +225,16 @@
   ],
   "listens": [
     {
-      "id": 885,
-      "title": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
-      "artist": "Kali Uchis",
-      "album": "Isolation",
+      "id": 888,
+      "title": "Dior",
+      "artist": "Shubh",
+      "album": "Still Rollin",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-11-08T15:17:33.000Z",
+      "listenDate": "2024-11-08T15:26:09.000Z",
       "trackNumber": null,
-      "createdAt": "2024-11-08T15:17:35.322Z",
-      "updatedAt": "2024-11-08T15:17:35.322Z"
+      "createdAt": "2024-11-08T15:26:11.137Z",
+      "updatedAt": "2024-11-08T15:26:11.137Z"
     }
   ],
   "github": {
