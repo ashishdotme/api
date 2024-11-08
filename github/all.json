@@ -1,6 +1,10 @@
 {
-  "lastCommit": "2024-11-07T23:24:19Z",
+  "lastCommit": "2024-11-08T16:57:28Z",
   "recentRepos": [
+    {
+      "name": "wiki.ashish.me",
+      "pushedAt": "2024-11-08T16:58:08Z"
+    },
     {
       "name": "jobsapi.ashish.me",
       "pushedAt": "2024-11-05T23:21:30Z"
@@ -12,10 +16,6 @@
     {
       "name": "books.ashish.me",
       "pushedAt": "2024-10-31T02:28:39Z"
-    },
-    {
-      "name": "wiki.ashish.me",
-      "pushedAt": "2024-10-30T11:07:30Z"
     },
     {
       "name": "blog",
