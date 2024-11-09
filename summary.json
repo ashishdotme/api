@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -250,11 +250,11 @@
     }
   ],
   "github": {
-    "lastCommit": "2024-11-08T23:57:05Z",
+    "lastCommit": "2024-11-09T00:29:18Z",
     "recentRepos": [
       {
         "name": "ashishdotme-utils",
-        "pushedAt": "2024-11-08T23:57:34Z"
+        "pushedAt": "2024-11-09T00:29:42Z"
       },
       {
         "name": "npm-library-starter",
