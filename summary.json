@@ -156,18 +156,6 @@
       "dueDate": "2024-11-08T10:13:42.455Z",
       "createdAt": "2024-11-08T10:13:43.244Z",
       "updatedAt": "2024-11-08T10:13:43.244Z"
-    },
-    {
-      "id": 563,
-      "content": "Create personal utils node library",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "672e97bb8f085525d6248c01",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2024-11-08T22:59:06.394Z",
-      "createdAt": "2024-11-08T22:59:07.189Z",
-      "updatedAt": "2024-11-08T22:59:07.189Z"
     }
   ],
   "updates": [
@@ -250,11 +238,11 @@
     }
   ],
   "github": {
-    "lastCommit": "2024-11-08T23:57:05Z",
+    "lastCommit": "2024-11-09T00:30:43Z",
     "recentRepos": [
       {
         "name": "ashishdotme-utils",
-        "pushedAt": "2024-11-08T23:57:34Z"
+        "pushedAt": "2024-11-09T00:31:07Z"
       },
       {
         "name": "npm-library-starter",
