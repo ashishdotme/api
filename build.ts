@@ -1,9 +1,11 @@
+// deno-lint-ignore-file no-explicit-any
 import { ensureDir } from "https://deno.land/std@0.224.0/fs/ensure_dir.ts";
 import { Octokit } from "https://esm.sh/octokit?dts";
+import { formatDate, truncate } from "npm:@ashishdotme/utils@1.0.6"
 
 const automatedRepos = ["api", "data.ashish.me", "status.ashish.me", "pake"];
-
-const getLastCommitDetails = async (octokit: any, name: string): Promise<string | null> => {
+const octokit = new Octokit({ auth: Deno.env.get("GITHUB_TOKEN") });
+const getLastCommitDetails = async (name: string): Promise<string | null> => {
   const commit = await octokit.request("GET /repos/{owner}/{repo}/commits", {
     owner: "ashishdotme",
     repo: name,
@@ -21,7 +23,7 @@ const getLastCommitDetails = async (octokit: any, name: string): Promise<string 
   return commitDetails?.commit?.committer?.date || null;
 };
 
-const getLastCommit = async (octokit: any): Promise<string | null> => {
+const getLastCommit = async (): Promise<string | null> => {
   const response = await octokit.request("GET /user/repos", {
     sort: "pushed",
     visibility: "all",
@@ -35,7 +37,7 @@ const getLastCommit = async (octokit: any): Promise<string | null> => {
 
   let lastCommitDate: string | null = null;
   for (let i = 0; i < filteredRepos.length; i++) {
-    const commitDate = await getLastCommitDetails(octokit, filteredRepos[i].name);
+    const commitDate = await getLastCommitDetails(filteredRepos[i].name);
     if (commitDate && (!lastCommitDate || new Date(commitDate) > new Date(lastCommitDate))) {
       lastCommitDate = commitDate;
     }
@@ -44,7 +46,7 @@ const getLastCommit = async (octokit: any): Promise<string | null> => {
   return lastCommitDate;
 };
 
-const getRecentPublicRepos = async (octokit: any): Promise<{ name: string; createdAt: string }[]> => {
+const getRecentPublicRepos = async (): Promise<{ name: string; pushedAt: string }[]> => {
   const response = await octokit.request("GET /user/repos", {
     sort: "pushed",
     visibility: "public",
@@ -71,21 +73,69 @@ const fetchMovies = async (): Promise<any[]> => fetchData("https://api.ashish.me
 const fetchShows = async (): Promise<any[]> => fetchData("https://api.ashish.me/shows", "shows");
 const fetchBooks = async (): Promise<any[]> => fetchData("https://api.ashish.me/books", "books");
 const fetchCourses = async (): Promise<any[]> => fetchData("https://api.ashish.me/courses", "courses");
+const fetchListens = async (): Promise<any[]> => fetchData("https://api.ashish.me/listens", "listens");
 const fetchSummary = async (): Promise<any[]> => fetchData("https://api.ashish.me/stats", "summary");
 
-const fetchGithub = async (): Promise<{ lastCommit: string | null; recentRepos: { name: string; createdAt: string }[] }> => {
-  const octokit = new Octokit({ auth: Deno.env.get("GITHUB_TOKEN") });
-  const lastCommit = await getLastCommit(octokit);
-  const recentRepos = await getRecentPublicRepos(octokit);
+const fetchGithub = async (): Promise<{ lastCommit: string | null; recentRepos: { name: string; pushedAt: string }[] }> => {
+  const lastCommit = await getLastCommit();
+  const recentRepos = await getRecentPublicRepos();
   return { lastCommit, recentRepos };
 };
 
+const updateGistWithListens = async (json: any) => {
+  let gist
+  try {
+    gist = await octokit.rest.gists.get({
+     gist_id:"e31ad67b9c9a788f0f531955f7f823cc",
+    })
+    //gist = await octokit.request("GET /user/gists/e31ad67b9c9a788f0f531955f7f823cc"); 
+  } catch (error: any) {
+    console.error(
+      `Failed to fetch gist: ${error.message}`
+    )
+  }
+  const tracks = json.map((item: any) => ({
+    name: item.title,
+    artist: item.listenDate
+  }))
+  if (!tracks.length) return
+
+  const lines = []
+  for (let index = 0; index < Math.min(tracks.length, 10); index++) {
+    let { name, artist } = tracks[index]
+    name = truncate(name, 25)
+    const line = [
+      name,
+      " - ",
+      formatDate(artist),
+    ]
+    lines.push(line.join(''))
+  }
+
+  try {
+    const filename = Object.keys(gist?.data?.files)[0]
+    await octokit.rest.gists.update({
+      gist_id:"e31ad67b9c9a788f0f531955f7f823cc",
+      files: {
+        [filename]: {
+          filename: '🎵 Listening ',
+          content: lines.join('\n'),
+        },
+      },
+    })
+  } catch (error) {
+    console.error(
+      `Failed to update gist:\n${error}`
+    )
+  }
+}
 await ensureDir("movies");
 await ensureDir("shows");
 await ensureDir("books");
 await ensureDir("courses");
 await ensureDir("github");
 await ensureDir("summary");
+await ensureDir("listens");
 
 const github = await fetchGithub();
 await Deno.writeTextFile("github/all.json", JSON.stringify(github, null, 2) + "\n");
@@ -102,8 +152,14 @@ await Deno.writeTextFile("books/all.json", JSON.stringify(books, null, 2) + "\n"
 const courses = await fetchCourses();
 await Deno.writeTextFile("courses/all.json", JSON.stringify(courses, null, 2) + "\n");
 
+const listens = await fetchListens();
+await Deno.writeTextFile("listens/all.json", JSON.stringify(listens, null, 2) + "\n");
+await updateGistWithListens(listens)
+
 const summary = await fetchSummary();
 await Deno.writeTextFile("summary.json", JSON.stringify(summary, null, 2) + "\n");
+
+
 
 Deno.exit(0);
 
