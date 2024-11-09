@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -156,6 +156,18 @@
       "dueDate": "2024-11-08T10:13:42.455Z",
       "createdAt": "2024-11-08T10:13:43.244Z",
       "updatedAt": "2024-11-08T10:13:43.244Z"
+    },
+    {
+      "id": 563,
+      "content": "Create personal utils node library",
+      "category": "Now",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "672e97bb8f085525d6248c01",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2024-11-08T22:59:06.394Z",
+      "createdAt": "2024-11-08T22:59:07.189Z",
+      "updatedAt": "2024-11-08T22:59:07.189Z"
     }
   ],
   "updates": [
@@ -238,8 +250,20 @@
     }
   ],
   "github": {
-    "lastCommit": "2024-11-08T21:03:47Z",
+    "lastCommit": "2024-11-08T23:57:05Z",
     "recentRepos": [
+      {
+        "name": "ashishdotme-utils",
+        "pushedAt": "2024-11-08T23:57:34Z"
+      },
+      {
+        "name": "npm-library-starter",
+        "pushedAt": "2024-11-08T23:32:13Z"
+      },
+      {
+        "name": "task-tracker",
+        "pushedAt": "2024-11-08T23:08:27Z"
+      },
       {
         "name": "wiki.ashish.me",
         "pushedAt": "2024-11-08T21:04:21Z"
@@ -273,10 +297,6 @@
         "pushedAt": "2024-10-16T17:47:56Z"
       },
       {
-        "name": "task-tracker",
-        "pushedAt": "2024-09-17T23:19:37Z"
-      },
-      {
         "name": "dashboard.ashish.me",
         "pushedAt": "2024-09-14T17:51:29Z"
       },
@@ -299,14 +319,6 @@
       {
         "name": "imdb-api",
         "pushedAt": "2024-07-06T12:18:15Z"
-      },
-      {
-        "name": "leetcode",
-        "pushedAt": "2024-06-18T15:49:36Z"
-      },
-      {
-        "name": "ashishdotme",
-        "pushedAt": "2023-11-13T16:11:37Z"
       }
     ]
   },
