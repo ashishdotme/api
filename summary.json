@@ -122,18 +122,6 @@
   ],
   "tasks": [
     {
-      "id": 560,
-      "content": "Update github profile",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "672d3db3eba7b8000000053d",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2024-11-07T22:23:01.624Z",
-      "createdAt": "2024-11-07T22:23:01.626Z",
-      "updatedAt": "2024-11-07T22:23:01.626Z"
-    },
-    {
       "id": 561,
       "content": "Add api to send push notification",
       "category": "Now",
@@ -250,8 +238,12 @@
     }
   ],
   "github": {
-    "lastCommit": "2024-11-09T00:30:43Z",
+    "lastCommit": "2024-11-09T16:22:48Z",
     "recentRepos": [
+      {
+        "name": "ashishdotme",
+        "pushedAt": "2024-11-09T16:23:10Z"
+      },
       {
         "name": "ashishdotme-utils",
         "pushedAt": "2024-11-09T00:31:07Z"
@@ -315,10 +307,6 @@
       {
         "name": "leetcode-python",
         "pushedAt": "2024-08-22T15:04:23Z"
-      },
-      {
-        "name": "imdb-api",
-        "pushedAt": "2024-07-06T12:18:15Z"
       }
     ]
   },
