@@ -1,5 +1,65 @@
 [
   {
+    "id": 917,
+    "title": "X-SLIDE",
+    "artist": "2KE",
+    "album": "X-SLIDE",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-11-09T12:38:35.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-11-09T12:38:37.551Z",
+    "updatedAt": "2024-11-09T12:38:37.551Z"
+  },
+  {
+    "id": 916,
+    "title": "APT.",
+    "artist": "ROSÉ",
+    "album": "APT.",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-11-09T12:37:24.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-11-09T12:37:24.831Z",
+    "updatedAt": "2024-11-09T12:37:24.831Z"
+  },
+  {
+    "id": 915,
+    "title": "INDUSTRY BABY (feat. Jack Harlow)",
+    "artist": "Lil Nas X",
+    "album": "INDUSTRY BABY (feat. Jack Harlow)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-11-09T12:34:41.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-11-09T12:34:42.252Z",
+    "updatedAt": "2024-11-09T12:34:42.252Z"
+  },
+  {
+    "id": 914,
+    "title": "SLAY!",
+    "artist": "Eternxlkz",
+    "album": "SLAY!",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-11-09T12:31:17.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-11-09T12:31:19.456Z",
+    "updatedAt": "2024-11-09T12:31:19.456Z"
+  },
+  {
+    "id": 913,
+    "title": "Just Wanna Rock",
+    "artist": "Lil Uzi Vert",
+    "album": "Just Wanna Rock",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-11-09T12:29:55.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-11-09T12:29:56.880Z",
+    "updatedAt": "2024-11-09T12:29:56.880Z"
+  },
+  {
     "id": 912,
     "title": "Astronaut In The Ocean",
     "artist": "Masked Wolf",
