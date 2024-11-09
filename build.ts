@@ -166,7 +166,7 @@ const updateGistWithMovies = async (json: any) => {
       gist_id:"abc4f4782256d9df2cc0fe15c1264c4d",
       files: {
         [filename]: {
-          filename: '🎥 Watching ',
+          filename: '🎬 Watching ',
           content: lines.join('\n'),
         },
       },
