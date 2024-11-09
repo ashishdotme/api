@@ -96,18 +96,18 @@ const updateGistWithListens = async (json: any) => {
   }
   const tracks = json.map((item: any) => ({
     name: item.title,
-    artist: item.listenDate
+    date: item.listenDate
   }))
   if (!tracks.length) return
 
   const lines = []
   for (let index = 0; index < Math.min(tracks.length, 10); index++) {
-    let { name, artist } = tracks[index]
+    let { name, date } = tracks[index]
     name = truncate(name, 25)
     const line = [
       name,
       " - ",
-      formatDate(artist),
+      formatDate(date),
     ]
     lines.push(line.join(''))
   }
@@ -129,6 +129,55 @@ const updateGistWithListens = async (json: any) => {
     )
   }
 }
+
+const updateGistWithMovies = async (json: any) => {
+  let gist
+  try {
+    gist = await octokit.rest.gists.get({
+     gist_id:"abc4f4782256d9df2cc0fe15c1264c4d",
+    })
+    //gist = await octokit.request("GET /user/gists/e31ad67b9c9a788f0f531955f7f823cc"); 
+  } catch (error: any) {
+    console.error(
+      `Failed to fetch gist: ${error.message}`
+    )
+  }
+  const tracks = json.map((item: any) => ({
+    name: item.title,
+    date: item.viewingDate
+  }))
+  if (!tracks.length) return
+
+  const lines = []
+  for (let index = 0; index < Math.min(tracks.length, 10); index++) {
+    let { name, date } = tracks[index]
+    name = truncate(name, 25)
+    const line = [
+      name,
+      " - ",
+      formatDate(date),
+    ]
+    lines.push(line.join(''))
+  }
+
+  try {
+    const filename = Object.keys(gist?.data?.files)[0]
+    await octokit.rest.gists.update({
+      gist_id:"abc4f4782256d9df2cc0fe15c1264c4d",
+      files: {
+        [filename]: {
+          filename: '🎥 Watching ',
+          content: lines.join('\n'),
+        },
+      },
+    })
+  } catch (error) {
+    console.error(
+      `Failed to update gist:\n${error}`
+    )
+  }
+}
+
 await ensureDir("movies");
 await ensureDir("shows");
 await ensureDir("books");
@@ -142,6 +191,7 @@ await Deno.writeTextFile("github/all.json", JSON.stringify(github, null, 2) + "\
 
 const movies = await fetchMovies();
 await Deno.writeTextFile("movies/all.json", JSON.stringify(movies, null, 2) + "\n");
+await updateGistWithMovies(movies)
 
 const shows = await fetchShows();
 await Deno.writeTextFile("shows/all.json", JSON.stringify(shows, null, 2) + "\n");
