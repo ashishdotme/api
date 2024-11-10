@@ -122,18 +122,6 @@
   ],
   "tasks": [
     {
-      "id": 561,
-      "content": "Add api to send push notification",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "672d42daeba7b8000000054f",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2024-11-07T22:45:01.890Z",
-      "createdAt": "2024-11-07T22:45:01.891Z",
-      "updatedAt": "2024-11-07T22:45:01.891Z"
-    },
-    {
       "id": 565,
       "content": "Organize photos",
       "category": "Now",
