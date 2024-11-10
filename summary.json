@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -213,21 +213,25 @@
   ],
   "listens": [
     {
-      "id": 929,
-      "title": "Evergreen",
-      "artist": "Richy Mitch & The Coal Miners",
-      "album": "RMCM",
+      "id": 936,
+      "title": "Moonlight",
+      "artist": "Kali Uchis",
+      "album": "Red Moon In Venus",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-11-10T00:30:06.000Z",
+      "listenDate": "2024-11-10T00:56:18.000Z",
       "trackNumber": null,
-      "createdAt": "2024-11-10T00:30:08.291Z",
-      "updatedAt": "2024-11-10T00:30:08.291Z"
+      "createdAt": "2024-11-10T00:56:21.106Z",
+      "updatedAt": "2024-11-10T00:56:21.106Z"
     }
   ],
   "github": {
-    "lastCommit": "2024-11-09T23:58:27Z",
+    "lastCommit": "2024-11-10T00:30:18Z",
     "recentRepos": [
+      {
+        "name": "blog",
+        "pushedAt": "2024-11-10T00:30:22Z"
+      },
       {
         "name": "wiki.ashish.me",
         "pushedAt": "2024-11-09T23:59:07Z"
@@ -259,10 +263,6 @@
       {
         "name": "books.ashish.me",
         "pushedAt": "2024-10-31T02:28:39Z"
-      },
-      {
-        "name": "blog",
-        "pushedAt": "2024-10-29T22:47:18Z"
       },
       {
         "name": "shows.ashish.me",
