@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2580,
+      "id": 2582,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262714\",\"53.2628721\"}",
+      "coordinates": "{\"-6.2263198\",\"53.2629113\"}",
       "batteryLevel": 90,
-      "timestamp": "2024-11-11T15:54:59.000Z",
-      "createdAt": "2024-11-11T15:55:00.414Z",
-      "updatedAt": "2024-11-11T15:55:00.414Z"
+      "timestamp": "2024-11-11T16:05:15.000Z",
+      "createdAt": "2024-11-11T16:05:16.754Z",
+      "updatedAt": "2024-11-11T16:05:16.754Z"
     }
   ],
   "steps": [
@@ -218,7 +218,7 @@
     "recentRepos": [
       {
         "name": "ashishdotme",
-        "pushedAt": "2024-11-11T15:52:35Z"
+        "pushedAt": "2024-11-11T15:57:43Z"
       },
       {
         "name": "blog",
