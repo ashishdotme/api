@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2655,
+      "id": 2656,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262261\",\"53.2627537\"}",
+      "coordinates": "{\"-6.2262123\",\"53.262743\"}",
       "batteryLevel": 65,
-      "timestamp": "2024-11-11T22:53:33.000Z",
-      "createdAt": "2024-11-11T22:53:33.827Z",
-      "updatedAt": "2024-11-11T22:53:33.827Z"
+      "timestamp": "2024-11-11T22:58:47.000Z",
+      "createdAt": "2024-11-11T22:58:48.212Z",
+      "updatedAt": "2024-11-11T22:58:48.212Z"
     }
   ],
   "steps": [
@@ -226,8 +226,12 @@
     }
   ],
   "github": {
-    "lastCommit": "2024-11-11T22:05:53Z",
+    "lastCommit": "2024-11-11T22:52:48Z",
     "recentRepos": [
+      {
+        "name": "wiki.ashish.me",
+        "pushedAt": "2024-11-11T22:52:49Z"
+      },
       {
         "name": "cli",
         "pushedAt": "2024-11-11T22:05:56Z"
@@ -239,10 +243,6 @@
       {
         "name": "workers",
         "pushedAt": "2024-11-10T10:49:26Z"
-      },
-      {
-        "name": "wiki.ashish.me",
-        "pushedAt": "2024-11-09T23:59:07Z"
       },
       {
         "name": "ashishdotme-utils",
