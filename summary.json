@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2572,
+      "id": 2573,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2243132\",\"53.2642125\"}",
+      "coordinates": "{\"-6.224043\",\"53.2642163\"}",
       "batteryLevel": 90,
-      "timestamp": "2024-11-11T15:05:39.000Z",
-      "createdAt": "2024-11-11T15:05:40.248Z",
-      "updatedAt": "2024-11-11T15:05:40.248Z"
+      "timestamp": "2024-11-11T15:11:45.000Z",
+      "createdAt": "2024-11-11T15:11:46.543Z",
+      "updatedAt": "2024-11-11T15:11:46.543Z"
     }
   ],
   "steps": [
@@ -218,7 +218,7 @@
     "recentRepos": [
       {
         "name": "blog",
-        "pushedAt": "2024-11-11T14:56:35Z"
+        "pushedAt": "2024-11-11T15:03:37Z"
       },
       {
         "name": "workers",
