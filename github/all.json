@@ -1,6 +1,10 @@
 {
-  "lastCommit": "2024-11-11T20:58:37Z",
+  "lastCommit": "2024-11-11T21:06:45Z",
   "recentRepos": [
+    {
+      "name": "cli",
+      "pushedAt": "2024-11-11T21:06:49Z"
+    },
     {
       "name": "blog",
       "pushedAt": "2024-11-11T15:34:12Z"
@@ -60,10 +64,6 @@
     {
       "name": "ashishdotme.github.io",
       "pushedAt": "2024-09-10T23:36:11Z"
-    },
-    {
-      "name": "til.ashish.me",
-      "pushedAt": "2024-08-24T01:19:37Z"
     }
   ]
 }
