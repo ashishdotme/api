@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2639,
+      "id": 2641,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2263138\",\"53.2628711\"}",
+      "coordinates": "{\"-6.2262837\",\"53.2628567\"}",
       "batteryLevel": 70,
-      "timestamp": "2024-11-11T21:27:19.000Z",
-      "createdAt": "2024-11-11T21:27:21.576Z",
-      "updatedAt": "2024-11-11T21:27:21.576Z"
+      "timestamp": "2024-11-11T21:37:34.000Z",
+      "createdAt": "2024-11-11T21:37:35.139Z",
+      "updatedAt": "2024-11-11T21:37:35.139Z"
     }
   ],
   "steps": [
@@ -226,7 +226,7 @@
     }
   ],
   "github": {
-    "lastCommit": "2024-11-11T21:14:02Z",
+    "lastCommit": "2024-11-11T21:28:47Z",
     "recentRepos": [
       {
         "name": "cli",
