@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2608,
+      "id": 2610,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262434\",\"53.2629001\"}",
+      "coordinates": "{\"-6.2262512\",\"53.2628906\"}",
       "batteryLevel": 80,
-      "timestamp": "2024-11-11T18:28:32.000Z",
-      "createdAt": "2024-11-11T18:28:33.146Z",
-      "updatedAt": "2024-11-11T18:28:33.146Z"
+      "timestamp": "2024-11-11T18:38:49.000Z",
+      "createdAt": "2024-11-11T18:38:50.302Z",
+      "updatedAt": "2024-11-11T18:38:50.302Z"
     }
   ],
   "steps": [
@@ -214,7 +214,7 @@
     }
   ],
   "github": {
-    "lastCommit": "2024-11-11T16:59:10Z",
+    "lastCommit": "2024-11-11T18:29:04Z",
     "recentRepos": [
       {
         "name": "blog",
