@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2547,
+      "id": 2548,
       "batteryState": "charging",
-      "coordinates": "{\"-6.221242\",\"53.2641203\"}",
-      "batteryLevel": 25,
-      "timestamp": "2024-11-11T10:40:53.000Z",
-      "createdAt": "2024-11-11T10:40:54.298Z",
-      "updatedAt": "2024-11-11T10:40:54.298Z"
+      "coordinates": "{\"-6.2238951\",\"53.2633726\"}",
+      "batteryLevel": 35,
+      "timestamp": "2024-11-11T10:46:13.000Z",
+      "createdAt": "2024-11-11T10:46:14.261Z",
+      "updatedAt": "2024-11-11T10:46:14.261Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -214,7 +214,7 @@
     }
   ],
   "github": {
-    "lastCommit": "2024-11-11T10:32:29Z",
+    "lastCommit": "2024-11-11T10:41:48Z",
     "recentRepos": [
       {
         "name": "workers",
