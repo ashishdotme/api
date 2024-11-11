@@ -3,7 +3,7 @@ import { ensureDir } from "https://deno.land/std@0.224.0/fs/ensure_dir.ts";
 import { Octokit } from "https://esm.sh/octokit?dts";
 import { formatDate, truncate } from "npm:@ashishdotme/utils@1.0.6"
 
-const automatedRepos = ["api", "data.ashish.me", "status.ashish.me", "pake"];
+const automatedRepos = ["api", "data.ashish.me", "status.ashish.me", "pake",  "ashishdotme"];
 const octokit = new Octokit({ auth: Deno.env.get("GITHUB_TOKEN") });
 const getLastCommitDetails = async (name: string): Promise<string | null> => {
   const commit = await octokit.request("GET /repos/{owner}/{repo}/commits", {
