@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2634,
+      "id": 2636,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262936\",\"53.2628593\"}",
+      "coordinates": "{\"-6.2262859\",\"53.2628808\"}",
       "batteryLevel": 70,
-      "timestamp": "2024-11-11T20:54:37.000Z",
-      "createdAt": "2024-11-11T21:01:36.669Z",
-      "updatedAt": "2024-11-11T21:01:36.669Z"
+      "timestamp": "2024-11-11T21:11:50.000Z",
+      "createdAt": "2024-11-11T21:11:55.041Z",
+      "updatedAt": "2024-11-11T21:11:55.041Z"
     }
   ],
   "steps": [
@@ -226,8 +226,12 @@
     }
   ],
   "github": {
-    "lastCommit": "2024-11-11T20:58:37Z",
+    "lastCommit": "2024-11-11T21:06:45Z",
     "recentRepos": [
+      {
+        "name": "cli",
+        "pushedAt": "2024-11-11T21:06:49Z"
+      },
       {
         "name": "blog",
         "pushedAt": "2024-11-11T15:34:12Z"
@@ -287,10 +291,6 @@
       {
         "name": "ashishdotme.github.io",
         "pushedAt": "2024-09-10T23:36:11Z"
-      },
-      {
-        "name": "til.ashish.me",
-        "pushedAt": "2024-08-24T01:19:37Z"
       }
     ]
   },
