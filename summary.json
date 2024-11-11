@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2621,
+      "id": 2622,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2263464\",\"53.263017\"}",
+      "coordinates": "{\"-6.2262619\",\"53.2628919\"}",
       "batteryLevel": 75,
-      "timestamp": "2024-11-11T19:35:04.000Z",
-      "createdAt": "2024-11-11T19:35:05.377Z",
-      "updatedAt": "2024-11-11T19:35:05.377Z"
+      "timestamp": "2024-11-11T19:40:16.000Z",
+      "createdAt": "2024-11-11T19:40:17.270Z",
+      "updatedAt": "2024-11-11T19:40:17.270Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -132,6 +132,18 @@
       "dueDate": "2024-11-09T16:49:52.410Z",
       "createdAt": "2024-11-09T16:49:52.411Z",
       "updatedAt": "2024-11-09T16:49:52.411Z"
+    },
+    {
+      "id": 566,
+      "content": "Create personal cli",
+      "category": "Now",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "67325d508f088184d96d7da7",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2024-11-11T19:38:56.218Z",
+      "createdAt": "2024-11-11T19:38:56.967Z",
+      "updatedAt": "2024-11-11T19:38:56.967Z"
     }
   ],
   "updates": [
