@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2594,
+      "id": 2596,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262865\",\"53.2628952\"}",
+      "coordinates": "{\"-6.2262398\",\"53.2628853\"}",
       "batteryLevel": 85,
-      "timestamp": "2024-11-11T17:16:52.000Z",
-      "createdAt": "2024-11-11T17:16:52.578Z",
-      "updatedAt": "2024-11-11T17:16:52.578Z"
+      "timestamp": "2024-11-11T17:27:12.000Z",
+      "createdAt": "2024-11-11T17:27:13.244Z",
+      "updatedAt": "2024-11-11T17:27:13.244Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -201,16 +201,16 @@
   ],
   "listens": [
     {
-      "id": 952,
-      "title": "Strangers",
-      "artist": "Kenya Grace",
-      "album": "The After Taste",
+      "id": 955,
+      "title": "10:35",
+      "artist": "Tiësto",
+      "album": "10:35",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-11-11T17:16:38.000Z",
+      "listenDate": "2024-11-11T17:25:32.000Z",
       "trackNumber": null,
-      "createdAt": "2024-11-11T17:16:40.459Z",
-      "updatedAt": "2024-11-11T17:16:40.459Z"
+      "createdAt": "2024-11-11T17:25:34.680Z",
+      "updatedAt": "2024-11-11T17:25:34.680Z"
     }
   ],
   "github": {
