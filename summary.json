@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 2721,
+      "id": 2722,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2263061\",\"53.2629232\"}",
+      "coordinates": "{\"-6.2262732\",\"53.2630147\"}",
       "batteryLevel": 30,
-      "timestamp": "2024-11-12T23:54:05.000Z",
-      "createdAt": "2024-11-12T23:54:05.855Z",
-      "updatedAt": "2024-11-12T23:54:05.855Z"
+      "timestamp": "2024-11-12T23:59:10.000Z",
+      "createdAt": "2024-11-12T23:59:11.542Z",
+      "updatedAt": "2024-11-12T23:59:11.542Z"
     }
   ],
   "steps": [
@@ -134,28 +134,16 @@
       "updatedAt": "2024-11-09T16:49:52.411Z"
     },
     {
-      "id": 566,
-      "content": "Create personal cli",
+      "id": 568,
+      "content": "Solve Leetcode 3349",
       "category": "Now",
       "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "67325d508f088184d96d7da7",
+      "todoId": "6733eafdeba7b80000000355",
       "completed": false,
       "completedDate": null,
-      "dueDate": "2024-11-11T19:38:56.218Z",
-      "createdAt": "2024-11-11T19:38:56.967Z",
-      "updatedAt": "2024-11-11T19:38:56.967Z"
-    },
-    {
-      "id": 567,
-      "content": "Update wiki home page",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "673298f4eba7b800000001b6",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2024-11-11T23:53:58.640Z",
-      "createdAt": "2024-11-11T23:53:58.641Z",
-      "updatedAt": "2024-11-11T23:53:58.641Z"
+      "dueDate": "2024-11-12T23:56:27.047Z",
+      "createdAt": "2024-11-12T23:56:27.048Z",
+      "updatedAt": "2024-11-12T23:56:27.048Z"
     }
   ],
   "updates": [
