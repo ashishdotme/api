@@ -213,16 +213,16 @@
   ],
   "listens": [
     {
-      "id": 958,
-      "title": "Margaret (feat. Bleachers)",
-      "artist": "Lana Del Rey",
-      "album": "Did you know that there's a tunnel under Ocean Blvd",
+      "id": 959,
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "album": "Thriller",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-11-17T11:39:25.000Z",
+      "listenDate": "2024-11-17T15:36:28.000Z",
       "trackNumber": null,
-      "createdAt": "2024-11-17T11:39:26.826Z",
-      "updatedAt": "2024-11-17T11:39:26.826Z"
+      "createdAt": "2024-11-17T15:36:29.475Z",
+      "updatedAt": "2024-11-17T15:36:29.475Z"
     }
   ],
   "github": {
