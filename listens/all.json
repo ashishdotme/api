@@ -1,5 +1,41 @@
 [
   {
+    "id": 982,
+    "title": "Honeysea II",
+    "artist": "Hans.",
+    "album": "Puddles",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-11-17T19:36:01.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-11-17T19:36:03.758Z",
+    "updatedAt": "2024-11-17T19:36:03.758Z"
+  },
+  {
+    "id": 981,
+    "title": "Think About Things",
+    "artist": "Daði Freyr",
+    "album": "Söngvakeppnin 2020",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-11-17T19:33:37.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-11-17T19:33:39.180Z",
+    "updatedAt": "2024-11-17T19:33:39.180Z"
+  },
+  {
+    "id": 980,
+    "title": "Be My Mistake",
+    "artist": "The 1975",
+    "album": "A Brief Inquiry Into Online Relationships",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-11-17T19:30:43.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-11-17T19:30:44.409Z",
+    "updatedAt": "2024-11-17T19:30:44.409Z"
+  },
+  {
     "id": 979,
     "title": "Runaway (U & I)",
     "artist": "Galantis",
