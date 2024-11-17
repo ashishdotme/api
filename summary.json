@@ -213,16 +213,16 @@
   ],
   "listens": [
     {
-      "id": 987,
-      "title": "tfru",
-      "artist": "Water & Rum",
-      "album": "tfru",
+      "id": 989,
+      "title": "Je pense à toi",
+      "artist": "Lewis OfMan",
+      "album": "Je pense à toi",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-11-17T19:52:46.000Z",
+      "listenDate": "2024-11-17T20:01:45.000Z",
       "trackNumber": null,
-      "createdAt": "2024-11-17T19:52:47.241Z",
-      "updatedAt": "2024-11-17T19:52:47.241Z"
+      "createdAt": "2024-11-17T20:01:46.541Z",
+      "updatedAt": "2024-11-17T20:01:46.541Z"
     }
   ],
   "github": {
