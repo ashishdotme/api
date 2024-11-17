@@ -1,5 +1,29 @@
 [
   {
+    "id": 987,
+    "title": "tfru",
+    "artist": "Water & Rum",
+    "album": "tfru",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-11-17T19:52:46.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-11-17T19:52:47.241Z",
+    "updatedAt": "2024-11-17T19:52:47.241Z"
+  },
+  {
+    "id": 986,
+    "title": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
+    "artist": "Kali Uchis",
+    "album": "Isolation",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-11-17T19:49:23.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-11-17T19:49:24.565Z",
+    "updatedAt": "2024-11-17T19:49:24.565Z"
+  },
+  {
     "id": 985,
     "title": "How Deep Is Your Love",
     "artist": "PJ Morton",
