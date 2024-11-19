@@ -226,15 +226,15 @@
     }
   ],
   "github": {
-    "lastCommit": "2024-11-18T21:00:49Z",
+    "lastCommit": "2024-11-19T19:50:38Z",
     "recentRepos": [
+      {
+        "name": "omakub",
+        "pushedAt": "2024-11-19T19:50:42Z"
+      },
       {
         "name": "dotfiles",
         "pushedAt": "2024-11-18T21:00:58Z"
-      },
-      {
-        "name": "omakub",
-        "pushedAt": "2024-11-13T12:39:27Z"
       },
       {
         "name": "wiki.ashish.me",
