@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -213,16 +213,16 @@
   ],
   "listens": [
     {
-      "id": 1022,
-      "title": "One Love",
-      "artist": "Shubh",
-      "album": "One Love",
+      "id": 1025,
+      "title": "Jo Tum Mere Ho",
+      "artist": "Anuv Jain",
+      "album": "Jo Tum Mere Ho",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-11-25T14:26:33.000Z",
+      "listenDate": "2024-11-25T14:38:01.000Z",
       "trackNumber": null,
-      "createdAt": "2024-11-25T14:26:35.077Z",
-      "updatedAt": "2024-11-25T14:26:35.077Z"
+      "createdAt": "2024-11-25T14:38:03.504Z",
+      "updatedAt": "2024-11-25T14:38:03.504Z"
     }
   ],
   "github": {
