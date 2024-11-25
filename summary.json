@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -213,16 +213,16 @@
   ],
   "listens": [
     {
-      "id": 1032,
-      "title": "Naina (From \"Crew\")",
-      "artist": "Diljit Dosanjh",
-      "album": "Naina (From \"Crew\")",
+      "id": 1034,
+      "title": "Iktara",
+      "artist": "Amit Trivedi",
+      "album": "Wake Up Sid (Original Motion Picture Soundtrack) [Deluxe Edition]",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-11-25T15:05:05.000Z",
+      "listenDate": "2024-11-25T15:13:07.000Z",
       "trackNumber": null,
-      "createdAt": "2024-11-25T15:05:07.213Z",
-      "updatedAt": "2024-11-25T15:05:07.213Z"
+      "createdAt": "2024-11-25T15:13:08.802Z",
+      "updatedAt": "2024-11-25T15:13:08.802Z"
     }
   ],
   "github": {
