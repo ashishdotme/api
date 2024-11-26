@@ -213,16 +213,16 @@
   ],
   "listens": [
     {
-      "id": 1053,
-      "title": "Can I Call You Tonight?",
-      "artist": "Dayglow",
-      "album": "Fuzzybrain",
+      "id": 1054,
+      "title": "Typical",
+      "artist": "Nightmares On Wax",
+      "album": "Shape The Future",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-11-26T14:29:14.000Z",
+      "listenDate": "2024-11-26T14:33:56.000Z",
       "trackNumber": null,
-      "createdAt": "2024-11-26T14:29:15.263Z",
-      "updatedAt": "2024-11-26T14:29:15.263Z"
+      "createdAt": "2024-11-26T14:33:58.363Z",
+      "updatedAt": "2024-11-26T14:33:58.363Z"
     }
   ],
   "github": {
