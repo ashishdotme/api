@@ -105,19 +105,19 @@
   ],
   "movies": [
     {
-      "id": 162,
-      "title": "Samay: When Time Strikes",
-      "description": "Assistant Commissioner of Police (ACP) Malvika Chauhan battles time to obtain & solve the clues to solve the various murders occurring in the city.",
+      "id": 166,
+      "title": "The Exorcist",
+      "description": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
       "review": null,
-      "language": "Hindi",
-      "year": 2003,
-      "genre": "Crime, Mystery, Thriller",
-      "viewingDate": "2024-11-18T16:14:41.743Z",
+      "language": "English",
+      "year": 1973,
+      "genre": "Horror",
+      "viewingDate": "2024-12-02T04:53:18.239Z",
       "loved": true,
-      "imdbRating": "7.0",
-      "imdbId": "tt0384491",
-      "createdAt": "2024-11-18T16:14:45.366Z",
-      "updatedAt": "2024-11-18T16:14:45.366Z"
+      "imdbRating": "8.1",
+      "imdbId": "tt0070047",
+      "createdAt": "2024-12-02T14:59:17.397Z",
+      "updatedAt": "2024-12-02T14:59:17.397Z"
     }
   ],
   "tasks": [
@@ -213,16 +213,16 @@
   ],
   "listens": [
     {
-      "id": 1078,
-      "title": "Pee Loon",
-      "artist": "Pritam",
-      "album": "Once Upon A Time In Mumbaai",
+      "id": 1080,
+      "title": "Aise Kyun",
+      "artist": "Anurag Saikia",
+      "album": "Mismatched: Season 1 (Music from the Netflix Original Series)",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-12-02T14:50:17.000Z",
+      "listenDate": "2024-12-02T14:58:44.000Z",
       "trackNumber": null,
-      "createdAt": "2024-12-02T14:50:19.015Z",
-      "updatedAt": "2024-12-02T14:50:19.015Z"
+      "createdAt": "2024-12-02T14:58:46.607Z",
+      "updatedAt": "2024-12-02T14:58:46.607Z"
     }
   ],
   "github": {
