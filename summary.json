@@ -213,16 +213,16 @@
   ],
   "listens": [
     {
-      "id": 1073,
-      "title": "Kinni Kinni",
-      "artist": "Diljit Dosanjh",
-      "album": "Ghost",
+      "id": 1075,
+      "title": "Assi Sajna",
+      "artist": "Jasleen Royal",
+      "album": "Assi Sajna",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-12-02T14:31:36.000Z",
+      "listenDate": "2024-12-02T14:38:21.000Z",
       "trackNumber": null,
-      "createdAt": "2024-12-02T14:31:39.365Z",
-      "updatedAt": "2024-12-02T14:31:39.365Z"
+      "createdAt": "2024-12-02T14:38:22.897Z",
+      "updatedAt": "2024-12-02T14:38:22.897Z"
     }
   ],
   "github": {
