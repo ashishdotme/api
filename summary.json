@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -213,16 +213,16 @@
   ],
   "listens": [
     {
-      "id": 1058,
-      "title": "Je pense à toi",
-      "artist": "Lewis OfMan",
-      "album": "Je pense à toi",
+      "id": 1060,
+      "title": "Take on Me",
+      "artist": "a-ha",
+      "album": "Hunting High and Low",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-12-02T13:39:29.000Z",
+      "listenDate": "2024-12-02T13:46:36.000Z",
       "trackNumber": null,
-      "createdAt": "2024-12-02T13:39:30.536Z",
-      "updatedAt": "2024-12-02T13:39:30.536Z"
+      "createdAt": "2024-12-02T13:46:38.026Z",
+      "updatedAt": "2024-12-02T13:46:38.026Z"
     }
   ],
   "github": {
