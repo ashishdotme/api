@@ -1,5 +1,29 @@
 [
   {
+    "id": 1058,
+    "title": "Je pense à toi",
+    "artist": "Lewis OfMan",
+    "album": "Je pense à toi",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-12-02T13:39:29.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-12-02T13:39:30.536Z",
+    "updatedAt": "2024-12-02T13:39:30.536Z"
+  },
+  {
+    "id": 1057,
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-12-02T13:35:08.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-12-02T13:35:09.872Z",
+    "updatedAt": "2024-12-02T13:35:09.872Z"
+  },
+  {
     "id": 1056,
     "title": "Blackbird",
     "artist": "The Manhattans",
