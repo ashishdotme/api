@@ -1,5 +1,41 @@
 [
   {
+    "id": 1069,
+    "title": "Heeriye (feat. Arijit Singh)",
+    "artist": "Jasleen Royal",
+    "album": "Heeriye (feat. Arijit Singh)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-12-02T14:18:13.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-12-02T14:18:14.612Z",
+    "updatedAt": "2024-12-02T14:18:14.612Z"
+  },
+  {
+    "id": 1068,
+    "title": "Husn",
+    "artist": "Anuv Jain",
+    "album": "Husn",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-12-02T14:14:57.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-12-02T14:14:59.745Z",
+    "updatedAt": "2024-12-02T14:14:59.745Z"
+  },
+  {
+    "id": 1067,
+    "title": "Kho Gaye Hum Kahan",
+    "artist": "Jasleen Royal",
+    "album": "Baar Baar Dekho (Original Motion Picture Soundtrack)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-12-02T14:11:18.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-12-02T14:11:21.121Z",
+    "updatedAt": "2024-12-02T14:11:21.121Z"
+  },
+  {
     "id": 1066,
     "title": "Samjho Na",
     "artist": "Aditya Rikhari",
