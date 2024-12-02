@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -213,16 +213,16 @@
   ],
   "listens": [
     {
-      "id": 1054,
-      "title": "Typical",
-      "artist": "Nightmares On Wax",
-      "album": "Shape The Future",
+      "id": 1056,
+      "title": "Blackbird",
+      "artist": "The Manhattans",
+      "album": "A Million to One",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-11-26T14:33:56.000Z",
+      "listenDate": "2024-12-02T13:29:10.000Z",
       "trackNumber": null,
-      "createdAt": "2024-11-26T14:33:58.363Z",
-      "updatedAt": "2024-11-26T14:33:58.363Z"
+      "createdAt": "2024-12-02T13:29:12.941Z",
+      "updatedAt": "2024-12-02T13:29:12.941Z"
     }
   ],
   "github": {
