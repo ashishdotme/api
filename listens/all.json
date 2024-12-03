@@ -1,5 +1,41 @@
 [
   {
+    "id": 1100,
+    "title": "American Boy",
+    "artist": "Estelle",
+    "album": "Shine",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-12-03T16:38:45.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-12-03T16:38:47.238Z",
+    "updatedAt": "2024-12-03T16:38:47.238Z"
+  },
+  {
+    "id": 1099,
+    "title": "Old Fashioned",
+    "artist": "Bruno Major",
+    "album": "To Let A Good Thing Die",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-12-03T16:34:00.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-12-03T16:34:02.415Z",
+    "updatedAt": "2024-12-03T16:34:02.415Z"
+  },
+  {
+    "id": 1098,
+    "title": "Wings",
+    "artist": "Mac Miller",
+    "album": "Swimming",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-12-03T16:30:40.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-12-03T16:30:41.427Z",
+    "updatedAt": "2024-12-03T16:30:41.427Z"
+  },
+  {
     "id": 1097,
     "title": "Playground Love",
     "artist": "Air",
