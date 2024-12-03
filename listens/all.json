@@ -1,5 +1,41 @@
 [
   {
+    "id": 1097,
+    "title": "Playground Love",
+    "artist": "Air",
+    "album": "The Virgin Suicides (Original Motion Picture Score)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-12-03T16:26:29.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-12-03T16:26:30.920Z",
+    "updatedAt": "2024-12-03T16:26:30.920Z"
+  },
+  {
+    "id": 1096,
+    "title": "Freakin' Out On the Interstate",
+    "artist": "Briston Maroney",
+    "album": "Freakin' Out On The Interstate (Acoustic Version [Live])",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-12-03T16:22:57.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-12-03T16:23:00.042Z",
+    "updatedAt": "2024-12-03T16:23:00.042Z"
+  },
+  {
+    "id": 1095,
+    "title": "Hey, Ma",
+    "artist": "Bon Iver",
+    "album": "i,i",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-12-03T16:18:45.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-12-03T16:18:47.241Z",
+    "updatedAt": "2024-12-03T16:18:47.241Z"
+  },
+  {
     "id": 1094,
     "title": "Jo Tum Mere Ho",
     "artist": "Anuv Jain",
