@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 3923,
+      "id": 3925,
       "batteryState": "unplugged",
-      "coordinates": "{\"-9.0508037\",\"53.2776685\"}",
+      "coordinates": "{\"-9.0508327\",\"53.2776763\"}",
       "batteryLevel": 50,
-      "timestamp": "2024-12-05T23:00:26.000Z",
-      "createdAt": "2024-12-05T23:00:26.548Z",
-      "updatedAt": "2024-12-05T23:00:26.548Z"
+      "timestamp": "2024-12-05T23:10:27.000Z",
+      "createdAt": "2024-12-05T23:10:27.753Z",
+      "updatedAt": "2024-12-05T23:10:27.753Z"
     }
   ],
   "steps": [
@@ -229,6 +229,18 @@
     "lastCommit": "2024-11-20T00:12:40Z",
     "recentRepos": [
       {
+        "name": "books.ashish.me",
+        "pushedAt": "2024-12-05T23:03:00Z"
+      },
+      {
+        "name": "shows.ashish.me",
+        "pushedAt": "2024-12-05T23:01:49Z"
+      },
+      {
+        "name": "movies.ashish.me",
+        "pushedAt": "2024-12-05T23:00:50Z"
+      },
+      {
         "name": "wiki.ashish.me",
         "pushedAt": "2024-11-20T00:13:30Z"
       },
@@ -267,18 +279,6 @@
       {
         "name": "jobsapi.ashish.me",
         "pushedAt": "2024-11-05T23:21:30Z"
-      },
-      {
-        "name": "movies.ashish.me",
-        "pushedAt": "2024-10-31T02:32:41Z"
-      },
-      {
-        "name": "books.ashish.me",
-        "pushedAt": "2024-10-31T02:28:39Z"
-      },
-      {
-        "name": "shows.ashish.me",
-        "pushedAt": "2024-10-29T00:22:34Z"
       },
       {
         "name": "dashy",
