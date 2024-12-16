@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -213,16 +213,16 @@
   ],
   "listens": [
     {
-      "id": 1130,
-      "title": "Nachde Ne Saare",
-      "artist": "Jasleen Royal",
-      "album": "Baar Baar Dekho (Original Motion Picture Soundtrack)",
+      "id": 1180,
+      "title": "Ek Din Aap",
+      "artist": "Kumar Sanu",
+      "album": "Yes Boss (Original Motion Picture Soundtrack)",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-12-09T17:05:21.000Z",
+      "listenDate": "2024-12-15T14:38:44.000Z",
       "trackNumber": null,
-      "createdAt": "2024-12-09T17:05:23.614Z",
-      "updatedAt": "2024-12-09T17:05:23.614Z"
+      "createdAt": "2024-12-16T09:18:44.633Z",
+      "updatedAt": "2024-12-16T09:18:44.633Z"
     }
   ],
   "github": {
