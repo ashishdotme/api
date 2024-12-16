@@ -2,6 +2,10 @@
   "lastCommit": "2024-12-13T16:56:46Z",
   "recentRepos": [
     {
+      "name": "omakub",
+      "pushedAt": "2024-12-16T15:17:37Z"
+    },
+    {
       "name": "leetcode-python",
       "pushedAt": "2024-12-13T16:56:47Z"
     },
@@ -24,10 +28,6 @@
     {
       "name": "dotfiles",
       "pushedAt": "2024-11-19T23:35:30Z"
-    },
-    {
-      "name": "omakub",
-      "pushedAt": "2024-11-19T19:50:42Z"
     },
     {
       "name": "cli",
