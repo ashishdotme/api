@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -213,16 +213,16 @@
   ],
   "listens": [
     {
-      "id": 1198,
-      "title": "Love On The Brain",
-      "artist": "Rihanna",
-      "album": "ANTI (Deluxe)",
+      "id": 1200,
+      "title": "Kya Mujhe Pyaar Hai",
+      "artist": "Ashish Khandal",
+      "album": "Kya Mujhe Pyaar Hai",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2024-12-18T17:01:21.000Z",
+      "listenDate": "2024-12-19T12:06:08.000Z",
       "trackNumber": null,
-      "createdAt": "2024-12-18T17:01:22.086Z",
-      "updatedAt": "2024-12-18T17:01:22.086Z"
+      "createdAt": "2024-12-19T12:06:10.006Z",
+      "updatedAt": "2024-12-19T12:06:10.006Z"
     }
   ],
   "github": {
