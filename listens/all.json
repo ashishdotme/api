@@ -1,5 +1,29 @@
 [
   {
+    "id": 1224,
+    "title": "Patta Patta Buta Buta - From \"Ek Nazar\"",
+    "artist": "Mohammed Rafi",
+    "album": "Old Bollywood Duets",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-12-26T11:10:10.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-12-26T11:10:11.897Z",
+    "updatedAt": "2024-12-26T11:10:11.897Z"
+  },
+  {
+    "id": 1223,
+    "title": "Kya Yahi Pyar Hai - From \"Rocky\"",
+    "artist": "Lata Mangeshkar",
+    "album": "Old Bollywood Duets",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2024-12-26T11:04:28.000Z",
+    "trackNumber": null,
+    "createdAt": "2024-12-26T11:04:31.108Z",
+    "updatedAt": "2024-12-26T11:04:31.108Z"
+  },
+  {
     "id": 1222,
     "title": "Pasoori",
     "artist": "Shae Gill",
