@@ -122,18 +122,6 @@
   ],
   "tasks": [
     {
-      "id": 565,
-      "content": "Organize photos",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "672f928deba7b80000000208",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2024-11-09T16:49:52.410Z",
-      "createdAt": "2024-11-09T16:49:52.411Z",
-      "updatedAt": "2024-11-09T16:49:52.411Z"
-    },
-    {
       "id": 568,
       "content": "Solve Leetcode 3349",
       "category": "Now",
