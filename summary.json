@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -188,16 +188,16 @@
   ],
   "listens": [
     {
-      "id": 1281,
-      "title": "Pyar Hamen Kis Mod Pe - From \"Satte Pe Satta\"",
-      "artist": "Kishore Kumar",
-      "album": "Old Bollywood Duets",
+      "id": 1282,
+      "title": "Namo Namo",
+      "artist": "Amit Trivedi",
+      "album": "Kedarnath (Original Motion Picture Soundtrack)",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-01-03T04:44:00.000Z",
+      "listenDate": "2025-01-03T10:40:28.000Z",
       "trackNumber": null,
-      "createdAt": "2025-01-03T04:44:01.121Z",
-      "updatedAt": "2025-01-03T04:44:01.121Z"
+      "createdAt": "2025-01-03T10:40:29.810Z",
+      "updatedAt": "2025-01-03T10:40:29.810Z"
     }
   ],
   "github": {
