@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -188,16 +188,16 @@
   ],
   "listens": [
     {
-      "id": 1280,
-      "title": "Bahon Ke Darmiyan - From \"Khamoshi - The Musical\"",
-      "artist": "Alka Yagnik",
+      "id": 1281,
+      "title": "Pyar Hamen Kis Mod Pe - From \"Satte Pe Satta\"",
+      "artist": "Kishore Kumar",
       "album": "Old Bollywood Duets",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-01-03T04:37:26.000Z",
+      "listenDate": "2025-01-03T04:44:00.000Z",
       "trackNumber": null,
-      "createdAt": "2025-01-03T04:37:27.980Z",
-      "updatedAt": "2025-01-03T04:37:27.980Z"
+      "createdAt": "2025-01-03T04:44:01.121Z",
+      "updatedAt": "2025-01-03T04:44:01.121Z"
     }
   ],
   "github": {
