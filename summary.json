@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 5790,
+      "id": 5796,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.1388821\",\"53.2449986\"}",
+      "coordinates": "{\"-6.1388134\",\"53.2449395\"}",
       "batteryLevel": 65,
-      "timestamp": "2025-01-07T15:15:38.000Z",
-      "createdAt": "2025-01-07T15:15:39.229Z",
-      "updatedAt": "2025-01-07T15:15:39.229Z"
+      "timestamp": "2025-01-07T15:46:23.000Z",
+      "createdAt": "2025-01-07T15:46:24.067Z",
+      "updatedAt": "2025-01-07T15:46:24.067Z"
     }
   ],
   "steps": [
@@ -188,16 +188,16 @@
   ],
   "listens": [
     {
-      "id": 1294,
-      "title": "Parvati Boli Shankar Se",
-      "artist": "Hansraj Raghuwanshi",
-      "album": "Parvati Boli Shankar Se",
+      "id": 1299,
+      "title": "SUMMER BLUE",
+      "artist": "Bread And Butter",
+      "album": "Late Late Summer",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-01-05T13:07:39.000Z",
+      "listenDate": "2025-01-07T15:50:21.000Z",
       "trackNumber": null,
-      "createdAt": "2025-01-05T13:07:41.793Z",
-      "updatedAt": "2025-01-05T13:07:41.793Z"
+      "createdAt": "2025-01-07T15:50:22.977Z",
+      "updatedAt": "2025-01-07T15:50:22.977Z"
     }
   ],
   "github": {
