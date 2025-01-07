@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 5796,
+      "id": 5800,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.1388134\",\"53.2449395\"}",
+      "coordinates": "{\"-6.1388787\",\"53.245006\"}",
       "batteryLevel": 65,
-      "timestamp": "2025-01-07T15:46:23.000Z",
-      "createdAt": "2025-01-07T15:46:24.067Z",
-      "updatedAt": "2025-01-07T15:46:24.067Z"
+      "timestamp": "2025-01-07T16:07:05.000Z",
+      "createdAt": "2025-01-07T16:07:06.513Z",
+      "updatedAt": "2025-01-07T16:07:06.513Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -188,16 +188,16 @@
   ],
   "listens": [
     {
-      "id": 1299,
-      "title": "SUMMER BLUE",
-      "artist": "Bread And Butter",
-      "album": "Late Late Summer",
+      "id": 1302,
+      "title": "Long Distance",
+      "artist": "The Districts",
+      "album": "Telephone",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-01-07T15:50:21.000Z",
+      "listenDate": "2025-01-07T16:08:27.000Z",
       "trackNumber": null,
-      "createdAt": "2025-01-07T15:50:22.977Z",
-      "updatedAt": "2025-01-07T15:50:22.977Z"
+      "createdAt": "2025-01-07T16:08:29.222Z",
+      "updatedAt": "2025-01-07T16:08:29.222Z"
     }
   ],
   "github": {
