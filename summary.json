@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 5800,
+      "id": 5803,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.1388787\",\"53.245006\"}",
+      "coordinates": "{\"-6.1389\",\"53.2449861\"}",
       "batteryLevel": 65,
-      "timestamp": "2025-01-07T16:07:05.000Z",
-      "createdAt": "2025-01-07T16:07:06.513Z",
-      "updatedAt": "2025-01-07T16:07:06.513Z"
+      "timestamp": "2025-01-07T16:22:31.000Z",
+      "createdAt": "2025-01-07T16:22:32.266Z",
+      "updatedAt": "2025-01-07T16:22:32.266Z"
     }
   ],
   "steps": [
@@ -188,16 +188,16 @@
   ],
   "listens": [
     {
-      "id": 1302,
-      "title": "Long Distance",
-      "artist": "The Districts",
-      "album": "Telephone",
+      "id": 1306,
+      "title": "Country",
+      "artist": "Racoma",
+      "album": "Racoma",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-01-07T16:08:27.000Z",
+      "listenDate": "2025-01-07T16:23:17.000Z",
       "trackNumber": null,
-      "createdAt": "2025-01-07T16:08:29.222Z",
-      "updatedAt": "2025-01-07T16:08:29.222Z"
+      "createdAt": "2025-01-07T16:23:20.058Z",
+      "updatedAt": "2025-01-07T16:23:20.058Z"
     }
   ],
   "github": {
