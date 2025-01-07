@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 5841,
+      "id": 5843,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.2262155\",\"53.2630179\"}",
       "batteryLevel": 50,
-      "timestamp": "2025-01-07T19:38:55.000Z",
-      "createdAt": "2025-01-07T19:38:56.116Z",
-      "updatedAt": "2025-01-07T19:38:56.116Z"
+      "timestamp": "2025-01-07T19:49:21.000Z",
+      "createdAt": "2025-01-07T19:49:22.171Z",
+      "updatedAt": "2025-01-07T19:49:22.171Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -188,16 +188,16 @@
   ],
   "listens": [
     {
-      "id": 1311,
-      "title": "Bin Tere",
-      "artist": "Vishal-Shekhar",
-      "album": "I Hate Luv Storys (Original Motion Picture Soundtrack)",
+      "id": 1312,
+      "title": "Raanjhan (From \"Do Patti\")",
+      "artist": "Sachet-Parampara",
+      "album": "Raanjhan (From \"Do Patti\")",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-01-07T19:42:26.000Z",
+      "listenDate": "2025-01-07T19:48:02.000Z",
       "trackNumber": null,
-      "createdAt": "2025-01-07T19:42:28.870Z",
-      "updatedAt": "2025-01-07T19:42:28.870Z"
+      "createdAt": "2025-01-07T19:48:03.739Z",
+      "updatedAt": "2025-01-07T19:48:03.739Z"
     }
   ],
   "github": {
