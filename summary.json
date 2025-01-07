@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 5803,
+      "id": 5806,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.1389\",\"53.2449861\"}",
+      "coordinates": "{\"-6.1395712\",\"53.2448134\"}",
       "batteryLevel": 65,
-      "timestamp": "2025-01-07T16:22:31.000Z",
-      "createdAt": "2025-01-07T16:22:32.266Z",
-      "updatedAt": "2025-01-07T16:22:32.266Z"
+      "timestamp": "2025-01-07T16:37:54.000Z",
+      "createdAt": "2025-01-07T16:37:59.908Z",
+      "updatedAt": "2025-01-07T16:37:59.908Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -188,16 +188,16 @@
   ],
   "listens": [
     {
-      "id": 1306,
-      "title": "Country",
-      "artist": "Racoma",
-      "album": "Racoma",
+      "id": 1309,
+      "title": "Buttercup",
+      "artist": "Jack Stauber",
+      "album": "Pop Food",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-01-07T16:23:17.000Z",
+      "listenDate": "2025-01-07T16:33:38.000Z",
       "trackNumber": null,
-      "createdAt": "2025-01-07T16:23:20.058Z",
-      "updatedAt": "2025-01-07T16:23:20.058Z"
+      "createdAt": "2025-01-07T16:33:40.285Z",
+      "updatedAt": "2025-01-07T16:33:40.285Z"
     }
   ],
   "github": {
