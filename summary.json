@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 6367,
+      "id": 6368,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.1399888\",\"53.2425808\"}",
+      "coordinates": "{\"-6.1457044\",\"53.2453639\"}",
       "batteryLevel": 85,
-      "timestamp": "2025-01-09T17:08:56.000Z",
-      "createdAt": "2025-01-09T17:08:57.296Z",
-      "updatedAt": "2025-01-09T17:08:57.296Z"
+      "timestamp": "2025-01-09T17:14:04.000Z",
+      "createdAt": "2025-01-09T17:14:05.232Z",
+      "updatedAt": "2025-01-09T17:14:05.232Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -201,11 +201,11 @@
     }
   ],
   "github": {
-    "lastCommit": "2025-01-08T21:49:02Z",
+    "lastCommit": "2025-01-09T17:02:33Z",
     "recentRepos": [
       {
         "name": "leetcode-python",
-        "pushedAt": "2025-01-08T21:49:03Z"
+        "pushedAt": "2025-01-09T17:02:33Z"
       },
       {
         "name": "omakub",
