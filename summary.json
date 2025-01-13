@@ -1,0 +1,287 @@
+{
+  "locations": [
+    {
+      "id": 6450,
+      "batteryState": "charging",
+      "coordinates": "{\"-6.2262223\",\"53.2630271\"}",
+      "batteryLevel": 25,
+      "timestamp": "2025-01-12T14:01:16.000Z",
+      "createdAt": "2025-01-12T14:01:17.105Z",
+      "updatedAt": "2025-01-12T14:01:17.105Z"
+    }
+  ],
+  "steps": [
+    {
+      "id": 8985,
+      "stepCount": 6840,
+      "date": "1/12/25",
+      "fullDate": "2025-01-12T00:00:00.000Z",
+      "createdAt": "2025-01-13T00:45:13.088Z",
+      "updatedAt": "2025-01-13T00:45:13.088Z"
+    }
+  ],
+  "sleep": [
+    {
+      "id": 255,
+      "sleep": "8.2",
+      "date": "1/6/25",
+      "fullDate": "2025-01-06T00:00:00.000Z",
+      "sleepStart": "2025-01-06T01:18:00.000Z",
+      "sleepEnd": "2025-01-06T09:19:59.000Z",
+      "createdAt": "2025-01-07T19:43:29.703Z",
+      "updatedAt": "2025-01-07T19:43:29.703Z"
+    }
+  ],
+  "word": [
+    {
+      "id": 1,
+      "word": "clandestine",
+      "meaning": "characterized by, done in, or executed with secrecy or concealment, especially for purposes of subversion or deception; private or surreptitious",
+      "pronounciation": "klan-des-tin",
+      "sentences": "Their clandestine meetings went undiscovered for two years.",
+      "createdAt": "2022-01-24T19:45:33.772Z",
+      "updatedAt": "2022-01-24T19:45:33.772Z"
+    }
+  ],
+  "quote": [
+    {
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "category": "Motivational",
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
+    }
+  ],
+  "shows": [
+    {
+      "id": 22,
+      "title": "Peep Show Season 9",
+      "language": "English",
+      "showName": "Peep Show",
+      "description": "Mark and Jez are a couple of twenty-something roommates who have nothing in common - except for the fact that their lives are anything but normal. Mayhem ensues as the pair strive to cope with day-to-day life.",
+      "seasonNumber": 9,
+      "year": 2003,
+      "genre": "Comedy",
+      "startedDate": "2022-01-31T00:00:00.000Z",
+      "completedDate": null,
+      "status": "Started",
+      "loved": true,
+      "imdbRating": "8.6",
+      "imdbId": "tt0387764",
+      "createdAt": "2022-02-01T01:30:32.275Z",
+      "updatedAt": "2022-02-01T01:30:32.275Z"
+    }
+  ],
+  "books": [
+    {
+      "id": 11,
+      "title": "Atomic Habits",
+      "author": " James Clear",
+      "poster": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655988385i/40121378.jpg",
+      "description": "No matter your goals, Atomic Habits offers a proven framework for improving—every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.",
+      "notes": "Atomic Habits",
+      "year": 2018,
+      "genre": "Personal Development",
+      "completedDate": "2023-02-08T00:00:00.000Z",
+      "loved": true,
+      "createdAt": "2024-10-22T14:53:34.755Z",
+      "updatedAt": "2024-10-22T14:53:34.755Z"
+    }
+  ],
+  "courses": [
+    {
+      "id": 2,
+      "title": "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
+      "description": "Build and deploy a social network with Node.js, Express, React, Redux & MongoDB",
+      "author": "Brad Traversy",
+      "category": "React",
+      "notes": "NA",
+      "completedDate": "2019-01-02T00:00:00.000Z",
+      "platform": "Udemy",
+      "createdAt": "2022-01-21T03:28:37.957Z",
+      "updatedAt": "2022-01-21T03:28:37.957Z"
+    }
+  ],
+  "movies": [
+    {
+      "id": 166,
+      "title": "The Exorcist",
+      "description": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+      "review": null,
+      "language": "English",
+      "year": 1973,
+      "genre": "Horror",
+      "viewingDate": "2024-12-02T04:53:18.239Z",
+      "loved": true,
+      "imdbRating": "8.1",
+      "imdbId": "tt0070047",
+      "createdAt": "2024-12-02T14:59:17.397Z",
+      "updatedAt": "2024-12-02T14:59:17.397Z"
+    }
+  ],
+  "tasks": [],
+  "updates": [
+    {
+      "id": 11,
+      "category": "Life",
+      "content": null,
+      "title": "Moved to Dublin, Ireland",
+      "date": "2021-09-13T10:29:42.297Z",
+      "createdAt": "2024-09-15T13:36:36.858Z",
+      "updatedAt": "2024-09-15T13:36:36.858Z"
+    },
+    {
+      "id": 10,
+      "category": "Life",
+      "content": null,
+      "title": "Started job at Honeywell, India",
+      "date": "2020-10-12T10:29:42.297Z",
+      "createdAt": "2024-09-15T13:32:54.840Z",
+      "updatedAt": "2024-09-15T13:32:54.840Z"
+    },
+    {
+      "id": 9,
+      "category": "Life",
+      "content": null,
+      "title": "Started job at Amdocs, India",
+      "date": "2019-01-19T10:29:42.297Z",
+      "createdAt": "2024-09-15T13:28:28.681Z",
+      "updatedAt": "2024-09-15T13:33:11.559Z"
+    },
+    {
+      "id": 8,
+      "category": "Life",
+      "content": null,
+      "title": "Started job at Nitor Infotech",
+      "date": "2016-06-27T10:29:42.000Z",
+      "createdAt": "2024-09-15T13:27:56.348Z",
+      "updatedAt": "2024-09-15T13:35:21.819Z"
+    },
+    {
+      "id": 7,
+      "category": "Life",
+      "content": null,
+      "title": "Moved to Pune, India",
+      "date": "2016-06-17T10:29:42.000Z",
+      "createdAt": "2024-09-15T13:22:04.990Z",
+      "updatedAt": "2024-09-15T13:35:34.498Z"
+    },
+    {
+      "id": 6,
+      "category": "Life",
+      "content": null,
+      "title": "Graduated in Computer Science and Engineering from Nagpur University, India",
+      "date": "2016-05-30T10:29:42.297Z",
+      "createdAt": "2024-09-15T13:21:23.009Z",
+      "updatedAt": "2024-09-15T13:32:38.727Z"
+    },
+    {
+      "id": 5,
+      "category": "Life",
+      "content": null,
+      "title": "Born in Chhattisgarh, India",
+      "date": "1993-06-04T10:29:42.297Z",
+      "createdAt": "2024-09-15T13:19:16.078Z",
+      "updatedAt": "2024-09-15T13:19:16.078Z"
+    }
+  ],
+  "listens": [
+    {
+      "id": 1315,
+      "title": "Bin Tere",
+      "artist": "Vishal-Shekhar",
+      "album": "I Hate Luv Storys (Original Motion Picture Soundtrack)",
+      "releaseYear": null,
+      "genre": null,
+      "listenDate": "2025-01-08T10:47:15.000Z",
+      "trackNumber": null,
+      "createdAt": "2025-01-08T10:47:16.253Z",
+      "updatedAt": "2025-01-08T10:47:16.253Z"
+    }
+  ],
+  "github": {
+    "lastCommit": "2025-01-09T22:43:10Z",
+    "recentRepos": [
+      {
+        "name": "leetcode-python",
+        "pushedAt": "2025-01-09T22:43:10Z"
+      },
+      {
+        "name": "omakub",
+        "pushedAt": "2024-12-16T20:11:21Z"
+      },
+      {
+        "name": "books.ashish.me",
+        "pushedAt": "2024-12-05T23:03:00Z"
+      },
+      {
+        "name": "shows.ashish.me",
+        "pushedAt": "2024-12-05T23:01:49Z"
+      },
+      {
+        "name": "movies.ashish.me",
+        "pushedAt": "2024-12-05T23:00:50Z"
+      },
+      {
+        "name": "wiki.ashish.me",
+        "pushedAt": "2024-11-20T00:13:30Z"
+      },
+      {
+        "name": "dotfiles",
+        "pushedAt": "2024-11-19T23:35:30Z"
+      },
+      {
+        "name": "cli",
+        "pushedAt": "2024-11-11T22:05:56Z"
+      },
+      {
+        "name": "blog",
+        "pushedAt": "2024-11-11T15:34:12Z"
+      },
+      {
+        "name": "workers",
+        "pushedAt": "2024-11-10T10:49:26Z"
+      },
+      {
+        "name": "ashishdotme-utils",
+        "pushedAt": "2024-11-09T00:31:07Z"
+      },
+      {
+        "name": "npm-library-starter",
+        "pushedAt": "2024-11-08T23:32:13Z"
+      },
+      {
+        "name": "task-tracker",
+        "pushedAt": "2024-11-08T23:08:27Z"
+      },
+      {
+        "name": "jobsapi.ashish.me",
+        "pushedAt": "2024-11-05T23:21:30Z"
+      },
+      {
+        "name": "dashy",
+        "pushedAt": "2024-10-16T17:47:56Z"
+      },
+      {
+        "name": "dashboard.ashish.me",
+        "pushedAt": "2024-09-14T17:51:29Z"
+      }
+    ]
+  },
+  "lastLeetcode": {
+    "path": "Array_Easy_0944-delete-columns-to-make-sorted_solution.py",
+    "title": "solution.py",
+    "body": "```python  \n# Created by Ashish Patel at 2025/01/09 22:00\n# leetgo: 1.4.13\n# https://leetcode.com/problems/delete-columns-to-make-sorted/\n\n\"\"\"\n944. Delete Columns to Make Sorted (Easy)\nYou are given an array of n strings strs, all of the same length.\n\nThe strings can be arranged such that there is one on each line, making a grid.\n\n- For example, strs = [\"abc\", \"bce\", \"cae\"] can be arranged as follows:\n\n\nabc\nbce\ncae\n\n\nYou want to **delete** the columns that are **not sorted lexicographically**. In the above example (\n**0-indexed**), columns 0 ( 'a', 'b', 'c') and 2 ( 'c', 'e', 'e') are sorted, while\ncolumn 1 ( 'b', 'c', 'a') is not, so you would delete column 1.\n\nReturn the number of columns that you will delete.\n\n**Example 1:**\n\n\nInput: strs = [\"cba\",\"daf\",\"ghi\"]\nOutput: 1\nExplanation: The grid looks as follows:\n  cba\n  daf\n  ghi\nColumns 0 and 2 are sorted, but column 1 is not, so you only need to delete 1 column.\n\n\n**Example 2:**\n\n\nInput: strs = [\"a\",\"b\"]\nOutput: 0\nExplanation: The grid looks as follows:\n  a\n  b\nColumn 0 is the only column and is sorted, so you will not delete any columns.\n\n\n**Example 3:**\n\n\nInput: strs = [\"zyx\",\"wvu\",\"tsr\"]\nOutput: 3\nExplanation: The grid looks as follows:\n  zyx\n  wvu\n  tsr\nAll 3 columns are not sorted, so you will delete all 3.\n\n\n**Constraints:**\n\n- n == strs.length\n- 1 <= n <= 100\n- 1 <= strs[i].length <= 1000\n- strs[i] consists of lowercase English letters.\n\n\"\"\"\n\nfrom typing import *\nfrom leetgo_py import *\n\nimport bisect\nimport collections \nimport functools\nimport heapq \nimport itertools \nimport operator\nimport math \nimport string\n\n# @lc code=begin\n\nclass Solution:\n    def minDeletionSize(self, strs: List[str]) -> int:\n        count = 0\n        for col in range(len(strs[0])):\n          for row in range(1,len(strs)):\n            if strs[row][col] < strs[row-1][col]:\n              count += 1\n              break\n        return count\n          \n\n# @lc code=end\n\nif __name__ == \"__main__\":\n    strs = [\"cba\",\"daf\",\"ghi\"]\n    ans = Solution().minDeletionSize(strs)\n    print(\"\\noutput:\", serialize(ans, \"integer\"))\n```",
+    "topic1": "Array",
+    "topic2": "Easy",
+    "topic3": "0944-delete-columns-to-make-sorted",
+    "url": "https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/0944-delete-columns-to-make-sorted/solution.py",
+    "slug": "solution",
+    "html": "<div class=\"highlight highlight-source-python\"><pre><span class=\"pl-c\"># Created by Ashish Patel at 2025/01/09 22:00</span>\n<span class=\"pl-c\"># leetgo: 1.4.13</span>\n<span class=\"pl-c\"># https://leetcode.com/problems/delete-columns-to-make-sorted/</span>\n\n<span class=\"pl-s\">\"\"\"</span>\n<span class=\"pl-s\">944. Delete Columns to Make Sorted (Easy)</span>\n<span class=\"pl-s\">You are given an array of n strings strs, all of the same length.</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">The strings can be arranged such that there is one on each line, making a grid.</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">- For example, strs = [\"abc\", \"bce\", \"cae\"] can be arranged as follows:</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">abc</span>\n<span class=\"pl-s\">bce</span>\n<span class=\"pl-s\">cae</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">You want to **delete** the columns that are **not sorted lexicographically**. In the above example (</span>\n<span class=\"pl-s\">**0-indexed**), columns 0 ( 'a', 'b', 'c') and 2 ( 'c', 'e', 'e') are sorted, while</span>\n<span class=\"pl-s\">column 1 ( 'b', 'c', 'a') is not, so you would delete column 1.</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">Return the number of columns that you will delete.</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">**Example 1:**</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">Input: strs = [\"cba\",\"daf\",\"ghi\"]</span>\n<span class=\"pl-s\">Output: 1</span>\n<span class=\"pl-s\">Explanation: The grid looks as follows:</span>\n<span class=\"pl-s\">  cba</span>\n<span class=\"pl-s\">  daf</span>\n<span class=\"pl-s\">  ghi</span>\n<span class=\"pl-s\">Columns 0 and 2 are sorted, but column 1 is not, so you only need to delete 1 column.</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">**Example 2:**</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">Input: strs = [\"a\",\"b\"]</span>\n<span class=\"pl-s\">Output: 0</span>\n<span class=\"pl-s\">Explanation: The grid looks as follows:</span>\n<span class=\"pl-s\">  a</span>\n<span class=\"pl-s\">  b</span>\n<span class=\"pl-s\">Column 0 is the only column and is sorted, so you will not delete any columns.</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">**Example 3:**</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">Input: strs = [\"zyx\",\"wvu\",\"tsr\"]</span>\n<span class=\"pl-s\">Output: 3</span>\n<span class=\"pl-s\">Explanation: The grid looks as follows:</span>\n<span class=\"pl-s\">  zyx</span>\n<span class=\"pl-s\">  wvu</span>\n<span class=\"pl-s\">  tsr</span>\n<span class=\"pl-s\">All 3 columns are not sorted, so you will delete all 3.</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">**Constraints:**</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">- n == strs.length</span>\n<span class=\"pl-s\">- 1 &lt;= n &lt;= 100</span>\n<span class=\"pl-s\">- 1 &lt;= strs[i].length &lt;= 1000</span>\n<span class=\"pl-s\">- strs[i] consists of lowercase English letters.</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">\"\"\"</span>\n\n<span class=\"pl-k\">from</span> <span class=\"pl-s1\">typing</span> <span class=\"pl-k\">import</span> <span class=\"pl-c1\">*</span>\n<span class=\"pl-k\">from</span> <span class=\"pl-s1\">leetgo_py</span> <span class=\"pl-k\">import</span> <span class=\"pl-c1\">*</span>\n\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">bisect</span>\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">collections</span> \n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">functools</span>\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">heapq</span> \n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">itertools</span> \n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">operator</span>\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">math</span> \n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">string</span>\n\n<span class=\"pl-c\"># @lc code=begin</span>\n\n<span class=\"pl-k\">class</span> <span class=\"pl-v\">Solution</span>:\n    <span class=\"pl-k\">def</span> <span class=\"pl-en\">minDeletionSize</span>(<span class=\"pl-s1\">self</span>, <span class=\"pl-s1\">strs</span>: <span class=\"pl-v\">List</span>[<span class=\"pl-smi\">str</span>]) <span class=\"pl-c1\">-&gt;</span> <span class=\"pl-smi\">int</span>:\n        <span class=\"pl-s1\">count</span> <span class=\"pl-c1\">=</span> <span class=\"pl-c1\">0</span>\n        <span class=\"pl-k\">for</span> <span class=\"pl-s1\">col</span> <span class=\"pl-c1\">in</span> <span class=\"pl-en\">range</span>(<span class=\"pl-en\">len</span>(<span class=\"pl-s1\">strs</span>[<span class=\"pl-c1\">0</span>])):\n          <span class=\"pl-k\">for</span> <span class=\"pl-s1\">row</span> <span class=\"pl-c1\">in</span> <span class=\"pl-en\">range</span>(<span class=\"pl-c1\">1</span>,<span class=\"pl-en\">len</span>(<span class=\"pl-s1\">strs</span>)):\n            <span class=\"pl-k\">if</span> <span class=\"pl-s1\">strs</span>[<span class=\"pl-s1\">row</span>][<span class=\"pl-s1\">col</span>] <span class=\"pl-c1\">&lt;</span> <span class=\"pl-s1\">strs</span>[<span class=\"pl-s1\">row</span><span class=\"pl-c1\">-</span><span class=\"pl-c1\">1</span>][<span class=\"pl-s1\">col</span>]:\n              <span class=\"pl-s1\">count</span> <span class=\"pl-c1\">+=</span> <span class=\"pl-c1\">1</span>\n              <span class=\"pl-k\">break</span>\n        <span class=\"pl-k\">return</span> <span class=\"pl-s1\">count</span>\n          \n\n<span class=\"pl-c\"># @lc code=end</span>\n\n<span class=\"pl-k\">if</span> <span class=\"pl-s1\">__name__</span> <span class=\"pl-c1\">==</span> <span class=\"pl-s\">\"__main__\"</span>:\n    <span class=\"pl-s1\">strs</span> <span class=\"pl-c1\">=</span> [<span class=\"pl-s\">\"cba\"</span>,<span class=\"pl-s\">\"daf\"</span>,<span class=\"pl-s\">\"ghi\"</span>]\n    <span class=\"pl-s1\">ans</span> <span class=\"pl-c1\">=</span> <span class=\"pl-en\">Solution</span>().<span class=\"pl-c1\">minDeletionSize</span>(<span class=\"pl-s1\">strs</span>)\n    <span class=\"pl-en\">print</span>(<span class=\"pl-s\">\"<span class=\"pl-cce\">\\n</span>output:\"</span>, <span class=\"pl-en\">serialize</span>(<span class=\"pl-s1\">ans</span>, <span class=\"pl-s\">\"integer\"</span>))</pre></div>\n",
+    "created": "2025-01-09T22:42:42+00:00",
+    "created_utc": "2025-01-09T22:42:42+00:00",
+    "updated": "2025-01-09T22:42:42+00:00",
+    "updated_utc": "2025-01-09T22:42:42+00:00"
+  }
+}
