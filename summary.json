@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -188,16 +188,16 @@
   ],
   "listens": [
     {
-      "id": 1315,
-      "title": "Bin Tere",
-      "artist": "Vishal-Shekhar",
-      "album": "I Hate Luv Storys (Original Motion Picture Soundtrack)",
+      "id": 1316,
+      "title": "Kya Yahi Pyar Hai - From \"Rocky\"",
+      "artist": "Lata Mangeshkar",
+      "album": "Old Bollywood Duets",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-01-08T10:47:15.000Z",
+      "listenDate": "2025-01-15T05:41:14.000Z",
       "trackNumber": null,
-      "createdAt": "2025-01-08T10:47:16.253Z",
-      "updatedAt": "2025-01-08T10:47:16.253Z"
+      "createdAt": "2025-01-15T05:41:16.815Z",
+      "updatedAt": "2025-01-15T05:41:16.815Z"
     }
   ],
   "github": {
