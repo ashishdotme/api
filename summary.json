@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -188,16 +188,16 @@
   ],
   "listens": [
     {
-      "id": 1342,
-      "title": "Us Mod Se Shuroo Karen",
+      "id": 1343,
+      "title": "Kal Chaudhvin Ki Raat Thi",
       "artist": "Jagjit Singh",
-      "album": "The Latest",
+      "album": "Duniya Jise Kahte Hain",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-02-07T13:46:59.000Z",
+      "listenDate": "2025-02-07T13:53:11.000Z",
       "trackNumber": null,
-      "createdAt": "2025-02-07T13:47:00.950Z",
-      "updatedAt": "2025-02-07T13:47:00.950Z"
+      "createdAt": "2025-02-07T13:53:13.594Z",
+      "updatedAt": "2025-02-07T13:53:13.594Z"
     }
   ],
   "github": {
