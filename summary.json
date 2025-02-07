@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -188,16 +188,16 @@
   ],
   "listens": [
     {
-      "id": 1333,
-      "title": "Tum Ko Dekha To Yeh Khayal Aaya",
+      "id": 1334,
+      "title": "Hey Ram Hey Ram Shree Ram Dhun",
       "artist": "Jagjit Singh",
-      "album": "Saath Saath",
+      "album": "Hey Ram Hey Ram",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-02-07T12:32:14.000Z",
+      "listenDate": "2025-02-07T12:59:07.000Z",
       "trackNumber": null,
-      "createdAt": "2025-02-07T12:32:16.008Z",
-      "updatedAt": "2025-02-07T12:32:16.008Z"
+      "createdAt": "2025-02-07T12:59:09.307Z",
+      "updatedAt": "2025-02-07T12:59:09.307Z"
     }
   ],
   "github": {
