@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -188,16 +188,16 @@
   ],
   "listens": [
     {
-      "id": 1337,
-      "title": "Koi Fariyaad",
+      "id": 1339,
+      "title": "Pyaar Ka Pehla Khat",
       "artist": "Jagjit Singh",
-      "album": "Ghazal Maestro - Jagjit Singh",
+      "album": "Face To Face",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-02-07T13:18:59.000Z",
+      "listenDate": "2025-02-07T13:31:13.000Z",
       "trackNumber": null,
-      "createdAt": "2025-02-07T13:19:01.319Z",
-      "updatedAt": "2025-02-07T13:19:01.319Z"
+      "createdAt": "2025-02-07T13:31:14.729Z",
+      "updatedAt": "2025-02-07T13:31:14.729Z"
     }
   ],
   "github": {
