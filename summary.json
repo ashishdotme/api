@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -188,16 +188,16 @@
   ],
   "listens": [
     {
-      "id": 1352,
-      "title": "Neele Neele Ambar Par - Male Version",
-      "artist": "Kalyanji-Anandji",
-      "album": "Kalaakaar (Original Motion Picture Soundtrack)",
+      "id": 1353,
+      "title": "Ae Mere Humsafar",
+      "artist": "Alka Yagnik",
+      "album": "Qayamat Se Qayamat Tak",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-02-13T05:38:00.000Z",
+      "listenDate": "2025-02-13T05:43:55.000Z",
       "trackNumber": null,
-      "createdAt": "2025-02-13T05:38:01.734Z",
-      "updatedAt": "2025-02-13T05:38:01.734Z"
+      "createdAt": "2025-02-13T05:43:56.341Z",
+      "updatedAt": "2025-02-13T05:43:56.341Z"
     }
   ],
   "github": {
