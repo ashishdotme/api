@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 6456,
+      "id": 6462,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.2262259\",\"53.2630195\"}",
       "batteryLevel": 90,
-      "timestamp": "2025-02-23T09:47:00.000Z",
-      "createdAt": "2025-02-23T09:47:00.578Z",
-      "updatedAt": "2025-02-23T09:47:00.578Z"
+      "timestamp": "2025-02-23T09:51:02.000Z",
+      "createdAt": "2025-02-23T09:51:02.488Z",
+      "updatedAt": "2025-02-23T09:51:02.488Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -105,19 +105,19 @@
   ],
   "movies": [
     {
-      "id": 168,
-      "title": "Office Space",
-      "description": "Three company workers who hate their jobs decide to rebel against their greedy boss.",
+      "id": 169,
+      "title": "Tumbbad",
+      "description": "A mythological story about a goddess who created the entire universe. The plot revolves around the consequences when humans build a temple for her first-born.",
       "review": null,
-      "language": "English",
-      "year": 1999,
-      "genre": "Comedy",
-      "viewingDate": "2025-02-17T17:13:45.166Z",
+      "language": "Hindi",
+      "year": 2018,
+      "genre": "Drama, Fantasy, Horror, Thriller",
+      "viewingDate": "2025-02-23T09:44:08.689Z",
       "loved": true,
-      "imdbRating": "7.6",
-      "imdbId": "tt0151804",
-      "createdAt": "2025-02-18T21:20:53.648Z",
-      "updatedAt": "2025-02-18T21:20:53.648Z"
+      "imdbRating": "8.2",
+      "imdbId": "tt8239946",
+      "createdAt": "2025-02-23T09:52:42.084Z",
+      "updatedAt": "2025-02-23T09:52:42.084Z"
     }
   ],
   "tasks": [],
@@ -188,16 +188,16 @@
   ],
   "listens": [
     {
-      "id": 1386,
-      "title": "Dekhkar Ramji Ko Janak Nandani",
-      "artist": "Anu Dubey",
-      "album": "Bhajan Ganga",
+      "id": 1387,
+      "title": "Teri Jhuki Nazar",
+      "artist": "Pritam",
+      "album": "Murder 3 (Original Motion Picture Soundtrack)",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-02-14T02:59:55.000Z",
+      "listenDate": "2025-02-23T09:50:41.000Z",
       "trackNumber": null,
-      "createdAt": "2025-02-14T02:59:56.367Z",
-      "updatedAt": "2025-02-14T02:59:56.367Z"
+      "createdAt": "2025-02-23T09:50:42.789Z",
+      "updatedAt": "2025-02-23T09:50:42.789Z"
     }
   ],
   "github": {
