@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -188,16 +188,16 @@
   ],
   "listens": [
     {
-      "id": 1424,
-      "title": "Tera Mera Rishta",
-      "artist": "Mustafa Zahid",
-      "album": "Awarapan (Original Soundtrack)",
+      "id": 1426,
+      "title": "Nahin Milta",
+      "artist": "Bayaan",
+      "album": "4 Saal",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-02-24T21:30:00.000Z",
+      "listenDate": "2025-02-24T21:39:38.000Z",
       "trackNumber": null,
-      "createdAt": "2025-02-24T21:30:02.470Z",
-      "updatedAt": "2025-02-24T21:30:02.470Z"
+      "createdAt": "2025-02-24T21:39:39.930Z",
+      "updatedAt": "2025-02-24T21:39:39.930Z"
     }
   ],
   "github": {
