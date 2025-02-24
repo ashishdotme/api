@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -188,16 +188,16 @@
   ],
   "listens": [
     {
-      "id": 1428,
-      "title": "Kya Mujhe Pyar Hai",
-      "artist": "Pritam",
-      "album": "Woh Lamhe",
+      "id": 1429,
+      "title": "Tu Jaane Na",
+      "artist": "Atif Aslam",
+      "album": "Best of Romance: Atif Aslam & Pritam",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-02-24T21:48:17.000Z",
+      "listenDate": "2025-02-24T21:54:00.000Z",
       "trackNumber": null,
-      "createdAt": "2025-02-24T21:48:19.263Z",
-      "updatedAt": "2025-02-24T21:48:19.263Z"
+      "createdAt": "2025-02-24T21:54:02.146Z",
+      "updatedAt": "2025-02-24T21:54:02.146Z"
     }
   ],
   "github": {
