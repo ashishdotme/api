@@ -1,5 +1,29 @@
 [
   {
+    "id": 1421,
+    "title": "Hum Jee Lenge - Rock Version",
+    "artist": "Roxen Band",
+    "album": "Murder 3 (Original Motion Picture Soundtrack)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-02-24T21:15:08.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-02-24T21:15:10.391Z",
+    "updatedAt": "2025-02-24T21:15:10.391Z"
+  },
+  {
+    "id": 1420,
+    "title": "Jaata Hai Tujh Tak - Film Version",
+    "artist": "Pritam",
+    "album": "Murder 3 (Original Motion Picture Soundtrack)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-02-24T21:10:49.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-02-24T21:10:51.479Z",
+    "updatedAt": "2025-02-24T21:10:51.479Z"
+  },
+  {
     "id": 1419,
     "title": "Teri Jhuki Nazar - Film Version",
     "artist": "Shafqat Amanat Ali",
