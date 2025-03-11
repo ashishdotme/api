@@ -1,4 +1,300 @@
 {
-  "statusCode": 500,
-  "message": "Internal server error"
+  "locations": [
+    {
+      "id": 6834,
+      "batteryState": "unplugged",
+      "coordinates": "{\"-6.2261315\",\"53.2628017\"}",
+      "batteryLevel": 15,
+      "timestamp": "2025-02-28T08:30:43.000Z",
+      "createdAt": "2025-02-28T08:30:44.476Z",
+      "updatedAt": "2025-02-28T08:30:44.476Z"
+    }
+  ],
+  "steps": [
+    {
+      "id": 9481,
+      "stepCount": 532,
+      "date": "3/10/25",
+      "fullDate": "2025-03-10T00:00:00.000Z",
+      "createdAt": "2025-03-11T00:45:54.072Z",
+      "updatedAt": "2025-03-11T00:45:54.072Z"
+    }
+  ],
+  "sleep": [
+    {
+      "id": 271,
+      "sleep": "7.8",
+      "date": "2/19/25",
+      "fullDate": "2025-02-19T00:00:00.000Z",
+      "sleepStart": "2025-02-19T00:10:00.000Z",
+      "sleepEnd": "2025-02-19T07:34:59.000Z",
+      "createdAt": "2025-02-20T06:43:38.861Z",
+      "updatedAt": "2025-02-20T06:43:38.861Z"
+    }
+  ],
+  "word": [
+    {
+      "id": 1,
+      "word": "clandestine",
+      "meaning": "characterized by, done in, or executed with secrecy or concealment, especially for purposes of subversion or deception; private or surreptitious",
+      "pronounciation": "klan-des-tin",
+      "sentences": "Their clandestine meetings went undiscovered for two years.",
+      "createdAt": "2022-01-24T19:45:33.772Z",
+      "updatedAt": "2022-01-24T19:45:33.772Z"
+    }
+  ],
+  "quote": [
+    {
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "category": "Motivational",
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
+    }
+  ],
+  "shows": [
+    {
+      "id": 22,
+      "title": "Peep Show Season 9",
+      "language": "English",
+      "showName": "Peep Show",
+      "description": "Mark and Jez are a couple of twenty-something roommates who have nothing in common - except for the fact that their lives are anything but normal. Mayhem ensues as the pair strive to cope with day-to-day life.",
+      "seasonNumber": 9,
+      "year": 2003,
+      "genre": "Comedy",
+      "startedDate": "2022-01-31T00:00:00.000Z",
+      "completedDate": null,
+      "status": "Started",
+      "loved": true,
+      "imdbRating": "8.6",
+      "imdbId": "tt0387764",
+      "createdAt": "2022-02-01T01:30:32.275Z",
+      "updatedAt": "2022-02-01T01:30:32.275Z"
+    }
+  ],
+  "books": [
+    {
+      "id": 11,
+      "title": "Atomic Habits",
+      "author": " James Clear",
+      "poster": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655988385i/40121378.jpg",
+      "description": "No matter your goals, Atomic Habits offers a proven framework for improving—every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.",
+      "notes": "Atomic Habits",
+      "year": 2018,
+      "genre": "Personal Development",
+      "completedDate": "2023-02-08T00:00:00.000Z",
+      "loved": true,
+      "createdAt": "2024-10-22T14:53:34.755Z",
+      "updatedAt": "2024-10-22T14:53:34.755Z"
+    }
+  ],
+  "courses": [
+    {
+      "id": 2,
+      "title": "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
+      "description": "Build and deploy a social network with Node.js, Express, React, Redux & MongoDB",
+      "author": "Brad Traversy",
+      "category": "React",
+      "notes": "NA",
+      "completedDate": "2019-01-02T00:00:00.000Z",
+      "platform": "Udemy",
+      "createdAt": "2022-01-21T03:28:37.957Z",
+      "updatedAt": "2022-01-21T03:28:37.957Z"
+    }
+  ],
+  "movies": [
+    {
+      "id": 169,
+      "title": "Tumbbad",
+      "description": "A mythological story about a goddess who created the entire universe. The plot revolves around the consequences when humans build a temple for her first-born.",
+      "review": null,
+      "language": "Hindi",
+      "year": 2018,
+      "genre": "Drama, Fantasy, Horror, Thriller",
+      "viewingDate": "2025-02-23T09:44:08.689Z",
+      "loved": true,
+      "imdbRating": "8.2",
+      "imdbId": "tt8239946",
+      "createdAt": "2025-02-23T09:52:42.084Z",
+      "updatedAt": "2025-02-23T09:52:42.084Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 569,
+      "content": "Build add tv show page in website",
+      "category": "Now",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "67bf90878f084becd44a7da9",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2025-02-26T22:07:02.530Z",
+      "createdAt": "2025-02-26T22:07:03.281Z",
+      "updatedAt": "2025-02-26T22:07:03.281Z"
+    }
+  ],
+  "updates": [
+    {
+      "id": 11,
+      "category": "Life",
+      "content": null,
+      "title": "Moved to Dublin, Ireland",
+      "date": "2021-09-13T10:29:42.297Z",
+      "createdAt": "2024-09-15T13:36:36.858Z",
+      "updatedAt": "2024-09-15T13:36:36.858Z"
+    },
+    {
+      "id": 10,
+      "category": "Life",
+      "content": null,
+      "title": "Started job at Honeywell, India",
+      "date": "2020-10-12T10:29:42.297Z",
+      "createdAt": "2024-09-15T13:32:54.840Z",
+      "updatedAt": "2024-09-15T13:32:54.840Z"
+    },
+    {
+      "id": 9,
+      "category": "Life",
+      "content": null,
+      "title": "Started job at Amdocs, India",
+      "date": "2019-01-19T10:29:42.297Z",
+      "createdAt": "2024-09-15T13:28:28.681Z",
+      "updatedAt": "2024-09-15T13:33:11.559Z"
+    },
+    {
+      "id": 8,
+      "category": "Life",
+      "content": null,
+      "title": "Started job at Nitor Infotech",
+      "date": "2016-06-27T10:29:42.000Z",
+      "createdAt": "2024-09-15T13:27:56.348Z",
+      "updatedAt": "2024-09-15T13:35:21.819Z"
+    },
+    {
+      "id": 7,
+      "category": "Life",
+      "content": null,
+      "title": "Moved to Pune, India",
+      "date": "2016-06-17T10:29:42.000Z",
+      "createdAt": "2024-09-15T13:22:04.990Z",
+      "updatedAt": "2024-09-15T13:35:34.498Z"
+    },
+    {
+      "id": 6,
+      "category": "Life",
+      "content": null,
+      "title": "Graduated in Computer Science and Engineering from Nagpur University, India",
+      "date": "2016-05-30T10:29:42.297Z",
+      "createdAt": "2024-09-15T13:21:23.009Z",
+      "updatedAt": "2024-09-15T13:32:38.727Z"
+    },
+    {
+      "id": 5,
+      "category": "Life",
+      "content": null,
+      "title": "Born in Chhattisgarh, India",
+      "date": "1993-06-04T10:29:42.297Z",
+      "createdAt": "2024-09-15T13:19:16.078Z",
+      "updatedAt": "2024-09-15T13:19:16.078Z"
+    }
+  ],
+  "listens": [
+    {
+      "id": 1434,
+      "title": "Saware",
+      "artist": "Pritam",
+      "album": "Phantom",
+      "releaseYear": null,
+      "genre": null,
+      "listenDate": "2025-03-08T19:05:02.000Z",
+      "trackNumber": null,
+      "createdAt": "2025-03-08T19:05:03.228Z",
+      "updatedAt": "2025-03-08T19:05:03.228Z"
+    }
+  ],
+  "github": {
+    "lastCommit": "2025-02-26T22:04:33Z",
+    "recentRepos": [
+      {
+        "name": "blog",
+        "pushedAt": "2025-02-26T22:05:08Z"
+      },
+      {
+        "name": "wiki.ashish.me",
+        "pushedAt": "2025-02-22T10:59:22Z"
+      },
+      {
+        "name": "leetcode-python",
+        "pushedAt": "2025-02-11T12:19:41Z"
+      },
+      {
+        "name": "omakub",
+        "pushedAt": "2024-12-16T20:11:21Z"
+      },
+      {
+        "name": "books.ashish.me",
+        "pushedAt": "2024-12-05T23:03:00Z"
+      },
+      {
+        "name": "shows.ashish.me",
+        "pushedAt": "2024-12-05T23:01:49Z"
+      },
+      {
+        "name": "movies.ashish.me",
+        "pushedAt": "2024-12-05T23:00:50Z"
+      },
+      {
+        "name": "dotfiles",
+        "pushedAt": "2024-11-19T23:35:30Z"
+      },
+      {
+        "name": "cli",
+        "pushedAt": "2024-11-11T22:05:56Z"
+      },
+      {
+        "name": "workers",
+        "pushedAt": "2024-11-10T10:49:26Z"
+      },
+      {
+        "name": "ashishdotme-utils",
+        "pushedAt": "2024-11-09T00:31:07Z"
+      },
+      {
+        "name": "npm-library-starter",
+        "pushedAt": "2024-11-08T23:32:13Z"
+      },
+      {
+        "name": "task-tracker",
+        "pushedAt": "2024-11-08T23:08:27Z"
+      },
+      {
+        "name": "jobsapi.ashish.me",
+        "pushedAt": "2024-11-05T23:21:30Z"
+      },
+      {
+        "name": "dashy",
+        "pushedAt": "2024-10-16T17:47:56Z"
+      },
+      {
+        "name": "dashboard.ashish.me",
+        "pushedAt": "2024-09-14T17:51:29Z"
+      }
+    ]
+  },
+  "lastLeetcode": {
+    "path": "Array_Easy_1266-minimum-time-visiting-all-points_solution.py",
+    "title": "solution.py",
+    "body": "```python  \n# Created by Ashish Patel at 2025/01/17 14:20\n# leetgo: 1.4.11\n# https://leetcode.com/problems/minimum-time-visiting-all-points/\n\n\"\"\"\n1266. Minimum Time Visiting All Points (Easy)\nOn a 2D plane, there are n points with integer coordinates points[i] = [xᵢ, yᵢ]. Return the\n**minimum time** in seconds to visit all the points in the order given by  points.\n\nYou can move according to these rules:\n\n- In 1 second, you can either:\n\n  - move vertically by one unit,\n  - move horizontally by one unit, or\n  - move diagonally sqrt(2) units (in other words, move one unit vertically then one unit\nhorizontally in 1 second).\n- You have to visit the points in the same order as they appear in the array.\n- You are allowed to pass through points that appear later in the order, but these do not count as\nvisits.\n\n**Example 1:**\n\n![](https://assets.leetcode.com/uploads/2019/11/14/1626_example_1.PNG)\n\n\nInput: points = [[1,1],[3,4],[-1,0]]\nOutput: 7\nExplanation: One optimal path is [1,1] -> [2,2] -> [3,3] -> [3,4] -> [2,3] -> [1,2] -> [0,1] -> [-1,0]\nTime from [1,1] to [3,4] = 3 seconds\nTime from [3,4] to [-1,0] = 4 seconds\nTotal time = 7 seconds\n\n\n**Example 2:**\n\n\nInput: points = [[3,2],[-2,2]]\nOutput: 5\n\n\n**Constraints:**\n\n- points.length == n\n- 1 <= n <= 100\n- points[i].length == 2\n- -1000 <= points[i][0], points[i][1] <= 1000\n\n\"\"\"\n\nfrom typing import *\nfrom leetgo_py import *\n\nimport bisect\nimport collections \nimport functools\nimport heapq \nimport itertools \nimport operator\nimport math \nimport string\nimport leetcode as lc\n\n# @lc code=begin\n\nclass Solution:\n    def minTimeToVisitAllPoints(self, points: List[List[int]]) -> int:\n        \n\n# @lc code=end\n\nif __name__ == \"__main__\":\n    points: List[List[int]] = deserialize(\"List[List[int]]\", read_line())\n    ans = Solution().minTimeToVisitAllPoints(points)\n    print(\"\\noutput:\", serialize(ans, \"integer\"))\n```",
+    "topic1": "Array",
+    "topic2": "Easy",
+    "topic3": "1266-minimum-time-visiting-all-points",
+    "url": "https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1266-minimum-time-visiting-all-points/solution.py",
+    "slug": "solution",
+    "html": "<div class=\"highlight highlight-source-python\"><pre><span class=\"pl-c\"># Created by Ashish Patel at 2025/01/17 14:20</span>\n<span class=\"pl-c\"># leetgo: 1.4.11</span>\n<span class=\"pl-c\"># https://leetcode.com/problems/minimum-time-visiting-all-points/</span>\n\n<span class=\"pl-s\">\"\"\"</span>\n<span class=\"pl-s\">1266. Minimum Time Visiting All Points (Easy)</span>\n<span class=\"pl-s\">On a 2D plane, there are n points with integer coordinates points[i] = [xᵢ, yᵢ]. Return the</span>\n<span class=\"pl-s\">**minimum time** in seconds to visit all the points in the order given by  points.</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">You can move according to these rules:</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">- In 1 second, you can either:</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">  - move vertically by one unit,</span>\n<span class=\"pl-s\">  - move horizontally by one unit, or</span>\n<span class=\"pl-s\">  - move diagonally sqrt(2) units (in other words, move one unit vertically then one unit</span>\n<span class=\"pl-s\">horizontally in 1 second).</span>\n<span class=\"pl-s\">- You have to visit the points in the same order as they appear in the array.</span>\n<span class=\"pl-s\">- You are allowed to pass through points that appear later in the order, but these do not count as</span>\n<span class=\"pl-s\">visits.</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">**Example 1:**</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">![](https://assets.leetcode.com/uploads/2019/11/14/1626_example_1.PNG)</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">Input: points = [[1,1],[3,4],[-1,0]]</span>\n<span class=\"pl-s\">Output: 7</span>\n<span class=\"pl-s\">Explanation: One optimal path is [1,1] -&gt; [2,2] -&gt; [3,3] -&gt; [3,4] -&gt; [2,3] -&gt; [1,2] -&gt; [0,1] -&gt; [-1,0]</span>\n<span class=\"pl-s\">Time from [1,1] to [3,4] = 3 seconds</span>\n<span class=\"pl-s\">Time from [3,4] to [-1,0] = 4 seconds</span>\n<span class=\"pl-s\">Total time = 7 seconds</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">**Example 2:**</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">Input: points = [[3,2],[-2,2]]</span>\n<span class=\"pl-s\">Output: 5</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">**Constraints:**</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">- points.length == n</span>\n<span class=\"pl-s\">- 1 &lt;= n &lt;= 100</span>\n<span class=\"pl-s\">- points[i].length == 2</span>\n<span class=\"pl-s\">- -1000 &lt;= points[i][0], points[i][1] &lt;= 1000</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">\"\"\"</span>\n\n<span class=\"pl-k\">from</span> <span class=\"pl-s1\">typing</span> <span class=\"pl-k\">import</span> <span class=\"pl-c1\">*</span>\n<span class=\"pl-k\">from</span> <span class=\"pl-s1\">leetgo_py</span> <span class=\"pl-k\">import</span> <span class=\"pl-c1\">*</span>\n\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">bisect</span>\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">collections</span> \n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">functools</span>\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">heapq</span> \n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">itertools</span> \n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">operator</span>\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">math</span> \n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">string</span>\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">leetcode</span> <span class=\"pl-k\">as</span> <span class=\"pl-s1\">lc</span>\n\n<span class=\"pl-c\"># @lc code=begin</span>\n\n<span class=\"pl-k\">class</span> <span class=\"pl-v\">Solution</span>:\n    <span class=\"pl-k\">def</span> <span class=\"pl-en\">minTimeToVisitAllPoints</span>(<span class=\"pl-s1\">self</span>, <span class=\"pl-s1\">points</span>: <span class=\"pl-v\">List</span>[<span class=\"pl-v\">List</span>[<span class=\"pl-smi\">int</span>]]) <span class=\"pl-c1\">-&gt;</span> <span class=\"pl-smi\">int</span>:\n        \n\n<span class=\"pl-c\"># @lc code=end</span>\n\n<span class=\"pl-k\">if</span> <span class=\"pl-s1\">__name__</span> <span class=\"pl-c1\">==</span> <span class=\"pl-s\">\"__main__\"</span>:\n    <span class=\"pl-s1\">points</span>: <span class=\"pl-v\">List</span>[<span class=\"pl-v\">List</span>[<span class=\"pl-smi\">int</span>]] <span class=\"pl-c1\">=</span> <span class=\"pl-en\">deserialize</span>(<span class=\"pl-s\">\"List[List[int]]\"</span>, <span class=\"pl-en\">read_line</span>())\n    <span class=\"pl-s1\">ans</span> <span class=\"pl-c1\">=</span> <span class=\"pl-en\">Solution</span>().<span class=\"pl-c1\">minTimeToVisitAllPoints</span>(<span class=\"pl-s1\">points</span>)\n    <span class=\"pl-en\">print</span>(<span class=\"pl-s\">\"<span class=\"pl-cce\">\\n</span>output:\"</span>, <span class=\"pl-en\">serialize</span>(<span class=\"pl-s1\">ans</span>, <span class=\"pl-s\">\"integer\"</span>))</pre></div>\n",
+    "created": "2025-02-11T12:18:15+00:00",
+    "created_utc": "2025-02-11T12:18:15+00:00",
+    "updated": "2025-02-11T12:18:15+00:00",
+    "updated_utc": "2025-02-11T12:18:15+00:00"
+  }
 }
