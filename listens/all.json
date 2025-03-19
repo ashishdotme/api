@@ -1,5 +1,41 @@
 [
   {
+    "id": 1479,
+    "title": "Struggle Made Me Stronger",
+    "artist": "Fearless Motivation",
+    "album": "Headphones on World Off",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-03-19T18:31:04.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-03-19T18:31:06.896Z",
+    "updatedAt": "2025-03-19T18:31:06.896Z"
+  },
+  {
+    "id": 1478,
+    "title": "In the End",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (Bonus Edition)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-03-19T18:27:31.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-03-19T18:27:32.267Z",
+    "updatedAt": "2025-03-19T18:27:32.267Z"
+  },
+  {
+    "id": 1477,
+    "title": "How Bad Do You Want It",
+    "artist": "Fearless Motivation",
+    "album": "How Bad Do You Want It",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-03-19T18:23:54.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-03-19T18:23:55.455Z",
+    "updatedAt": "2025-03-19T18:23:55.455Z"
+  },
+  {
     "id": 1476,
     "title": "Blinding Lights",
     "artist": "The Weeknd",
