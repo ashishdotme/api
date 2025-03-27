@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -201,16 +201,16 @@
   ],
   "listens": [
     {
-      "id": 1490,
-      "title": "Man Maila Aur Tan Ko",
-      "artist": "Anup Jalota",
+      "id": 1491,
+      "title": "Itni Shakti Humein Dena Data",
+      "artist": "Chetna Shukla",
       "album": "Morning Bhajans - Bhagwan Meri Naiya",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-03-26T03:27:10.000Z",
+      "listenDate": "2025-03-27T03:20:52.000Z",
       "trackNumber": null,
-      "createdAt": "2025-03-26T03:27:12.543Z",
-      "updatedAt": "2025-03-26T03:27:12.543Z"
+      "createdAt": "2025-03-27T03:20:54.699Z",
+      "updatedAt": "2025-03-27T03:20:54.699Z"
     }
   ],
   "github": {
