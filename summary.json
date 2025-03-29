@@ -214,8 +214,12 @@
     }
   ],
   "github": {
-    "lastCommit": "2025-02-26T22:04:33Z",
+    "lastCommit": "2025-03-29T21:58:10Z",
     "recentRepos": [
+      {
+        "name": "dotfiles",
+        "pushedAt": "2025-03-29T21:58:42Z"
+      },
       {
         "name": "Pake",
         "pushedAt": "2025-03-25T12:35:16Z"
@@ -247,10 +251,6 @@
       {
         "name": "movies.ashish.me",
         "pushedAt": "2024-12-05T23:00:50Z"
-      },
-      {
-        "name": "dotfiles",
-        "pushedAt": "2024-11-19T23:35:30Z"
       },
       {
         "name": "cli",
