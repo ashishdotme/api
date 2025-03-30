@@ -1,5 +1,41 @@
 [
   {
+    "id": 1504,
+    "title": "BAD!",
+    "artist": "XXXTENTACION",
+    "album": "SKINS",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-03-30T09:30:55.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-03-30T09:30:55.698Z",
+    "updatedAt": "2025-03-30T09:30:55.698Z"
+  },
+  {
+    "id": 1503,
+    "title": "Look At Me!",
+    "artist": "XXXTENTACION",
+    "album": "Look At Me!",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-03-30T09:29:20.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-03-30T09:29:21.178Z",
+    "updatedAt": "2025-03-30T09:29:21.178Z"
+  },
+  {
+    "id": 1502,
+    "title": "SAD!",
+    "artist": "XXXTENTACION",
+    "album": "?",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-03-30T09:27:13.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-03-30T09:27:14.386Z",
+    "updatedAt": "2025-03-30T09:27:14.386Z"
+  },
+  {
     "id": 1501,
     "title": "Jocelyn Flores",
     "artist": "XXXTENTACION",
