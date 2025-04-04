@@ -1,5 +1,29 @@
 [
   {
+    "id": 1521,
+    "title": "Jocelyn Flores",
+    "artist": "XXXTENTACION",
+    "album": "17",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-04T14:28:42.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-04T14:28:42.739Z",
+    "updatedAt": "2025-04-04T14:28:42.739Z"
+  },
+  {
+    "id": 1520,
+    "title": "Everybody Dies In Their Nightmares",
+    "artist": "XXXTENTACION",
+    "album": "17",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-04T14:26:41.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-04T14:26:44.252Z",
+    "updatedAt": "2025-04-04T14:26:44.252Z"
+  },
+  {
     "id": 1519,
     "title": "Moonlight",
     "artist": "XXXTENTACION",
