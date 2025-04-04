@@ -1,5 +1,35 @@
 [
   {
+    "id": 173,
+    "title": "Coherence",
+    "description": "Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.",
+    "review": null,
+    "language": "English",
+    "year": 2014,
+    "genre": "Mystery, Sci-Fi, Thriller",
+    "viewingDate": "2025-04-04T16:50:23.287Z",
+    "loved": true,
+    "imdbRating": "7.2",
+    "imdbId": "tt2866360",
+    "createdAt": "2025-04-04T21:46:30.442Z",
+    "updatedAt": "2025-04-04T21:46:30.442Z"
+  },
+  {
+    "id": 174,
+    "title": "Sinister",
+    "description": "A controversial true-crime writer finds a box of Super 8 home movies in his new home, revealing that the murder case he is currently researching could be the work of an unknown serial killer whose legacy dates back to the 1960s.",
+    "review": null,
+    "language": "English",
+    "year": 2012,
+    "genre": "Horror, Mystery, Thriller",
+    "viewingDate": "2025-04-04T16:35:29.719Z",
+    "loved": true,
+    "imdbRating": "6.8",
+    "imdbId": "tt1922777",
+    "createdAt": "2025-04-04T21:46:45.927Z",
+    "updatedAt": "2025-04-04T21:46:45.927Z"
+  },
+  {
     "id": 170,
     "title": "Calibre",
     "description": "A shocking deed turned their weekend trip into a nightmare. Now their only hope is to swallow their paranoia and act normal.",
@@ -58,6 +88,21 @@
     "imdbId": "tt0151804",
     "createdAt": "2025-02-18T21:20:53.648Z",
     "updatedAt": "2025-02-18T21:20:53.648Z"
+  },
+  {
+    "id": 172,
+    "title": "Leave the World Behind",
+    "description": "A family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices, and two strangers appear at their door.",
+    "review": null,
+    "language": "English",
+    "year": 2023,
+    "genre": "Drama, Mystery, Thriller",
+    "viewingDate": "2024-12-09T19:35:13.070Z",
+    "loved": true,
+    "imdbRating": "6.4",
+    "imdbId": "tt12747748",
+    "createdAt": "2025-04-04T21:45:08.505Z",
+    "updatedAt": "2025-04-04T21:45:08.505Z"
   },
   {
     "id": 166,
