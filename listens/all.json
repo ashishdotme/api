@@ -1,5 +1,65 @@
 [
   {
+    "id": 1513,
+    "title": "SAD!",
+    "artist": "XXXTENTACION",
+    "album": "?",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-04T14:13:27.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-04T14:13:29.591Z",
+    "updatedAt": "2025-04-04T14:13:29.591Z"
+  },
+  {
+    "id": 1512,
+    "title": "Jocelyn Flores",
+    "artist": "XXXTENTACION",
+    "album": "17",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-04T14:10:40.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-04T14:10:41.039Z",
+    "updatedAt": "2025-04-04T14:10:41.039Z"
+  },
+  {
+    "id": 1511,
+    "title": "Everybody Dies In Their Nightmares",
+    "artist": "XXXTENTACION",
+    "album": "17",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-04T14:08:39.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-04T14:08:40.335Z",
+    "updatedAt": "2025-04-04T14:08:40.335Z"
+  },
+  {
+    "id": 1510,
+    "title": "Moonlight",
+    "artist": "XXXTENTACION",
+    "album": "?",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-04T14:07:04.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-04T14:07:05.805Z",
+    "updatedAt": "2025-04-04T14:07:05.805Z"
+  },
+  {
+    "id": 1509,
+    "title": "Hope",
+    "artist": "XXXTENTACION",
+    "album": "?",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-04T14:04:48.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-04T14:04:49.075Z",
+    "updatedAt": "2025-04-04T14:04:49.075Z"
+  },
+  {
     "id": 1508,
     "title": "Falling Down - Bonus Track",
     "artist": "Lil Peep",
