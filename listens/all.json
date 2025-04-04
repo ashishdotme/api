@@ -1,5 +1,41 @@
 [
   {
+    "id": 1508,
+    "title": "Falling Down - Bonus Track",
+    "artist": "Lil Peep",
+    "album": "Come Over When You're Sober, Pt. 2",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-04T14:02:57.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-04T14:02:58.491Z",
+    "updatedAt": "2025-04-04T14:02:58.491Z"
+  },
+  {
+    "id": 1507,
+    "title": "Fuck Love",
+    "artist": "XXXTENTACION",
+    "album": "17",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-04T13:59:40.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-04T13:59:41.646Z",
+    "updatedAt": "2025-04-04T13:59:41.646Z"
+  },
+  {
+    "id": 1506,
+    "title": "Revenge",
+    "artist": "XXXTENTACION",
+    "album": "17",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-04T13:57:12.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-04T13:57:15.116Z",
+    "updatedAt": "2025-04-04T13:57:15.116Z"
+  },
+  {
     "id": 1505,
     "title": "Iktara",
     "artist": "Amit Trivedi",
