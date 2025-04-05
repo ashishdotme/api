@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 6842,
-      "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262326\",\"53.2630301\"}",
-      "batteryLevel": 15,
-      "timestamp": "2025-04-05T21:06:48.000Z",
-      "createdAt": "2025-04-05T21:06:49.241Z",
-      "updatedAt": "2025-04-05T21:06:49.241Z"
+      "id": 6860,
+      "batteryState": "charging",
+      "coordinates": "{\"-6.2262364\",\"53.2629566\"}",
+      "batteryLevel": 20,
+      "timestamp": "2025-04-05T21:18:00.000Z",
+      "createdAt": "2025-04-05T21:18:00.847Z",
+      "updatedAt": "2025-04-05T21:18:00.847Z"
     }
   ],
   "steps": [
@@ -132,6 +132,18 @@
       "dueDate": "2025-02-26T22:07:02.530Z",
       "createdAt": "2025-02-26T22:07:03.281Z",
       "updatedAt": "2025-02-26T22:07:03.281Z"
+    },
+    {
+      "id": 570,
+      "content": "Fix chart not loading when there is no data",
+      "category": "Now",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "67f19c802a72512719189845",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2025-04-05T21:11:37.330Z",
+      "createdAt": "2025-04-05T21:11:37.332Z",
+      "updatedAt": "2025-04-05T21:11:37.332Z"
     }
   ],
   "updates": [
