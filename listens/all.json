@@ -1,5 +1,65 @@
 [
   {
+    "id": 1533,
+    "title": "whoa (mind in awe)",
+    "artist": "XXXTENTACION",
+    "album": "SKINS",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-05T12:27:30.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-05T12:27:31.538Z",
+    "updatedAt": "2025-04-05T12:27:31.538Z"
+  },
+  {
+    "id": 1532,
+    "title": "NUMB",
+    "artist": "XXXTENTACION",
+    "album": "?",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-05T12:24:51.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-05T12:24:53.202Z",
+    "updatedAt": "2025-04-05T12:24:53.202Z"
+  },
+  {
+    "id": 1531,
+    "title": "Save Me",
+    "artist": "XXXTENTACION",
+    "album": "17",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-05T12:21:45.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-05T12:21:46.383Z",
+    "updatedAt": "2025-04-05T12:21:46.383Z"
+  },
+  {
+    "id": 1530,
+    "title": "Ex Bitch",
+    "artist": "XXXTENTACION",
+    "album": "Bad Vibes Forever",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-05T12:18:59.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-05T12:19:01.904Z",
+    "updatedAt": "2025-04-05T12:19:01.904Z"
+  },
+  {
+    "id": 1529,
+    "title": "True Love",
+    "artist": "Kanye West",
+    "album": "True Love",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-05T12:16:57.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-05T12:16:59.194Z",
+    "updatedAt": "2025-04-05T12:16:59.194Z"
+  },
+  {
     "id": 1528,
     "title": "the remedy for a broken heart (why am I so in love)",
     "artist": "XXXTENTACION",
