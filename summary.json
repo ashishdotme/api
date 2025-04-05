@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -201,16 +201,16 @@
   ],
   "listens": [
     {
-      "id": 1523,
-      "title": "Look At Me!",
+      "id": 1528,
+      "title": "the remedy for a broken heart (why am I so in love)",
       "artist": "XXXTENTACION",
-      "album": "Look At Me!",
+      "album": "?",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-05T12:02:37.000Z",
+      "listenDate": "2025-04-05T12:14:28.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-05T12:02:39.163Z",
-      "updatedAt": "2025-04-05T12:02:39.163Z"
+      "createdAt": "2025-04-05T12:14:30.665Z",
+      "updatedAt": "2025-04-05T12:14:30.665Z"
     }
   ],
   "github": {

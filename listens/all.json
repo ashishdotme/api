@@ -1,5 +1,65 @@
 [
   {
+    "id": 1528,
+    "title": "the remedy for a broken heart (why am I so in love)",
+    "artist": "XXXTENTACION",
+    "album": "?",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-05T12:14:28.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-05T12:14:30.665Z",
+    "updatedAt": "2025-04-05T12:14:30.665Z"
+  },
+  {
+    "id": 1527,
+    "title": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
+    "artist": "XXXTENTACION",
+    "album": "Bad Vibes Forever",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-05T12:11:47.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-05T12:11:49.916Z",
+    "updatedAt": "2025-04-05T12:11:49.916Z"
+  },
+  {
+    "id": 1526,
+    "title": "I Don't Wanna Do This Anymore",
+    "artist": "XXXTENTACION",
+    "album": "Revenge",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-05T12:09:17.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-05T12:09:19.372Z",
+    "updatedAt": "2025-04-05T12:09:19.372Z"
+  },
+  {
+    "id": 1525,
+    "title": "Again (feat. XXXTENTACION)",
+    "artist": "Noah Cyrus",
+    "album": "Again (feat. XXXTENTACION)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-05T12:07:48.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-05T12:07:50.587Z",
+    "updatedAt": "2025-04-05T12:07:50.587Z"
+  },
+  {
+    "id": 1524,
+    "title": "BAD!",
+    "artist": "XXXTENTACION",
+    "album": "SKINS",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-05T12:04:12.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-05T12:04:13.963Z",
+    "updatedAt": "2025-04-05T12:04:13.963Z"
+  },
+  {
     "id": 1523,
     "title": "Look At Me!",
     "artist": "XXXTENTACION",
