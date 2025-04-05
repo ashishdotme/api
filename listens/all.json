@@ -1,5 +1,41 @@
 [
   {
+    "id": 1536,
+    "title": "changes",
+    "artist": "XXXTENTACION",
+    "album": "?",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-05T12:33:02.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-05T12:33:03.402Z",
+    "updatedAt": "2025-04-05T12:33:03.402Z"
+  },
+  {
+    "id": 1535,
+    "title": "Carry On",
+    "artist": "XXXTENTACION",
+    "album": "17",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-05T12:30:59.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-05T12:31:00.631Z",
+    "updatedAt": "2025-04-05T12:31:00.631Z"
+  },
+  {
+    "id": 1534,
+    "title": "Riot",
+    "artist": "XXXTENTACION",
+    "album": "Riot",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-05T12:28:50.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-05T12:28:52.186Z",
+    "updatedAt": "2025-04-05T12:28:52.186Z"
+  },
+  {
     "id": 1533,
     "title": "whoa (mind in awe)",
     "artist": "XXXTENTACION",
