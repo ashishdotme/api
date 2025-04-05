@@ -1,5 +1,29 @@
 [
   {
+    "id": 1523,
+    "title": "Look At Me!",
+    "artist": "XXXTENTACION",
+    "album": "Look At Me!",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-05T12:02:37.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-05T12:02:39.163Z",
+    "updatedAt": "2025-04-05T12:02:39.163Z"
+  },
+  {
+    "id": 1522,
+    "title": "SAD!",
+    "artist": "XXXTENTACION",
+    "album": "?",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-05T12:00:07.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-05T12:00:08.740Z",
+    "updatedAt": "2025-04-05T12:00:08.740Z"
+  },
+  {
     "id": 1521,
     "title": "Jocelyn Flores",
     "artist": "XXXTENTACION",
