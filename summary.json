@@ -1,23 +1,23 @@
 {
   "locations": [
     {
-      "id": 7040,
+      "id": 8815,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.2262326\",\"53.2630301\"}",
-      "batteryLevel": 55,
-      "timestamp": "2025-04-05T22:56:00.000Z",
-      "createdAt": "2025-04-05T22:56:01.420Z",
-      "updatedAt": "2025-04-05T22:56:01.420Z"
+      "batteryLevel": 25,
+      "timestamp": "2025-04-06T09:03:57.000Z",
+      "createdAt": "2025-04-06T09:03:58.247Z",
+      "updatedAt": "2025-04-06T09:03:58.247Z"
     }
   ],
   "steps": [
     {
-      "id": 9676,
-      "stepCount": 4665,
-      "date": "4/4/25",
-      "fullDate": "2025-04-04T00:00:00.000Z",
-      "createdAt": "2025-04-05T06:12:51.267Z",
-      "updatedAt": "2025-04-05T06:12:51.267Z"
+      "id": 9684,
+      "stepCount": 8816,
+      "date": "4/5/25",
+      "fullDate": "2025-04-05T00:00:00.000Z",
+      "createdAt": "2025-04-05T23:52:02.532Z",
+      "updatedAt": "2025-04-05T23:52:02.532Z"
     }
   ],
   "sleep": [
@@ -213,16 +213,16 @@
   ],
   "listens": [
     {
-      "id": 1536,
-      "title": "changes",
-      "artist": "XXXTENTACION",
-      "album": "?",
+      "id": 1544,
+      "title": "Ram Aayenge",
+      "artist": "Payal Dev",
+      "album": "Ram Aayenge",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-05T12:33:02.000Z",
+      "listenDate": "2025-04-06T03:29:30.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-05T12:33:03.402Z",
-      "updatedAt": "2025-04-05T12:33:03.402Z"
+      "createdAt": "2025-04-06T03:29:31.943Z",
+      "updatedAt": "2025-04-06T03:29:31.943Z"
     }
   ],
   "github": {
