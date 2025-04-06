@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 9007,
+      "id": 9010,
       "batteryState": "charging",
-      "coordinates": "{\"-6.2262064\",\"53.2629818\"}",
-      "batteryLevel": 25,
-      "timestamp": "2025-04-06T20:41:26.000Z",
-      "createdAt": "2025-04-06T20:41:27.484Z",
-      "updatedAt": "2025-04-06T20:41:27.484Z"
+      "coordinates": "{\"-6.2262089\",\"53.2629798\"}",
+      "batteryLevel": 35,
+      "timestamp": "2025-04-06T20:46:07.000Z",
+      "createdAt": "2025-04-06T20:46:08.129Z",
+      "updatedAt": "2025-04-06T20:46:08.129Z"
     }
   ],
   "steps": [
@@ -230,7 +230,7 @@
     "recentRepos": [
       {
         "name": "wiki.ashish.me",
-        "pushedAt": "2025-04-06T20:35:58Z"
+        "pushedAt": "2025-04-06T20:36:43Z"
       },
       {
         "name": "wiki.ashish.me-old",
