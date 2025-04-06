@@ -3,7 +3,11 @@
   "recentRepos": [
     {
       "name": "wiki.ashish.me",
-      "pushedAt": "2025-04-06T09:42:33Z"
+      "pushedAt": "2025-04-06T09:45:26Z"
+    },
+    {
+      "name": "wiki.ashish.me-old",
+      "pushedAt": "2025-04-06T09:44:11Z"
     },
     {
       "name": "dotfiles",
@@ -60,10 +64,6 @@
     {
       "name": "dashy",
       "pushedAt": "2024-10-16T17:47:56Z"
-    },
-    {
-      "name": "dashboard.ashish.me",
-      "pushedAt": "2024-09-14T17:51:29Z"
     }
   ]
 }
