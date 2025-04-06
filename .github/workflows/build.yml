@@ -15,8 +15,6 @@ on:
 
 jobs:
   update:
-    env:
-      GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
