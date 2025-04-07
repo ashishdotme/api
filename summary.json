@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 9373,
+      "id": 9378,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262325\",\"53.2630266\"}",
-      "batteryLevel": 40,
-      "timestamp": "2025-04-07T14:22:25.000Z",
-      "createdAt": "2025-04-07T14:22:25.702Z",
-      "updatedAt": "2025-04-07T14:22:25.702Z"
+      "coordinates": "{\"-6.2262291\",\"53.2630487\"}",
+      "batteryLevel": 35,
+      "timestamp": "2025-04-07T14:40:11.000Z",
+      "createdAt": "2025-04-07T14:40:12.318Z",
+      "updatedAt": "2025-04-07T14:40:12.318Z"
     }
   ],
   "steps": [
@@ -213,16 +213,16 @@
   ],
   "listens": [
     {
-      "id": 1570,
-      "title": "lovely (with Khalid)",
-      "artist": "Billie Eilish",
-      "album": "lovely (with Khalid)",
+      "id": 1572,
+      "title": "the grass wasn’t greener",
+      "artist": "Beowülf",
+      "album": "the grass wasn’t greener",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-07T13:18:20.000Z",
+      "listenDate": "2025-04-07T14:39:57.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-07T13:18:22.985Z",
-      "updatedAt": "2025-04-07T13:18:22.985Z"
+      "createdAt": "2025-04-07T14:39:59.303Z",
+      "updatedAt": "2025-04-07T14:39:59.303Z"
     }
   ],
   "github": {
