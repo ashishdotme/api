@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 9410,
+      "id": 9413,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.226175\",\"53.2630841\"}",
       "batteryLevel": 30,
-      "timestamp": "2025-04-07T15:44:17.000Z",
-      "createdAt": "2025-04-07T15:44:18.245Z",
-      "updatedAt": "2025-04-07T15:44:18.245Z"
+      "timestamp": "2025-04-07T15:50:17.000Z",
+      "createdAt": "2025-04-07T15:50:18.224Z",
+      "updatedAt": "2025-04-07T15:50:18.224Z"
     }
   ],
   "steps": [
@@ -213,16 +213,16 @@
   ],
   "listens": [
     {
-      "id": 1592,
-      "title": "Alcoholic Paradise",
+      "id": 1595,
+      "title": "At my Worst",
       "artist": "Beowülf",
-      "album": "Lost Cause",
+      "album": "Dying to Self",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-07T15:45:27.000Z",
+      "listenDate": "2025-04-07T15:50:45.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-07T15:45:29.284Z",
-      "updatedAt": "2025-04-07T15:45:29.284Z"
+      "createdAt": "2025-04-07T15:50:47.268Z",
+      "updatedAt": "2025-04-07T15:50:47.268Z"
     }
   ],
   "github": {

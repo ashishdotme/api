@@ -1,5 +1,41 @@
 [
   {
+    "id": 1595,
+    "title": "At my Worst",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T15:50:45.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T15:50:47.268Z",
+    "updatedAt": "2025-04-07T15:50:47.268Z"
+  },
+  {
+    "id": 1594,
+    "title": "forever stuck inside this mess i made",
+    "artist": "Henry AZ",
+    "album": "Truly, I Tell You",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T15:49:17.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T15:49:18.473Z",
+    "updatedAt": "2025-04-07T15:49:18.473Z"
+  },
+  {
+    "id": 1593,
+    "title": "nobody",
+    "artist": "Beowülf",
+    "album": "nobody",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T15:46:43.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T15:46:46.108Z",
+    "updatedAt": "2025-04-07T15:46:46.108Z"
+  },
+  {
     "id": 1592,
     "title": "Alcoholic Paradise",
     "artist": "Beowülf",
