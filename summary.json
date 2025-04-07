@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 9339,
+      "id": 9345,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2207805\",\"53.2611207\"}",
-      "batteryLevel": 45,
-      "timestamp": "2025-04-07T13:11:10.000Z",
-      "createdAt": "2025-04-07T13:11:10.912Z",
-      "updatedAt": "2025-04-07T13:11:10.912Z"
+      "coordinates": "{\"-6.226231\",\"53.2629646\"}",
+      "batteryLevel": 40,
+      "timestamp": "2025-04-07T13:25:02.000Z",
+      "createdAt": "2025-04-07T13:25:02.768Z",
+      "updatedAt": "2025-04-07T13:25:02.768Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -213,16 +213,16 @@
   ],
   "listens": [
     {
-      "id": 1568,
-      "title": "Lights - Single Version",
-      "artist": "Ellie Goulding",
-      "album": "Bright Lights (Lights Re-pack / Bonus Version)",
+      "id": 1570,
+      "title": "lovely (with Khalid)",
+      "artist": "Billie Eilish",
+      "album": "lovely (with Khalid)",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-07T13:09:33.000Z",
+      "listenDate": "2025-04-07T13:18:20.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-07T13:09:35.561Z",
-      "updatedAt": "2025-04-07T13:09:35.561Z"
+      "createdAt": "2025-04-07T13:18:22.985Z",
+      "updatedAt": "2025-04-07T13:18:22.985Z"
     }
   ],
   "github": {
