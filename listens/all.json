@@ -1,5 +1,65 @@
 [
   {
+    "id": 1568,
+    "title": "Lights - Single Version",
+    "artist": "Ellie Goulding",
+    "album": "Bright Lights (Lights Re-pack / Bonus Version)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T13:09:33.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T13:09:35.561Z",
+    "updatedAt": "2025-04-07T13:09:35.561Z"
+  },
+  {
+    "id": 1567,
+    "title": "Genius (feat. Sia, Diplo, and Labrinth)",
+    "artist": "Sia",
+    "album": "LABRINTH, SIA & DIPLO PRESENT... LSD",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T13:06:08.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T13:06:10.685Z",
+    "updatedAt": "2025-04-07T13:06:10.685Z"
+  },
+  {
+    "id": 1566,
+    "title": "Thunderstruck",
+    "artist": "AC/DC",
+    "album": "The Razors Edge",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T13:03:46.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T13:03:48.114Z",
+    "updatedAt": "2025-04-07T13:03:48.114Z"
+  },
+  {
+    "id": 1565,
+    "title": "Fearless Pt. II",
+    "artist": "Lost Sky",
+    "album": "Fearless Pt. II",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T13:00:52.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T13:00:53.378Z",
+    "updatedAt": "2025-04-07T13:00:53.378Z"
+  },
+  {
+    "id": 1564,
+    "title": "Escapism.",
+    "artist": "RAYE",
+    "album": "My 21st Century Blues",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T12:57:37.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T12:57:38.794Z",
+    "updatedAt": "2025-04-07T12:57:38.794Z"
+  },
+  {
     "id": 1563,
     "title": "Unstoppable",
     "artist": "The Score",
