@@ -1,5 +1,41 @@
 [
   {
+    "id": 1575,
+    "title": "Depression",
+    "artist": "Beowülf",
+    "album": "Depression",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T15:08:45.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T15:08:47.765Z",
+    "updatedAt": "2025-04-07T15:08:47.765Z"
+  },
+  {
+    "id": 1574,
+    "title": "We Accept the Love We Think We Deserve",
+    "artist": "Beowülf",
+    "album": "We Accept the Love We Think We Deserve",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T15:06:27.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T15:06:28.968Z",
+    "updatedAt": "2025-04-07T15:06:28.968Z"
+  },
+  {
+    "id": 1573,
+    "title": "today is a gift",
+    "artist": "Beowülf",
+    "album": "today is a gift",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T15:03:59.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T15:04:02.406Z",
+    "updatedAt": "2025-04-07T15:04:02.406Z"
+  },
+  {
     "id": 1572,
     "title": "the grass wasn’t greener",
     "artist": "Beowülf",
