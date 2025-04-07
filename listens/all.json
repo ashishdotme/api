@@ -1,5 +1,77 @@
 [
   {
+    "id": 1585,
+    "title": "Ready to Be Made New",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T15:30:24.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T15:30:26.584Z",
+    "updatedAt": "2025-04-07T15:30:26.584Z"
+  },
+  {
+    "id": 1584,
+    "title": "I'm Too Broken",
+    "artist": "Beowülf",
+    "album": "Lost Cause",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T15:28:01.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T15:28:03.784Z",
+    "updatedAt": "2025-04-07T15:28:03.784Z"
+  },
+  {
+    "id": 1583,
+    "title": "Feel So Blue",
+    "artist": "Skinny Atlas",
+    "album": "Feel So Blue",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T15:26:15.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T15:26:17.212Z",
+    "updatedAt": "2025-04-07T15:26:17.212Z"
+  },
+  {
+    "id": 1582,
+    "title": "pain",
+    "artist": "Beowülf",
+    "album": "pain",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T15:24:06.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T15:24:08.603Z",
+    "updatedAt": "2025-04-07T15:24:08.603Z"
+  },
+  {
+    "id": 1581,
+    "title": "It's Not Too Late for Me",
+    "artist": "Beowülf",
+    "album": "It's Not Too Late for Me",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T15:22:01.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T15:22:02.042Z",
+    "updatedAt": "2025-04-07T15:22:02.042Z"
+  },
+  {
+    "id": 1580,
+    "title": "Fly Me Away",
+    "artist": "Beowülf",
+    "album": "Fly Me Away",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T15:20:03.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T15:20:05.244Z",
+    "updatedAt": "2025-04-07T15:20:05.244Z"
+  },
+  {
     "id": 1579,
     "title": "I Don't Need Him (Community Beat)",
     "artist": "Beowülf",
