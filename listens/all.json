@@ -1,5 +1,53 @@
 [
   {
+    "id": 1599,
+    "title": "Hercules",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T15:56:51.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T15:56:53.897Z",
+    "updatedAt": "2025-04-07T15:56:53.897Z"
+  },
+  {
+    "id": 1598,
+    "title": "Morning Coffee",
+    "artist": "Beowülf",
+    "album": "Morning Coffee",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T15:55:26.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T15:55:29.118Z",
+    "updatedAt": "2025-04-07T15:55:29.118Z"
+  },
+  {
+    "id": 1597,
+    "title": "tell me more",
+    "artist": "Beowülf",
+    "album": "tell me more",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T15:53:48.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T15:53:50.574Z",
+    "updatedAt": "2025-04-07T15:53:50.574Z"
+  },
+  {
+    "id": 1596,
+    "title": "Broken",
+    "artist": "Beowülf",
+    "album": "Broken",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-07T15:52:14.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-07T15:52:15.823Z",
+    "updatedAt": "2025-04-07T15:52:15.823Z"
+  },
+  {
     "id": 1595,
     "title": "At my Worst",
     "artist": "Beowülf",
