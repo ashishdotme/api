@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 10718,
+      "id": 10721,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262143\",\"53.2630434\"}",
+      "coordinates": "{\"-6.2262103\",\"53.2630669\"}",
       "batteryLevel": 20,
-      "timestamp": "2025-04-09T21:53:00.000Z",
-      "createdAt": "2025-04-09T21:53:01.333Z",
-      "updatedAt": "2025-04-09T21:53:01.333Z"
+      "timestamp": "2025-04-09T21:59:00.000Z",
+      "createdAt": "2025-04-09T21:59:01.319Z",
+      "updatedAt": "2025-04-09T21:59:01.319Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1642,
-      "title": "Alcoholic Paradise",
+      "id": 1644,
+      "title": "I'm Too Broken",
       "artist": "Beowülf",
       "album": "Lost Cause",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-09T21:54:03.000Z",
+      "listenDate": "2025-04-09T21:58:11.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-09T21:54:05.153Z",
-      "updatedAt": "2025-04-09T21:54:05.153Z"
+      "createdAt": "2025-04-09T21:58:11.930Z",
+      "updatedAt": "2025-04-09T21:58:11.930Z"
     }
   ],
   "github": {
