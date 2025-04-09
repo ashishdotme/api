@@ -1,5 +1,41 @@
 [
   {
+    "id": 1665,
+    "title": "Hypothesis Outro",
+    "artist": "Henry AZ",
+    "album": "Truly, I Tell You",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T22:42:54.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T22:42:56.329Z",
+    "updatedAt": "2025-04-09T22:42:56.329Z"
+  },
+  {
+    "id": 1664,
+    "title": "the grass wasn’t greener",
+    "artist": "Henry AZ",
+    "album": "Truly, I Tell You",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T22:40:25.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T22:40:26.005Z",
+    "updatedAt": "2025-04-09T22:40:26.005Z"
+  },
+  {
+    "id": 1663,
+    "title": "how long can this last? (feat. Juli)",
+    "artist": "Henry AZ",
+    "album": "Truly, I Tell You",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T22:38:40.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T22:38:41.553Z",
+    "updatedAt": "2025-04-09T22:38:41.553Z"
+  },
+  {
     "id": 1662,
     "title": "forever stuck inside this mess i made",
     "artist": "Henry AZ",
