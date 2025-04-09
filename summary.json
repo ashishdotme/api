@@ -1,35 +1,35 @@
 {
   "locations": [
     {
-      "id": 10368,
+      "id": 10374,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.2262299\",\"53.2629687\"}",
       "batteryLevel": 90,
-      "timestamp": "2025-04-09T06:15:49.000Z",
-      "createdAt": "2025-04-09T06:15:50.050Z",
-      "updatedAt": "2025-04-09T06:15:50.050Z"
+      "timestamp": "2025-04-09T06:28:07.000Z",
+      "createdAt": "2025-04-09T06:28:23.319Z",
+      "updatedAt": "2025-04-09T06:28:23.319Z"
     }
   ],
   "steps": [
     {
-      "id": 9712,
-      "stepCount": 7762,
-      "date": "4/7/25",
-      "fullDate": "2025-04-07T00:00:00.000Z",
-      "createdAt": "2025-04-08T05:45:40.024Z",
-      "updatedAt": "2025-04-08T05:45:40.024Z"
+      "id": 9761,
+      "stepCount": 2645,
+      "date": "4/8/25",
+      "fullDate": "2025-04-08T00:00:00.000Z",
+      "createdAt": "2025-04-09T06:29:24.700Z",
+      "updatedAt": "2025-04-09T06:29:24.700Z"
     }
   ],
   "sleep": [
     {
-      "id": 286,
-      "sleep": "9.1",
-      "date": "4/6/25",
-      "fullDate": "2025-04-06T00:00:00.000Z",
-      "sleepStart": "2025-04-06T21:58:00.000Z",
-      "sleepEnd": "2025-04-07T07:02:59.000Z",
-      "createdAt": "2025-04-08T05:45:40.114Z",
-      "updatedAt": "2025-04-08T05:45:40.114Z"
+      "id": 304,
+      "sleep": "6.9",
+      "date": "4/8/25",
+      "fullDate": "2025-04-08T00:00:00.000Z",
+      "sleepStart": "2025-04-07T23:14:00.000Z",
+      "sleepEnd": "2025-04-08T05:24:59.000Z",
+      "createdAt": "2025-04-09T06:29:24.803Z",
+      "updatedAt": "2025-04-09T06:29:24.803Z"
     }
   ],
   "word": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
