@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 10742,
+      "id": 10743,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262333\",\"53.2630265\"}",
+      "coordinates": "{\"-6.2262285\",\"53.2629703\"}",
       "batteryLevel": 20,
-      "timestamp": "2025-04-09T22:42:25.000Z",
-      "createdAt": "2025-04-09T22:42:26.176Z",
-      "updatedAt": "2025-04-09T22:42:26.176Z"
+      "timestamp": "2025-04-09T22:48:42.000Z",
+      "createdAt": "2025-04-09T22:48:42.403Z",
+      "updatedAt": "2025-04-09T22:48:42.403Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1665,
-      "title": "Hypothesis Outro",
-      "artist": "Henry AZ",
-      "album": "Truly, I Tell You",
+      "id": 1668,
+      "title": "Is It Too Late for Me",
+      "artist": "Beowülf",
+      "album": "It's not too late for me",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-09T22:42:54.000Z",
+      "listenDate": "2025-04-09T22:48:28.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-09T22:42:56.329Z",
-      "updatedAt": "2025-04-09T22:42:56.329Z"
+      "createdAt": "2025-04-09T22:48:29.569Z",
+      "updatedAt": "2025-04-09T22:48:29.569Z"
     }
   ],
   "github": {
