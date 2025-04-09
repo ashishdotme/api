@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 10712,
+      "id": 10715,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2261938\",\"53.2631638\"}",
-      "batteryLevel": 25,
-      "timestamp": "2025-04-09T21:41:00.000Z",
-      "createdAt": "2025-04-09T21:41:01.333Z",
-      "updatedAt": "2025-04-09T21:41:01.333Z"
+      "coordinates": "{\"-6.2262238\",\"53.2629826\"}",
+      "batteryLevel": 20,
+      "timestamp": "2025-04-09T21:47:00.000Z",
+      "createdAt": "2025-04-09T21:47:01.423Z",
+      "updatedAt": "2025-04-09T21:47:01.423Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1635,
-      "title": "Nothing to Lose",
+      "id": 1638,
+      "title": "Ready to Be Made New",
       "artist": "Beowülf",
       "album": "Dying to Self",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-09T21:41:18.000Z",
+      "listenDate": "2025-04-09T21:47:01.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-09T21:41:20.281Z",
-      "updatedAt": "2025-04-09T21:41:20.281Z"
+      "createdAt": "2025-04-09T21:47:03.627Z",
+      "updatedAt": "2025-04-09T21:47:03.627Z"
     }
   ],
   "github": {

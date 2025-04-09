@@ -1,5 +1,41 @@
 [
   {
+    "id": 1638,
+    "title": "Ready to Be Made New",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:47:01.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:47:03.627Z",
+    "updatedAt": "2025-04-09T21:47:03.627Z"
+  },
+  {
+    "id": 1637,
+    "title": "Thankful",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:44:39.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:44:41.333Z",
+    "updatedAt": "2025-04-09T21:44:41.333Z"
+  },
+  {
+    "id": 1636,
+    "title": "At my Worst",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:42:46.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:42:48.770Z",
+    "updatedAt": "2025-04-09T21:42:48.770Z"
+  },
+  {
     "id": 1635,
     "title": "Nothing to Lose",
     "artist": "Beowülf",
