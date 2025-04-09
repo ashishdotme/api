@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 10743,
+      "id": 10746,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262285\",\"53.2629703\"}",
-      "batteryLevel": 20,
-      "timestamp": "2025-04-09T22:48:42.000Z",
-      "createdAt": "2025-04-09T22:48:42.403Z",
-      "updatedAt": "2025-04-09T22:48:42.403Z"
+      "coordinates": "{\"-6.2262333\",\"53.2630265\"}",
+      "batteryLevel": 15,
+      "timestamp": "2025-04-09T22:54:47.000Z",
+      "createdAt": "2025-04-09T22:54:47.803Z",
+      "updatedAt": "2025-04-09T22:54:47.803Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1668,
-      "title": "Is It Too Late for Me",
+      "id": 1671,
+      "title": "It's Not Too Late for Me",
       "artist": "Beowülf",
       "album": "It's not too late for me",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-09T22:48:28.000Z",
+      "listenDate": "2025-04-09T22:55:15.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-09T22:48:29.569Z",
-      "updatedAt": "2025-04-09T22:48:29.569Z"
+      "createdAt": "2025-04-09T22:55:16.427Z",
+      "updatedAt": "2025-04-09T22:55:16.427Z"
     }
   ],
   "github": {
