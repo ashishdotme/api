@@ -1,5 +1,65 @@
 [
   {
+    "id": 1653,
+    "title": "Lover Boy",
+    "artist": "Beowülf",
+    "album": "Lover Boy",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T22:17:31.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T22:17:33.761Z",
+    "updatedAt": "2025-04-09T22:17:33.761Z"
+  },
+  {
+    "id": 1652,
+    "title": "sleeping hearts",
+    "artist": "Beowülf",
+    "album": "sleeping hearts",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T22:16:17.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T22:16:17.486Z",
+    "updatedAt": "2025-04-09T22:16:17.486Z"
+  },
+  {
+    "id": 1651,
+    "title": "why try",
+    "artist": "Beowülf",
+    "album": "why try",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T22:14:36.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T22:14:38.895Z",
+    "updatedAt": "2025-04-09T22:14:38.895Z"
+  },
+  {
+    "id": 1650,
+    "title": "Medicine",
+    "artist": "Beowülf",
+    "album": "Medicine",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T22:12:21.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T22:12:21.980Z",
+    "updatedAt": "2025-04-09T22:12:21.980Z"
+  },
+  {
+    "id": 1649,
+    "title": "pain",
+    "artist": "Beowülf",
+    "album": "pain",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T22:10:14.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T22:10:15.663Z",
+    "updatedAt": "2025-04-09T22:10:15.663Z"
+  },
+  {
     "id": 1648,
     "title": "Tryumph",
     "artist": "Beowülf",

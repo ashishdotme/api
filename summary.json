@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 10725,
+      "id": 10730,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.2261538\",\"53.2631091\"}",
       "batteryLevel": 20,
-      "timestamp": "2025-04-09T22:07:01.000Z",
-      "createdAt": "2025-04-09T22:07:01.417Z",
-      "updatedAt": "2025-04-09T22:07:01.417Z"
+      "timestamp": "2025-04-09T22:17:02.000Z",
+      "createdAt": "2025-04-09T22:17:03.337Z",
+      "updatedAt": "2025-04-09T22:17:03.337Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1648,
-      "title": "Tryumph",
+      "id": 1653,
+      "title": "Lover Boy",
       "artist": "Beowülf",
-      "album": "Lost Cause",
+      "album": "Lover Boy",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-09T22:08:08.000Z",
+      "listenDate": "2025-04-09T22:17:31.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-09T22:08:09.463Z",
-      "updatedAt": "2025-04-09T22:08:09.463Z"
+      "createdAt": "2025-04-09T22:17:33.761Z",
+      "updatedAt": "2025-04-09T22:17:33.761Z"
     }
   ],
   "github": {
