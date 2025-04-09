@@ -1,5 +1,65 @@
 [
   {
+    "id": 1615,
+    "title": "Amazing Grace - Lofi Edition",
+    "artist": "Beowülf",
+    "album": "Amazing Grace (Lofi Edition)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T15:36:45.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T15:36:48.505Z",
+    "updatedAt": "2025-04-09T15:36:48.505Z"
+  },
+  {
+    "id": 1614,
+    "title": "Darkness Tonight",
+    "artist": "Beowülf",
+    "album": "Darkness Tonight",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T15:34:05.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T15:34:05.653Z",
+    "updatedAt": "2025-04-09T15:34:05.653Z"
+  },
+  {
+    "id": 1613,
+    "title": "Fly Me Away",
+    "artist": "Beowülf",
+    "album": "Fly Me Away",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T15:31:56.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T15:31:59.084Z",
+    "updatedAt": "2025-04-09T15:31:59.084Z"
+  },
+  {
+    "id": 1612,
+    "title": "I Don't Need Him (Community Beat)",
+    "artist": "Beowülf",
+    "album": "I Don't Need Him (Community Beat)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T15:30:05.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T15:30:08.304Z",
+    "updatedAt": "2025-04-09T15:30:08.304Z"
+  },
+  {
+    "id": 1611,
+    "title": "Runaway",
+    "artist": "Sarcastic Sounds",
+    "album": "Runaway",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T15:27:46.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T15:27:47.746Z",
+    "updatedAt": "2025-04-09T15:27:47.746Z"
+  },
+  {
     "id": 1610,
     "title": "Lose A Friend",
     "artist": "Beowülf",

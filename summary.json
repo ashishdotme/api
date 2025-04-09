@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 10586,
+      "id": 10591,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262299\",\"53.2629688\"}",
+      "coordinates": "{\"-6.2262297\",\"53.2629689\"}",
       "batteryLevel": 60,
-      "timestamp": "2025-04-09T15:25:20.000Z",
-      "createdAt": "2025-04-09T15:25:20.783Z",
-      "updatedAt": "2025-04-09T15:25:20.783Z"
+      "timestamp": "2025-04-09T15:35:29.000Z",
+      "createdAt": "2025-04-09T15:35:30.637Z",
+      "updatedAt": "2025-04-09T15:35:30.637Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1610,
-      "title": "Lose A Friend",
+      "id": 1615,
+      "title": "Amazing Grace - Lofi Edition",
       "artist": "Beowülf",
-      "album": "Lose A Friend",
+      "album": "Amazing Grace (Lofi Edition)",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-09T15:25:44.000Z",
+      "listenDate": "2025-04-09T15:36:45.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-09T15:25:44.877Z",
-      "updatedAt": "2025-04-09T15:25:44.877Z"
+      "createdAt": "2025-04-09T15:36:48.505Z",
+      "updatedAt": "2025-04-09T15:36:48.505Z"
     }
   ],
   "github": {
