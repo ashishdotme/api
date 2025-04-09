@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 10465,
+      "id": 10470,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262299\",\"53.2629686\"}",
+      "coordinates": "{\"-6.2262333\",\"53.2630265\"}",
       "batteryLevel": 75,
-      "timestamp": "2025-04-09T10:18:27.000Z",
-      "createdAt": "2025-04-09T10:18:28.013Z",
-      "updatedAt": "2025-04-09T10:18:28.013Z"
+      "timestamp": "2025-04-09T10:34:36.000Z",
+      "createdAt": "2025-04-09T10:34:36.636Z",
+      "updatedAt": "2025-04-09T10:34:36.636Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1599,
-      "title": "Hercules",
-      "artist": "Beowülf",
-      "album": "Dying to Self",
+      "id": 1602,
+      "title": "Suna Suna",
+      "artist": "Shreya Ghoshal",
+      "album": "Krishna Cottage",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-07T15:56:51.000Z",
+      "listenDate": "2025-04-09T10:34:34.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-07T15:56:53.897Z",
-      "updatedAt": "2025-04-07T15:56:53.897Z"
+      "createdAt": "2025-04-09T10:34:36.831Z",
+      "updatedAt": "2025-04-09T10:34:36.831Z"
     }
   ],
   "github": {
