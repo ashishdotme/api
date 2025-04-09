@@ -1,5 +1,41 @@
 [
   {
+    "id": 1629,
+    "title": "Lose A Friend",
+    "artist": "Beowülf",
+    "album": "Lose A Friend",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:29:27.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:29:28.878Z",
+    "updatedAt": "2025-04-09T21:29:28.878Z"
+  },
+  {
+    "id": 1628,
+    "title": "In My Eyes",
+    "artist": "Beowülf",
+    "album": "In My Eyes",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:26:04.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:26:06.314Z",
+    "updatedAt": "2025-04-09T21:26:06.314Z"
+  },
+  {
+    "id": 1627,
+    "title": "Depression",
+    "artist": "Beowülf",
+    "album": "Depression",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:24:22.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:24:23.537Z",
+    "updatedAt": "2025-04-09T21:24:23.537Z"
+  },
+  {
     "id": 1626,
     "title": "How Miserable Do I Have to Be Before You're Happy",
     "artist": "Beowülf",
