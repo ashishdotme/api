@@ -1,5 +1,77 @@
 [
   {
+    "id": 1659,
+    "title": "nobody",
+    "artist": "Beowülf",
+    "album": "nobody",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T22:28:48.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T22:28:49.950Z",
+    "updatedAt": "2025-04-09T22:28:49.950Z"
+  },
+  {
+    "id": 1658,
+    "title": "false hope fantasy",
+    "artist": "Beowülf",
+    "album": "false hope fantasy",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T22:27:31.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T22:27:31.597Z",
+    "updatedAt": "2025-04-09T22:27:31.597Z"
+  },
+  {
+    "id": 1657,
+    "title": "we had it all figured out",
+    "artist": "Beowülf",
+    "album": "we had it all figured out",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T22:25:33.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T22:25:35.154Z",
+    "updatedAt": "2025-04-09T22:25:35.154Z"
+  },
+  {
+    "id": 1656,
+    "title": "tell me more",
+    "artist": "Beowülf",
+    "album": "tell me more",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T22:23:23.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T22:23:24.822Z",
+    "updatedAt": "2025-04-09T22:23:24.822Z"
+  },
+  {
+    "id": 1655,
+    "title": "not from here",
+    "artist": "Beowülf",
+    "album": "not from here",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T22:21:48.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T22:21:50.442Z",
+    "updatedAt": "2025-04-09T22:21:50.442Z"
+  },
+  {
+    "id": 1654,
+    "title": "unplanned",
+    "artist": "Beowülf",
+    "album": "unplanned",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T22:19:59.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T22:20:00.170Z",
+    "updatedAt": "2025-04-09T22:20:00.170Z"
+  },
+  {
     "id": 1653,
     "title": "Lover Boy",
     "artist": "Beowülf",
