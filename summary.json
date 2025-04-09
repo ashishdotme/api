@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 10746,
+      "id": 10749,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262333\",\"53.2630265\"}",
+      "coordinates": "{\"-6.2262285\",\"53.2629703\"}",
       "batteryLevel": 15,
-      "timestamp": "2025-04-09T22:54:47.000Z",
-      "createdAt": "2025-04-09T22:54:47.803Z",
-      "updatedAt": "2025-04-09T22:54:47.803Z"
+      "timestamp": "2025-04-09T23:02:02.000Z",
+      "createdAt": "2025-04-09T23:02:02.761Z",
+      "updatedAt": "2025-04-09T23:02:02.761Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1671,
-      "title": "It's Not Too Late for Me",
+      "id": 1674,
+      "title": "i dare you to go…",
       "artist": "Beowülf",
-      "album": "It's not too late for me",
+      "album": "i dare you to go…",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-09T22:55:15.000Z",
+      "listenDate": "2025-04-09T23:01:47.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-09T22:55:16.427Z",
-      "updatedAt": "2025-04-09T22:55:16.427Z"
+      "createdAt": "2025-04-09T23:01:47.638Z",
+      "updatedAt": "2025-04-09T23:01:47.638Z"
     }
   ],
   "github": {

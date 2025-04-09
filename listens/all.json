@@ -1,5 +1,41 @@
 [
   {
+    "id": 1674,
+    "title": "i dare you to go…",
+    "artist": "Beowülf",
+    "album": "i dare you to go…",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T23:01:47.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T23:01:47.638Z",
+    "updatedAt": "2025-04-09T23:01:47.638Z"
+  },
+  {
+    "id": 1673,
+    "title": "clouds",
+    "artist": "Beowülf",
+    "album": "clouds",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T22:58:15.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T22:58:17.129Z",
+    "updatedAt": "2025-04-09T22:58:17.129Z"
+  },
+  {
+    "id": 1672,
+    "title": "soul 9001",
+    "artist": "Beowülf",
+    "album": "It's not too late for me",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T22:56:40.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T22:56:40.897Z",
+    "updatedAt": "2025-04-09T22:56:40.897Z"
+  },
+  {
     "id": 1671,
     "title": "It's Not Too Late for Me",
     "artist": "Beowülf",
