@@ -1,5 +1,53 @@
 [
   {
+    "id": 1642,
+    "title": "Alcoholic Paradise",
+    "artist": "Beowülf",
+    "album": "Lost Cause",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:54:03.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:54:05.153Z",
+    "updatedAt": "2025-04-09T21:54:05.153Z"
+  },
+  {
+    "id": 1641,
+    "title": "Cornerstone",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:51:31.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:51:32.637Z",
+    "updatedAt": "2025-04-09T21:51:32.637Z"
+  },
+  {
+    "id": 1640,
+    "title": "You Will not Defeat Me",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:49:58.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:50:00.333Z",
+    "updatedAt": "2025-04-09T21:50:00.333Z"
+  },
+  {
+    "id": 1639,
+    "title": "Hercules",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:48:25.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:48:27.912Z",
+    "updatedAt": "2025-04-09T21:48:27.912Z"
+  },
+  {
     "id": 1638,
     "title": "Ready to Be Made New",
     "artist": "Beowülf",

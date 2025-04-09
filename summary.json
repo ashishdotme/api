@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 10715,
+      "id": 10718,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262238\",\"53.2629826\"}",
+      "coordinates": "{\"-6.2262143\",\"53.2630434\"}",
       "batteryLevel": 20,
-      "timestamp": "2025-04-09T21:47:00.000Z",
-      "createdAt": "2025-04-09T21:47:01.423Z",
-      "updatedAt": "2025-04-09T21:47:01.423Z"
+      "timestamp": "2025-04-09T21:53:00.000Z",
+      "createdAt": "2025-04-09T21:53:01.333Z",
+      "updatedAt": "2025-04-09T21:53:01.333Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1638,
-      "title": "Ready to Be Made New",
+      "id": 1642,
+      "title": "Alcoholic Paradise",
       "artist": "Beowülf",
-      "album": "Dying to Self",
+      "album": "Lost Cause",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-09T21:47:01.000Z",
+      "listenDate": "2025-04-09T21:54:03.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-09T21:47:03.627Z",
-      "updatedAt": "2025-04-09T21:47:03.627Z"
+      "createdAt": "2025-04-09T21:54:05.153Z",
+      "updatedAt": "2025-04-09T21:54:05.153Z"
     }
   ],
   "github": {
