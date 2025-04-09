@@ -1,5 +1,41 @@
 [
   {
+    "id": 1605,
+    "title": "How Miserable Do I Have to Be Before You're Happy",
+    "artist": "Beowülf",
+    "album": "How Miserable Do I Have to Be Before You're Happy",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T15:13:17.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T15:13:19.476Z",
+    "updatedAt": "2025-04-09T15:13:19.476Z"
+  },
+  {
+    "id": 1604,
+    "title": "the grass wasn’t greener",
+    "artist": "Beowülf",
+    "album": "the grass wasn’t greener",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T15:11:30.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T15:11:32.639Z",
+    "updatedAt": "2025-04-09T15:11:32.639Z"
+  },
+  {
+    "id": 1603,
+    "title": "Is It Too Late for Me",
+    "artist": "Beowülf",
+    "album": "Is It Too Late for Me",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T15:09:45.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T15:09:46.034Z",
+    "updatedAt": "2025-04-09T15:09:46.034Z"
+  },
+  {
     "id": 1602,
     "title": "Suna Suna",
     "artist": "Shreya Ghoshal",
