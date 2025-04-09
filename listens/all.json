@@ -1,5 +1,41 @@
 [
   {
+    "id": 1632,
+    "title": "Angels Cry",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:35:51.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:35:52.982Z",
+    "updatedAt": "2025-04-09T21:35:52.982Z"
+  },
+  {
+    "id": 1631,
+    "title": "Why Try",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:34:01.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:34:02.370Z",
+    "updatedAt": "2025-04-09T21:34:02.370Z"
+  },
+  {
+    "id": 1630,
+    "title": "I Don't Need Him (Community Beat)",
+    "artist": "Beowülf",
+    "album": "I Don't Need Him (Community Beat)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:31:47.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:31:49.977Z",
+    "updatedAt": "2025-04-09T21:31:49.977Z"
+  },
+  {
     "id": 1629,
     "title": "Lose A Friend",
     "artist": "Beowülf",

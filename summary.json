@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 10706,
+      "id": 10709,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262283\",\"53.263113\"}",
+      "coordinates": "{\"-6.2262199\",\"53.2631575\"}",
       "batteryLevel": 25,
-      "timestamp": "2025-04-09T21:28:59.000Z",
-      "createdAt": "2025-04-09T21:28:59.333Z",
-      "updatedAt": "2025-04-09T21:28:59.333Z"
+      "timestamp": "2025-04-09T21:34:59.000Z",
+      "createdAt": "2025-04-09T21:34:59.369Z",
+      "updatedAt": "2025-04-09T21:34:59.369Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1629,
-      "title": "Lose A Friend",
+      "id": 1632,
+      "title": "Angels Cry",
       "artist": "Beowülf",
-      "album": "Lose A Friend",
+      "album": "Dying to Self",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-09T21:29:27.000Z",
+      "listenDate": "2025-04-09T21:35:51.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-09T21:29:28.878Z",
-      "updatedAt": "2025-04-09T21:29:28.878Z"
+      "createdAt": "2025-04-09T21:35:52.982Z",
+      "updatedAt": "2025-04-09T21:35:52.982Z"
     }
   ],
   "github": {
