@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 10596,
+      "id": 10599,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.2262309\",\"53.2629645\"}",
       "batteryLevel": 55,
-      "timestamp": "2025-04-09T15:45:30.000Z",
-      "createdAt": "2025-04-09T15:45:31.430Z",
-      "updatedAt": "2025-04-09T15:45:31.430Z"
+      "timestamp": "2025-04-09T15:51:30.000Z",
+      "createdAt": "2025-04-09T15:51:31.454Z",
+      "updatedAt": "2025-04-09T15:51:31.454Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1619,
-      "title": "hopeless",
-      "artist": "Beowülf",
-      "album": "hopeless",
+      "id": 1620,
+      "title": "Riha",
+      "artist": "Anuv Jain",
+      "album": "Riha",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-09T15:44:32.000Z",
+      "listenDate": "2025-04-09T15:49:48.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-09T15:44:33.241Z",
-      "updatedAt": "2025-04-09T15:44:33.241Z"
+      "createdAt": "2025-04-09T15:49:50.176Z",
+      "updatedAt": "2025-04-09T15:49:50.176Z"
     }
   ],
   "github": {
