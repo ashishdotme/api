@@ -1,5 +1,65 @@
 [
   {
+    "id": 1679,
+    "title": "today is a gift",
+    "artist": "Beowülf",
+    "album": "today is a gift",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T23:10:45.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T23:10:47.269Z",
+    "updatedAt": "2025-04-09T23:10:47.269Z"
+  },
+  {
+    "id": 1678,
+    "title": "Amazing Grace - Lofi Edition",
+    "artist": "Beowülf",
+    "album": "Amazing Grace (Lofi Edition)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T23:08:15.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T23:08:16.969Z",
+    "updatedAt": "2025-04-09T23:08:16.969Z"
+  },
+  {
+    "id": 1677,
+    "title": "sex for breakfast",
+    "artist": "Beowülf",
+    "album": "sex for breakfast",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T23:06:44.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T23:06:46.597Z",
+    "updatedAt": "2025-04-09T23:06:46.597Z"
+  },
+  {
+    "id": 1676,
+    "title": "what i got to do",
+    "artist": "Beowülf",
+    "album": "what i got to do",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T23:05:20.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T23:05:22.309Z",
+    "updatedAt": "2025-04-09T23:05:22.309Z"
+  },
+  {
+    "id": 1675,
+    "title": "the valley",
+    "artist": "Beowülf",
+    "album": "the valley",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T23:03:20.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T23:03:21.909Z",
+    "updatedAt": "2025-04-09T23:03:21.909Z"
+  },
+  {
     "id": 1674,
     "title": "i dare you to go…",
     "artist": "Beowülf",

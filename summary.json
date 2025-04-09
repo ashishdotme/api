@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 10749,
+      "id": 10753,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.2262285\",\"53.2629703\"}",
       "batteryLevel": 15,
-      "timestamp": "2025-04-09T23:02:02.000Z",
-      "createdAt": "2025-04-09T23:02:02.761Z",
-      "updatedAt": "2025-04-09T23:02:02.761Z"
+      "timestamp": "2025-04-09T23:10:02.000Z",
+      "createdAt": "2025-04-09T23:10:02.818Z",
+      "updatedAt": "2025-04-09T23:10:02.818Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1674,
-      "title": "i dare you to go…",
+      "id": 1679,
+      "title": "today is a gift",
       "artist": "Beowülf",
-      "album": "i dare you to go…",
+      "album": "today is a gift",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-09T23:01:47.000Z",
+      "listenDate": "2025-04-09T23:10:45.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-09T23:01:47.638Z",
-      "updatedAt": "2025-04-09T23:01:47.638Z"
+      "createdAt": "2025-04-09T23:10:47.269Z",
+      "updatedAt": "2025-04-09T23:10:47.269Z"
     }
   ],
   "github": {
