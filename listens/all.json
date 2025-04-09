@@ -1,5 +1,53 @@
 [
   {
+    "id": 1619,
+    "title": "hopeless",
+    "artist": "Beowülf",
+    "album": "hopeless",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T15:44:32.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T15:44:33.241Z",
+    "updatedAt": "2025-04-09T15:44:33.241Z"
+  },
+  {
+    "id": 1618,
+    "title": "Please Don't Go",
+    "artist": "Beowülf",
+    "album": "Please Don't Go",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T15:42:17.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T15:42:18.422Z",
+    "updatedAt": "2025-04-09T15:42:18.422Z"
+  },
+  {
+    "id": 1617,
+    "title": "I Feel So Alone",
+    "artist": "Beowülf",
+    "album": "I Feel So Alone",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T15:40:15.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T15:40:17.857Z",
+    "updatedAt": "2025-04-09T15:40:17.857Z"
+  },
+  {
+    "id": 1616,
+    "title": "Close Your Eyes",
+    "artist": "Beowülf",
+    "album": "Close Your Eyes",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T15:38:47.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T15:38:49.063Z",
+    "updatedAt": "2025-04-09T15:38:49.063Z"
+  },
+  {
     "id": 1615,
     "title": "Amazing Grace - Lofi Edition",
     "artist": "Beowülf",
