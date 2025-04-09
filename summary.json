@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 10697,
+      "id": 10702,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262296\",\"53.2629688\"}",
+      "coordinates": "{\"-6.226222\",\"53.2630689\"}",
       "batteryLevel": 25,
-      "timestamp": "2025-04-09T21:10:51.000Z",
-      "createdAt": "2025-04-09T21:10:51.889Z",
-      "updatedAt": "2025-04-09T21:10:51.889Z"
+      "timestamp": "2025-04-09T21:20:56.000Z",
+      "createdAt": "2025-04-09T21:20:57.662Z",
+      "updatedAt": "2025-04-09T21:20:57.662Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1621,
-      "title": "Finding Her",
-      "artist": "Kushagra",
-      "album": "Finding Her",
+      "id": 1626,
+      "title": "How Miserable Do I Have to Be Before You're Happy",
+      "artist": "Beowülf",
+      "album": "How Miserable Do I Have to Be Before You're Happy",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-09T15:53:15.000Z",
+      "listenDate": "2025-04-09T21:22:03.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-09T15:53:16.804Z",
-      "updatedAt": "2025-04-09T15:53:16.804Z"
+      "createdAt": "2025-04-09T21:22:05.055Z",
+      "updatedAt": "2025-04-09T21:22:05.055Z"
     }
   ],
   "github": {

@@ -1,5 +1,65 @@
 [
   {
+    "id": 1626,
+    "title": "How Miserable Do I Have to Be Before You're Happy",
+    "artist": "Beowülf",
+    "album": "How Miserable Do I Have to Be Before You're Happy",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:22:03.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:22:05.055Z",
+    "updatedAt": "2025-04-09T21:22:05.055Z"
+  },
+  {
+    "id": 1625,
+    "title": "We Accept the Love We Think We Deserve",
+    "artist": "Beowülf",
+    "album": "We Accept the Love We Think We Deserve",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:20:17.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:20:18.351Z",
+    "updatedAt": "2025-04-09T21:20:18.351Z"
+  },
+  {
+    "id": 1624,
+    "title": "today is a gift",
+    "artist": "Beowülf",
+    "album": "today is a gift",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:17:49.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:17:51.944Z",
+    "updatedAt": "2025-04-09T21:17:51.944Z"
+  },
+  {
+    "id": 1623,
+    "title": "the grass wasn’t greener",
+    "artist": "Beowülf",
+    "album": "the grass wasn’t greener",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:15:13.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:15:15.185Z",
+    "updatedAt": "2025-04-09T21:15:15.185Z"
+  },
+  {
+    "id": 1622,
+    "title": "Is It Too Late for Me",
+    "artist": "Beowülf",
+    "album": "Is It Too Late for Me",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:13:27.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:13:28.810Z",
+    "updatedAt": "2025-04-09T21:13:28.810Z"
+  },
+  {
     "id": 1621,
     "title": "Finding Her",
     "artist": "Kushagra",
