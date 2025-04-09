@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 10736,
+      "id": 10740,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.2261538\",\"53.2631091\"}",
       "batteryLevel": 20,
-      "timestamp": "2025-04-09T22:29:05.000Z",
-      "createdAt": "2025-04-09T22:29:06.327Z",
-      "updatedAt": "2025-04-09T22:29:06.327Z"
+      "timestamp": "2025-04-09T22:37:07.000Z",
+      "createdAt": "2025-04-09T22:37:07.345Z",
+      "updatedAt": "2025-04-09T22:37:07.345Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1659,
-      "title": "nobody",
-      "artist": "Beowülf",
-      "album": "nobody",
+      "id": 1662,
+      "title": "forever stuck inside this mess i made",
+      "artist": "Henry AZ",
+      "album": "Truly, I Tell You",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-09T22:28:48.000Z",
+      "listenDate": "2025-04-09T22:36:10.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-09T22:28:49.950Z",
-      "updatedAt": "2025-04-09T22:28:49.950Z"
+      "createdAt": "2025-04-09T22:36:11.217Z",
+      "updatedAt": "2025-04-09T22:36:11.217Z"
     }
   ],
   "github": {
