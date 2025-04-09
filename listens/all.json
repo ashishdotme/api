@@ -1,5 +1,41 @@
 [
   {
+    "id": 1635,
+    "title": "Nothing to Lose",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:41:18.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:41:20.281Z",
+    "updatedAt": "2025-04-09T21:41:20.281Z"
+  },
+  {
+    "id": 1634,
+    "title": "Medicine",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:40:01.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:40:03.993Z",
+    "updatedAt": "2025-04-09T21:40:03.993Z"
+  },
+  {
+    "id": 1633,
+    "title": "Growing Apart",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-09T21:37:55.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-09T21:37:57.493Z",
+    "updatedAt": "2025-04-09T21:37:57.493Z"
+  },
+  {
     "id": 1632,
     "title": "Angels Cry",
     "artist": "Beowülf",

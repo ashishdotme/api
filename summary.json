@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 10709,
+      "id": 10712,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262199\",\"53.2631575\"}",
+      "coordinates": "{\"-6.2261938\",\"53.2631638\"}",
       "batteryLevel": 25,
-      "timestamp": "2025-04-09T21:34:59.000Z",
-      "createdAt": "2025-04-09T21:34:59.369Z",
-      "updatedAt": "2025-04-09T21:34:59.369Z"
+      "timestamp": "2025-04-09T21:41:00.000Z",
+      "createdAt": "2025-04-09T21:41:01.333Z",
+      "updatedAt": "2025-04-09T21:41:01.333Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1632,
-      "title": "Angels Cry",
+      "id": 1635,
+      "title": "Nothing to Lose",
       "artist": "Beowülf",
       "album": "Dying to Self",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-09T21:35:51.000Z",
+      "listenDate": "2025-04-09T21:41:18.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-09T21:35:52.982Z",
-      "updatedAt": "2025-04-09T21:35:52.982Z"
+      "createdAt": "2025-04-09T21:41:20.281Z",
+      "updatedAt": "2025-04-09T21:41:20.281Z"
     }
   ],
   "github": {
