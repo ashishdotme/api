@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 10599,
+      "id": 10601,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262309\",\"53.2629645\"}",
+      "coordinates": "{\"-6.226196\",\"53.2629708\"}",
       "batteryLevel": 55,
-      "timestamp": "2025-04-09T15:51:30.000Z",
-      "createdAt": "2025-04-09T15:51:31.454Z",
-      "updatedAt": "2025-04-09T15:51:31.454Z"
+      "timestamp": "2025-04-09T15:55:31.000Z",
+      "createdAt": "2025-04-09T15:55:32.437Z",
+      "updatedAt": "2025-04-09T15:55:32.437Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1620,
-      "title": "Riha",
-      "artist": "Anuv Jain",
-      "album": "Riha",
+      "id": 1621,
+      "title": "Finding Her",
+      "artist": "Kushagra",
+      "album": "Finding Her",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-09T15:49:48.000Z",
+      "listenDate": "2025-04-09T15:53:15.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-09T15:49:50.176Z",
-      "updatedAt": "2025-04-09T15:49:50.176Z"
+      "createdAt": "2025-04-09T15:53:16.804Z",
+      "updatedAt": "2025-04-09T15:53:16.804Z"
     }
   ],
   "github": {
