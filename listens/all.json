@@ -1,5 +1,65 @@
 [
   {
+    "id": 1735,
+    "title": "Please Don't Go",
+    "artist": "Beowülf",
+    "album": "Please Don't Go",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T20:28:25.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T20:28:26.387Z",
+    "updatedAt": "2025-04-10T20:28:26.387Z"
+  },
+  {
+    "id": 1734,
+    "title": "I Don't Need Him (Community Beat)",
+    "artist": "Beowülf",
+    "album": "I Don't Need Him (Community Beat)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T20:26:23.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T20:26:25.431Z",
+    "updatedAt": "2025-04-10T20:26:25.431Z"
+  },
+  {
+    "id": 1733,
+    "title": "Fly Me Away",
+    "artist": "Beowülf",
+    "album": "Fly Me Away",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T20:24:04.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T20:24:04.913Z",
+    "updatedAt": "2025-04-10T20:24:04.913Z"
+  },
+  {
+    "id": 1732,
+    "title": "Runaway",
+    "artist": "Sarcastic Sounds",
+    "album": "Runaway",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T20:22:13.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T20:22:14.274Z",
+    "updatedAt": "2025-04-10T20:22:14.274Z"
+  },
+  {
+    "id": 1731,
+    "title": "Lose A Friend",
+    "artist": "Beowülf",
+    "album": "Lose A Friend",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T20:20:11.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T20:20:11.742Z",
+    "updatedAt": "2025-04-10T20:20:11.742Z"
+  },
+  {
     "id": 1730,
     "title": "Depression",
     "artist": "Beowülf",
