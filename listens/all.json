@@ -1,5 +1,53 @@
 [
   {
+    "id": 1699,
+    "title": "How Miserable Do I Have to Be Before You're Happy",
+    "artist": "Beowülf",
+    "album": "How Miserable Do I Have to Be Before You're Happy",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T09:37:04.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T09:37:05.519Z",
+    "updatedAt": "2025-04-10T09:37:05.519Z"
+  },
+  {
+    "id": 1698,
+    "title": "We Accept the Love We Think We Deserve",
+    "artist": "Beowülf",
+    "album": "We Accept the Love We Think We Deserve",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T09:35:17.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T09:35:18.912Z",
+    "updatedAt": "2025-04-10T09:35:18.912Z"
+  },
+  {
+    "id": 1697,
+    "title": "today is a gift",
+    "artist": "Beowülf",
+    "album": "today is a gift",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T09:32:50.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T09:32:52.024Z",
+    "updatedAt": "2025-04-10T09:32:52.024Z"
+  },
+  {
+    "id": 1696,
+    "title": "the grass wasn’t greener",
+    "artist": "Beowülf",
+    "album": "the grass wasn’t greener",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T09:30:38.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T09:30:39.495Z",
+    "updatedAt": "2025-04-10T09:30:39.495Z"
+  },
+  {
     "id": 1695,
     "title": "Guns in the Distance",
     "artist": "Maverick Sabre",
