@@ -1,5 +1,65 @@
 [
   {
+    "id": 1691,
+    "title": "Growing Apart",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T09:18:02.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T09:18:04.025Z",
+    "updatedAt": "2025-04-10T09:18:04.025Z"
+  },
+  {
+    "id": 1690,
+    "title": "Angels Cry",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T09:15:59.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T09:16:01.367Z",
+    "updatedAt": "2025-04-10T09:16:01.367Z"
+  },
+  {
+    "id": 1689,
+    "title": "Why Try",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T09:14:08.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T09:14:10.683Z",
+    "updatedAt": "2025-04-10T09:14:10.683Z"
+  },
+  {
+    "id": 1688,
+    "title": "I Don't Need Him (Community Beat)",
+    "artist": "Beowülf",
+    "album": "I Don't Need Him (Community Beat)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T09:11:54.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T09:11:56.280Z",
+    "updatedAt": "2025-04-10T09:11:56.280Z"
+  },
+  {
+    "id": 1687,
+    "title": "Lose A Friend",
+    "artist": "Beowülf",
+    "album": "Lose A Friend",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T09:09:35.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T09:09:35.402Z",
+    "updatedAt": "2025-04-10T09:09:35.402Z"
+  },
+  {
     "id": 1686,
     "title": "In My Eyes",
     "artist": "Beowülf",
