@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 10992,
+      "id": 10995,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262279\",\"53.2629703\"}",
+      "coordinates": "{\"-6.2262278\",\"53.2629727\"}",
       "batteryLevel": 20,
-      "timestamp": "2025-04-10T08:46:11.000Z",
-      "createdAt": "2025-04-10T08:46:11.890Z",
-      "updatedAt": "2025-04-10T08:46:11.890Z"
+      "timestamp": "2025-04-10T08:53:16.000Z",
+      "createdAt": "2025-04-10T08:53:17.249Z",
+      "updatedAt": "2025-04-10T08:53:17.249Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1679,
+      "id": 1680,
       "title": "today is a gift",
       "artist": "Beowülf",
       "album": "today is a gift",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-09T23:10:45.000Z",
+      "listenDate": "2025-04-10T08:53:45.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-09T23:10:47.269Z",
-      "updatedAt": "2025-04-09T23:10:47.269Z"
+      "createdAt": "2025-04-10T08:53:47.323Z",
+      "updatedAt": "2025-04-10T08:53:47.323Z"
     }
   ],
   "github": {
