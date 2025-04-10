@@ -1,5 +1,53 @@
 [
   {
+    "id": 1712,
+    "title": "CUTE DEPRESSED",
+    "artist": "Dyan Dxddy",
+    "album": "CUTE DEPRESSED",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T13:40:38.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T13:40:40.279Z",
+    "updatedAt": "2025-04-10T13:40:40.279Z"
+  },
+  {
+    "id": 1711,
+    "title": "The Box",
+    "artist": "Roddy Ricch",
+    "album": "Please Excuse Me for Being Antisocial",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T13:39:19.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T13:39:21.457Z",
+    "updatedAt": "2025-04-10T13:39:21.457Z"
+  },
+  {
+    "id": 1710,
+    "title": "GLORY",
+    "artist": "Ogryzek",
+    "album": "GLORY",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T13:36:36.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T13:36:36.887Z",
+    "updatedAt": "2025-04-10T13:36:36.887Z"
+  },
+  {
+    "id": 1709,
+    "title": "Riha",
+    "artist": "Anuv Jain",
+    "album": "Riha",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T13:33:12.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T13:33:14.224Z",
+    "updatedAt": "2025-04-10T13:33:14.224Z"
+  },
+  {
     "id": 1708,
     "title": "KEEP UP",
     "artist": "Odetari",
