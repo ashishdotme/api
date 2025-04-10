@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 11290,
+      "id": 11294,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262332\",\"53.2630193\"}",
+      "coordinates": "{\"-6.2261832\",\"53.2629845\"}",
       "batteryLevel": 40,
-      "timestamp": "2025-04-10T19:57:46.000Z",
-      "createdAt": "2025-04-10T19:57:46.665Z",
-      "updatedAt": "2025-04-10T19:57:46.665Z"
+      "timestamp": "2025-04-10T20:05:56.000Z",
+      "createdAt": "2025-04-10T20:05:56.423Z",
+      "updatedAt": "2025-04-10T20:05:56.423Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1721,
-      "title": "We Accept the Love We Think We Deserve",
+      "id": 1725,
+      "title": "the grass wasn’t greener",
       "artist": "Beowülf",
-      "album": "We Accept the Love We Think We Deserve",
+      "album": "the grass wasn’t greener",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-10T19:57:28.000Z",
+      "listenDate": "2025-04-10T20:05:57.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-10T19:57:31.071Z",
-      "updatedAt": "2025-04-10T19:57:31.071Z"
+      "createdAt": "2025-04-10T20:05:59.632Z",
+      "updatedAt": "2025-04-10T20:05:59.632Z"
     }
   ],
   "github": {
