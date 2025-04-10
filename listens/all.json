@@ -1,5 +1,77 @@
 [
   {
+    "id": 1708,
+    "title": "KEEP UP",
+    "artist": "Odetari",
+    "album": "KEEP UP // FROSTBITE",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T13:29:08.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T13:29:09.647Z",
+    "updatedAt": "2025-04-10T13:29:09.647Z"
+  },
+  {
+    "id": 1707,
+    "title": "SLAY!",
+    "artist": "Eternxlkz",
+    "album": "SLAY!",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T13:27:26.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T13:27:28.804Z",
+    "updatedAt": "2025-04-10T13:27:28.804Z"
+  },
+  {
+    "id": 1706,
+    "title": "Mood (feat. iann dior)",
+    "artist": "24kGoldn",
+    "album": "El Dorado",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T13:25:55.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T13:25:56.209Z",
+    "updatedAt": "2025-04-10T13:25:56.209Z"
+  },
+  {
+    "id": 1705,
+    "title": "CUTE DEPRESSED",
+    "artist": "Dyan Dxddy",
+    "album": "CUTE DEPRESSED",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T13:23:45.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T13:23:47.296Z",
+    "updatedAt": "2025-04-10T13:23:47.296Z"
+  },
+  {
+    "id": 1704,
+    "title": "The Box",
+    "artist": "Roddy Ricch",
+    "album": "Please Excuse Me for Being Antisocial",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T13:22:34.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T13:22:36.642Z",
+    "updatedAt": "2025-04-10T13:22:36.642Z"
+  },
+  {
+    "id": 1703,
+    "title": "Run It Up",
+    "artist": "Hanumankind",
+    "album": "Run It Up",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T13:19:30.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T13:19:31.956Z",
+    "updatedAt": "2025-04-10T13:19:31.956Z"
+  },
+  {
     "id": 1702,
     "title": "Lose A Friend",
     "artist": "Beowülf",

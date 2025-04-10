@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 11104,
+      "id": 11111,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2207857\",\"53.2611156\"}",
+      "coordinates": "{\"-6.2207852\",\"53.2611154\"}",
       "batteryLevel": 70,
-      "timestamp": "2025-04-10T13:16:45.000Z",
-      "createdAt": "2025-04-10T13:16:46.107Z",
-      "updatedAt": "2025-04-10T13:16:46.107Z"
+      "timestamp": "2025-04-10T13:31:17.000Z",
+      "createdAt": "2025-04-10T13:31:18.270Z",
+      "updatedAt": "2025-04-10T13:31:18.270Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1702,
-      "title": "Lose A Friend",
-      "artist": "Beowülf",
-      "album": "Lose A Friend",
+      "id": 1708,
+      "title": "KEEP UP",
+      "artist": "Odetari",
+      "album": "KEEP UP // FROSTBITE",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-10T09:44:28.000Z",
+      "listenDate": "2025-04-10T13:29:08.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-10T09:44:29.740Z",
-      "updatedAt": "2025-04-10T09:44:29.740Z"
+      "createdAt": "2025-04-10T13:29:09.647Z",
+      "updatedAt": "2025-04-10T13:29:09.647Z"
     }
   ],
   "github": {
