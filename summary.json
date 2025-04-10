@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 11015,
+      "id": 11018,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.2262282\",\"53.2629702\"}",
       "batteryLevel": 15,
-      "timestamp": "2025-04-10T09:36:28.000Z",
-      "createdAt": "2025-04-10T09:36:29.342Z",
-      "updatedAt": "2025-04-10T09:36:29.342Z"
+      "timestamp": "2025-04-10T09:42:30.000Z",
+      "createdAt": "2025-04-10T09:42:30.181Z",
+      "updatedAt": "2025-04-10T09:42:30.181Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1699,
-      "title": "How Miserable Do I Have to Be Before You're Happy",
+      "id": 1702,
+      "title": "Lose A Friend",
       "artist": "Beowülf",
-      "album": "How Miserable Do I Have to Be Before You're Happy",
+      "album": "Lose A Friend",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-10T09:37:04.000Z",
+      "listenDate": "2025-04-10T09:44:28.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-10T09:37:05.519Z",
-      "updatedAt": "2025-04-10T09:37:05.519Z"
+      "createdAt": "2025-04-10T09:44:29.740Z",
+      "updatedAt": "2025-04-10T09:44:29.740Z"
     }
   ],
   "github": {
