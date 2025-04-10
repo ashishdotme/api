@@ -1,5 +1,53 @@
 [
   {
+    "id": 1695,
+    "title": "Guns in the Distance",
+    "artist": "Maverick Sabre",
+    "album": "When I Wake Up",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T09:28:53.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T09:28:54.880Z",
+    "updatedAt": "2025-04-10T09:28:54.880Z"
+  },
+  {
+    "id": 1694,
+    "title": "Her Grace",
+    "artist": "Maverick Sabre",
+    "album": "When I Wake Up",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T09:25:50.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T09:25:52.285Z",
+    "updatedAt": "2025-04-10T09:25:52.285Z"
+  },
+  {
+    "id": 1693,
+    "title": "Nothing to Lose",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T09:21:26.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T09:21:27.353Z",
+    "updatedAt": "2025-04-10T09:21:27.353Z"
+  },
+  {
+    "id": 1692,
+    "title": "Medicine",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T09:20:08.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T09:20:10.825Z",
+    "updatedAt": "2025-04-10T09:20:10.825Z"
+  },
+  {
     "id": 1691,
     "title": "Growing Apart",
     "artist": "Beowülf",
