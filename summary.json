@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 11294,
+      "id": 11300,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2261832\",\"53.2629845\"}",
-      "batteryLevel": 40,
-      "timestamp": "2025-04-10T20:05:56.000Z",
-      "createdAt": "2025-04-10T20:05:56.423Z",
-      "updatedAt": "2025-04-10T20:05:56.423Z"
+      "coordinates": "{\"-6.2262268\",\"53.2629704\"}",
+      "batteryLevel": 35,
+      "timestamp": "2025-04-10T20:18:03.000Z",
+      "createdAt": "2025-04-10T20:18:03.850Z",
+      "updatedAt": "2025-04-10T20:18:03.850Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1725,
-      "title": "the grass wasn’t greener",
+      "id": 1730,
+      "title": "Depression",
       "artist": "Beowülf",
-      "album": "the grass wasn’t greener",
+      "album": "Depression",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-10T20:05:57.000Z",
+      "listenDate": "2025-04-10T20:16:47.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-10T20:05:59.632Z",
-      "updatedAt": "2025-04-10T20:05:59.632Z"
+      "createdAt": "2025-04-10T20:16:48.911Z",
+      "updatedAt": "2025-04-10T20:16:48.911Z"
     }
   ],
   "github": {

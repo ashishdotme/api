@@ -1,5 +1,65 @@
 [
   {
+    "id": 1730,
+    "title": "Depression",
+    "artist": "Beowülf",
+    "album": "Depression",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T20:16:47.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T20:16:48.911Z",
+    "updatedAt": "2025-04-10T20:16:48.911Z"
+  },
+  {
+    "id": 1729,
+    "title": "We Accept the Love We Think We Deserve",
+    "artist": "Beowülf",
+    "album": "We Accept the Love We Think We Deserve",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T20:14:29.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T20:14:30.317Z",
+    "updatedAt": "2025-04-10T20:14:30.317Z"
+  },
+  {
+    "id": 1728,
+    "title": "In My Eyes",
+    "artist": "Beowülf",
+    "album": "In My Eyes",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T20:12:01.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T20:12:03.463Z",
+    "updatedAt": "2025-04-10T20:12:03.463Z"
+  },
+  {
+    "id": 1727,
+    "title": "today is a gift",
+    "artist": "Beowülf",
+    "album": "today is a gift",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T20:10:19.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T20:10:21.075Z",
+    "updatedAt": "2025-04-10T20:10:21.075Z"
+  },
+  {
+    "id": 1726,
+    "title": "How Miserable Do I Have to Be Before You're Happy",
+    "artist": "Beowülf",
+    "album": "How Miserable Do I Have to Be Before You're Happy",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T20:07:43.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T20:07:46.177Z",
+    "updatedAt": "2025-04-10T20:07:46.177Z"
+  },
+  {
     "id": 1725,
     "title": "the grass wasn’t greener",
     "artist": "Beowülf",
