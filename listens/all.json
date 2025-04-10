@@ -1,5 +1,29 @@
 [
   {
+    "id": 1737,
+    "title": "Darkness Tonight",
+    "artist": "Beowülf",
+    "album": "Darkness Tonight",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T20:32:26.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T20:32:27.712Z",
+    "updatedAt": "2025-04-10T20:32:27.712Z"
+  },
+  {
+    "id": 1736,
+    "title": "I Feel So Alone",
+    "artist": "Beowülf",
+    "album": "I Feel So Alone",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T20:29:53.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T20:29:54.934Z",
+    "updatedAt": "2025-04-10T20:29:54.934Z"
+  },
+  {
     "id": 1735,
     "title": "Please Don't Go",
     "artist": "Beowülf",

@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 11305,
+      "id": 11309,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.2262268\",\"53.2629704\"}",
       "batteryLevel": 35,
-      "timestamp": "2025-04-10T20:28:03.000Z",
-      "createdAt": "2025-04-10T20:28:03.979Z",
-      "updatedAt": "2025-04-10T20:28:03.979Z"
+      "timestamp": "2025-04-10T20:36:03.000Z",
+      "createdAt": "2025-04-10T20:36:04.166Z",
+      "updatedAt": "2025-04-10T20:36:04.166Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1735,
-      "title": "Please Don't Go",
+      "id": 1737,
+      "title": "Darkness Tonight",
       "artist": "Beowülf",
-      "album": "Please Don't Go",
+      "album": "Darkness Tonight",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-10T20:28:25.000Z",
+      "listenDate": "2025-04-10T20:32:26.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-10T20:28:26.387Z",
-      "updatedAt": "2025-04-10T20:28:26.387Z"
+      "createdAt": "2025-04-10T20:32:27.712Z",
+      "updatedAt": "2025-04-10T20:32:27.712Z"
     }
   ],
   "github": {
