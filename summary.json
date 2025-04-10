@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 11116,
+      "id": 11119,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.2207852\",\"53.2611154\"}",
       "batteryLevel": 70,
-      "timestamp": "2025-04-10T13:41:34.000Z",
-      "createdAt": "2025-04-10T13:41:34.969Z",
-      "updatedAt": "2025-04-10T13:41:34.969Z"
+      "timestamp": "2025-04-10T13:47:40.000Z",
+      "createdAt": "2025-04-10T13:47:40.725Z",
+      "updatedAt": "2025-04-10T13:47:40.725Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1712,
-      "title": "CUTE DEPRESSED",
-      "artist": "Dyan Dxddy",
-      "album": "CUTE DEPRESSED",
+      "id": 1715,
+      "title": "KEEP UP",
+      "artist": "Odetari",
+      "album": "KEEP UP // FROSTBITE",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-10T13:40:38.000Z",
+      "listenDate": "2025-04-10T13:46:04.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-10T13:40:40.279Z",
-      "updatedAt": "2025-04-10T13:40:40.279Z"
+      "createdAt": "2025-04-10T13:46:06.400Z",
+      "updatedAt": "2025-04-10T13:46:06.400Z"
     }
   ],
   "github": {

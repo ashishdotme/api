@@ -1,5 +1,41 @@
 [
   {
+    "id": 1715,
+    "title": "KEEP UP",
+    "artist": "Odetari",
+    "album": "KEEP UP // FROSTBITE",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T13:46:04.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T13:46:06.400Z",
+    "updatedAt": "2025-04-10T13:46:06.400Z"
+  },
+  {
+    "id": 1714,
+    "title": "SLAY!",
+    "artist": "Eternxlkz",
+    "album": "SLAY!",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T13:44:12.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T13:44:13.742Z",
+    "updatedAt": "2025-04-10T13:44:13.742Z"
+  },
+  {
+    "id": 1713,
+    "title": "Mood (feat. iann dior)",
+    "artist": "24kGoldn",
+    "album": "El Dorado",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-10T13:42:40.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-10T13:42:42.871Z",
+    "updatedAt": "2025-04-10T13:42:42.871Z"
+  },
+  {
     "id": 1712,
     "title": "CUTE DEPRESSED",
     "artist": "Dyan Dxddy",
