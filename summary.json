@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 11287,
+      "id": 11290,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262272\",\"53.2629704\"}",
+      "coordinates": "{\"-6.2262332\",\"53.2630193\"}",
       "batteryLevel": 40,
-      "timestamp": "2025-04-10T19:51:46.000Z",
-      "createdAt": "2025-04-10T19:51:46.669Z",
-      "updatedAt": "2025-04-10T19:51:46.669Z"
+      "timestamp": "2025-04-10T19:57:46.000Z",
+      "createdAt": "2025-04-10T19:57:46.665Z",
+      "updatedAt": "2025-04-10T19:57:46.665Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1718,
-      "title": "Unholy (feat. Kim Petras)",
-      "artist": "Sam Smith",
-      "album": "Gloria",
+      "id": 1721,
+      "title": "We Accept the Love We Think We Deserve",
+      "artist": "Beowülf",
+      "album": "We Accept the Love We Think We Deserve",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-10T13:54:23.000Z",
+      "listenDate": "2025-04-10T19:57:28.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-10T13:54:25.012Z",
-      "updatedAt": "2025-04-10T13:54:25.012Z"
+      "createdAt": "2025-04-10T19:57:31.071Z",
+      "updatedAt": "2025-04-10T19:57:31.071Z"
     }
   ],
   "github": {
