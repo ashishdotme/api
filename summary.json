@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 11951,
+      "id": 11954,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.226233\",\"53.2631181\"}",
       "batteryLevel": 100,
-      "timestamp": "2025-04-11T21:48:02.000Z",
-      "createdAt": "2025-04-11T21:48:03.346Z",
-      "updatedAt": "2025-04-11T21:48:03.346Z"
+      "timestamp": "2025-04-11T21:54:03.000Z",
+      "createdAt": "2025-04-11T21:54:04.328Z",
+      "updatedAt": "2025-04-11T21:54:04.328Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -225,16 +225,16 @@
   ],
   "listens": [
     {
-      "id": 1764,
-      "title": "How Miserable Do I Have to Be Before You're Happy",
-      "artist": "Beowülf",
-      "album": "How Miserable Do I Have to Be Before You're Happy",
+      "id": 1767,
+      "title": "I'll Keep You Safe",
+      "artist": "Vluestar",
+      "album": "I'll Keep You Safe",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-11T21:47:34.000Z",
+      "listenDate": "2025-04-11T21:54:15.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-11T21:47:35.878Z",
-      "updatedAt": "2025-04-11T21:47:35.878Z"
+      "createdAt": "2025-04-11T21:54:15.765Z",
+      "updatedAt": "2025-04-11T21:54:15.765Z"
     }
   ],
   "github": {
