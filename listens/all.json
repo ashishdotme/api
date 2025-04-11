@@ -1,5 +1,53 @@
 [
   {
+    "id": 1748,
+    "title": "the grass wasn’t greener",
+    "artist": "Beowülf",
+    "album": "the grass wasn’t greener",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-11T09:35:50.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-11T09:35:52.629Z",
+    "updatedAt": "2025-04-11T09:35:52.629Z"
+  },
+  {
+    "id": 1747,
+    "title": "Baby You're Worth It",
+    "artist": "Kina",
+    "album": "Baby You're Worth It",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-11T09:34:10.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-11T09:34:11.895Z",
+    "updatedAt": "2025-04-11T09:34:11.895Z"
+  },
+  {
+    "id": 1746,
+    "title": "Behind",
+    "artist": "Sensi Sye",
+    "album": "Behind",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-11T09:32:29.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-11T09:32:31.492Z",
+    "updatedAt": "2025-04-11T09:32:31.492Z"
+  },
+  {
+    "id": 1745,
+    "title": "How Miserable Do I Have to Be Before You're Happy",
+    "artist": "Beowülf",
+    "album": "How Miserable Do I Have to Be Before You're Happy",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-11T09:29:35.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-11T09:29:36.760Z",
+    "updatedAt": "2025-04-11T09:29:36.760Z"
+  },
+  {
     "id": 1744,
     "title": "I Don't Sleep",
     "artist": "Sarcastic Sounds",
