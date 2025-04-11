@@ -1,5 +1,41 @@
 [
   {
+    "id": 1764,
+    "title": "How Miserable Do I Have to Be Before You're Happy",
+    "artist": "Beowülf",
+    "album": "How Miserable Do I Have to Be Before You're Happy",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-11T21:47:34.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-11T21:47:35.878Z",
+    "updatedAt": "2025-04-11T21:47:35.878Z"
+  },
+  {
+    "id": 1763,
+    "title": "Love Is More Depressing Than Depression",
+    "artist": "prxz",
+    "album": "Love Wounds",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-11T21:45:47.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-11T21:45:49.315Z",
+    "updatedAt": "2025-04-11T21:45:49.315Z"
+  },
+  {
+    "id": 1762,
+    "title": "Trapped",
+    "artist": "Ariose",
+    "album": "Trapped",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-11T21:43:33.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-11T21:43:34.496Z",
+    "updatedAt": "2025-04-11T21:43:34.496Z"
+  },
+  {
     "id": 1761,
     "title": "FALLING DOWN",
     "artist": "Kisuk4",

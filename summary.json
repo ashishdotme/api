@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 11948,
+      "id": 11951,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262239\",\"53.2630691\"}",
+      "coordinates": "{\"-6.226233\",\"53.2631181\"}",
       "batteryLevel": 100,
-      "timestamp": "2025-04-11T21:42:00.000Z",
-      "createdAt": "2025-04-11T21:42:01.430Z",
-      "updatedAt": "2025-04-11T21:42:01.430Z"
+      "timestamp": "2025-04-11T21:48:02.000Z",
+      "createdAt": "2025-04-11T21:48:03.346Z",
+      "updatedAt": "2025-04-11T21:48:03.346Z"
     }
   ],
   "steps": [
@@ -225,16 +225,16 @@
   ],
   "listens": [
     {
-      "id": 1761,
-      "title": "FALLING DOWN",
-      "artist": "Kisuk4",
-      "album": "FALLING DOWN",
+      "id": 1764,
+      "title": "How Miserable Do I Have to Be Before You're Happy",
+      "artist": "Beowülf",
+      "album": "How Miserable Do I Have to Be Before You're Happy",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-11T21:41:33.000Z",
+      "listenDate": "2025-04-11T21:47:34.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-11T21:41:34.049Z",
-      "updatedAt": "2025-04-11T21:41:34.049Z"
+      "createdAt": "2025-04-11T21:47:35.878Z",
+      "updatedAt": "2025-04-11T21:47:35.878Z"
     }
   ],
   "github": {
