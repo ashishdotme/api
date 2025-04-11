@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 11954,
+      "id": 11958,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.226233\",\"53.2631181\"}",
+      "coordinates": "{\"-6.2262319\",\"53.2630142\"}",
       "batteryLevel": 100,
-      "timestamp": "2025-04-11T21:54:03.000Z",
-      "createdAt": "2025-04-11T21:54:04.328Z",
-      "updatedAt": "2025-04-11T21:54:04.328Z"
+      "timestamp": "2025-04-11T22:02:03.000Z",
+      "createdAt": "2025-04-11T22:02:04.363Z",
+      "updatedAt": "2025-04-11T22:02:04.363Z"
     }
   ],
   "steps": [
@@ -225,20 +225,20 @@
   ],
   "listens": [
     {
-      "id": 1767,
-      "title": "I'll Keep You Safe",
-      "artist": "Vluestar",
-      "album": "I'll Keep You Safe",
+      "id": 1769,
+      "title": "not the same anymore",
+      "artist": "Sensi Sye",
+      "album": "not the same anymore",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-11T21:54:15.000Z",
+      "listenDate": "2025-04-11T21:58:51.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-11T21:54:15.765Z",
-      "updatedAt": "2025-04-11T21:54:15.765Z"
+      "createdAt": "2025-04-11T21:58:53.055Z",
+      "updatedAt": "2025-04-11T21:58:53.055Z"
     }
   ],
   "github": {
-    "lastCommit": "2025-04-11T08:10:35Z",
+    "lastCommit": "2025-04-11T21:54:35Z",
     "recentRepos": [
       {
         "name": "wiki.ashish.me",
