@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 11745,
+      "id": 11755,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.2207861\",\"53.2611095\"}",
       "batteryLevel": 85,
-      "timestamp": "2025-04-11T12:25:01.000Z",
-      "createdAt": "2025-04-11T12:25:01.894Z",
-      "updatedAt": "2025-04-11T12:25:01.894Z"
+      "timestamp": "2025-04-11T12:45:41.000Z",
+      "createdAt": "2025-04-11T12:45:41.781Z",
+      "updatedAt": "2025-04-11T12:45:41.781Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1750,
-      "title": "forever stuck inside this mess i made",
-      "artist": "Henry AZ",
-      "album": "Truly, I Tell You",
+      "id": 1754,
+      "title": "Back To You",
+      "artist": "Selena Gomez",
+      "album": "13 Reasons Why (Season 2)",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-11T09:40:43.000Z",
+      "listenDate": "2025-04-11T12:45:08.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-11T09:40:45.815Z",
-      "updatedAt": "2025-04-11T09:40:45.815Z"
+      "createdAt": "2025-04-11T12:45:10.743Z",
+      "updatedAt": "2025-04-11T12:45:10.743Z"
     }
   ],
   "github": {
