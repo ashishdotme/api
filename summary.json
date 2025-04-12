@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 12240,
-      "batteryState": "unplugged",
+      "id": 12243,
+      "batteryState": "charging",
       "coordinates": "{\"-6.2262313\",\"53.2630179\"}",
-      "batteryLevel": 70,
-      "timestamp": "2025-04-12T08:38:23.000Z",
-      "createdAt": "2025-04-12T08:38:24.269Z",
-      "updatedAt": "2025-04-12T08:38:24.269Z"
+      "batteryLevel": 65,
+      "timestamp": "2025-04-12T08:45:43.000Z",
+      "createdAt": "2025-04-12T08:45:43.833Z",
+      "updatedAt": "2025-04-12T08:45:43.833Z"
     }
   ],
   "steps": [
@@ -225,16 +225,16 @@
   ],
   "listens": [
     {
-      "id": 1769,
-      "title": "not the same anymore",
-      "artist": "Sensi Sye",
-      "album": "not the same anymore",
+      "id": 1770,
+      "title": "Shree Hanuman Chalisa",
+      "artist": "Hariharan",
+      "album": "Shree Hanuman Chalisa (Hanuman Ashtak)",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-11T21:58:51.000Z",
+      "listenDate": "2025-04-12T08:42:59.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-11T21:58:53.055Z",
-      "updatedAt": "2025-04-11T21:58:53.055Z"
+      "createdAt": "2025-04-12T08:43:01.928Z",
+      "updatedAt": "2025-04-12T08:43:01.928Z"
     }
   ],
   "github": {
