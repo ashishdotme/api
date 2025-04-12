@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 12243,
+      "id": 12246,
       "batteryState": "charging",
-      "coordinates": "{\"-6.2262313\",\"53.2630179\"}",
-      "batteryLevel": 65,
-      "timestamp": "2025-04-12T08:45:43.000Z",
-      "createdAt": "2025-04-12T08:45:43.833Z",
-      "updatedAt": "2025-04-12T08:45:43.833Z"
+      "coordinates": "{\"-6.2262257\",\"53.2629714\"}",
+      "batteryLevel": 75,
+      "timestamp": "2025-04-12T08:52:32.000Z",
+      "createdAt": "2025-04-12T08:52:32.582Z",
+      "updatedAt": "2025-04-12T08:52:32.582Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -225,16 +225,16 @@
   ],
   "listens": [
     {
-      "id": 1770,
-      "title": "Shree Hanuman Chalisa",
-      "artist": "Hariharan",
-      "album": "Shree Hanuman Chalisa (Hanuman Ashtak)",
+      "id": 1772,
+      "title": "Raanjhan (From \"Do Patti\")",
+      "artist": "Sachet-Parampara",
+      "album": "Raanjhan (From \"Do Patti\")",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-12T08:42:59.000Z",
+      "listenDate": "2025-04-12T08:53:08.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-12T08:43:01.928Z",
-      "updatedAt": "2025-04-12T08:43:01.928Z"
+      "createdAt": "2025-04-12T08:53:09.123Z",
+      "updatedAt": "2025-04-12T08:53:09.123Z"
     }
   ],
   "github": {
