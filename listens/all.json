@@ -1,5 +1,41 @@
 [
   {
+    "id": 1775,
+    "title": "nineteen, forever",
+    "artist": "DELIRIUM",
+    "album": "BetterDaysBeforeSnakes",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-12T17:52:06.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-12T17:52:07.296Z",
+    "updatedAt": "2025-04-12T17:52:07.296Z"
+  },
+  {
+    "id": 1774,
+    "title": "savior",
+    "artist": "Beowülf",
+    "album": "savior",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-12T17:49:38.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-12T17:49:40.516Z",
+    "updatedAt": "2025-04-12T17:49:40.516Z"
+  },
+  {
+    "id": 1773,
+    "title": "the grass wasn’t greener",
+    "artist": "Beowülf",
+    "album": "the grass wasn’t greener",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-12T17:47:48.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-12T17:47:50.031Z",
+    "updatedAt": "2025-04-12T17:47:50.031Z"
+  },
+  {
     "id": 1772,
     "title": "Raanjhan (From \"Do Patti\")",
     "artist": "Sachet-Parampara",
