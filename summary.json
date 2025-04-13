@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 13188,
+      "id": 13192,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262358\",\"53.2629816\"}",
+      "coordinates": "{\"-6.2262285\",\"53.2630618\"}",
       "batteryLevel": 65,
-      "timestamp": "2025-04-13T23:23:33.000Z",
-      "createdAt": "2025-04-13T23:23:33.239Z",
-      "updatedAt": "2025-04-13T23:23:33.239Z"
+      "timestamp": "2025-04-13T23:31:45.000Z",
+      "createdAt": "2025-04-13T23:31:46.536Z",
+      "updatedAt": "2025-04-13T23:31:46.536Z"
     }
   ],
   "steps": [
@@ -213,16 +213,16 @@
   ],
   "listens": [
     {
-      "id": 1776,
-      "title": "the grass wasn’t greener",
-      "artist": "Beowülf",
-      "album": "the grass wasn’t greener",
+      "id": 1780,
+      "title": "Drowning",
+      "artist": "Ondi Vil",
+      "album": "Drowning",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-13T23:24:22.000Z",
+      "listenDate": "2025-04-13T23:32:37.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-13T23:24:23.487Z",
-      "updatedAt": "2025-04-13T23:24:23.487Z"
+      "createdAt": "2025-04-13T23:32:38.869Z",
+      "updatedAt": "2025-04-13T23:32:38.869Z"
     }
   ],
   "github": {
