@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 13184,
+      "id": 13188,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.2262358\",\"53.2629816\"}",
       "batteryLevel": 65,
-      "timestamp": "2025-04-13T23:12:40.000Z",
-      "createdAt": "2025-04-13T23:12:40.702Z",
-      "updatedAt": "2025-04-13T23:12:40.702Z"
+      "timestamp": "2025-04-13T23:23:33.000Z",
+      "createdAt": "2025-04-13T23:23:33.239Z",
+      "updatedAt": "2025-04-13T23:23:33.239Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -213,16 +213,16 @@
   ],
   "listens": [
     {
-      "id": 1775,
-      "title": "nineteen, forever",
-      "artist": "DELIRIUM",
-      "album": "BetterDaysBeforeSnakes",
+      "id": 1776,
+      "title": "the grass wasn’t greener",
+      "artist": "Beowülf",
+      "album": "the grass wasn’t greener",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-12T17:52:06.000Z",
+      "listenDate": "2025-04-13T23:24:22.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-12T17:52:07.296Z",
-      "updatedAt": "2025-04-12T17:52:07.296Z"
+      "createdAt": "2025-04-13T23:24:23.487Z",
+      "updatedAt": "2025-04-13T23:24:23.487Z"
     }
   ],
   "github": {
