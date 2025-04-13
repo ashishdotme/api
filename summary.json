@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 12962,
+      "id": 12966,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.2262345\",\"53.2629843\"}",
       "batteryLevel": 50,
-      "timestamp": "2025-04-13T13:57:31.000Z",
-      "createdAt": "2025-04-13T13:57:32.454Z",
-      "updatedAt": "2025-04-13T13:57:32.454Z"
+      "timestamp": "2025-04-13T14:05:42.000Z",
+      "createdAt": "2025-04-13T14:05:42.736Z",
+      "updatedAt": "2025-04-13T14:05:42.736Z"
     }
   ],
   "steps": [
@@ -226,7 +226,7 @@
     }
   ],
   "github": {
-    "lastCommit": "2025-04-13T13:39:03Z",
+    "lastCommit": "2025-04-13T13:52:50Z",
     "recentRepos": [
       {
         "name": "jobsapi.ashish.me",
