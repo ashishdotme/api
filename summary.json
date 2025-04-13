@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 12887,
+      "id": 12889,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.2262256\",\"53.2629707\"}",
       "batteryLevel": 70,
-      "timestamp": "2025-04-13T10:00:46.000Z",
-      "createdAt": "2025-04-13T10:00:46.532Z",
-      "updatedAt": "2025-04-13T10:00:46.532Z"
+      "timestamp": "2025-04-13T10:12:05.000Z",
+      "createdAt": "2025-04-13T10:12:06.350Z",
+      "updatedAt": "2025-04-13T10:12:06.350Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -156,6 +156,18 @@
       "dueDate": "2025-04-08T18:55:46.604Z",
       "createdAt": "2025-04-08T18:55:46.606Z",
       "updatedAt": "2025-04-08T18:55:46.606Z"
+    },
+    {
+      "id": 573,
+      "content": "Add sleep start and sleep end metric",
+      "category": "Now",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "67fb8d5e8f08b12415ef7454",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2025-04-13T10:09:34.217Z",
+      "createdAt": "2025-04-13T10:09:34.984Z",
+      "updatedAt": "2025-04-13T10:09:34.984Z"
     }
   ],
   "updates": [
