@@ -90,6 +90,21 @@
     "updatedAt": "2025-02-18T21:20:53.648Z"
   },
   {
+    "id": 177,
+    "title": "The Father",
+    "description": "A man refuses all assistance from his daughter as he ages. When he tries to understand what is happening around him, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+    "review": null,
+    "language": "English",
+    "year": 2021,
+    "genre": "Drama, Mystery",
+    "viewingDate": "2025-01-07T03:15:18.830Z",
+    "loved": true,
+    "imdbRating": "8.2",
+    "imdbId": "tt10272386",
+    "createdAt": "2025-04-13T16:58:44.735Z",
+    "updatedAt": "2025-04-13T16:58:44.735Z"
+  },
+  {
     "id": 172,
     "title": "Leave the World Behind",
     "description": "A family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices, and two strangers appear at their door.",
