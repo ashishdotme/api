@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 13570,
+      "id": 13577,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2207861\",\"53.2611095\"}",
+      "coordinates": "{\"-6.2262294\",\"53.2630201\"}",
       "batteryLevel": 75,
-      "timestamp": "2025-04-14T13:00:18.000Z",
-      "createdAt": "2025-04-14T13:00:19.201Z",
-      "updatedAt": "2025-04-14T13:00:19.201Z"
+      "timestamp": "2025-04-14T13:16:16.000Z",
+      "createdAt": "2025-04-14T13:16:16.747Z",
+      "updatedAt": "2025-04-14T13:16:16.747Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1803,
-      "title": "MONTAGEM - PR FUNK",
-      "artist": "S3BZS",
-      "album": "MONTAGEM - PR FUNK",
+      "id": 1805,
+      "title": "We Rollin",
+      "artist": "Shubh",
+      "album": "We Rollin",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-14T13:00:22.000Z",
+      "listenDate": "2025-04-14T13:07:30.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-14T13:00:24.155Z",
-      "updatedAt": "2025-04-14T13:00:24.155Z"
+      "createdAt": "2025-04-14T13:07:31.796Z",
+      "updatedAt": "2025-04-14T13:07:31.796Z"
     }
   ],
   "github": {
