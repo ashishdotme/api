@@ -1,5 +1,77 @@
 [
   {
+    "id": 1803,
+    "title": "MONTAGEM - PR FUNK",
+    "artist": "S3BZS",
+    "album": "MONTAGEM - PR FUNK",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-14T13:00:22.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-14T13:00:24.155Z",
+    "updatedAt": "2025-04-14T13:00:24.155Z"
+  },
+  {
+    "id": 1802,
+    "title": "Levitating (feat. DaBaby)",
+    "artist": "Dua Lipa",
+    "album": "Levitating (feat. DaBaby)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-14T12:59:22.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-14T12:59:23.874Z",
+    "updatedAt": "2025-04-14T12:59:23.874Z"
+  },
+  {
+    "id": 1801,
+    "title": "Murder In My Mind",
+    "artist": "Kordhell",
+    "album": "Murder In My Mind",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-14T12:56:06.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-14T12:56:09.053Z",
+    "updatedAt": "2025-04-14T12:56:09.053Z"
+  },
+  {
+    "id": 1800,
+    "title": "Astronaut In The Ocean",
+    "artist": "Masked Wolf",
+    "album": "Astronaut In The Ocean",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-14T12:53:54.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-14T12:53:56.512Z",
+    "updatedAt": "2025-04-14T12:53:56.512Z"
+  },
+  {
+    "id": 1799,
+    "title": "HOPE",
+    "artist": "NF",
+    "album": "HOPE",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-14T12:51:45.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-14T12:51:45.769Z",
+    "updatedAt": "2025-04-14T12:51:45.769Z"
+  },
+  {
+    "id": 1798,
+    "title": "Save Your Tears",
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-14T12:47:24.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-14T12:47:27.154Z",
+    "updatedAt": "2025-04-14T12:47:27.154Z"
+  },
+  {
     "id": 1797,
     "title": "SLAY!",
     "artist": "Eternxlkz",
