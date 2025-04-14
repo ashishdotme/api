@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 13553,
+      "id": 13563,
       "batteryState": "unplugged",
       "coordinates": "{\"-6.2207861\",\"53.2611095\"}",
       "batteryLevel": 75,
-      "timestamp": "2025-04-14T12:25:30.000Z",
-      "createdAt": "2025-04-14T12:25:30.639Z",
-      "updatedAt": "2025-04-14T12:25:30.639Z"
+      "timestamp": "2025-04-14T12:45:56.000Z",
+      "createdAt": "2025-04-14T12:45:56.432Z",
+      "updatedAt": "2025-04-14T12:45:56.432Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1791,
-      "title": "Tryumph",
-      "artist": "Beowülf",
-      "album": "Lost Cause",
+      "id": 1797,
+      "title": "SLAY!",
+      "artist": "Eternxlkz",
+      "album": "SLAY!",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-14T11:48:24.000Z",
+      "listenDate": "2025-04-14T12:44:02.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-14T11:48:26.106Z",
-      "updatedAt": "2025-04-14T11:48:26.106Z"
+      "createdAt": "2025-04-14T12:44:04.338Z",
+      "updatedAt": "2025-04-14T12:44:04.338Z"
     }
   ],
   "github": {

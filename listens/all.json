@@ -1,5 +1,77 @@
 [
   {
+    "id": 1797,
+    "title": "SLAY!",
+    "artist": "Eternxlkz",
+    "album": "SLAY!",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-14T12:44:02.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-14T12:44:04.338Z",
+    "updatedAt": "2025-04-14T12:44:04.338Z"
+  },
+  {
+    "id": 1796,
+    "title": "BILLIE EILISH.",
+    "artist": "Armani White",
+    "album": "Road to CASABLANCO.",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-14T12:42:30.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-14T12:42:31.826Z",
+    "updatedAt": "2025-04-14T12:42:31.826Z"
+  },
+  {
+    "id": 1795,
+    "title": "Escapism.",
+    "artist": "RAYE",
+    "album": "My 21st Century Blues",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-14T12:41:10.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-14T12:41:11.094Z",
+    "updatedAt": "2025-04-14T12:41:11.094Z"
+  },
+  {
+    "id": 1794,
+    "title": "WORTH NOTHING (feat. Oliver Tree) - Fast & Furious: Drift Tape/Phonk Vol 1",
+    "artist": "TWISTED",
+    "album": "WORTH NOTHING (feat. Oliver Tree) [Fast & Furious: Drift Tape/Phonk Vol 1]",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-14T12:36:35.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-14T12:36:36.660Z",
+    "updatedAt": "2025-04-14T12:36:36.660Z"
+  },
+  {
+    "id": 1793,
+    "title": "Big Dawgs",
+    "artist": "Hanumankind",
+    "album": "Big Dawgs",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-14T12:34:12.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-14T12:34:13.913Z",
+    "updatedAt": "2025-04-14T12:34:13.913Z"
+  },
+  {
+    "id": 1792,
+    "title": "Lie",
+    "artist": "NF",
+    "album": "Perception",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-14T12:31:09.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-14T12:31:11.541Z",
+    "updatedAt": "2025-04-14T12:31:11.541Z"
+  },
+  {
     "id": 1791,
     "title": "Tryumph",
     "artist": "Beowülf",
