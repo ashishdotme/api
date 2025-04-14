@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 13537,
+      "id": 13539,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2261979\",\"53.2630684\"}",
+      "coordinates": "{\"-6.2262305\",\"53.2630208\"}",
       "batteryLevel": 80,
-      "timestamp": "2025-04-14T11:47:34.000Z",
-      "createdAt": "2025-04-14T11:47:34.424Z",
-      "updatedAt": "2025-04-14T11:47:34.424Z"
+      "timestamp": "2025-04-14T11:51:54.000Z",
+      "createdAt": "2025-04-14T11:51:54.966Z",
+      "updatedAt": "2025-04-14T11:51:54.966Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1790,
-      "title": "World Burns",
-      "artist": "Lokel",
-      "album": "World Burns",
+      "id": 1791,
+      "title": "Tryumph",
+      "artist": "Beowülf",
+      "album": "Lost Cause",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-14T11:46:27.000Z",
+      "listenDate": "2025-04-14T11:48:24.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-14T11:46:29.602Z",
-      "updatedAt": "2025-04-14T11:46:29.602Z"
+      "createdAt": "2025-04-14T11:48:26.106Z",
+      "updatedAt": "2025-04-14T11:48:26.106Z"
     }
   ],
   "github": {
