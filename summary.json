@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 13531,
+      "id": 13533,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262364\",\"53.2629806\"}",
+      "coordinates": "{\"-6.2262796\",\"53.2630694\"}",
       "batteryLevel": 80,
-      "timestamp": "2025-04-14T11:35:30.000Z",
-      "createdAt": "2025-04-14T11:35:30.621Z",
-      "updatedAt": "2025-04-14T11:35:30.621Z"
+      "timestamp": "2025-04-14T11:39:32.000Z",
+      "createdAt": "2025-04-14T11:39:32.557Z",
+      "updatedAt": "2025-04-14T11:39:32.557Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1785,
-      "title": "Please Don't Go",
-      "artist": "Beowülf",
-      "album": "Please Don't Go",
+      "id": 1788,
+      "title": "All Alone",
+      "artist": "Solace",
+      "album": "All Alone",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-14T11:33:42.000Z",
+      "listenDate": "2025-04-14T11:41:09.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-14T11:33:44.393Z",
-      "updatedAt": "2025-04-14T11:33:44.393Z"
+      "createdAt": "2025-04-14T11:41:10.220Z",
+      "updatedAt": "2025-04-14T11:41:10.220Z"
     }
   ],
   "github": {
