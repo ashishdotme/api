@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1957,
-      "title": "Sunflower Song",
-      "artist": "Long Dead Bones",
-      "album": "Sunflower Song",
+      "id": 1959,
+      "title": "Good as Gone",
+      "artist": "BOYO",
+      "album": "Good As Gone",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-20T22:59:17.000Z",
+      "listenDate": "2025-04-20T23:08:11.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-20T22:59:19.336Z",
-      "updatedAt": "2025-04-20T22:59:19.336Z"
+      "createdAt": "2025-04-20T23:08:12.281Z",
+      "updatedAt": "2025-04-20T23:08:12.281Z"
     }
   ],
   "github": {
