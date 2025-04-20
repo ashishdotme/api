@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 15902,
+      "id": 15907,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262318\",\"53.2630167\"}",
+      "coordinates": "{\"-6.2261826\",\"53.2630805\"}",
       "batteryLevel": 60,
-      "timestamp": "2025-04-20T18:29:34.000Z",
-      "createdAt": "2025-04-20T18:29:34.999Z",
-      "updatedAt": "2025-04-20T18:29:34.999Z"
+      "timestamp": "2025-04-20T18:39:35.000Z",
+      "createdAt": "2025-04-20T18:39:36.336Z",
+      "updatedAt": "2025-04-20T18:39:36.336Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1855,
-      "title": "Admirin' You (feat. Preston Pablo)",
-      "artist": "Karan Aujla",
-      "album": "Making Memories",
+      "id": 1910,
+      "title": "the grass wasn’t greener",
+      "artist": "Beowülf",
+      "album": "the grass wasn’t greener",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-15T22:34:37.000Z",
+      "listenDate": "2025-04-20T18:40:14.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-16T12:58:47.406Z",
-      "updatedAt": "2025-04-16T12:58:47.406Z"
+      "createdAt": "2025-04-20T18:40:15.727Z",
+      "updatedAt": "2025-04-20T18:40:15.727Z"
     }
   ],
   "github": {
