@@ -1,5 +1,29 @@
 [
   {
+    "id": 1916,
+    "title": "Lose A Friend",
+    "artist": "Beowülf",
+    "album": "Lose A Friend",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T18:53:51.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T18:53:53.599Z",
+    "updatedAt": "2025-04-20T18:53:53.599Z"
+  },
+  {
+    "id": 1915,
+    "title": "Depression",
+    "artist": "Beowülf",
+    "album": "Depression",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T18:50:28.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T18:50:30.623Z",
+    "updatedAt": "2025-04-20T18:50:30.623Z"
+  },
+  {
     "id": 1914,
     "title": "We Accept the Love We Think We Deserve",
     "artist": "Beowülf",

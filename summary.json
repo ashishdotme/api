@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 15911,
+      "id": 15914,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2261932\",\"53.263071\"}",
-      "batteryLevel": 60,
-      "timestamp": "2025-04-20T18:47:36.000Z",
-      "createdAt": "2025-04-20T18:47:37.450Z",
-      "updatedAt": "2025-04-20T18:47:37.450Z"
+      "coordinates": "{\"-6.2262195\",\"53.2631234\"}",
+      "batteryLevel": 55,
+      "timestamp": "2025-04-20T18:53:37.000Z",
+      "createdAt": "2025-04-20T18:53:37.405Z",
+      "updatedAt": "2025-04-20T18:53:37.405Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1914,
-      "title": "We Accept the Love We Think We Deserve",
+      "id": 1916,
+      "title": "Lose A Friend",
       "artist": "Beowülf",
-      "album": "We Accept the Love We Think We Deserve",
+      "album": "Lose A Friend",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-20T18:48:10.000Z",
+      "listenDate": "2025-04-20T18:53:51.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-20T18:48:12.063Z",
-      "updatedAt": "2025-04-20T18:48:12.063Z"
+      "createdAt": "2025-04-20T18:53:53.599Z",
+      "updatedAt": "2025-04-20T18:53:53.599Z"
     }
   ],
   "github": {
