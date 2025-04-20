@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 15921,
+      "id": 15922,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262305\",\"53.2630545\"}",
+      "coordinates": "{\"-6.2262354\",\"53.2630462\"}",
       "batteryLevel": 55,
-      "timestamp": "2025-04-20T19:07:38.000Z",
-      "createdAt": "2025-04-20T19:07:39.545Z",
-      "updatedAt": "2025-04-20T19:07:39.545Z"
+      "timestamp": "2025-04-20T19:09:39.000Z",
+      "createdAt": "2025-04-20T19:09:40.411Z",
+      "updatedAt": "2025-04-20T19:09:40.411Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1923,
-      "title": "Lose A Friend",
-      "artist": "Beowülf",
-      "album": "Lose A Friend",
+      "id": 1924,
+      "title": "Margaret (feat. Bleachers)",
+      "artist": "Lana Del Rey",
+      "album": "Did you know that there's a tunnel under Ocean Blvd",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-20T19:08:17.000Z",
+      "listenDate": "2025-04-20T19:15:21.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-20T19:08:19.708Z",
-      "updatedAt": "2025-04-20T19:08:19.708Z"
+      "createdAt": "2025-04-20T19:15:22.540Z",
+      "updatedAt": "2025-04-20T19:15:22.540Z"
     }
   ],
   "github": {
