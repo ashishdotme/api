@@ -1,5 +1,41 @@
 [
   {
+    "id": 1919,
+    "title": "How Miserable Do I Have to Be Before You're Happy",
+    "artist": "Beowülf",
+    "album": "How Miserable Do I Have to Be Before You're Happy",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T18:58:31.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T18:58:33.334Z",
+    "updatedAt": "2025-04-20T18:58:33.334Z"
+  },
+  {
+    "id": 1918,
+    "title": "the grass wasn’t greener",
+    "artist": "Beowülf",
+    "album": "the grass wasn’t greener",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T18:56:44.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T18:56:46.830Z",
+    "updatedAt": "2025-04-20T18:56:46.830Z"
+  },
+  {
+    "id": 1917,
+    "title": "Runaway",
+    "artist": "Sarcastic Sounds",
+    "album": "Runaway",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T18:55:02.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T18:55:04.073Z",
+    "updatedAt": "2025-04-20T18:55:04.073Z"
+  },
+  {
     "id": 1916,
     "title": "Lose A Friend",
     "artist": "Beowülf",
