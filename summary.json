@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 15907,
+      "id": 15911,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2261826\",\"53.2630805\"}",
+      "coordinates": "{\"-6.2261932\",\"53.263071\"}",
       "batteryLevel": 60,
-      "timestamp": "2025-04-20T18:39:35.000Z",
-      "createdAt": "2025-04-20T18:39:36.336Z",
-      "updatedAt": "2025-04-20T18:39:36.336Z"
+      "timestamp": "2025-04-20T18:47:36.000Z",
+      "createdAt": "2025-04-20T18:47:37.450Z",
+      "updatedAt": "2025-04-20T18:47:37.450Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1910,
-      "title": "the grass wasn’t greener",
+      "id": 1914,
+      "title": "We Accept the Love We Think We Deserve",
       "artist": "Beowülf",
-      "album": "the grass wasn’t greener",
+      "album": "We Accept the Love We Think We Deserve",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-20T18:40:14.000Z",
+      "listenDate": "2025-04-20T18:48:10.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-20T18:40:15.727Z",
-      "updatedAt": "2025-04-20T18:40:15.727Z"
+      "createdAt": "2025-04-20T18:48:12.063Z",
+      "updatedAt": "2025-04-20T18:48:12.063Z"
     }
   ],
   "github": {
