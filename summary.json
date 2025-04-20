@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1971,
-      "title": "See You When I Die",
-      "artist": "BOYO",
-      "album": "Control",
+      "id": 1973,
+      "title": "Sunday",
+      "artist": "Mexican Slum Rats",
+      "album": "Magnum Opus",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-20T23:46:50.000Z",
+      "listenDate": "2025-04-20T23:52:06.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-20T23:46:51.365Z",
-      "updatedAt": "2025-04-20T23:46:51.365Z"
+      "createdAt": "2025-04-20T23:52:08.128Z",
+      "updatedAt": "2025-04-20T23:52:08.128Z"
     }
   ],
   "github": {
