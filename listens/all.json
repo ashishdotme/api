@@ -1,5 +1,41 @@
 [
   {
+    "id": 1950,
+    "title": "Chinatown",
+    "artist": "Wild Nothing",
+    "album": "Gemini",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T22:33:49.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T22:33:50.080Z",
+    "updatedAt": "2025-04-20T22:33:50.080Z"
+  },
+  {
+    "id": 1949,
+    "title": "Drown The Rabbit",
+    "artist": "Sue Sandal",
+    "album": "Drown The Rabbit",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T22:30:30.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T22:30:31.708Z",
+    "updatedAt": "2025-04-20T22:30:31.708Z"
+  },
+  {
+    "id": 1948,
+    "title": "Caroline",
+    "artist": "Ally Evenson",
+    "album": "BLUE SUPER LOVE",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T22:26:56.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T22:26:57.161Z",
+    "updatedAt": "2025-04-20T22:26:57.161Z"
+  },
+  {
     "id": 1947,
     "title": "Not Alone",
     "artist": "peach tinted",
