@@ -1,5 +1,53 @@
 [
   {
+    "id": 1923,
+    "title": "Lose A Friend",
+    "artist": "Beowülf",
+    "album": "Lose A Friend",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T19:08:17.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T19:08:19.708Z",
+    "updatedAt": "2025-04-20T19:08:19.708Z"
+  },
+  {
+    "id": 1922,
+    "title": "Depression",
+    "artist": "Beowülf",
+    "album": "Depression",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T19:05:14.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T19:05:17.131Z",
+    "updatedAt": "2025-04-20T19:05:17.131Z"
+  },
+  {
+    "id": 1921,
+    "title": "We Accept the Love We Think We Deserve",
+    "artist": "Beowülf",
+    "album": "We Accept the Love We Think We Deserve",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T19:02:56.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T19:02:58.390Z",
+    "updatedAt": "2025-04-20T19:02:58.390Z"
+  },
+  {
+    "id": 1920,
+    "title": "today is a gift",
+    "artist": "Beowülf",
+    "album": "today is a gift",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T19:00:33.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T19:00:36.044Z",
+    "updatedAt": "2025-04-20T19:00:36.044Z"
+  },
+  {
     "id": 1919,
     "title": "How Miserable Do I Have to Be Before You're Happy",
     "artist": "Beowülf",

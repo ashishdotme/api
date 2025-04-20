@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 15917,
+      "id": 15921,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.226209\",\"53.2630818\"}",
+      "coordinates": "{\"-6.2262305\",\"53.2630545\"}",
       "batteryLevel": 55,
-      "timestamp": "2025-04-20T18:59:37.000Z",
-      "createdAt": "2025-04-20T18:59:38.410Z",
-      "updatedAt": "2025-04-20T18:59:38.410Z"
+      "timestamp": "2025-04-20T19:07:38.000Z",
+      "createdAt": "2025-04-20T19:07:39.545Z",
+      "updatedAt": "2025-04-20T19:07:39.545Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1919,
-      "title": "How Miserable Do I Have to Be Before You're Happy",
+      "id": 1923,
+      "title": "Lose A Friend",
       "artist": "Beowülf",
-      "album": "How Miserable Do I Have to Be Before You're Happy",
+      "album": "Lose A Friend",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-20T18:58:31.000Z",
+      "listenDate": "2025-04-20T19:08:17.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-20T18:58:33.334Z",
-      "updatedAt": "2025-04-20T18:58:33.334Z"
+      "createdAt": "2025-04-20T19:08:19.708Z",
+      "updatedAt": "2025-04-20T19:08:19.708Z"
     }
   ],
   "github": {
