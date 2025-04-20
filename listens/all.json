@@ -1,5 +1,53 @@
 [
   {
+    "id": 1930,
+    "title": "We Accept the Love We Think We Deserve",
+    "artist": "Beowülf",
+    "album": "We Accept the Love We Think We Deserve",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T21:24:16.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T21:24:18.120Z",
+    "updatedAt": "2025-04-20T21:24:18.120Z"
+  },
+  {
+    "id": 1929,
+    "title": "today is a gift",
+    "artist": "Beowülf",
+    "album": "today is a gift",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T21:21:48.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T21:21:49.427Z",
+    "updatedAt": "2025-04-20T21:21:49.427Z"
+  },
+  {
+    "id": 1928,
+    "title": "the grass wasn’t greener",
+    "artist": "Beowülf",
+    "album": "the grass wasn’t greener",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T21:19:13.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T21:19:14.886Z",
+    "updatedAt": "2025-04-20T21:19:14.886Z"
+  },
+  {
+    "id": 1927,
+    "title": "Is It Too Late for Me",
+    "artist": "Beowülf",
+    "album": "Is It Too Late for Me",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T21:17:27.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T21:17:28.170Z",
+    "updatedAt": "2025-04-20T21:17:28.170Z"
+  },
+  {
     "id": 1926,
     "title": "savior",
     "artist": "Beowülf",
