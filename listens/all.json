@@ -1,5 +1,41 @@
 [
   {
+    "id": 1962,
+    "title": "Electronic Wave",
+    "artist": "CBKtrxx",
+    "album": "Electronic Wave",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T23:17:32.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T23:17:33.572Z",
+    "updatedAt": "2025-04-20T23:17:33.572Z"
+  },
+  {
+    "id": 1961,
+    "title": "City Lights",
+    "artist": "Hall Johnson",
+    "album": "Upstate / City Lights",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T23:14:22.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T23:14:25.180Z",
+    "updatedAt": "2025-04-20T23:14:25.180Z"
+  },
+  {
+    "id": 1960,
+    "title": "Agony",
+    "artist": "Beach Fossils",
+    "album": "Agony",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-20T23:11:37.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-20T23:11:38.659Z",
+    "updatedAt": "2025-04-20T23:11:38.659Z"
+  },
+  {
     "id": 1959,
     "title": "Good as Gone",
     "artist": "BOYO",
