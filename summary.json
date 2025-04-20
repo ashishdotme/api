@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1925,
-      "title": "Youth",
-      "artist": "Daughter",
-      "album": "If You Leave",
+      "id": 1926,
+      "title": "savior",
+      "artist": "Beowülf",
+      "album": "savior",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-20T19:19:34.000Z",
+      "listenDate": "2025-04-20T21:15:28.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-20T19:19:37.109Z",
-      "updatedAt": "2025-04-20T19:19:37.109Z"
+      "createdAt": "2025-04-20T21:15:29.706Z",
+      "updatedAt": "2025-04-20T21:15:29.706Z"
     }
   ],
   "github": {
