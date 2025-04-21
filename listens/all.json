@@ -1,5 +1,77 @@
 [
   {
+    "id": 2008,
+    "title": "Thankful",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T21:22:03.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T21:22:06.050Z",
+    "updatedAt": "2025-04-21T21:22:06.050Z"
+  },
+  {
+    "id": 2007,
+    "title": "At my Worst",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T21:20:22.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T21:20:23.673Z",
+    "updatedAt": "2025-04-21T21:20:23.673Z"
+  },
+  {
+    "id": 2006,
+    "title": "Nothing to Lose",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T21:18:43.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T21:18:44.884Z",
+    "updatedAt": "2025-04-21T21:18:44.884Z"
+  },
+  {
+    "id": 2005,
+    "title": "Medicine",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T21:17:26.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T21:17:28.441Z",
+    "updatedAt": "2025-04-21T21:17:28.441Z"
+  },
+  {
+    "id": 2004,
+    "title": "Growing Apart",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T21:15:33.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T21:15:35.844Z",
+    "updatedAt": "2025-04-21T21:15:35.844Z"
+  },
+  {
+    "id": 2003,
+    "title": "Angels Cry",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T21:13:16.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T21:13:19.264Z",
+    "updatedAt": "2025-04-21T21:13:19.264Z"
+  },
+  {
     "id": 2002,
     "title": "Why Try",
     "artist": "Beowülf",
