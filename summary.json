@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1973,
-      "title": "Sunday",
-      "artist": "Mexican Slum Rats",
-      "album": "Magnum Opus",
+      "id": 1984,
+      "title": "When I Try",
+      "artist": "Hydromag",
+      "album": "When I Try",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-20T23:52:06.000Z",
+      "listenDate": "2025-04-21T00:35:37.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-20T23:52:08.128Z",
-      "updatedAt": "2025-04-20T23:52:08.128Z"
+      "createdAt": "2025-04-21T00:35:38.769Z",
+      "updatedAt": "2025-04-21T00:35:38.769Z"
     }
   ],
   "github": {
