@@ -1,5 +1,41 @@
 [
   {
+    "id": 1994,
+    "title": "today is a gift",
+    "artist": "Beowülf",
+    "album": "today is a gift",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T18:43:36.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T18:43:37.284Z",
+    "updatedAt": "2025-04-21T18:43:37.284Z"
+  },
+  {
+    "id": 1993,
+    "title": "the grass wasn’t greener",
+    "artist": "Beowülf",
+    "album": "the grass wasn’t greener",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T18:41:00.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T18:41:02.762Z",
+    "updatedAt": "2025-04-21T18:41:02.762Z"
+  },
+  {
+    "id": 1992,
+    "title": "Is It Too Late for Me",
+    "artist": "Beowülf",
+    "album": "Is It Too Late for Me",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T18:39:19.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T18:39:20.100Z",
+    "updatedAt": "2025-04-21T18:39:20.100Z"
+  },
+  {
     "id": 1991,
     "title": "savior",
     "artist": "Beowülf",
