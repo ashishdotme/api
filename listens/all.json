@@ -1,5 +1,53 @@
 [
   {
+    "id": 2012,
+    "title": "Cornerstone",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T21:28:57.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T21:28:58.486Z",
+    "updatedAt": "2025-04-21T21:28:58.486Z"
+  },
+  {
+    "id": 2011,
+    "title": "You Will not Defeat Me",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T21:27:23.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T21:27:23.872Z",
+    "updatedAt": "2025-04-21T21:27:23.872Z"
+  },
+  {
+    "id": 2010,
+    "title": "Hercules",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T21:25:51.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T21:25:53.260Z",
+    "updatedAt": "2025-04-21T21:25:53.260Z"
+  },
+  {
+    "id": 2009,
+    "title": "Ready to Be Made New",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T21:24:26.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T21:24:26.749Z",
+    "updatedAt": "2025-04-21T21:24:26.749Z"
+  },
+  {
     "id": 2008,
     "title": "Thankful",
     "artist": "Beowülf",
