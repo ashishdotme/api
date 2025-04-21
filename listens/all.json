@@ -1,5 +1,41 @@
 [
   {
+    "id": 1999,
+    "title": "In My Eyes",
+    "artist": "Beowülf",
+    "album": "In My Eyes",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T21:01:19.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T21:01:20.655Z",
+    "updatedAt": "2025-04-21T21:01:20.655Z"
+  },
+  {
+    "id": 1998,
+    "title": "How Miserable Do I Have to Be Before You're Happy",
+    "artist": "Beowülf",
+    "album": "How Miserable Do I Have to Be Before You're Happy",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T20:59:28.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T20:59:29.915Z",
+    "updatedAt": "2025-04-21T20:59:29.915Z"
+  },
+  {
+    "id": 1997,
+    "title": "We Accept the Love We Think We Deserve",
+    "artist": "Beowülf",
+    "album": "We Accept the Love We Think We Deserve",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T20:57:42.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T20:57:43.405Z",
+    "updatedAt": "2025-04-21T20:57:43.405Z"
+  },
+  {
     "id": 1996,
     "title": "today is a gift",
     "artist": "Beowülf",

@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 16134,
+      "id": 16135,
       "batteryState": "charging",
-      "coordinates": "{\"-6.2262543\",\"53.2631856\"}",
-      "batteryLevel": 15,
-      "timestamp": "2025-04-21T20:56:01.000Z",
-      "createdAt": "2025-04-21T20:56:01.918Z",
-      "updatedAt": "2025-04-21T20:56:01.918Z"
+      "coordinates": "{\"-6.2262318\",\"53.2630167\"}",
+      "batteryLevel": 25,
+      "timestamp": "2025-04-21T20:59:59.000Z",
+      "createdAt": "2025-04-21T21:00:01.857Z",
+      "updatedAt": "2025-04-21T21:00:01.857Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1996,
-      "title": "today is a gift",
+      "id": 1999,
+      "title": "In My Eyes",
       "artist": "Beowülf",
-      "album": "today is a gift",
+      "album": "In My Eyes",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-21T20:55:14.000Z",
+      "listenDate": "2025-04-21T21:01:19.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-21T20:55:14.581Z",
-      "updatedAt": "2025-04-21T20:55:14.581Z"
+      "createdAt": "2025-04-21T21:01:20.655Z",
+      "updatedAt": "2025-04-21T21:01:20.655Z"
     }
   ],
   "github": {
