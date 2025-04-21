@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 9921,
-      "stepCount": 1219,
-      "date": "4/19/25",
-      "fullDate": "2025-04-19T00:00:00.000Z",
-      "createdAt": "2025-04-20T01:15:40.970Z",
-      "updatedAt": "2025-04-20T01:15:40.970Z"
+      "id": 9930,
+      "stepCount": 8407,
+      "date": "4/20/25",
+      "fullDate": "2025-04-20T00:00:00.000Z",
+      "createdAt": "2025-04-21T01:01:08.280Z",
+      "updatedAt": "2025-04-21T01:01:08.280Z"
     }
   ],
   "sleep": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1984,
-      "title": "When I Try",
-      "artist": "Hydromag",
-      "album": "When I Try",
+      "id": 1987,
+      "title": "You Are the Right One",
+      "artist": "Sports",
+      "album": "Naked All the Time",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-21T00:35:37.000Z",
+      "listenDate": "2025-04-21T00:45:16.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-21T00:35:38.769Z",
-      "updatedAt": "2025-04-21T00:35:38.769Z"
+      "createdAt": "2025-04-21T00:45:18.045Z",
+      "updatedAt": "2025-04-21T00:45:18.045Z"
     }
   ],
   "github": {
