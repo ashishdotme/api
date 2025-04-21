@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 16037,
+      "id": 16040,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262318\",\"53.2630167\"}",
+      "coordinates": "{\"-6.2262533\",\"53.2629954\"}",
       "batteryLevel": 20,
-      "timestamp": "2025-04-21T16:23:15.000Z",
-      "createdAt": "2025-04-21T16:23:15.688Z",
-      "updatedAt": "2025-04-21T16:23:15.688Z"
+      "timestamp": "2025-04-21T16:34:43.000Z",
+      "createdAt": "2025-04-21T16:34:43.718Z",
+      "updatedAt": "2025-04-21T16:34:43.718Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1987,
-      "title": "You Are the Right One",
-      "artist": "Sports",
-      "album": "Naked All the Time",
+      "id": 1989,
+      "title": "Raanjhan (From \"Do Patti\")",
+      "artist": "Sachet-Parampara",
+      "album": "Raanjhan (From \"Do Patti\")",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-21T00:45:16.000Z",
+      "listenDate": "2025-04-21T16:34:46.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-21T00:45:18.045Z",
-      "updatedAt": "2025-04-21T00:45:18.045Z"
+      "createdAt": "2025-04-21T16:34:48.366Z",
+      "updatedAt": "2025-04-21T16:34:48.366Z"
     }
   ],
   "github": {
