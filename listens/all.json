@@ -1,5 +1,41 @@
 [
   {
+    "id": 2002,
+    "title": "Why Try",
+    "artist": "Beowülf",
+    "album": "Dying to Self",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T21:11:35.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T21:11:36.558Z",
+    "updatedAt": "2025-04-21T21:11:36.558Z"
+  },
+  {
+    "id": 2001,
+    "title": "I Don't Need Him (Community Beat)",
+    "artist": "Beowülf",
+    "album": "I Don't Need Him (Community Beat)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T21:10:02.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T21:10:04.014Z",
+    "updatedAt": "2025-04-21T21:10:04.014Z"
+  },
+  {
+    "id": 2000,
+    "title": "Depression",
+    "artist": "Beowülf",
+    "album": "Depression",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-21T21:07:00.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-21T21:07:01.330Z",
+    "updatedAt": "2025-04-21T21:07:01.330Z"
+  },
+  {
     "id": 1999,
     "title": "In My Eyes",
     "artist": "Beowülf",

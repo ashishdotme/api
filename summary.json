@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 16135,
-      "batteryState": "charging",
-      "coordinates": "{\"-6.2262318\",\"53.2630167\"}",
-      "batteryLevel": 25,
-      "timestamp": "2025-04-21T20:59:59.000Z",
-      "createdAt": "2025-04-21T21:00:01.857Z",
-      "updatedAt": "2025-04-21T21:00:01.857Z"
+      "id": 16139,
+      "batteryState": "unplugged",
+      "coordinates": "{\"-6.2261477\",\"53.2628983\"}",
+      "batteryLevel": 35,
+      "timestamp": "2025-04-21T21:11:46.000Z",
+      "createdAt": "2025-04-21T21:11:46.552Z",
+      "updatedAt": "2025-04-21T21:11:46.552Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 1999,
-      "title": "In My Eyes",
+      "id": 2002,
+      "title": "Why Try",
       "artist": "Beowülf",
-      "album": "In My Eyes",
+      "album": "Dying to Self",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-21T21:01:19.000Z",
+      "listenDate": "2025-04-21T21:11:35.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-21T21:01:20.655Z",
-      "updatedAt": "2025-04-21T21:01:20.655Z"
+      "createdAt": "2025-04-21T21:11:36.558Z",
+      "updatedAt": "2025-04-21T21:11:36.558Z"
     }
   ],
   "github": {
