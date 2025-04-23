@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 17255,
+      "id": 17258,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2215939\",\"53.2613771\"}",
+      "coordinates": "{\"-6.2263165\",\"53.2627985\"}",
       "batteryLevel": 75,
-      "timestamp": "2025-04-23T13:47:53.000Z",
-      "createdAt": "2025-04-23T13:47:55.719Z",
-      "updatedAt": "2025-04-23T13:47:55.719Z"
+      "timestamp": "2025-04-23T13:54:01.000Z",
+      "createdAt": "2025-04-23T13:54:01.688Z",
+      "updatedAt": "2025-04-23T13:54:01.688Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2020,
-      "title": "WORTH NOTHING (feat. Oliver Tree) - Fast & Furious: Drift Tape/Phonk Vol 1",
-      "artist": "TWISTED",
-      "album": "WORTH NOTHING (feat. Oliver Tree) [Fast & Furious: Drift Tape/Phonk Vol 1]",
+      "id": 2021,
+      "title": "Kar Har Maidaan Fateh (From \"Sanju\")",
+      "artist": "Sukhwinder Singh",
+      "album": "Kar Har Maidaan Fateh (From \"Sanju\")",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-23T13:48:18.000Z",
+      "listenDate": "2025-04-23T13:53:30.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-23T13:48:18.977Z",
-      "updatedAt": "2025-04-23T13:48:18.977Z"
+      "createdAt": "2025-04-23T13:53:31.891Z",
+      "updatedAt": "2025-04-23T13:53:31.891Z"
     }
   ],
   "github": {
