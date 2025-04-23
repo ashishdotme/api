@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 17240,
+      "id": 17247,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2206272\",\"53.2611062\"}",
+      "coordinates": "{\"-6.2206273\",\"53.2611062\"}",
       "batteryLevel": 75,
-      "timestamp": "2025-04-23T13:17:23.000Z",
-      "createdAt": "2025-04-23T13:17:24.010Z",
-      "updatedAt": "2025-04-23T13:17:24.010Z"
+      "timestamp": "2025-04-23T13:31:33.000Z",
+      "createdAt": "2025-04-23T13:31:34.192Z",
+      "updatedAt": "2025-04-23T13:31:34.192Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2012,
-      "title": "Cornerstone",
-      "artist": "Beowülf",
-      "album": "Dying to Self",
+      "id": 2014,
+      "title": "HOPE",
+      "artist": "NF",
+      "album": "HOPE",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-21T21:28:57.000Z",
+      "listenDate": "2025-04-23T13:30:58.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-21T21:28:58.486Z",
-      "updatedAt": "2025-04-21T21:28:58.486Z"
+      "createdAt": "2025-04-23T13:31:00.868Z",
+      "updatedAt": "2025-04-23T13:31:00.868Z"
     }
   ],
   "github": {
