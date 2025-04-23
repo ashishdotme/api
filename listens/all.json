@@ -1,5 +1,53 @@
 [
   {
+    "id": 2018,
+    "title": "Goosebumps - Remix",
+    "artist": "Travis Scott",
+    "album": "Goosebumps (Remix)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-23T13:42:38.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-23T13:42:39.486Z",
+    "updatedAt": "2025-04-23T13:42:39.486Z"
+  },
+  {
+    "id": 2017,
+    "title": "Fight Back",
+    "artist": "NEFFEX",
+    "album": "Fight Back: The Collection",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-23T13:39:54.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-23T13:39:56.981Z",
+    "updatedAt": "2025-04-23T13:39:56.981Z"
+  },
+  {
+    "id": 2016,
+    "title": "Levitating (feat. DaBaby)",
+    "artist": "Dua Lipa",
+    "album": "Future Nostalgia",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-23T13:36:34.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-23T13:36:36.149Z",
+    "updatedAt": "2025-04-23T13:36:36.149Z"
+  },
+  {
+    "id": 2015,
+    "title": "greedy",
+    "artist": "Tate McRae",
+    "album": "greedy",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-04-23T13:33:11.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-04-23T13:33:13.635Z",
+    "updatedAt": "2025-04-23T13:33:13.635Z"
+  },
+  {
     "id": 2014,
     "title": "HOPE",
     "artist": "NF",
