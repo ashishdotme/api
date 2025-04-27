@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 19303,
+      "id": 19306,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262586\",\"53.2630026\"}",
+      "coordinates": "{\"-6.2262294\",\"53.2630309\"}",
       "batteryLevel": 65,
-      "timestamp": "2025-04-27T11:44:35.000Z",
-      "createdAt": "2025-04-27T11:44:35.568Z",
-      "updatedAt": "2025-04-27T11:44:35.568Z"
+      "timestamp": "2025-04-27T11:51:46.000Z",
+      "createdAt": "2025-04-27T11:51:47.368Z",
+      "updatedAt": "2025-04-27T11:51:47.368Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2024,
-      "title": "Dil Mera Tod Diya",
-      "artist": "Alka Yagnik",
-      "album": "Kasoor",
+      "id": 2025,
+      "title": "Chori Kiya Re Jiya",
+      "artist": "Sonu Nigam",
+      "album": "Dabangg",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-26T11:22:10.000Z",
+      "listenDate": "2025-04-27T11:52:47.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-26T11:22:11.864Z",
-      "updatedAt": "2025-04-26T11:22:11.864Z"
+      "createdAt": "2025-04-27T11:52:48.367Z",
+      "updatedAt": "2025-04-27T11:52:48.367Z"
     }
   ],
   "github": {
