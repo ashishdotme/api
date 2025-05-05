@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2029,
-      "title": "Piyu Bole",
-      "artist": "Sonu Nigam",
-      "album": "Best Of Shreya Ghoshal",
+      "id": 2030,
+      "title": "Bade Achhe Lagte Hain",
+      "artist": "Amit Kumar",
+      "album": "Balika Badhu",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-04-27T12:13:51.000Z",
+      "listenDate": "2025-05-05T10:36:52.000Z",
       "trackNumber": null,
-      "createdAt": "2025-04-27T12:13:53.705Z",
-      "updatedAt": "2025-04-27T12:13:53.705Z"
+      "createdAt": "2025-05-05T10:36:54.527Z",
+      "updatedAt": "2025-05-05T10:36:54.527Z"
     }
   ],
   "github": {
