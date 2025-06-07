@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 22063,
+      "id": 22066,
       "batteryState": "charging",
-      "coordinates": "{\"-6.2262621\",\"53.2629686\"}",
-      "batteryLevel": 80,
-      "timestamp": "2025-06-07T11:37:57.000Z",
-      "createdAt": "2025-06-07T11:37:57.379Z",
-      "updatedAt": "2025-06-07T11:37:57.379Z"
+      "coordinates": "{\"-6.2262247\",\"53.2630335\"}",
+      "batteryLevel": 85,
+      "timestamp": "2025-06-07T11:44:26.000Z",
+      "createdAt": "2025-06-07T11:44:26.591Z",
+      "updatedAt": "2025-06-07T11:44:26.591Z"
     }
   ],
   "steps": [
