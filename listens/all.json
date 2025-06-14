@@ -1,5 +1,41 @@
 [
   {
+    "id": 2036,
+    "title": "Haaye Oye (feat. Ash King)",
+    "artist": "QARAN",
+    "album": "Haaye Oye (feat. Ash King)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-06-14T10:24:21.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-06-14T10:24:23.958Z",
+    "updatedAt": "2025-06-14T10:24:23.958Z"
+  },
+  {
+    "id": 2035,
+    "title": "Qatal",
+    "artist": "Guru Randhawa",
+    "album": "WITHOUT PREJUDICE",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-06-14T10:21:02.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-06-14T10:21:03.359Z",
+    "updatedAt": "2025-06-14T10:21:03.359Z"
+  },
+  {
+    "id": 2034,
+    "title": "Gulabi Sadi",
+    "artist": "Sanju Rathod",
+    "album": "Gulabi Sadi",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-06-14T10:18:09.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-06-14T10:18:10.564Z",
+    "updatedAt": "2025-06-14T10:18:10.564Z"
+  },
+  {
     "id": 2033,
     "title": "Shaky",
     "artist": "Sanju Rathod",
