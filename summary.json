@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 26682,
+      "id": 26686,
       "batteryState": "charging",
-      "coordinates": "{\"-6.226272\",\"53.2629664\"}",
-      "batteryLevel": 60,
-      "timestamp": "2025-06-15T09:58:06.000Z",
-      "createdAt": "2025-06-15T09:58:06.520Z",
-      "updatedAt": "2025-06-15T09:58:06.520Z"
+      "coordinates": "{\"-6.2262465\",\"53.2629833\"}",
+      "batteryLevel": 70,
+      "timestamp": "2025-06-15T10:06:15.000Z",
+      "createdAt": "2025-06-15T10:06:16.178Z",
+      "updatedAt": "2025-06-15T10:06:16.178Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2038,
-      "title": "Shaky",
-      "artist": "Sanju Rathod",
-      "album": "Shaky",
+      "id": 2041,
+      "title": "Qatal",
+      "artist": "Guru Randhawa",
+      "album": "WITHOUT PREJUDICE",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-06-15T09:57:22.000Z",
+      "listenDate": "2025-06-15T10:07:14.000Z",
       "trackNumber": null,
-      "createdAt": "2025-06-15T09:57:24.287Z",
-      "updatedAt": "2025-06-15T09:57:24.287Z"
+      "createdAt": "2025-06-15T10:07:16.178Z",
+      "updatedAt": "2025-06-15T10:07:16.178Z"
     }
   ],
   "github": {
