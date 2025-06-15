@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 26679,
+      "id": 26682,
       "batteryState": "charging",
-      "coordinates": "{\"-6.2262274\",\"53.2629904\"}",
-      "batteryLevel": 50,
-      "timestamp": "2025-06-15T09:51:56.000Z",
-      "createdAt": "2025-06-15T09:51:57.452Z",
-      "updatedAt": "2025-06-15T09:51:57.452Z"
+      "coordinates": "{\"-6.226272\",\"53.2629664\"}",
+      "batteryLevel": 60,
+      "timestamp": "2025-06-15T09:58:06.000Z",
+      "createdAt": "2025-06-15T09:58:06.520Z",
+      "updatedAt": "2025-06-15T09:58:06.520Z"
     }
   ],
   "steps": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2037,
-      "title": "Main Rahun (From \"Parwarish\") [Original Motion Picture Soundtrack]",
-      "artist": "Samar Jafri",
-      "album": "Main Rahun (From \"Parwarish\") [Original Motion Picture Soundtrack]",
+      "id": 2038,
+      "title": "Shaky",
+      "artist": "Sanju Rathod",
+      "album": "Shaky",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-06-14T10:27:48.000Z",
+      "listenDate": "2025-06-15T09:57:22.000Z",
       "trackNumber": null,
-      "createdAt": "2025-06-14T10:27:48.782Z",
-      "updatedAt": "2025-06-14T10:27:48.782Z"
+      "createdAt": "2025-06-15T09:57:24.287Z",
+      "updatedAt": "2025-06-15T09:57:24.287Z"
     }
   ],
   "github": {
