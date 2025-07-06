@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 38313,
+      "id": 38324,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262795\",\"53.2629897\"}",
-      "batteryLevel": 75,
-      "timestamp": "2025-07-06T12:29:22.000Z",
-      "createdAt": "2025-07-06T12:29:22.393Z",
-      "updatedAt": "2025-07-06T12:29:22.393Z"
+      "coordinates": "{\"-6.2262411\",\"53.2630114\"}",
+      "batteryLevel": 70,
+      "timestamp": "2025-07-06T12:51:43.000Z",
+      "createdAt": "2025-07-06T12:51:44.115Z",
+      "updatedAt": "2025-07-06T12:51:44.115Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2043,
-      "title": "Yeh Sham Mastani",
+      "id": 2045,
+      "title": "O Mere Dil Ke Chain",
       "artist": "Kishore Kumar",
-      "album": "Kati Patang",
+      "album": "Mere Jeevan Saathi",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-07-06T12:28:13.000Z",
+      "listenDate": "2025-07-06T12:36:56.000Z",
       "trackNumber": null,
-      "createdAt": "2025-07-06T12:28:15.458Z",
-      "updatedAt": "2025-07-06T12:28:15.458Z"
+      "createdAt": "2025-07-06T12:36:58.752Z",
+      "updatedAt": "2025-07-06T12:36:58.752Z"
     }
   ],
   "github": {
