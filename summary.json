@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 40977,
+      "id": 40982,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2262674\",\"53.2629879\"}",
+      "coordinates": "{\"-6.226248\",\"53.2630055\"}",
       "batteryLevel": 90,
-      "timestamp": "2025-07-10T08:57:50.000Z",
-      "createdAt": "2025-07-10T08:57:50.491Z",
-      "updatedAt": "2025-07-10T08:57:50.491Z"
+      "timestamp": "2025-07-10T09:08:05.000Z",
+      "createdAt": "2025-07-10T09:08:05.902Z",
+      "updatedAt": "2025-07-10T09:08:05.902Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2053,
-      "title": "Yeh Jo Mohabbat Hai",
+      "id": 2056,
+      "title": "Pal Pal Dil Ke Paas - From \"Blackmail\"",
       "artist": "Kishore Kumar",
-      "album": "Kati Patang",
+      "album": "Audiobiography - Kishore Kumar",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-07-10T08:55:55.000Z",
+      "listenDate": "2025-07-10T09:09:09.000Z",
       "trackNumber": null,
-      "createdAt": "2025-07-10T08:55:56.513Z",
-      "updatedAt": "2025-07-10T08:55:56.513Z"
+      "createdAt": "2025-07-10T09:09:10.905Z",
+      "updatedAt": "2025-07-10T09:09:10.905Z"
     }
   ],
   "github": {
