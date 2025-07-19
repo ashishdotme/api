@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 47663,
+      "id": 47665,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.241428\",\"53.2867639\"}",
-      "batteryLevel": 85,
-      "timestamp": "2025-07-19T14:19:37.000Z",
-      "createdAt": "2025-07-19T14:20:20.436Z",
-      "updatedAt": "2025-07-19T14:20:20.436Z"
+      "coordinates": "{\"-6.2440331\",\"53.289729\"}",
+      "batteryLevel": 80,
+      "timestamp": "2025-07-19T15:21:16.000Z",
+      "createdAt": "2025-07-19T15:21:17.440Z",
+      "updatedAt": "2025-07-19T15:21:17.440Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2071,
-      "title": "Faza",
-      "artist": "Samad Khan",
-      "album": "Faza",
+      "id": 2115,
+      "title": "Unforgettable",
+      "artist": "Talwiinder",
+      "album": "Unforgettable",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-07-13T12:13:34.000Z",
+      "listenDate": "2025-07-13T16:22:47.000Z",
       "trackNumber": null,
-      "createdAt": "2025-07-13T12:13:36.152Z",
-      "updatedAt": "2025-07-13T12:13:36.152Z"
+      "createdAt": "2025-07-19T15:21:05.548Z",
+      "updatedAt": "2025-07-19T15:21:05.548Z"
     }
   ],
   "github": {
