@@ -1,13 +1,13 @@
 {
   "locations": [
     {
-      "id": 57895,
+      "id": 57897,
       "batteryState": "unplugged",
-      "coordinates": "{\"-6.2062745\",\"53.2528096\"}",
+      "coordinates": "{\"-6.2062745\",\"53.2528097\"}",
       "batteryLevel": 80,
-      "timestamp": "2025-08-24T10:46:50.000Z",
-      "createdAt": "2025-08-24T10:46:51.275Z",
-      "updatedAt": "2025-08-24T10:46:51.275Z"
+      "timestamp": "2025-08-24T10:57:21.000Z",
+      "createdAt": "2025-08-24T10:57:21.595Z",
+      "updatedAt": "2025-08-24T10:57:21.595Z"
     }
   ],
   "steps": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2118,
-      "title": "Ishq",
-      "artist": "Faheem Abdullah",
-      "album": "Lost;Found",
+      "id": 2119,
+      "title": "Thodi Si Daaru",
+      "artist": "AP Dhillon",
+      "album": "Thodi Si Daaru",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-08-10T17:17:19.000Z",
+      "listenDate": "2025-08-24T10:55:18.000Z",
       "trackNumber": null,
-      "createdAt": "2025-08-10T17:17:21.350Z",
-      "updatedAt": "2025-08-10T17:17:21.350Z"
+      "createdAt": "2025-08-24T10:55:20.834Z",
+      "updatedAt": "2025-08-24T10:55:20.834Z"
     }
   ],
   "github": {
