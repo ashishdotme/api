@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2135,
-      "title": "Ishq",
-      "artist": "Faheem Abdullah",
-      "album": "Lost;Found",
+      "id": 2136,
+      "title": "Jo Tum Mere Ho",
+      "artist": "Anuv Jain",
+      "album": "Jo Tum Mere Ho",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-08-25T21:54:08.000Z",
+      "listenDate": "2025-08-25T21:58:20.000Z",
       "trackNumber": null,
-      "createdAt": "2025-08-25T21:54:09.891Z",
-      "updatedAt": "2025-08-25T21:54:09.891Z"
+      "createdAt": "2025-08-25T21:58:22.763Z",
+      "updatedAt": "2025-08-25T21:58:22.763Z"
     }
   ],
   "github": {
