@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2123,
-      "title": "Thodi Si Daaru",
-      "artist": "AP Dhillon",
-      "album": "Thodi Si Daaru",
+      "id": 2125,
+      "title": "Tum Kya Mile - Shreya' s Version (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "artist": "Pritam",
+      "album": "Tum Kya Mile - Shreya' s Version (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-08-25T18:37:33.000Z",
+      "listenDate": "2025-08-25T18:46:49.000Z",
       "trackNumber": null,
-      "createdAt": "2025-08-25T18:37:34.639Z",
-      "updatedAt": "2025-08-25T18:37:34.639Z"
+      "createdAt": "2025-08-25T18:46:50.474Z",
+      "updatedAt": "2025-08-25T18:46:50.474Z"
     }
   ],
   "github": {
