@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2142,
-      "title": "Saibo",
-      "artist": "Sachin-Jigar",
-      "album": "Shor in the City (Original Motion Picture Soundtrack)",
+      "id": 2143,
+      "title": "Pal Pal Teri Yaad",
+      "artist": "Falguni Pathak",
+      "album": "Maine Payal Hai Chhankai",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-08-27T09:04:26.000Z",
+      "listenDate": "2025-08-30T14:09:07.000Z",
       "trackNumber": null,
-      "createdAt": "2025-08-27T09:04:27.383Z",
-      "updatedAt": "2025-08-27T09:04:27.383Z"
+      "createdAt": "2025-08-30T14:09:08.268Z",
+      "updatedAt": "2025-08-30T14:09:08.268Z"
     }
   ],
   "github": {
