@@ -1,5 +1,29 @@
 [
   {
+    "id": 2194,
+    "title": "Dooron Dooron - Unplugged",
+    "artist": "Paresh Pahuja",
+    "album": "Dooron Dooron - Unplugged",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-10-13T23:06:53.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-10-13T23:06:53.950Z",
+    "updatedAt": "2025-10-13T23:06:53.950Z"
+  },
+  {
+    "id": 2193,
+    "title": "Humdard (From \"Ek Villain\")",
+    "artist": "Arijit Singh",
+    "album": "Love Forever With Arijit Singh",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-10-13T23:01:20.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-10-13T23:01:21.649Z",
+    "updatedAt": "2025-10-13T23:01:21.649Z"
+  },
+  {
     "id": 2192,
     "title": "Khuda Jaane",
     "artist": "Vishal-Shekhar",
