@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2187,
-      "title": "Pehli Dafa",
-      "artist": "Atif Aslam",
-      "album": "Pehli Dafa",
+      "id": 2188,
+      "title": "Kabhi Kabhi Aditi",
+      "artist": "Rashid Ali",
+      "album": "Jaane Tu... Ya Jaane Na",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-10-13T22:34:53.000Z",
+      "listenDate": "2025-10-13T22:38:58.000Z",
       "trackNumber": null,
-      "createdAt": "2025-10-13T22:34:53.974Z",
-      "updatedAt": "2025-10-13T22:34:53.974Z"
+      "createdAt": "2025-10-13T22:39:00.293Z",
+      "updatedAt": "2025-10-13T22:39:00.293Z"
     }
   ],
   "github": {
