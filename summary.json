@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2177,
-      "title": "Alag Aasmaan",
-      "artist": "Anuv Jain",
-      "album": "Alag Aasmaan",
+      "id": 2178,
+      "title": "Tu Hai Meri (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+      "artist": "Sachet-Parampara",
+      "album": "Tu Hai Meri (From \"Sunny Sanskari Ki Tulsi Kumari\")",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-10-13T21:45:51.000Z",
+      "listenDate": "2025-10-13T21:49:53.000Z",
       "trackNumber": null,
-      "createdAt": "2025-10-13T21:45:52.995Z",
-      "updatedAt": "2025-10-13T21:45:52.995Z"
+      "createdAt": "2025-10-13T21:49:55.283Z",
+      "updatedAt": "2025-10-13T21:49:55.283Z"
     }
   ],
   "github": {
