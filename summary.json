@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2201,
-      "title": "Luka Chuppi",
-      "artist": "A.R. Rahman",
-      "album": "Rang De Basanti (Original Motion Picture Soundtrack)",
+      "id": 2202,
+      "title": "O Humdum Suniyo Re (From \"Saathiya\")",
+      "artist": "KK",
+      "album": "Travel Tunes",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-11-09T17:48:28.000Z",
+      "listenDate": "2025-11-09T17:53:53.000Z",
       "trackNumber": null,
-      "createdAt": "2025-11-09T17:48:29.541Z",
-      "updatedAt": "2025-11-09T17:48:29.541Z"
+      "createdAt": "2025-11-09T17:53:53.921Z",
+      "updatedAt": "2025-11-09T17:53:53.921Z"
     }
   ],
   "github": {
