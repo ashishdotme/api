@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2200,
-      "title": "Tum Tak (From \"Raanjhanaa\")",
+      "id": 2201,
+      "title": "Luka Chuppi",
       "artist": "A.R. Rahman",
-      "album": "Raanjhanaa (Original Motion Picture Soundtrack)",
+      "album": "Rang De Basanti (Original Motion Picture Soundtrack)",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-11-09T15:53:25.000Z",
+      "listenDate": "2025-11-09T17:48:28.000Z",
       "trackNumber": null,
-      "createdAt": "2025-11-09T15:53:27.400Z",
-      "updatedAt": "2025-11-09T15:53:27.400Z"
+      "createdAt": "2025-11-09T17:48:29.541Z",
+      "updatedAt": "2025-11-09T17:48:29.541Z"
     }
   ],
   "github": {
