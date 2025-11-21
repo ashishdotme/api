@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2233,
-      "title": "Badli Si Hawa Hai (From \"The Ba***ds Of Bollywood\")",
-      "artist": "Anirudh Ravichander",
-      "album": "Badli Si Hawa Hai (From \"The Ba***ds Of Bollywood\")",
+      "id": 2236,
+      "title": "Tumhare Hi Rahenge Hum",
+      "artist": "Sachin-Jigar",
+      "album": "Stree 2",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-11-21T13:19:54.000Z",
+      "listenDate": "2025-11-21T13:30:41.000Z",
       "trackNumber": null,
-      "createdAt": "2025-11-21T13:19:55.155Z",
-      "updatedAt": "2025-11-21T13:19:55.155Z"
+      "createdAt": "2025-11-21T13:30:42.068Z",
+      "updatedAt": "2025-11-21T13:30:42.068Z"
     }
   ],
   "github": {
