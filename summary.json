@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2260,
-      "title": "Jaana Nahi",
-      "artist": "Faheem Abdullah",
-      "album": "Jaana Nahi",
+      "id": 2263,
+      "title": "Raanjhan (From \"Do Patti\")",
+      "artist": "Sachet-Parampara",
+      "album": "Raanjhan (From \"Do Patti\")",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-11-26T17:06:50.000Z",
+      "listenDate": "2025-11-26T17:19:30.000Z",
       "trackNumber": null,
-      "createdAt": "2025-11-26T17:06:52.122Z",
-      "updatedAt": "2025-11-26T17:06:52.122Z"
+      "createdAt": "2025-11-26T17:19:31.269Z",
+      "updatedAt": "2025-11-26T17:19:31.269Z"
     }
   ],
   "github": {
