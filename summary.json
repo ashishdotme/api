@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2253,
-      "title": "Laal Pari (From \"Housefull 5\")",
-      "artist": "Yo Yo Honey Singh",
-      "album": "Laal Pari (From \"Housefull 5\")",
+      "id": 2254,
+      "title": "Sajni (From \"Laapataa Ladies\")",
+      "artist": "Ram Sampath",
+      "album": "Sajni (From \"Laapataa Ladies\")",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2025-11-26T14:31:14.000Z",
+      "listenDate": "2025-11-26T14:34:05.000Z",
       "trackNumber": null,
-      "createdAt": "2025-11-26T14:31:15.780Z",
-      "updatedAt": "2025-11-26T14:31:15.780Z"
+      "createdAt": "2025-11-26T14:34:06.038Z",
+      "updatedAt": "2025-11-26T14:34:06.038Z"
     }
   ],
   "github": {
