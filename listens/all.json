@@ -1,5 +1,41 @@
 [
   {
+    "id": 2272,
+    "title": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+    "artist": "Shashwat Sachdev",
+    "album": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-11-26T18:06:22.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-11-26T18:06:24.127Z",
+    "updatedAt": "2025-11-26T18:06:24.127Z"
+  },
+  {
+    "id": 2271,
+    "title": "Aayi Nai",
+    "artist": "Sachin-Jigar",
+    "album": "Stree 2",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-11-26T18:03:32.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-11-26T18:03:33.842Z",
+    "updatedAt": "2025-11-26T18:03:33.842Z"
+  },
+  {
+    "id": 2270,
+    "title": "Phurr - From the Movie “Kis Kisko Pyaar Karoon 2”",
+    "artist": "Yo Yo Honey Singh",
+    "album": "Phurr (From the Movie “Kis Kisko Pyaar Karoon 2”)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-11-26T18:00:33.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-11-26T18:00:35.649Z",
+    "updatedAt": "2025-11-26T18:00:35.649Z"
+  },
+  {
     "id": 2269,
     "title": "Tumhare Hi Rahenge Hum",
     "artist": "Sachin-Jigar",
