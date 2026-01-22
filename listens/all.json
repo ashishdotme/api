@@ -180,6 +180,18 @@
     "updatedAt": "2025-12-15T13:05:33.394Z"
   },
   {
+    "id": 2301,
+    "title": "Nafrat",
+    "artist": "Darshan Raval",
+    "album": "I Loved You",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-11-27T09:29:51.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-01-22T19:38:10.965Z",
+    "updatedAt": "2026-01-22T19:38:10.965Z"
+  },
+  {
     "id": 2272,
     "title": "Dhurandhar - Title Track (From \"Dhurandhar\")",
     "artist": "Shashwat Sachdev",
@@ -216,6 +228,18 @@
     "updatedAt": "2025-11-26T18:00:35.649Z"
   },
   {
+    "id": 2300,
+    "title": "Phurr - From the Movie “Kis Kisko Pyaar Karoon 2”",
+    "artist": "Yo Yo Honey Singh",
+    "album": "Phurr (From the Movie “Kis Kisko Pyaar Karoon 2”)",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-11-26T18:00:02.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-01-22T19:38:09.685Z",
+    "updatedAt": "2026-01-22T19:38:09.685Z"
+  },
+  {
     "id": 2269,
     "title": "Tumhare Hi Rahenge Hum",
     "artist": "Sachin-Jigar",
@@ -238,6 +262,18 @@
     "trackNumber": null,
     "createdAt": "2025-11-26T17:53:03.072Z",
     "updatedAt": "2025-11-26T17:53:03.072Z"
+  },
+  {
+    "id": 2299,
+    "title": "I’m Done. - I-Popstar: Vol. 1",
+    "artist": "Maan Panu",
+    "album": "I-Popstar: Vol. 1 | Episodes 1–3",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-11-26T17:52:26.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-01-22T19:38:08.398Z",
+    "updatedAt": "2026-01-22T19:38:08.398Z"
   },
   {
     "id": 2267,
@@ -264,6 +300,18 @@
     "updatedAt": "2025-11-26T17:43:46.417Z"
   },
   {
+    "id": 2298,
+    "title": "Sukoon (From \"Bhoomi 2025\")",
+    "artist": "Salim–Sulaiman",
+    "album": "Sukoon (From \"Bhoomi 2025\")",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-11-26T17:43:14.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-01-22T19:38:07.174Z",
+    "updatedAt": "2026-01-22T19:38:07.174Z"
+  },
+  {
     "id": 2265,
     "title": "Uyi Amma - From \"Azaad\"",
     "artist": "Amit Trivedi",
@@ -288,6 +336,18 @@
     "updatedAt": "2025-11-26T17:29:59.645Z"
   },
   {
+    "id": 2297,
+    "title": "Arz Kiya Hai | Coke Studio Bharat",
+    "artist": "Anuv Jain",
+    "album": "Arz Kiya Hai | Coke Studio Bharat",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-11-26T17:28:53.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-01-22T19:38:05.953Z",
+    "updatedAt": "2026-01-22T19:38:05.953Z"
+  },
+  {
     "id": 2263,
     "title": "Raanjhan (From \"Do Patti\")",
     "artist": "Sachet-Parampara",
@@ -298,6 +358,18 @@
     "trackNumber": null,
     "createdAt": "2025-11-26T17:19:31.269Z",
     "updatedAt": "2025-11-26T17:19:31.269Z"
+  },
+  {
+    "id": 2296,
+    "title": "Raanjhan (From \"Do Patti\")",
+    "artist": "Sachet-Parampara",
+    "album": "Raanjhan (From \"Do Patti\")",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-11-26T17:18:58.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-01-22T19:38:04.741Z",
+    "updatedAt": "2026-01-22T19:38:04.741Z"
   },
   {
     "id": 2262,
@@ -324,6 +396,18 @@
     "updatedAt": "2025-11-26T17:11:22.584Z"
   },
   {
+    "id": 2295,
+    "title": "Koi Naa (From \"Bhool Chuk Maaf\")",
+    "artist": "Tanishk Bagchi",
+    "album": "Koi Naa (From \"Bhool Chuk Maaf\")",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-11-26T17:10:22.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-01-22T19:38:03.453Z",
+    "updatedAt": "2026-01-22T19:38:03.453Z"
+  },
+  {
     "id": 2260,
     "title": "Jaana Nahi",
     "artist": "Faheem Abdullah",
@@ -346,6 +430,18 @@
     "trackNumber": null,
     "createdAt": "2025-11-26T17:03:11.810Z",
     "updatedAt": "2025-11-26T17:03:11.810Z"
+  },
+  {
+    "id": 2294,
+    "title": "Kashish",
+    "artist": "Ashish Bhatia",
+    "album": "Kashish",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-11-26T17:02:09.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-01-22T19:38:02.249Z",
+    "updatedAt": "2026-01-22T19:38:02.249Z"
   },
   {
     "id": 2258,
@@ -372,6 +468,18 @@
     "updatedAt": "2025-11-26T16:54:47.255Z"
   },
   {
+    "id": 2293,
+    "title": "Ehsaas",
+    "artist": "Faheem Abdullah",
+    "album": "Ehsaas",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-11-26T16:54:17.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-01-22T19:38:01.038Z",
+    "updatedAt": "2026-01-22T19:38:01.038Z"
+  },
+  {
     "id": 2256,
     "title": "Guzaara (From \"Baaghi 4\")",
     "artist": "Josh Brar",
@@ -394,6 +502,18 @@
     "trackNumber": null,
     "createdAt": "2025-11-26T16:42:44.581Z",
     "updatedAt": "2025-11-26T16:42:44.581Z"
+  },
+  {
+    "id": 2292,
+    "title": "Tere Ishk Mein (From \"Tere Ishk Mein\")",
+    "artist": "A.R. Rahman",
+    "album": "Tere Ishk Mein (From \"Tere Ishk Mein\")",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-11-26T16:41:43.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-01-22T19:37:59.761Z",
+    "updatedAt": "2026-01-22T19:37:59.761Z"
   },
   {
     "id": 2254,
@@ -420,6 +540,42 @@
     "updatedAt": "2025-11-26T14:31:15.780Z"
   },
   {
+    "id": 2291,
+    "title": "Laal Pari (From \"Housefull 5\")",
+    "artist": "Yo Yo Honey Singh",
+    "album": "Laal Pari (From \"Housefull 5\")",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-11-26T14:29:52.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-01-22T19:37:58.548Z",
+    "updatedAt": "2026-01-22T19:37:58.548Z"
+  },
+  {
+    "id": 2290,
+    "title": "Finding Her",
+    "artist": "Kushagra",
+    "album": "Finding Her",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-11-26T14:25:53.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-01-22T19:37:57.259Z",
+    "updatedAt": "2026-01-22T19:37:57.259Z"
+  },
+  {
+    "id": 2289,
+    "title": "Finding Her",
+    "artist": "Kushagra",
+    "album": "Finding Her",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-11-26T14:24:42.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-01-22T19:37:56.000Z",
+    "updatedAt": "2026-01-22T19:37:56.000Z"
+  },
+  {
     "id": 2252,
     "title": "Jo Tum Mere Ho",
     "artist": "Anuv Jain",
@@ -430,6 +586,18 @@
     "trackNumber": null,
     "createdAt": "2025-11-26T13:36:04.539Z",
     "updatedAt": "2025-11-26T13:36:04.539Z"
+  },
+  {
+    "id": 2288,
+    "title": "Jo Tum Mere Ho",
+    "artist": "Anuv Jain",
+    "album": "Jo Tum Mere Ho",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-11-26T13:35:01.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-01-22T19:37:54.785Z",
+    "updatedAt": "2026-01-22T19:37:54.785Z"
   },
   {
     "id": 2251,
