@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -237,16 +237,16 @@
   ],
   "listens": [
     {
-      "id": 2287,
-      "title": "Where Is My Mind? - 2007 Remaster",
-      "artist": "Pixies",
-      "album": "Surfer Rosa (2007 Remaster)",
+      "id": 2316,
+      "title": "High in the Bathroom",
+      "artist": "LOUD HOUND",
+      "album": "It’s Okay to Be Lonely, Pt. 2",
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-01-05T06:28:56.000Z",
+      "listenDate": "2026-01-05T11:01:04.000Z",
       "trackNumber": null,
-      "createdAt": "2026-01-05T06:28:57.789Z",
-      "updatedAt": "2026-01-05T06:28:57.789Z"
+      "createdAt": "2026-01-22T19:38:29.307Z",
+      "updatedAt": "2026-01-22T19:38:29.307Z"
     }
   ],
   "github": {
