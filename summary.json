@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11672,
-      "stepCount": 1322,
-      "date": "1/22/26",
-      "fullDate": "2026-01-22T00:00:00.000Z",
-      "createdAt": "2026-01-23T02:31:31.080Z",
-      "updatedAt": "2026-01-23T02:31:31.080Z"
+      "id": 11674,
+      "stepCount": 1559,
+      "date": "1/23/26",
+      "fullDate": "2026-01-23T00:00:00.000Z",
+      "createdAt": "2026-01-23T21:18:18.714Z",
+      "updatedAt": "2026-01-23T21:18:18.714Z"
     }
   ],
   "sleep": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
