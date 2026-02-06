@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -249,20 +249,20 @@
   ],
   "listens": [
     {
-      "id": 2340,
-      "title": "Jo Tu Na Mila (Acoustic)",
-      "artist": "Asim Azhar",
+      "id": 2343,
+      "title": "Sajni",
+      "artist": "Arijit Singh",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-02-06T18:12:00.000Z",
+      "listenDate": "2026-02-06T19:24:22.000Z",
       "trackNumber": null,
-      "createdAt": "2026-02-06T18:12:10.106Z",
-      "updatedAt": "2026-02-06T18:12:10.106Z"
+      "createdAt": "2026-02-06T19:24:32.144Z",
+      "updatedAt": "2026-02-06T19:24:32.144Z"
     }
   ],
   "github": {
-    "lastCommit": "2026-02-06T17:26:09Z",
+    "lastCommit": "2026-02-06T18:57:53Z",
     "recentRepos": [
       {
         "name": "wiki.ashish.me",
