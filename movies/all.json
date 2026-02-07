@@ -1,21 +1,5 @@
 [
   {
-    "id": 181,
-    "title": "The Last Samurai",
-    "description": "In 19th century Japan, Nathan Algren, a US army captain, is hired by the Japanese emperor to train his army in the modern warfare techniques. Captain Algren finds himself trapped in a struggle between two eras and two worlds.",
-    "review": null,
-    "note": null,
-    "language": "English",
-    "year": 2003,
-    "genre": "Action, Drama",
-    "viewingDate": "2026-02-07T00:00:00.000Z",
-    "loved": true,
-    "imdbRating": "7.8",
-    "imdbId": "tt0325710",
-    "createdAt": "2026-02-07T02:32:35.080Z",
-    "updatedAt": "2026-02-07T02:32:35.080Z"
-  },
-  {
     "id": 182,
     "title": "All of Us Strangers",
     "description": "A screenwriter drawn back to his childhood home enters into a fledgling relationship with his downstairs neighbor while discovering a mysterious new way to heal from losing his parents 30 years ago.",
@@ -30,6 +14,22 @@
     "imdbId": "tt21192142",
     "createdAt": "2026-02-07T20:36:27.268Z",
     "updatedAt": "2026-02-07T20:36:27.268Z"
+  },
+  {
+    "id": 181,
+    "title": "The Last Samurai",
+    "description": "In 19th century Japan, Nathan Algren, a US army captain, is hired by the Japanese emperor to train his army in the modern warfare techniques. Captain Algren finds himself trapped in a struggle between two eras and two worlds.",
+    "review": 9,
+    "note": null,
+    "language": "English",
+    "year": 2003,
+    "genre": "Action, Drama",
+    "viewingDate": "2026-02-07T00:00:00.000Z",
+    "loved": true,
+    "imdbRating": "7.8",
+    "imdbId": "tt0325710",
+    "createdAt": "2026-02-07T02:32:35.080Z",
+    "updatedAt": "2026-02-07T23:32:29.058Z"
   },
   {
     "id": 180,
