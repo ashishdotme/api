@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -240,20 +240,20 @@
   ],
   "listens": [
     {
-      "id": 2353,
-      "title": "Medicine",
-      "artist": "Daughter",
+      "id": 2369,
+      "title": "Teri Yado Ki Chadar Odhe",
+      "artist": "Tarun Chaudhary",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-02-08T13:52:15.000Z",
+      "listenDate": "2026-02-09T02:19:09.000Z",
       "trackNumber": null,
-      "createdAt": "2026-02-08T13:52:26.287Z",
-      "updatedAt": "2026-02-08T13:52:26.287Z"
+      "createdAt": "2026-02-09T02:19:21.530Z",
+      "updatedAt": "2026-02-09T02:19:21.530Z"
     }
   ],
   "github": {
-    "lastCommit": "2026-02-09T00:38:52Z",
+    "lastCommit": "2026-02-09T01:26:18Z",
     "recentRepos": [
       {
         "name": "leetcode-python",
