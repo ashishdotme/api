@@ -159,18 +159,6 @@
       "dueDate": "2025-04-14T08:11:04.430Z",
       "createdAt": "2025-04-14T08:11:04.431Z",
       "updatedAt": "2025-04-14T08:11:04.431Z"
-    },
-    {
-      "id": 577,
-      "content": "test",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "69855f158f081c375d655a34",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-02-09T13:12:31.050Z",
-      "createdAt": "2026-02-09T13:12:31.054Z",
-      "updatedAt": "2026-02-09T13:12:31.054Z"
     }
   ],
   "updates": [
