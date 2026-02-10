@@ -159,30 +159,6 @@
       "dueDate": "2025-04-14T08:11:04.430Z",
       "createdAt": "2025-04-14T08:11:04.431Z",
       "updatedAt": "2025-04-14T08:11:04.431Z"
-    },
-    {
-      "id": 578,
-      "content": "Update movie and shows home page",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "698a16d48f084bbaf3ad1901",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-02-09T17:18:11.609Z",
-      "createdAt": "2026-02-09T17:18:12.414Z",
-      "updatedAt": "2026-02-09T17:18:40.220Z"
-    },
-    {
-      "id": 579,
-      "content": "Update movie and shows home apge",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "698a16d48f084bbaf3ad1901",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-02-09T17:19:36.567Z",
-      "createdAt": "2026-02-09T17:19:36.568Z",
-      "updatedAt": "2026-02-09T17:19:36.568Z"
     }
   ],
   "updates": [
