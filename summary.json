@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -228,16 +228,16 @@
   ],
   "listens": [
     {
-      "id": 2382,
-      "title": "Kali Kali Zulfon Ke Phande Na (Complete Original Version)",
+      "id": 2383,
+      "title": "Tumhen Dillagi Bhool Jaani Padegi",
       "artist": "Nusrat Fateh Ali Khan",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-02-10T21:55:45.000Z",
+      "listenDate": "2026-02-10T22:09:55.000Z",
       "trackNumber": null,
-      "createdAt": "2026-02-10T21:55:55.864Z",
-      "updatedAt": "2026-02-10T21:55:55.864Z"
+      "createdAt": "2026-02-10T22:10:05.503Z",
+      "updatedAt": "2026-02-10T22:10:05.503Z"
     }
   ],
   "github": {
