@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -228,16 +228,16 @@
   ],
   "listens": [
     {
-      "id": 2412,
-      "title": "Afsos",
-      "artist": "Anuv Jain, AP Dhillon",
+      "id": 2419,
+      "title": "Ishq (From \"Lost;Found\")",
+      "artist": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-02-11T12:48:46.000Z",
+      "listenDate": "2026-02-11T13:11:56.000Z",
       "trackNumber": null,
-      "createdAt": "2026-02-11T12:48:57.485Z",
-      "updatedAt": "2026-02-11T12:48:57.485Z"
+      "createdAt": "2026-02-11T13:12:09.596Z",
+      "updatedAt": "2026-02-11T13:12:09.596Z"
     }
   ],
   "github": {
