@@ -45,36 +45,15 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
-  "shows": [
-    {
-      "id": 22,
-      "title": "Peep Show Season 9",
-      "language": "English",
-      "showName": "Peep Show",
-      "description": "Mark and Jez are a couple of twenty-something roommates who have nothing in common - except for the fact that their lives are anything but normal. Mayhem ensues as the pair strive to cope with day-to-day life.",
-      "review": null,
-      "note": null,
-      "seasonNumber": 9,
-      "year": 2003,
-      "genre": "Comedy",
-      "startedDate": "2022-01-31T00:00:00.000Z",
-      "completedDate": null,
-      "status": "Started",
-      "loved": true,
-      "imdbRating": "8.6",
-      "imdbId": "tt0387764",
-      "createdAt": "2022-02-01T01:30:32.275Z",
-      "updatedAt": "2022-02-01T01:30:32.275Z"
-    }
-  ],
+  "shows": [],
   "books": [
     {
       "id": 11,
