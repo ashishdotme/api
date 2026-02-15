@@ -103,20 +103,20 @@
   ],
   "movies": [
     {
-      "id": 186,
-      "title": "Aaryan",
-      "description": "A struggling writer announces he'll commit the perfect crime, sparking a tense pursuit as police try to prevent his methodically planned killing spree.",
-      "review": 5,
-      "note": "The plot was very different from other thriller films, and it wasn’t boring to watch. Overall, though, the movie was a one-time watch. I didn’t like it much, but I didn’t hate it either. I didn’t like the final message that the serial killer wanted to kill good people to highlight them in public.",
+      "id": 187,
+      "title": "Caddo Lake",
+      "description": "When an 8-year-old girl disappears on Caddo Lake, a series of past deaths and disappearances begin to link together, altering a broken family's history.",
+      "review": null,
+      "note": null,
       "language": "English",
-      "year": 2025,
-      "genre": "Crime, Action, Thriller",
-      "viewingDate": "2026-02-14T00:00:00.000Z",
-      "loved": false,
-      "imdbRating": "6.3",
-      "imdbId": "tt28434143",
-      "createdAt": "2026-02-15T21:09:31.241Z",
-      "updatedAt": "2026-02-15T21:09:31.241Z"
+      "year": 2024,
+      "genre": "Drama, Mystery, Sci-Fi",
+      "viewingDate": "2026-02-15T00:00:00.000Z",
+      "loved": true,
+      "imdbRating": "6.8",
+      "imdbId": "tt15552142",
+      "createdAt": "2026-02-15T22:42:39.440Z",
+      "updatedAt": "2026-02-15T22:42:39.440Z"
     }
   ],
   "tasks": [
