@@ -103,20 +103,20 @@
   ],
   "movies": [
     {
-      "id": 185,
-      "title": "Vicky Cristina Barcelona",
-      "description": "Two friends on a summer holiday in Spain become enamored with the same painter, unaware that his ex-wife, with whom he has a tempestuous relationship, is about to re-enter the picture.",
-      "review": 6,
-      "note": "I watched the movie with no expectations. I think this is my first Woody Allen movie. What I liked about the movie were the Spanish towns, streets, and architecture—they were nice to watch. Scarlett also did a good job, but I found the story a bit boring. I think the movie showed that people don't fundamentally change, but the ending felt incomplete.",
+      "id": 186,
+      "title": "Aaryan",
+      "description": "A struggling writer announces he'll commit the perfect crime, sparking a tense pursuit as police try to prevent his methodically planned killing spree.",
+      "review": 5,
+      "note": "The plot was very different from other thriller films, and it wasn’t boring to watch. Overall, though, the movie was a one-time watch. I didn’t like it much, but I didn’t hate it either. I didn’t like the final message that the serial killer wanted to kill good people to highlight them in public.",
       "language": "English",
-      "year": 2026,
-      "genre": "Comedy, Drama, Romance",
-      "viewingDate": "2026-02-15T00:00:00.000Z",
+      "year": 2025,
+      "genre": "Crime, Action, Thriller",
+      "viewingDate": "2026-02-14T00:00:00.000Z",
       "loved": false,
-      "imdbRating": "0.0",
-      "imdbId": "tt0497465",
-      "createdAt": "2026-02-08T19:02:59.963Z",
-      "updatedAt": "2026-02-15T20:42:16.790Z"
+      "imdbRating": "6.3",
+      "imdbId": "tt28434143",
+      "createdAt": "2026-02-15T21:09:31.241Z",
+      "updatedAt": "2026-02-15T21:09:31.241Z"
     }
   ],
   "tasks": [
