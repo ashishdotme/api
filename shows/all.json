@@ -267,13 +267,13 @@
       {
         "id": 5,
         "seasonNumber": 1,
-        "startedDate": "2022-01-18T07:31:28.412Z",
+        "startedDate": "2022-01-18T00:00:00.000Z",
         "completedDate": null,
         "status": "watching",
-        "review": null,
+        "review": 9,
         "note": null,
         "createdAt": "2026-02-15T00:01:48.715Z",
-        "updatedAt": "2026-02-15T00:01:48.715Z"
+        "updatedAt": "2026-02-15T01:50:11.298Z"
       },
       {
         "id": 6,
