@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -60,15 +60,15 @@
       "language": "English",
       "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
       "releaseStartYear": 2008,
-      "releaseEndYear": null,
+      "releaseEndYear": 2013,
       "genre": "Crime, Drama, Thriller",
       "startedDate": "2024-08-15T00:00:00.000Z",
-      "completedDate": null,
-      "status": "watching",
+      "completedDate": "2024-09-10T00:00:00.000Z",
+      "status": "completed",
       "imdbRating": "9.5",
       "imdbId": "tt0903747",
       "createdAt": "2026-02-15T19:11:26.992Z",
-      "updatedAt": "2026-02-15T19:46:36.488Z"
+      "updatedAt": "2026-02-15T20:01:16.963Z"
     }
   ],
   "books": [
@@ -237,7 +237,7 @@
     }
   ],
   "github": {
-    "lastCommit": "2026-02-15T19:44:18Z",
+    "lastCommit": "2026-02-15T19:53:43Z",
     "recentRepos": [
       {
         "name": "jobsapi.ashish.me",

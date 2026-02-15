@@ -5,16 +5,72 @@
     "language": "English",
     "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
     "releaseStartYear": 2008,
-    "releaseEndYear": null,
+    "releaseEndYear": 2013,
     "genre": "Crime, Drama, Thriller",
     "startedDate": "2024-08-15T00:00:00.000Z",
-    "completedDate": null,
-    "status": "watching",
+    "completedDate": "2024-09-10T00:00:00.000Z",
+    "status": "completed",
     "imdbRating": "9.5",
     "imdbId": "tt0903747",
     "createdAt": "2026-02-15T19:11:26.992Z",
-    "updatedAt": "2026-02-15T19:46:36.488Z",
-    "seasons": []
+    "updatedAt": "2026-02-15T20:01:16.963Z",
+    "seasons": [
+      {
+        "id": 19,
+        "seasonNumber": 1,
+        "startedDate": "2024-08-15T00:00:00.000Z",
+        "completedDate": "2024-08-19T00:00:00.000Z",
+        "status": "completed",
+        "review": 9,
+        "note": null,
+        "createdAt": "2026-02-15T19:57:47.390Z",
+        "updatedAt": "2026-02-15T19:57:47.390Z"
+      },
+      {
+        "id": 20,
+        "seasonNumber": 2,
+        "startedDate": "2024-08-19T00:00:00.000Z",
+        "completedDate": "2024-08-25T00:00:00.000Z",
+        "status": "completed",
+        "review": 9,
+        "note": null,
+        "createdAt": "2026-02-15T19:58:08.969Z",
+        "updatedAt": "2026-02-15T19:58:08.969Z"
+      },
+      {
+        "id": 21,
+        "seasonNumber": 3,
+        "startedDate": "2024-08-25T00:00:00.000Z",
+        "completedDate": "2024-08-30T00:00:00.000Z",
+        "status": "completed",
+        "review": 9,
+        "note": null,
+        "createdAt": "2026-02-15T19:59:19.958Z",
+        "updatedAt": "2026-02-15T19:59:19.958Z"
+      },
+      {
+        "id": 22,
+        "seasonNumber": 4,
+        "startedDate": "2024-08-30T00:00:00.000Z",
+        "completedDate": "2024-09-05T00:00:00.000Z",
+        "status": "completed",
+        "review": 9,
+        "note": null,
+        "createdAt": "2026-02-15T20:00:30.727Z",
+        "updatedAt": "2026-02-15T20:00:30.727Z"
+      },
+      {
+        "id": 23,
+        "seasonNumber": 5,
+        "startedDate": "2024-09-05T00:00:00.000Z",
+        "completedDate": "2024-09-10T00:00:00.000Z",
+        "status": "completed",
+        "review": 9,
+        "note": null,
+        "createdAt": "2026-02-15T20:00:43.404Z",
+        "updatedAt": "2026-02-15T20:00:43.404Z"
+      }
+    ]
   },
   {
     "id": 2,
