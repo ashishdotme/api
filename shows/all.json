@@ -1,5 +1,21 @@
 [
   {
+    "id": 8,
+    "title": "Breaking Bad",
+    "language": "English",
+    "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
+    "year": 2008,
+    "genre": "Crime, Drama, Thriller",
+    "startedDate": "2024-08-15T00:00:00.000Z",
+    "completedDate": null,
+    "status": "watching",
+    "imdbRating": "9.5",
+    "imdbId": "tt0903747",
+    "createdAt": "2026-02-15T19:11:26.992Z",
+    "updatedAt": "2026-02-15T19:11:26.992Z",
+    "seasons": []
+  },
+  {
     "id": 2,
     "title": "Bad Education",
     "language": "English",

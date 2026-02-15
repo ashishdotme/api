@@ -55,19 +55,19 @@
   ],
   "shows": [
     {
-      "id": 2,
-      "title": "Bad Education",
+      "id": 8,
+      "title": "Breaking Bad",
       "language": "English",
-      "description": "A comedy series about a teacher who is a bigger kid than the kids he teaches.",
-      "year": 2012,
-      "genre": "Comedy",
-      "startedDate": "2020-03-28T00:00:00.000Z",
-      "completedDate": "2020-03-30T00:00:00.000Z",
-      "status": "completed",
-      "imdbRating": "7.4",
-      "imdbId": "tt2337840",
-      "createdAt": "2026-02-15T00:01:47.712Z",
-      "updatedAt": "2026-02-15T00:01:47.712Z"
+      "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
+      "year": 2008,
+      "genre": "Crime, Drama, Thriller",
+      "startedDate": "2024-08-15T00:00:00.000Z",
+      "completedDate": null,
+      "status": "watching",
+      "imdbRating": "9.5",
+      "imdbId": "tt0903747",
+      "createdAt": "2026-02-15T19:11:26.992Z",
+      "updatedAt": "2026-02-15T19:11:26.992Z"
     }
   ],
   "books": [
