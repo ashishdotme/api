@@ -103,20 +103,20 @@
   ],
   "movies": [
     {
-      "id": 183,
-      "title": "Pride & Prejudice",
-      "description": "When Elizabeth Bennet meets the handsome Mr. Darcy, she believes he is the last man she could ever marry, but as their lives become intertwined, she finds herself captivated by the man she has sworn to hate forever.",
-      "review": null,
-      "note": null,
-      "language": "Unknown",
-      "year": 2005,
-      "genre": "Drama, Romance",
-      "viewingDate": "2026-02-08T00:00:00.000Z",
-      "loved": true,
-      "imdbRating": "7.8",
-      "imdbId": "tt0414387",
-      "createdAt": "2026-02-08T01:52:02.306Z",
-      "updatedAt": "2026-02-08T01:52:02.306Z"
+      "id": 185,
+      "title": "Vicky Cristina Barcelona",
+      "description": "Two friends on a summer holiday in Spain become enamored with the same painter, unaware that his ex-wife, with whom he has a tempestuous relationship, is about to re-enter the picture.",
+      "review": 6,
+      "note": "I watched the movie with no expectations. I think this is my first Woody Allen movie. What I liked about the movie were the Spanish towns, streets, and architecture—they were nice to watch. Scarlett also did a good job, but I found the story a bit boring. I think the movie showed that people don't fundamentally change, but the ending felt incomplete.",
+      "language": "English",
+      "year": 2026,
+      "genre": "Comedy, Drama, Romance",
+      "viewingDate": "2026-02-15T00:00:00.000Z",
+      "loved": false,
+      "imdbRating": "0.0",
+      "imdbId": "tt0497465",
+      "createdAt": "2026-02-08T19:02:59.963Z",
+      "updatedAt": "2026-02-15T20:42:16.790Z"
     }
   ],
   "tasks": [
