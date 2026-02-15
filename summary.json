@@ -45,15 +45,31 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
-  "shows": [],
+  "shows": [
+    {
+      "id": 2,
+      "title": "Bad Education",
+      "language": "English",
+      "description": "A comedy series about a teacher who is a bigger kid than the kids he teaches.",
+      "year": 2012,
+      "genre": "Comedy",
+      "startedDate": "2020-03-28T00:00:00.000Z",
+      "completedDate": "2020-03-30T00:00:00.000Z",
+      "status": "completed",
+      "imdbRating": "7.4",
+      "imdbId": "tt2337840",
+      "createdAt": "2026-02-15T00:01:47.712Z",
+      "updatedAt": "2026-02-15T00:01:47.712Z"
+    }
+  ],
   "books": [
     {
       "id": 11,
