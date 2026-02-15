@@ -59,7 +59,8 @@
       "title": "Breaking Bad",
       "language": "English",
       "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
-      "year": 2008,
+      "releaseStartYear": 2008,
+      "releaseEndYear": null,
       "genre": "Crime, Drama, Thriller",
       "startedDate": "2024-08-15T00:00:00.000Z",
       "completedDate": null,
@@ -236,7 +237,7 @@
     }
   ],
   "github": {
-    "lastCommit": "2026-02-15T00:14:49Z",
+    "lastCommit": "2026-02-15T19:44:18Z",
     "recentRepos": [
       {
         "name": "jobsapi.ashish.me",
