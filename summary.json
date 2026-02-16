@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -224,16 +224,16 @@
   ],
   "listens": [
     {
-      "id": 2419,
-      "title": "Ishq (From \"Lost;Found\")",
-      "artist": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+      "id": 2422,
+      "title": "Raanjhan (Lyrics Video) : Parampara Thakur | Do Patti | Kirti Sanam | Lakh Samjhaun Main Ta",
+      "artist": "Deepak Kurai",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-02-11T13:11:56.000Z",
+      "listenDate": "2026-02-16T15:41:39.000Z",
       "trackNumber": null,
-      "createdAt": "2026-02-11T13:12:09.596Z",
-      "updatedAt": "2026-02-11T13:12:09.596Z"
+      "createdAt": "2026-02-16T15:41:50.729Z",
+      "updatedAt": "2026-02-16T15:41:50.729Z"
     }
   ],
   "github": {
