@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -103,20 +103,20 @@
   ],
   "movies": [
     {
-      "id": 187,
-      "title": "Caddo Lake",
-      "description": "When an 8-year-old girl disappears on Caddo Lake, a series of past deaths and disappearances begin to link together, altering a broken family's history.",
+      "id": 188,
+      "title": "The Darjeeling Limited",
+      "description": "A year after their father's funeral, three brothers travel across India by train in an attempt to bond with each other.",
       "review": null,
       "note": null,
       "language": "English",
-      "year": 2024,
-      "genre": "Drama, Mystery, Sci-Fi",
-      "viewingDate": "2026-02-15T00:00:00.000Z",
+      "year": 2007,
+      "genre": "Adventure, Comedy, Drama",
+      "viewingDate": "2026-02-17T00:00:00.000Z",
       "loved": true,
-      "imdbRating": "6.8",
-      "imdbId": "tt15552142",
-      "createdAt": "2026-02-15T22:42:39.440Z",
-      "updatedAt": "2026-02-15T22:42:39.440Z"
+      "imdbRating": "7.2",
+      "imdbId": "tt0838221",
+      "createdAt": "2026-02-17T21:32:37.321Z",
+      "updatedAt": "2026-02-17T21:32:37.321Z"
     }
   ],
   "tasks": [
