@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -103,20 +103,20 @@
   ],
   "movies": [
     {
-      "id": 188,
-      "title": "The Darjeeling Limited",
-      "description": "A year after their father's funeral, three brothers travel across India by train in an attempt to bond with each other.",
+      "id": 190,
+      "title": "The Unforgivable",
+      "description": "A woman is released from prison after serving a sentence for a violent crime and re-enters a society that refuses to forgive her past.",
       "review": null,
       "note": null,
       "language": "English",
-      "year": 2007,
-      "genre": "Adventure, Comedy, Drama",
-      "viewingDate": "2026-02-17T00:00:00.000Z",
+      "year": 2021,
+      "genre": "Crime, Drama, Mystery",
+      "viewingDate": "2026-02-18T00:00:00.000Z",
       "loved": true,
-      "imdbRating": "7.2",
-      "imdbId": "tt0838221",
-      "createdAt": "2026-02-17T21:32:37.321Z",
-      "updatedAt": "2026-02-17T21:32:37.321Z"
+      "imdbRating": "7.1",
+      "imdbId": "tt11233960",
+      "createdAt": "2026-02-18T22:32:42.425Z",
+      "updatedAt": "2026-02-18T22:32:42.425Z"
     }
   ],
   "tasks": [
