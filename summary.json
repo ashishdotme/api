@@ -103,20 +103,20 @@
   ],
   "movies": [
     {
-      "id": 190,
-      "title": "The Unforgivable",
-      "description": "A woman is released from prison after serving a sentence for a violent crime and re-enters a society that refuses to forgive her past.",
+      "id": 191,
+      "title": "The Whale",
+      "description": "A reclusive, morbidly obese English teacher attempts to reconnect with his estranged teenage daughter.",
       "review": null,
       "note": null,
       "language": "English",
-      "year": 2021,
-      "genre": "Crime, Drama, Mystery",
-      "viewingDate": "2026-02-18T00:00:00.000Z",
+      "year": 2022,
+      "genre": "Drama",
+      "viewingDate": "2026-02-19T00:00:00.000Z",
       "loved": true,
-      "imdbRating": "7.1",
-      "imdbId": "tt11233960",
-      "createdAt": "2026-02-18T22:32:42.425Z",
-      "updatedAt": "2026-02-18T22:32:42.425Z"
+      "imdbRating": "7.6",
+      "imdbId": "tt13833688",
+      "createdAt": "2026-02-19T19:19:07.505Z",
+      "updatedAt": "2026-02-19T19:19:07.505Z"
     }
   ],
   "tasks": [
