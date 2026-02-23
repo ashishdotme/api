@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 1,
+      "quote": "Kindness is the language which the deaf can hear and the blind can see",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Mark Twain",
+      "createdAt": "2024-10-21T22:28:52.934Z",
+      "updatedAt": "2024-10-21T22:28:52.934Z"
     }
   ],
   "shows": [
@@ -224,16 +224,16 @@
   ],
   "listens": [
     {
-      "id": 2503,
-      "title": "Jo Tum Mere Ho",
-      "artist": "Anuv Jain",
+      "id": 2508,
+      "title": "Just Dance (feat. Colby O'Donis)",
+      "artist": "Lady Gaga",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-02-23T21:40:47.000Z",
+      "listenDate": "2026-02-23T22:00:33.000Z",
       "trackNumber": null,
-      "createdAt": "2026-02-23T21:40:57.655Z",
-      "updatedAt": "2026-02-23T21:40:57.655Z"
+      "createdAt": "2026-02-23T22:00:45.924Z",
+      "updatedAt": "2026-02-23T22:00:45.924Z"
     }
   ],
   "github": {
