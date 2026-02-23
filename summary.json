@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -224,16 +224,16 @@
   ],
   "listens": [
     {
-      "id": 2481,
-      "title": "Raanjhan",
-      "artist": "Parampara Tandon",
+      "id": 2487,
+      "title": "Barsaat Nal Nal",
+      "artist": "Anayiah Grewal",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-02-20T11:35:38.000Z",
+      "listenDate": "2026-02-23T15:51:27.000Z",
       "trackNumber": null,
-      "createdAt": "2026-02-20T11:35:50.227Z",
-      "updatedAt": "2026-02-20T11:35:50.227Z"
+      "createdAt": "2026-02-23T15:51:39.407Z",
+      "updatedAt": "2026-02-23T15:51:39.407Z"
     }
   ],
   "github": {
