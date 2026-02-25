@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -236,88 +236,6 @@
       "updatedAt": "2026-02-23T22:00:45.924Z"
     }
   ],
-  "github": {
-    "lastCommit": "2026-02-22T11:53:16Z",
-    "recentRepos": [
-      {
-        "name": "jobsapi.ashish.me",
-        "pushedAt": "2026-02-09T02:15:13Z"
-      },
-      {
-        "name": "leetcode-python",
-        "pushedAt": "2026-02-08T14:47:00Z"
-      },
-      {
-        "name": "datasette-publish-dokploy",
-        "pushedAt": "2026-02-08T14:45:54Z"
-      },
-      {
-        "name": "imdb-api",
-        "pushedAt": "2026-02-06T23:12:40Z"
-      },
-      {
-        "name": "wiki.ashish.me",
-        "pushedAt": "2025-11-06T15:14:52Z"
-      },
-      {
-        "name": "wiki.ashish.me-old",
-        "pushedAt": "2025-04-06T09:44:11Z"
-      },
-      {
-        "name": "dotfiles",
-        "pushedAt": "2025-03-30T14:07:43Z"
-      },
-      {
-        "name": "blog",
-        "pushedAt": "2025-02-26T22:05:08Z"
-      },
-      {
-        "name": "omakub",
-        "pushedAt": "2024-12-16T20:11:21Z"
-      },
-      {
-        "name": "books.ashish.me",
-        "pushedAt": "2024-12-05T23:03:00Z"
-      },
-      {
-        "name": "shows.ashish.me",
-        "pushedAt": "2024-12-05T23:01:49Z"
-      },
-      {
-        "name": "movies.ashish.me",
-        "pushedAt": "2024-12-05T23:00:50Z"
-      },
-      {
-        "name": "cli",
-        "pushedAt": "2024-11-11T22:05:56Z"
-      },
-      {
-        "name": "workers",
-        "pushedAt": "2024-11-10T10:49:26Z"
-      },
-      {
-        "name": "ashishdotme-utils",
-        "pushedAt": "2024-11-09T00:31:07Z"
-      },
-      {
-        "name": "npm-library-starter",
-        "pushedAt": "2024-11-08T23:32:13Z"
-      }
-    ]
-  },
-  "lastLeetcode": {
-    "path": "Array_Easy_1266-minimum-time-visiting-all-points_solution.py",
-    "title": "solution.py",
-    "body": "```python  \n# Created by Ashish Patel at 2025/01/17 14:20\n# leetgo: 1.4.11\n# https://leetcode.com/problems/minimum-time-visiting-all-points/\n\n\"\"\"\n1266. Minimum Time Visiting All Points (Easy)\nOn a 2D plane, there are n points with integer coordinates points[i] = [xᵢ, yᵢ]. Return the\n**minimum time** in seconds to visit all the points in the order given by  points.\n\nYou can move according to these rules:\n\n- In 1 second, you can either:\n\n  - move vertically by one unit,\n  - move horizontally by one unit, or\n  - move diagonally sqrt(2) units (in other words, move one unit vertically then one unit\nhorizontally in 1 second).\n- You have to visit the points in the same order as they appear in the array.\n- You are allowed to pass through points that appear later in the order, but these do not count as\nvisits.\n\n**Example 1:**\n\n![](https://assets.leetcode.com/uploads/2019/11/14/1626_example_1.PNG)\n\n\nInput: points = [[1,1],[3,4],[-1,0]]\nOutput: 7\nExplanation: One optimal path is [1,1] -> [2,2] -> [3,3] -> [3,4] -> [2,3] -> [1,2] -> [0,1] -> [-1,0]\nTime from [1,1] to [3,4] = 3 seconds\nTime from [3,4] to [-1,0] = 4 seconds\nTotal time = 7 seconds\n\n\n**Example 2:**\n\n\nInput: points = [[3,2],[-2,2]]\nOutput: 5\n\n\n**Constraints:**\n\n- points.length == n\n- 1 <= n <= 100\n- points[i].length == 2\n- -1000 <= points[i][0], points[i][1] <= 1000\n\n\"\"\"\n\nfrom typing import *\nfrom leetgo_py import *\n\nimport bisect\nimport collections \nimport functools\nimport heapq \nimport itertools \nimport operator\nimport math \nimport string\nimport leetcode as lc\n\n# @lc code=begin\n\nclass Solution:\n    def minTimeToVisitAllPoints(self, points: List[List[int]]) -> int:\n        \n\n# @lc code=end\n\nif __name__ == \"__main__\":\n    points: List[List[int]] = deserialize(\"List[List[int]]\", read_line())\n    ans = Solution().minTimeToVisitAllPoints(points)\n    print(\"\\noutput:\", serialize(ans, \"integer\"))\n```",
-    "topic1": "Array",
-    "topic2": "Easy",
-    "topic3": "1266-minimum-time-visiting-all-points",
-    "url": "https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1266-minimum-time-visiting-all-points/solution.py",
-    "slug": "solution",
-    "html": "<div class=\"highlight highlight-source-python\"><pre><span class=\"pl-c\"># Created by Ashish Patel at 2025/01/17 14:20</span>\n<span class=\"pl-c\"># leetgo: 1.4.11</span>\n<span class=\"pl-c\"># https://leetcode.com/problems/minimum-time-visiting-all-points/</span>\n\n<span class=\"pl-s\">\"\"\"</span>\n<span class=\"pl-s\">1266. Minimum Time Visiting All Points (Easy)</span>\n<span class=\"pl-s\">On a 2D plane, there are n points with integer coordinates points[i] = [xᵢ, yᵢ]. Return the</span>\n<span class=\"pl-s\">**minimum time** in seconds to visit all the points in the order given by  points.</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">You can move according to these rules:</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">- In 1 second, you can either:</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">  - move vertically by one unit,</span>\n<span class=\"pl-s\">  - move horizontally by one unit, or</span>\n<span class=\"pl-s\">  - move diagonally sqrt(2) units (in other words, move one unit vertically then one unit</span>\n<span class=\"pl-s\">horizontally in 1 second).</span>\n<span class=\"pl-s\">- You have to visit the points in the same order as they appear in the array.</span>\n<span class=\"pl-s\">- You are allowed to pass through points that appear later in the order, but these do not count as</span>\n<span class=\"pl-s\">visits.</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">**Example 1:**</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">![](https://assets.leetcode.com/uploads/2019/11/14/1626_example_1.PNG)</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">Input: points = [[1,1],[3,4],[-1,0]]</span>\n<span class=\"pl-s\">Output: 7</span>\n<span class=\"pl-s\">Explanation: One optimal path is [1,1] -&gt; [2,2] -&gt; [3,3] -&gt; [3,4] -&gt; [2,3] -&gt; [1,2] -&gt; [0,1] -&gt; [-1,0]</span>\n<span class=\"pl-s\">Time from [1,1] to [3,4] = 3 seconds</span>\n<span class=\"pl-s\">Time from [3,4] to [-1,0] = 4 seconds</span>\n<span class=\"pl-s\">Total time = 7 seconds</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">**Example 2:**</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">Input: points = [[3,2],[-2,2]]</span>\n<span class=\"pl-s\">Output: 5</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">**Constraints:**</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">- points.length == n</span>\n<span class=\"pl-s\">- 1 &lt;= n &lt;= 100</span>\n<span class=\"pl-s\">- points[i].length == 2</span>\n<span class=\"pl-s\">- -1000 &lt;= points[i][0], points[i][1] &lt;= 1000</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">\"\"\"</span>\n\n<span class=\"pl-k\">from</span> <span class=\"pl-s1\">typing</span> <span class=\"pl-k\">import</span> <span class=\"pl-c1\">*</span>\n<span class=\"pl-k\">from</span> <span class=\"pl-s1\">leetgo_py</span> <span class=\"pl-k\">import</span> <span class=\"pl-c1\">*</span>\n\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">bisect</span>\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">collections</span> \n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">functools</span>\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">heapq</span> \n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">itertools</span> \n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">operator</span>\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">math</span> \n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">string</span>\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">leetcode</span> <span class=\"pl-k\">as</span> <span class=\"pl-s1\">lc</span>\n\n<span class=\"pl-c\"># @lc code=begin</span>\n\n<span class=\"pl-k\">class</span> <span class=\"pl-v\">Solution</span>:\n    <span class=\"pl-k\">def</span> <span class=\"pl-en\">minTimeToVisitAllPoints</span>(<span class=\"pl-s1\">self</span>, <span class=\"pl-s1\">points</span>: <span class=\"pl-v\">List</span>[<span class=\"pl-v\">List</span>[<span class=\"pl-smi\">int</span>]]) <span class=\"pl-c1\">-&gt;</span> <span class=\"pl-smi\">int</span>:\n        \n\n<span class=\"pl-c\"># @lc code=end</span>\n\n<span class=\"pl-k\">if</span> <span class=\"pl-s1\">__name__</span> <span class=\"pl-c1\">==</span> <span class=\"pl-s\">\"__main__\"</span>:\n    <span class=\"pl-s1\">points</span>: <span class=\"pl-v\">List</span>[<span class=\"pl-v\">List</span>[<span class=\"pl-smi\">int</span>]] <span class=\"pl-c1\">=</span> <span class=\"pl-en\">deserialize</span>(<span class=\"pl-s\">\"List[List[int]]\"</span>, <span class=\"pl-en\">read_line</span>())\n    <span class=\"pl-s1\">ans</span> <span class=\"pl-c1\">=</span> <span class=\"pl-en\">Solution</span>().<span class=\"pl-c1\">minTimeToVisitAllPoints</span>(<span class=\"pl-s1\">points</span>)\n    <span class=\"pl-en\">print</span>(<span class=\"pl-s\">\"<span class=\"pl-cce\">\\n</span>output:\"</span>, <span class=\"pl-en\">serialize</span>(<span class=\"pl-s1\">ans</span>, <span class=\"pl-s\">\"integer\"</span>))</pre></div>\n",
-    "created": "2025-02-11T12:18:15+00:00",
-    "created_utc": "2025-02-11T12:18:15+00:00",
-    "updated": "2025-02-11T12:18:15+00:00",
-    "updated_utc": "2025-02-11T12:18:15+00:00"
-  }
+  "github": null,
+  "lastLeetcode": null
 }
