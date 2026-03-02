@@ -1,0 +1,381 @@
+[
+  {
+    "id": 8,
+    "title": "Breaking Bad",
+    "language": "English",
+    "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
+    "releaseStartYear": 2008,
+    "releaseEndYear": 2013,
+    "genre": "Crime, Drama, Thriller",
+    "startedDate": "2024-08-15T00:00:00.000Z",
+    "completedDate": "2024-09-10T00:00:00.000Z",
+    "status": "completed",
+    "imdbRating": "9.5",
+    "imdbId": "tt0903747",
+    "createdAt": "2026-02-15T19:11:26.992Z",
+    "updatedAt": "2026-02-15T20:01:16.963Z",
+    "seasons": [
+      {
+        "id": 19,
+        "seasonNumber": 1,
+        "startedDate": "2024-08-15T00:00:00.000Z",
+        "completedDate": "2024-08-19T00:00:00.000Z",
+        "status": "completed",
+        "review": 9,
+        "note": null,
+        "createdAt": "2026-02-15T19:57:47.390Z",
+        "updatedAt": "2026-02-15T19:57:47.390Z"
+      },
+      {
+        "id": 20,
+        "seasonNumber": 2,
+        "startedDate": "2024-08-19T00:00:00.000Z",
+        "completedDate": "2024-08-25T00:00:00.000Z",
+        "status": "completed",
+        "review": 9,
+        "note": null,
+        "createdAt": "2026-02-15T19:58:08.969Z",
+        "updatedAt": "2026-02-15T19:58:08.969Z"
+      },
+      {
+        "id": 21,
+        "seasonNumber": 3,
+        "startedDate": "2024-08-25T00:00:00.000Z",
+        "completedDate": "2024-08-30T00:00:00.000Z",
+        "status": "completed",
+        "review": 9,
+        "note": null,
+        "createdAt": "2026-02-15T19:59:19.958Z",
+        "updatedAt": "2026-02-15T19:59:19.958Z"
+      },
+      {
+        "id": 22,
+        "seasonNumber": 4,
+        "startedDate": "2024-08-30T00:00:00.000Z",
+        "completedDate": "2024-09-05T00:00:00.000Z",
+        "status": "completed",
+        "review": 9,
+        "note": null,
+        "createdAt": "2026-02-15T20:00:30.727Z",
+        "updatedAt": "2026-02-15T20:00:30.727Z"
+      },
+      {
+        "id": 23,
+        "seasonNumber": 5,
+        "startedDate": "2024-09-05T00:00:00.000Z",
+        "completedDate": "2024-09-10T00:00:00.000Z",
+        "status": "completed",
+        "review": 9,
+        "note": "I liked all seasons of Breaking Bad, but I think the final season was the best among all TV shows. Although the machine gun scene was too far fetched, how could all the guys be in perfect positions so the gun could kill them all?—the ending still couldn’t have been better. I can’t think of a better ending. We saw the rise of Walt’s empire and his fall, leaving him with nothing but a broken man, hated by everyone, including his family.",
+        "createdAt": "2026-02-15T20:00:43.404Z",
+        "updatedAt": "2026-02-15T20:25:26.743Z"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Bad Education",
+    "language": "English",
+    "description": "A comedy series about a teacher who is a bigger kid than the kids he teaches.",
+    "releaseStartYear": 2012,
+    "releaseEndYear": 2020,
+    "genre": "Comedy",
+    "startedDate": "2020-03-28T00:00:00.000Z",
+    "completedDate": "2020-03-30T00:00:00.000Z",
+    "status": "completed",
+    "imdbRating": "7.4",
+    "imdbId": "tt2337840",
+    "createdAt": "2026-02-15T00:01:47.712Z",
+    "updatedAt": "2026-02-15T00:01:47.712Z",
+    "seasons": [
+      {
+        "id": 1,
+        "seasonNumber": 1,
+        "startedDate": "2020-03-28T00:00:00.000Z",
+        "completedDate": "2020-03-28T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:47.935Z",
+        "updatedAt": "2026-02-15T00:01:47.935Z"
+      },
+      {
+        "id": 2,
+        "seasonNumber": 2,
+        "startedDate": "2020-03-29T00:00:00.000Z",
+        "completedDate": "2020-03-29T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:48.046Z",
+        "updatedAt": "2026-02-15T00:01:48.046Z"
+      },
+      {
+        "id": 3,
+        "seasonNumber": 3,
+        "startedDate": "2020-03-30T00:00:00.000Z",
+        "completedDate": "2020-03-30T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:48.149Z",
+        "updatedAt": "2026-02-15T00:01:48.149Z"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Sacred Games",
+    "language": "India",
+    "description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
+    "releaseStartYear": 2018,
+    "releaseEndYear": null,
+    "genre": "Action, Crime, Drama",
+    "startedDate": "2019-04-03T00:00:00.000Z",
+    "completedDate": null,
+    "status": "on_hold",
+    "imdbRating": "8.9",
+    "imdbId": "tt6077448",
+    "createdAt": "2026-02-15T00:01:50.054Z",
+    "updatedAt": "2026-02-15T00:17:41.125Z",
+    "seasons": [
+      {
+        "id": 17,
+        "seasonNumber": 1,
+        "startedDate": "2019-04-03T00:00:00.000Z",
+        "completedDate": "2019-04-05T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:50.229Z",
+        "updatedAt": "2026-02-15T00:01:50.229Z"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "The End of the ****ing World",
+    "language": "English",
+    "description": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father.",
+    "releaseStartYear": 2017,
+    "releaseEndYear": 2019,
+    "genre": "Adventure, Comedy, Drama",
+    "startedDate": "2019-03-09T00:00:00.000Z",
+    "completedDate": "2019-03-09T00:00:00.000Z",
+    "status": "completed",
+    "imdbRating": "8.1",
+    "imdbId": "tt6257970",
+    "createdAt": "2026-02-15T00:01:50.323Z",
+    "updatedAt": "2026-02-15T00:01:50.323Z",
+    "seasons": [
+      {
+        "id": 18,
+        "seasonNumber": 1,
+        "startedDate": "2019-03-09T00:00:00.000Z",
+        "completedDate": "2019-03-09T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:50.504Z",
+        "updatedAt": "2026-02-15T00:01:50.504Z"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Peep Show",
+    "language": "English",
+    "description": "Mark and Jez are a couple of twenty-something roommates who have nothing in common - except for the fact that their lives are anything but normal. Mayhem ensues as the pair strive to cope with day-to-day life.",
+    "releaseStartYear": 2003,
+    "releaseEndYear": null,
+    "genre": "Comedy",
+    "startedDate": "2019-03-02T00:00:00.000Z",
+    "completedDate": null,
+    "status": "watching",
+    "imdbRating": "8.6",
+    "imdbId": "tt0387764",
+    "createdAt": "2026-02-15T00:01:49.013Z",
+    "updatedAt": "2026-02-15T00:01:49.013Z",
+    "seasons": [
+      {
+        "id": 8,
+        "seasonNumber": 1,
+        "startedDate": "2019-03-02T00:00:00.000Z",
+        "completedDate": "2019-03-03T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:49.193Z",
+        "updatedAt": "2026-02-15T00:01:49.193Z"
+      },
+      {
+        "id": 9,
+        "seasonNumber": 2,
+        "startedDate": "2019-03-10T00:00:00.000Z",
+        "completedDate": "2019-03-10T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:49.298Z",
+        "updatedAt": "2026-02-15T00:01:49.298Z"
+      },
+      {
+        "id": 10,
+        "seasonNumber": 3,
+        "startedDate": "2019-03-16T00:00:00.000Z",
+        "completedDate": "2019-03-16T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:49.393Z",
+        "updatedAt": "2026-02-15T00:01:49.393Z"
+      },
+      {
+        "id": 11,
+        "seasonNumber": 4,
+        "startedDate": "2019-03-17T00:00:00.000Z",
+        "completedDate": "2019-03-17T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:49.491Z",
+        "updatedAt": "2026-02-15T00:01:49.491Z"
+      },
+      {
+        "id": 12,
+        "seasonNumber": 5,
+        "startedDate": "2019-03-19T00:00:00.000Z",
+        "completedDate": "2019-03-19T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:49.588Z",
+        "updatedAt": "2026-02-15T00:01:49.588Z"
+      },
+      {
+        "id": 13,
+        "seasonNumber": 6,
+        "startedDate": "2019-03-20T00:00:00.000Z",
+        "completedDate": "2019-03-20T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:49.682Z",
+        "updatedAt": "2026-02-15T00:01:49.682Z"
+      },
+      {
+        "id": 14,
+        "seasonNumber": 7,
+        "startedDate": "2019-03-30T00:00:00.000Z",
+        "completedDate": "2019-03-30T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:49.774Z",
+        "updatedAt": "2026-02-15T00:01:49.774Z"
+      },
+      {
+        "id": 15,
+        "seasonNumber": 8,
+        "startedDate": "2019-03-31T00:00:00.000Z",
+        "completedDate": "2019-03-31T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:49.870Z",
+        "updatedAt": "2026-02-15T00:01:49.870Z"
+      },
+      {
+        "id": 16,
+        "seasonNumber": 9,
+        "startedDate": "2022-01-31T00:00:00.000Z",
+        "completedDate": null,
+        "status": "watching",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:49.964Z",
+        "updatedAt": "2026-02-15T00:01:49.964Z"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Dexter",
+    "language": "English",
+    "description": "By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial killer who only targets other murderers.",
+    "releaseStartYear": 2006,
+    "releaseEndYear": 2013,
+    "genre": "Crime, Drama, Mystery",
+    "startedDate": "2013-05-11T00:00:00.000Z",
+    "completedDate": "2013-05-12T00:00:00.000Z",
+    "status": "completed",
+    "imdbRating": "8.7",
+    "imdbId": "tt0773262",
+    "createdAt": "2026-02-15T00:01:48.246Z",
+    "updatedAt": "2026-02-15T00:01:48.246Z",
+    "seasons": [
+      {
+        "id": 4,
+        "seasonNumber": 1,
+        "startedDate": "2013-05-11T00:00:00.000Z",
+        "completedDate": "2013-05-12T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:48.437Z",
+        "updatedAt": "2026-02-15T00:01:48.437Z"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Friends",
+    "language": "English",
+    "description": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+    "releaseStartYear": 1994,
+    "releaseEndYear": null,
+    "genre": "Comedy, Romance",
+    "startedDate": "2012-01-30T06:20:31.269Z",
+    "completedDate": null,
+    "status": "watching",
+    "imdbRating": "8.8",
+    "imdbId": "tt0108778",
+    "createdAt": "2026-02-15T00:01:48.534Z",
+    "updatedAt": "2026-02-15T00:01:48.534Z",
+    "seasons": [
+      {
+        "id": 5,
+        "seasonNumber": 1,
+        "startedDate": "2022-01-18T00:00:00.000Z",
+        "completedDate": null,
+        "status": "watching",
+        "review": 9,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:48.715Z",
+        "updatedAt": "2026-02-15T01:50:11.298Z"
+      },
+      {
+        "id": 6,
+        "seasonNumber": 2,
+        "startedDate": "2020-09-19T19:09:24.181Z",
+        "completedDate": null,
+        "status": "watching",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:48.810Z",
+        "updatedAt": "2026-02-15T00:01:48.810Z"
+      },
+      {
+        "id": 7,
+        "seasonNumber": 3,
+        "startedDate": "2012-01-30T06:20:31.269Z",
+        "completedDate": null,
+        "status": "watching",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-02-15T00:01:48.917Z",
+        "updatedAt": "2026-02-15T00:01:48.917Z"
+      }
+    ]
+  }
+]
