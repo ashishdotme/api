@@ -187,15 +187,15 @@
     "language": "English",
     "description": "Mark and Jez are a couple of twenty-something roommates who have nothing in common - except for the fact that their lives are anything but normal. Mayhem ensues as the pair strive to cope with day-to-day life.",
     "releaseStartYear": 2003,
-    "releaseEndYear": null,
+    "releaseEndYear": 2015,
     "genre": "Comedy",
     "startedDate": "2019-03-02T00:00:00.000Z",
-    "completedDate": null,
-    "status": "watching",
+    "completedDate": "2022-02-07T00:00:00.000Z",
+    "status": "completed",
     "imdbRating": "8.6",
     "imdbId": "tt0387764",
     "createdAt": "2026-02-15T00:01:49.013Z",
-    "updatedAt": "2026-02-15T00:01:49.013Z",
+    "updatedAt": "2026-03-04T18:24:52.927Z",
     "seasons": [
       {
         "id": 8,
@@ -212,12 +212,12 @@
         "id": 9,
         "seasonNumber": 2,
         "startedDate": "2019-03-10T00:00:00.000Z",
-        "completedDate": "2019-03-10T00:00:00.000Z",
+        "completedDate": "2019-03-12T00:00:00.000Z",
         "status": "completed",
         "review": null,
         "note": null,
         "createdAt": "2026-02-15T00:01:49.298Z",
-        "updatedAt": "2026-02-15T00:01:49.298Z"
+        "updatedAt": "2026-03-04T18:25:17.649Z"
       },
       {
         "id": 10,
@@ -289,12 +289,12 @@
         "id": 16,
         "seasonNumber": 9,
         "startedDate": "2022-01-31T00:00:00.000Z",
-        "completedDate": null,
-        "status": "watching",
+        "completedDate": "2022-02-07T00:00:00.000Z",
+        "status": "completed",
         "review": null,
         "note": null,
         "createdAt": "2026-02-15T00:01:49.964Z",
-        "updatedAt": "2026-02-15T00:01:49.964Z"
+        "updatedAt": "2026-03-04T18:24:23.059Z"
       }
     ]
   },
