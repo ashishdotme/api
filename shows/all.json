@@ -318,12 +318,78 @@
         "id": 4,
         "seasonNumber": 1,
         "startedDate": "2013-05-11T00:00:00.000Z",
-        "completedDate": "2013-05-12T00:00:00.000Z",
+        "completedDate": "2013-05-27T00:00:00.000Z",
         "status": "completed",
         "review": null,
         "note": null,
         "createdAt": "2026-02-15T00:01:48.437Z",
-        "updatedAt": "2026-02-15T00:01:48.437Z"
+        "updatedAt": "2026-03-04T18:15:37.425Z"
+      },
+      {
+        "id": 24,
+        "seasonNumber": 2,
+        "startedDate": "2013-06-01T00:00:00.000Z",
+        "completedDate": "2013-06-27T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-03-04T18:17:00.626Z",
+        "updatedAt": "2026-03-04T18:17:00.626Z"
+      },
+      {
+        "id": 25,
+        "seasonNumber": 3,
+        "startedDate": "2013-06-29T00:00:00.000Z",
+        "completedDate": "2013-07-19T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-03-04T18:17:37.542Z",
+        "updatedAt": "2026-03-04T18:17:37.542Z"
+      },
+      {
+        "id": 26,
+        "seasonNumber": 4,
+        "startedDate": "2013-07-22T00:00:00.000Z",
+        "completedDate": "2013-08-15T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-03-04T18:17:54.692Z",
+        "updatedAt": "2026-03-04T18:17:54.692Z"
+      },
+      {
+        "id": 27,
+        "seasonNumber": 5,
+        "startedDate": "2013-08-17T00:00:00.000Z",
+        "completedDate": "2013-09-20T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-03-04T18:21:53.188Z",
+        "updatedAt": "2026-03-04T18:21:53.188Z"
+      },
+      {
+        "id": 28,
+        "seasonNumber": 6,
+        "startedDate": "2013-09-22T00:00:00.000Z",
+        "completedDate": "2013-10-13T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-03-04T18:22:16.952Z",
+        "updatedAt": "2026-03-04T18:22:16.952Z"
+      },
+      {
+        "id": 29,
+        "seasonNumber": 7,
+        "startedDate": "2013-10-16T00:00:00.000Z",
+        "completedDate": "2013-11-21T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-03-04T18:22:45.804Z",
+        "updatedAt": "2026-03-04T18:22:45.804Z"
       }
     ]
   },
