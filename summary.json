@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -103,20 +103,20 @@
   ],
   "movies": [
     {
-      "id": 191,
-      "title": "The Whale",
-      "description": "A reclusive, morbidly obese English teacher attempts to reconnect with his estranged teenage daughter.",
+      "id": 192,
+      "title": "The Killing of a Sacred Deer",
+      "description": "A devious teen starts to insinuate himself into the life of a renowned surgeon and his family.",
       "review": null,
       "note": null,
       "language": "English",
-      "year": 2022,
-      "genre": "Drama",
-      "viewingDate": "2026-02-19T00:00:00.000Z",
+      "year": 2017,
+      "genre": "Drama, Horror, Mystery",
+      "viewingDate": "2026-03-06T00:00:00.000Z",
       "loved": true,
-      "imdbRating": "7.6",
-      "imdbId": "tt13833688",
-      "createdAt": "2026-02-19T19:19:07.505Z",
-      "updatedAt": "2026-02-19T19:19:07.505Z"
+      "imdbRating": "7.0",
+      "imdbId": "tt5715874",
+      "createdAt": "2026-03-11T20:16:53.739Z",
+      "updatedAt": "2026-03-11T20:16:53.739Z"
     }
   ],
   "tasks": [
