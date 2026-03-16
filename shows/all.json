@@ -1,5 +1,89 @@
 [
   {
+    "id": 9,
+    "title": "Better Call Saul",
+    "language": "Englis",
+    "description": "Albuquerque lawyer Jimmy McGill scrapes for clients and respect, but every win drags him closer to shady deals, dangerous players, and the alter ego Saul Goodman.",
+    "releaseStartYear": 2010,
+    "releaseEndYear": 2022,
+    "genre": "Crime, Drama",
+    "startedDate": "2025-10-16T00:00:00.000Z",
+    "completedDate": "2026-03-15T00:00:00.000Z",
+    "status": "completed",
+    "imdbRating": "9.0",
+    "imdbId": "tt3032476",
+    "createdAt": "2026-03-16T15:08:08.512Z",
+    "updatedAt": "2026-03-16T15:08:08.512Z",
+    "seasons": [
+      {
+        "id": 30,
+        "seasonNumber": 1,
+        "startedDate": "2025-10-16T00:00:00.000Z",
+        "completedDate": "2025-10-30T00:00:00.000Z",
+        "status": "completed",
+        "review": 9,
+        "note": null,
+        "createdAt": "2026-03-16T15:16:10.590Z",
+        "updatedAt": "2026-03-16T15:19:22.370Z"
+      },
+      {
+        "id": 31,
+        "seasonNumber": 2,
+        "startedDate": "2025-11-05T00:00:00.000Z",
+        "completedDate": "2025-11-17T00:00:00.000Z",
+        "status": "completed",
+        "review": 9,
+        "note": null,
+        "createdAt": "2026-03-16T15:17:11.475Z",
+        "updatedAt": "2026-03-16T15:17:11.475Z"
+      },
+      {
+        "id": 32,
+        "seasonNumber": 3,
+        "startedDate": "2025-11-19T00:00:00.000Z",
+        "completedDate": "2025-12-20T00:00:00.000Z",
+        "status": "completed",
+        "review": 9,
+        "note": null,
+        "createdAt": "2026-03-16T15:17:27.250Z",
+        "updatedAt": "2026-03-16T15:17:27.250Z"
+      },
+      {
+        "id": 33,
+        "seasonNumber": 4,
+        "startedDate": "2025-12-28T00:00:00.000Z",
+        "completedDate": "2026-01-05T00:00:00.000Z",
+        "status": "completed",
+        "review": 9,
+        "note": null,
+        "createdAt": "2026-03-16T15:17:51.861Z",
+        "updatedAt": "2026-03-16T15:17:51.861Z"
+      },
+      {
+        "id": 34,
+        "seasonNumber": 5,
+        "startedDate": "2026-01-07T00:00:00.000Z",
+        "completedDate": "2026-01-27T00:00:00.000Z",
+        "status": "completed",
+        "review": 9,
+        "note": null,
+        "createdAt": "2026-03-16T15:18:11.914Z",
+        "updatedAt": "2026-03-16T15:19:54.214Z"
+      },
+      {
+        "id": 35,
+        "seasonNumber": 6,
+        "startedDate": "2026-02-12T00:00:00.000Z",
+        "completedDate": "2026-03-14T00:00:00.000Z",
+        "status": "completed",
+        "review": 9,
+        "note": null,
+        "createdAt": "2026-03-16T15:18:47.402Z",
+        "updatedAt": "2026-03-16T15:20:23.791Z"
+      }
+    ]
+  },
+  {
     "id": 8,
     "title": "Breaking Bad",
     "language": "English",
