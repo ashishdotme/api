@@ -103,20 +103,20 @@
   ],
   "movies": [
     {
-      "id": 205,
-      "title": "Eko",
-      "description": "In misty Kaattukunnu hills, an elderly woman and her caretaker confront past memories while a hunted dog breeder named Kuriyachan eludes capture. As searchers arrive, buried secrets emerge.",
-      "review": 8,
+      "id": 287,
+      "title": "La La Land",
+      "description": "When Sebastian, a pianist, and Mia, an actress, follow their passion and achieve success in their respective fields, they find themselves torn between their love for each other and their careers.",
+      "review": null,
       "note": null,
       "language": "English",
-      "year": 2025,
-      "genre": "Adventure, Mystery",
-      "viewingDate": "2026-03-14T00:00:00.000Z",
+      "year": 2016,
+      "genre": "Comedy, Drama, Music",
+      "viewingDate": "2026-03-16T00:00:00.000Z",
       "loved": false,
-      "imdbRating": "7.8",
-      "imdbId": "tt36616410",
-      "createdAt": "2026-03-16T14:33:58.170Z",
-      "updatedAt": "2026-03-16T14:37:39.545Z"
+      "imdbRating": "8.0",
+      "imdbId": "tt3783958",
+      "createdAt": "2026-03-16T22:25:27.981Z",
+      "updatedAt": "2026-03-16T22:25:27.981Z"
     }
   ],
   "tasks": [
