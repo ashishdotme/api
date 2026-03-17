@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -103,20 +103,20 @@
   ],
   "movies": [
     {
-      "id": 287,
-      "title": "La La Land",
-      "description": "When Sebastian, a pianist, and Mia, an actress, follow their passion and achieve success in their respective fields, they find themselves torn between their love for each other and their careers.",
+      "id": 288,
+      "title": "The Spectacular Now",
+      "description": "A hard-partying high school senior's philosophy on life changes when he meets the not-so-typical \"nice girl.\"",
       "review": null,
       "note": null,
       "language": "English",
-      "year": 2016,
-      "genre": "Comedy, Drama, Music",
-      "viewingDate": "2026-03-16T00:00:00.000Z",
+      "year": 2013,
+      "genre": "Drama, Romance",
+      "viewingDate": "2026-03-17T00:00:00.000Z",
       "loved": false,
-      "imdbRating": "8.0",
-      "imdbId": "tt3783958",
-      "createdAt": "2026-03-16T22:25:27.981Z",
-      "updatedAt": "2026-03-16T22:25:27.981Z"
+      "imdbRating": "7.0",
+      "imdbId": "tt1714206",
+      "createdAt": "2026-03-17T21:25:54.301Z",
+      "updatedAt": "2026-03-17T21:25:54.301Z"
     }
   ],
   "tasks": [
