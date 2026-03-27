@@ -103,20 +103,20 @@
   ],
   "movies": [
     {
-      "id": 288,
-      "title": "The Spectacular Now",
-      "description": "A hard-partying high school senior's philosophy on life changes when he meets the not-so-typical \"nice girl.\"",
+      "id": 289,
+      "title": "Burning",
+      "description": "Jong-su bumps into a girl who used to live in the same neighborhood, who asks him to look after her cat while she's on a trip to Africa. When back, she introduces Ben, a mysterious guy she met there, who confesses his secret hobby.",
       "review": null,
       "note": null,
       "language": "English",
-      "year": 2013,
-      "genre": "Drama, Romance",
-      "viewingDate": "2026-03-17T00:00:00.000Z",
+      "year": 2018,
+      "genre": "Drama, Mystery, Thriller",
+      "viewingDate": "2026-03-27T00:00:00.000Z",
       "loved": false,
-      "imdbRating": "7.0",
-      "imdbId": "tt1714206",
-      "createdAt": "2026-03-17T21:25:54.301Z",
-      "updatedAt": "2026-03-17T21:25:54.301Z"
+      "imdbRating": "7.4",
+      "imdbId": "tt7282468",
+      "createdAt": "2026-03-27T19:58:26.968Z",
+      "updatedAt": "2026-03-27T19:58:26.968Z"
     }
   ],
   "tasks": [
