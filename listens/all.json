@@ -1,5 +1,41 @@
 [
   {
+    "id": 2600,
+    "title": "Anuv Jain Mashup",
+    "artist": "Akdas Hayat",
+    "album": null,
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2026-04-02T18:01:47.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-04-02T18:01:56.827Z",
+    "updatedAt": "2026-04-02T18:01:56.827Z"
+  },
+  {
+    "id": 2599,
+    "title": "Tera Mera Pyar (Farooq Got Audio Remix) | Kumar Sanu | Hip Hop/Trap Mix",
+    "artist": "Farooq Got Audio",
+    "album": null,
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2026-04-02T18:00:46.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-04-02T18:00:55.400Z",
+    "updatedAt": "2026-04-02T18:00:55.400Z"
+  },
+  {
+    "id": 2598,
+    "title": "Standing By you",
+    "artist": "Nish",
+    "album": null,
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2026-04-02T17:58:08.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-04-02T17:58:17.726Z",
+    "updatedAt": "2026-04-02T17:58:17.726Z"
+  },
+  {
     "id": 2597,
     "title": "Duniyaa (From \"Luka Chuppi\")",
     "artist": "Akhil, Dhvani Bhanushali, Kunaal Vermaa, Abhijit Vaghani",
