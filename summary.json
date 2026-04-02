@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 45,
-      "quote": "The mind is everything. What you think you become.",
+      "id": 26,
+      "quote": "Whether you think you can or think you can't, you're right.",
       "category": "Motivational",
-      "author": "Buddha",
+      "author": "Henry Ford",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -237,11 +237,11 @@
     }
   ],
   "github": {
-    "lastCommit": "2026-04-02T19:37:21Z",
+    "lastCommit": "2026-04-02T21:14:30Z",
     "recentRepos": [
       {
         "name": "assets",
-        "pushedAt": "2026-04-02T19:37:23Z"
+        "pushedAt": "2026-04-02T21:14:49Z"
       },
       {
         "name": "jobsapi.ashish.me",
