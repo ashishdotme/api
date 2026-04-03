@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11931,
-      "stepCount": 4090,
-      "date": "4/1/26",
-      "fullDate": "2026-04-01T00:00:00.000Z",
-      "createdAt": "2026-04-02T08:31:47.347Z",
-      "updatedAt": "2026-04-02T08:31:47.347Z"
+      "id": 11938,
+      "stepCount": 5718,
+      "date": "4/2/26",
+      "fullDate": "2026-04-02T00:00:00.000Z",
+      "createdAt": "2026-04-03T08:15:44.225Z",
+      "updatedAt": "2026-04-03T08:15:44.225Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 44,
-      "quote": "The most common way people give up their power is by thinking they don't have any.",
+      "id": 17,
+      "quote": "I find that the harder I work, the more luck I seem to have.",
       "category": "Motivational",
-      "author": "Alice Walker",
+      "author": "Thomas Jefferson",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
