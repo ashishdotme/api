@@ -84,6 +84,90 @@
     ]
   },
   {
+    "id": 10,
+    "title": "Peaky Blinders",
+    "language": "en",
+    "description": "Thomas Shelby and his brothers return to Birmingham after serving in the British Army during WWI. Shelby and the Peaky Blinders, the gang he is leader of, control the city of Birmingham But as Shelby's ambitions extend beyond Birmingham, he plans to build on the business empire he's created, and stop anyone who gets in his way.",
+    "releaseStartYear": 2013,
+    "releaseEndYear": 2022,
+    "genre": "Drama, Crime",
+    "startedDate": "2025-01-14T00:00:00.000Z",
+    "completedDate": "2026-04-01T00:00:00.000Z",
+    "status": "planned",
+    "imdbRating": "8.7",
+    "imdbId": "tt2442560",
+    "createdAt": "2026-04-03T09:22:20.047Z",
+    "updatedAt": "2026-04-03T09:22:20.047Z",
+    "seasons": [
+      {
+        "id": 36,
+        "seasonNumber": 1,
+        "startedDate": null,
+        "completedDate": null,
+        "status": "planned",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-04-03T09:22:20.337Z",
+        "updatedAt": "2026-04-03T09:22:20.337Z"
+      },
+      {
+        "id": 37,
+        "seasonNumber": 2,
+        "startedDate": null,
+        "completedDate": null,
+        "status": "planned",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-04-03T09:22:20.440Z",
+        "updatedAt": "2026-04-03T09:22:20.440Z"
+      },
+      {
+        "id": 38,
+        "seasonNumber": 3,
+        "startedDate": null,
+        "completedDate": null,
+        "status": "planned",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-04-03T09:22:20.544Z",
+        "updatedAt": "2026-04-03T09:22:20.544Z"
+      },
+      {
+        "id": 39,
+        "seasonNumber": 4,
+        "startedDate": null,
+        "completedDate": null,
+        "status": "planned",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-04-03T09:22:20.643Z",
+        "updatedAt": "2026-04-03T09:22:20.643Z"
+      },
+      {
+        "id": 40,
+        "seasonNumber": 5,
+        "startedDate": null,
+        "completedDate": null,
+        "status": "planned",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-04-03T09:22:20.736Z",
+        "updatedAt": "2026-04-03T09:22:20.736Z"
+      },
+      {
+        "id": 41,
+        "seasonNumber": 6,
+        "startedDate": null,
+        "completedDate": null,
+        "status": "planned",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-04-03T09:22:20.828Z",
+        "updatedAt": "2026-04-03T09:22:20.828Z"
+      }
+    ]
+  },
+  {
     "id": 8,
     "title": "Breaking Bad",
     "language": "English",
