@@ -13,6 +13,7 @@
     "status": "completed",
     "imdbRating": "9.0",
     "imdbId": "tt3032476",
+    "tmdbId": null,
     "createdAt": "2026-03-16T15:08:08.512Z",
     "updatedAt": "2026-03-16T15:08:08.512Z",
     "seasons": [
@@ -98,6 +99,7 @@
     "status": "planned",
     "imdbRating": "8.7",
     "imdbId": "tt2442560",
+    "tmdbId": null,
     "createdAt": "2026-04-03T09:22:20.047Z",
     "updatedAt": "2026-04-03T09:22:20.047Z",
     "seasons": [
@@ -183,6 +185,7 @@
     "status": "completed",
     "imdbRating": "9.5",
     "imdbId": "tt0903747",
+    "tmdbId": null,
     "createdAt": "2026-02-15T19:11:26.992Z",
     "updatedAt": "2026-02-15T20:01:16.963Z",
     "seasons": [
@@ -257,6 +260,7 @@
     "status": "completed",
     "imdbRating": "7.4",
     "imdbId": "tt2337840",
+    "tmdbId": null,
     "createdAt": "2026-02-15T00:01:47.712Z",
     "updatedAt": "2026-02-15T00:01:47.712Z",
     "seasons": [
@@ -309,6 +313,7 @@
     "status": "on_hold",
     "imdbRating": "8.9",
     "imdbId": "tt6077448",
+    "tmdbId": null,
     "createdAt": "2026-02-15T00:01:50.054Z",
     "updatedAt": "2026-02-15T00:17:41.125Z",
     "seasons": [
@@ -339,6 +344,7 @@
     "status": "completed",
     "imdbRating": "8.1",
     "imdbId": "tt6257970",
+    "tmdbId": null,
     "createdAt": "2026-02-15T00:01:50.323Z",
     "updatedAt": "2026-02-15T00:01:50.323Z",
     "seasons": [
@@ -369,6 +375,7 @@
     "status": "completed",
     "imdbRating": "8.6",
     "imdbId": "tt0387764",
+    "tmdbId": null,
     "createdAt": "2026-02-15T00:01:49.013Z",
     "updatedAt": "2026-03-04T18:24:52.927Z",
     "seasons": [
@@ -487,6 +494,7 @@
     "status": "completed",
     "imdbRating": "8.7",
     "imdbId": "tt0773262",
+    "tmdbId": null,
     "createdAt": "2026-02-15T00:01:48.246Z",
     "updatedAt": "2026-02-15T00:01:48.246Z",
     "seasons": [
@@ -583,6 +591,7 @@
     "status": "watching",
     "imdbRating": "8.8",
     "imdbId": "tt0108778",
+    "tmdbId": null,
     "createdAt": "2026-02-15T00:01:48.534Z",
     "updatedAt": "2026-02-15T00:01:48.534Z",
     "seasons": [

@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 52,
-      "quote": "It is never too late to be what you might have been.",
-      "category": "Motivational",
-      "author": "George Eliot",
-      "createdAt": "2026-04-02T18:29:36.110Z",
-      "updatedAt": "2026-04-02T18:29:36.110Z"
+      "id": 71,
+      "quote": "If you are working on something that you really care about, you do not have to be pushed. The vision pulls you.",
+      "category": "motivational",
+      "author": "Steve Jobs",
+      "createdAt": "2026-04-03T10:41:02.528Z",
+      "updatedAt": "2026-04-03T10:41:02.528Z"
     }
   ],
   "shows": [
@@ -68,6 +68,7 @@
       "status": "completed",
       "imdbRating": "9.0",
       "imdbId": "tt3032476",
+      "tmdbId": null,
       "createdAt": "2026-03-16T15:08:08.512Z",
       "updatedAt": "2026-03-16T15:08:08.512Z"
     }
@@ -117,6 +118,7 @@
       "loved": false,
       "imdbRating": "7.7",
       "imdbId": "tt1216496",
+      "tmdbId": null,
       "createdAt": "2026-04-01T22:57:59.517Z",
       "updatedAt": "2026-04-01T22:58:09.549Z"
     }
