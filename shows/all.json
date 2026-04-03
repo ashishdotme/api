@@ -86,92 +86,6 @@
     ]
   },
   {
-    "id": 10,
-    "title": "Peaky Blinders",
-    "language": "en",
-    "description": "Thomas Shelby and his brothers return to Birmingham after serving in the British Army during WWI. Shelby and the Peaky Blinders, the gang he is leader of, control the city of Birmingham But as Shelby's ambitions extend beyond Birmingham, he plans to build on the business empire he's created, and stop anyone who gets in his way.",
-    "releaseStartYear": 2013,
-    "releaseEndYear": 2022,
-    "genre": "Drama, Crime",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
-    "startedDate": "2025-01-14T00:00:00.000Z",
-    "completedDate": "2026-04-01T00:00:00.000Z",
-    "status": "planned",
-    "imdbRating": "8.7",
-    "imdbId": "tt2442560",
-    "tmdbId": 60574,
-    "createdAt": "2026-04-03T09:22:20.047Z",
-    "updatedAt": "2026-04-03T13:30:27.386Z",
-    "seasons": [
-      {
-        "id": 36,
-        "seasonNumber": 1,
-        "startedDate": null,
-        "completedDate": null,
-        "status": "planned",
-        "review": null,
-        "note": null,
-        "createdAt": "2026-04-03T09:22:20.337Z",
-        "updatedAt": "2026-04-03T09:22:20.337Z"
-      },
-      {
-        "id": 37,
-        "seasonNumber": 2,
-        "startedDate": null,
-        "completedDate": null,
-        "status": "planned",
-        "review": null,
-        "note": null,
-        "createdAt": "2026-04-03T09:22:20.440Z",
-        "updatedAt": "2026-04-03T09:22:20.440Z"
-      },
-      {
-        "id": 38,
-        "seasonNumber": 3,
-        "startedDate": null,
-        "completedDate": null,
-        "status": "planned",
-        "review": null,
-        "note": null,
-        "createdAt": "2026-04-03T09:22:20.544Z",
-        "updatedAt": "2026-04-03T09:22:20.544Z"
-      },
-      {
-        "id": 39,
-        "seasonNumber": 4,
-        "startedDate": null,
-        "completedDate": null,
-        "status": "planned",
-        "review": null,
-        "note": null,
-        "createdAt": "2026-04-03T09:22:20.643Z",
-        "updatedAt": "2026-04-03T09:22:20.643Z"
-      },
-      {
-        "id": 40,
-        "seasonNumber": 5,
-        "startedDate": null,
-        "completedDate": null,
-        "status": "planned",
-        "review": null,
-        "note": null,
-        "createdAt": "2026-04-03T09:22:20.736Z",
-        "updatedAt": "2026-04-03T09:22:20.736Z"
-      },
-      {
-        "id": 41,
-        "seasonNumber": 6,
-        "startedDate": null,
-        "completedDate": null,
-        "status": "planned",
-        "review": null,
-        "note": null,
-        "createdAt": "2026-04-03T09:22:20.828Z",
-        "updatedAt": "2026-04-03T09:22:20.828Z"
-      }
-    ]
-  },
-  {
     "id": 8,
     "title": "Breaking Bad",
     "language": "English",
@@ -481,6 +395,81 @@
     ]
   },
   {
+    "id": 12,
+    "title": "Peaky Blinders",
+    "language": "English",
+    "description": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+    "releaseStartYear": 2013,
+    "releaseEndYear": 2022,
+    "genre": "Drama, Crime",
+    "posterUrl": "https://image.tmdb.org/t/p/w200/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+    "startedDate": "2014-10-15T00:00:00.000Z",
+    "completedDate": null,
+    "status": "watching",
+    "imdbRating": null,
+    "imdbId": "tt2442560",
+    "tmdbId": 60574,
+    "createdAt": "2026-04-03T15:19:59.391Z",
+    "updatedAt": "2026-04-03T15:19:59.391Z",
+    "seasons": [
+      {
+        "id": 44,
+        "seasonNumber": 1,
+        "startedDate": "2014-10-22T00:00:00.000Z",
+        "completedDate": "2014-11-14T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-04-03T15:19:59.418Z",
+        "updatedAt": "2026-04-03T15:19:59.418Z"
+      },
+      {
+        "id": 45,
+        "seasonNumber": 2,
+        "startedDate": "2015-10-21T00:00:00.000Z",
+        "completedDate": "2015-11-01T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-04-03T15:19:59.423Z",
+        "updatedAt": "2026-04-03T15:19:59.423Z"
+      },
+      {
+        "id": 46,
+        "seasonNumber": 3,
+        "startedDate": "2017-04-11T00:00:00.000Z",
+        "completedDate": "2017-04-29T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-04-03T15:19:59.428Z",
+        "updatedAt": "2026-04-03T15:19:59.428Z"
+      },
+      {
+        "id": 47,
+        "seasonNumber": 4,
+        "startedDate": "2018-10-23T00:00:00.000Z",
+        "completedDate": "2018-11-17T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-04-03T15:19:59.432Z",
+        "updatedAt": "2026-04-03T15:19:59.432Z"
+      },
+      {
+        "id": 48,
+        "seasonNumber": 5,
+        "startedDate": "2020-09-03T00:00:00.000Z",
+        "completedDate": "2020-09-16T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-04-03T15:19:59.437Z",
+        "updatedAt": "2026-04-03T15:19:59.437Z"
+      }
+    ]
+  },
+  {
     "id": 3,
     "title": "Dexter",
     "language": "English",
@@ -578,55 +567,75 @@
     ]
   },
   {
-    "id": 4,
-    "title": "Friends",
+    "id": 13,
+    "title": "Shameless",
     "language": "English",
-    "description": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
-    "releaseStartYear": 1994,
-    "releaseEndYear": null,
-    "genre": "Comedy, Romance",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
-    "startedDate": "2012-01-30T06:20:31.269Z",
+    "description": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.",
+    "releaseStartYear": 2011,
+    "releaseEndYear": 2021,
+    "genre": "Drama, Comedy",
+    "posterUrl": "https://image.tmdb.org/t/p/w200/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg",
+    "startedDate": "2012-02-16T00:00:00.000Z",
     "completedDate": null,
     "status": "watching",
-    "imdbRating": "8.8",
-    "imdbId": "tt0108778",
-    "tmdbId": 1668,
-    "createdAt": "2026-02-15T00:01:48.534Z",
-    "updatedAt": "2026-04-03T13:30:28.691Z",
+    "imdbRating": null,
+    "imdbId": "tt1586680",
+    "tmdbId": 34307,
+    "createdAt": "2026-04-03T15:20:27.583Z",
+    "updatedAt": "2026-04-03T15:20:27.583Z",
     "seasons": [
       {
-        "id": 5,
+        "id": 49,
         "seasonNumber": 1,
-        "startedDate": "2022-01-18T00:00:00.000Z",
-        "completedDate": null,
-        "status": "watching",
-        "review": 9,
+        "startedDate": "2012-02-16T00:00:00.000Z",
+        "completedDate": "2012-02-25T00:00:00.000Z",
+        "status": "completed",
+        "review": null,
         "note": null,
-        "createdAt": "2026-02-15T00:01:48.715Z",
-        "updatedAt": "2026-02-15T01:50:11.298Z"
+        "createdAt": "2026-04-03T15:20:27.596Z",
+        "updatedAt": "2026-04-03T15:20:27.596Z"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "The Big Bang Theory",
+    "language": "English",
+    "description": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door.",
+    "releaseStartYear": 2007,
+    "releaseEndYear": 2019,
+    "genre": "Comedy",
+    "posterUrl": "https://image.tmdb.org/t/p/w200/an3uTx1P0XgHPylgfPV6W7yxKAo.jpg",
+    "startedDate": "2008-10-22T00:00:00.000Z",
+    "completedDate": null,
+    "status": "watching",
+    "imdbRating": null,
+    "imdbId": "tt0898266",
+    "tmdbId": 1418,
+    "createdAt": "2026-04-03T15:13:34.175Z",
+    "updatedAt": "2026-04-03T15:13:34.175Z",
+    "seasons": [
+      {
+        "id": 42,
+        "seasonNumber": 1,
+        "startedDate": "2008-10-23T00:00:00.000Z",
+        "completedDate": "2008-11-04T00:00:00.000Z",
+        "status": "completed",
+        "review": 8,
+        "note": null,
+        "createdAt": "2026-04-03T15:13:34.200Z",
+        "updatedAt": "2026-04-03T15:13:34.200Z"
       },
       {
-        "id": 6,
+        "id": 43,
         "seasonNumber": 2,
-        "startedDate": "2020-09-19T19:09:24.181Z",
-        "completedDate": null,
-        "status": "watching",
-        "review": null,
+        "startedDate": "2009-10-01T00:00:00.000Z",
+        "completedDate": "2009-10-20T00:00:00.000Z",
+        "status": "completed",
+        "review": 8,
         "note": null,
-        "createdAt": "2026-02-15T00:01:48.810Z",
-        "updatedAt": "2026-02-15T00:01:48.810Z"
-      },
-      {
-        "id": 7,
-        "seasonNumber": 3,
-        "startedDate": "2012-01-30T06:20:31.269Z",
-        "completedDate": null,
-        "status": "watching",
-        "review": null,
-        "note": null,
-        "createdAt": "2026-02-15T00:01:48.917Z",
-        "updatedAt": "2026-02-15T00:01:48.917Z"
+        "createdAt": "2026-04-03T15:13:34.209Z",
+        "updatedAt": "2026-04-03T15:13:34.209Z"
       }
     ]
   }
