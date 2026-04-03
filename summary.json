@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 15,
-      "quote": "The way to get started is to quit talking and begin doing.",
+      "id": 45,
+      "quote": "The mind is everything. What you think you become.",
       "category": "Motivational",
-      "author": "Walt Disney",
+      "author": "Buddha",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -228,16 +228,16 @@
   ],
   "listens": [
     {
-      "id": 2629,
-      "title": "Jaiye Sajana (From \"Dhurandhar The Revenge\")",
-      "artist": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
+      "id": 2630,
+      "title": "Sapphire [Remix] (feat. Arijit Singh)",
+      "artist": "Ed Sheeran",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-03T22:12:51.000Z",
+      "listenDate": "2026-04-03T22:15:58.000Z",
       "trackNumber": null,
-      "createdAt": "2026-04-03T22:12:59.505Z",
-      "updatedAt": "2026-04-03T22:12:59.505Z"
+      "createdAt": "2026-04-03T22:16:09.045Z",
+      "updatedAt": "2026-04-03T22:16:09.045Z"
     }
   ],
   "github": {
