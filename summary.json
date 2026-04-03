@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 47,
-      "quote": "Do one thing every day that scares you.",
+      "id": 7,
+      "quote": "It does not matter how slowly you go as long as you do not stop.",
       "category": "Motivational",
-      "author": "Eleanor Roosevelt",
+      "author": "Confucius",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -105,22 +105,22 @@
   ],
   "movies": [
     {
-      "id": 291,
-      "title": "Mother",
-      "description": "A mother desperately searches for the killer who framed her son for a girl's horrific murder.",
-      "review": 9,
-      "note": null,
-      "language": "English",
-      "year": 2009,
-      "genre": "Crime, Drama, Mystery",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8oBnSkZE6GDVugAbLPO6uJd4GcS.jpg",
-      "viewingDate": "2026-03-30T01:00:00.000Z",
-      "loved": false,
-      "imdbRating": "7.7",
-      "imdbId": "tt1216496",
-      "tmdbId": 30018,
-      "createdAt": "2026-04-01T22:57:59.517Z",
-      "updatedAt": "2026-04-03T13:24:38.637Z"
+      "id": 294,
+      "title": "Kasoor",
+      "description": "The film starts with the murder of Priti (Divya Dutta), wife of Shekhar (Aftab Shivdasani), a well-known journalist. Inspector Lokhande (Ashutosh Rana) investigates the case and accuses Shekhar of the murder, saying he has enough evidences to arrest him. Upon getting bail from the court, Shekhar's lawyer tells him that he will not be able to fight his case because he is a corporate lawyer. He asks him to contact Simran Bhargav (Lisa Ray), who is a criminal lawyer to fight his case.",
+      "review": 4,
+      "note": "I found the film too slow, but I guess that's expected from an older Bollywood movie. The twist was predictable and dull, but the songs were excellent. I'd say it's worth watching for the music alone.",
+      "language": "Hindi",
+      "year": 2001,
+      "genre": "Drama, Mystery, Thriller",
+      "posterUrl": "https://image.tmdb.org/t/p/w200/szT2yDKj5MUNBovMS1l69Boh8o0.jpg",
+      "viewingDate": "2026-04-02T00:00:00.000Z",
+      "loved": true,
+      "imdbRating": "0.0",
+      "imdbId": "tt0272688",
+      "tmdbId": 136615,
+      "createdAt": "2026-04-03T21:18:53.802Z",
+      "updatedAt": "2026-04-03T21:18:53.802Z"
     }
   ],
   "tasks": [
