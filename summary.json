@@ -12,24 +12,24 @@
   ],
   "steps": [
     {
-      "id": 11938,
-      "stepCount": 5718,
-      "date": "4/2/26",
-      "fullDate": "2026-04-02T00:00:00.000Z",
-      "createdAt": "2026-04-03T08:15:44.225Z",
-      "updatedAt": "2026-04-03T08:15:44.225Z"
+      "id": 11952,
+      "stepCount": 4091,
+      "date": "4/3/26",
+      "fullDate": "2026-04-03T00:00:00.000Z",
+      "createdAt": "2026-04-03T23:13:26.324Z",
+      "updatedAt": "2026-04-03T23:13:26.324Z"
     }
   ],
   "sleep": [
     {
-      "id": 356,
-      "sleep": "7",
-      "date": "3/11/26",
-      "fullDate": "2026-03-11T00:00:00.000Z",
-      "sleepStart": "2026-03-11T02:28:04.000Z",
-      "sleepEnd": "2026-03-11T09:29:03.000Z",
-      "createdAt": "2026-03-12T01:16:05.020Z",
-      "updatedAt": "2026-03-12T01:16:05.020Z"
+      "id": 363,
+      "sleep": "6",
+      "date": "4/1/26",
+      "fullDate": "2026-04-01T00:00:00.000Z",
+      "sleepStart": "2026-04-01T02:10:53.000Z",
+      "sleepEnd": "2026-04-01T08:00:52.000Z",
+      "createdAt": "2026-04-03T23:13:49.362Z",
+      "updatedAt": "2026-04-03T23:13:49.362Z"
     }
   ],
   "word": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 5,
-      "quote": "Believe you can and you're halfway there.",
+      "id": 19,
+      "quote": "Don't let yesterday take up too much of today.",
       "category": "Motivational",
-      "author": "Theodore Roosevelt",
+      "author": "Will Rogers",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
