@@ -8,14 +8,14 @@
     "language": "English",
     "year": 2009,
     "genre": "Crime, Drama, Mystery",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8oBnSkZE6GDVugAbLPO6uJd4GcS.jpg",
     "viewingDate": "2026-03-30T01:00:00.000Z",
     "loved": false,
     "imdbRating": "7.7",
     "imdbId": "tt1216496",
-    "tmdbId": null,
+    "tmdbId": 30018,
     "createdAt": "2026-04-01T22:57:59.517Z",
-    "updatedAt": "2026-04-01T22:58:09.549Z"
+    "updatedAt": "2026-04-03T13:24:38.637Z"
   },
   {
     "id": 290,
@@ -26,14 +26,14 @@
     "language": "English",
     "year": 2004,
     "genre": "Drama, Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hvzw4wufKZkDCTPVeG71Z7pGfZh.jpg",
     "viewingDate": "2026-03-28T00:00:00.000Z",
     "loved": false,
     "imdbRating": "6.5",
     "imdbId": "tt0363988",
-    "tmdbId": null,
+    "tmdbId": 1586,
     "createdAt": "2026-03-28T21:47:14.673Z",
-    "updatedAt": "2026-03-28T21:47:14.673Z"
+    "updatedAt": "2026-04-03T13:24:38.833Z"
   },
   {
     "id": 289,
@@ -44,14 +44,14 @@
     "language": "English",
     "year": 2018,
     "genre": "Drama, Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
     "viewingDate": "2026-03-27T00:00:00.000Z",
     "loved": false,
     "imdbRating": "7.4",
     "imdbId": "tt7282468",
-    "tmdbId": null,
+    "tmdbId": 491584,
     "createdAt": "2026-03-27T19:58:26.968Z",
-    "updatedAt": "2026-03-27T19:58:26.968Z"
+    "updatedAt": "2026-04-03T13:24:39.024Z"
   },
   {
     "id": 288,
@@ -62,14 +62,14 @@
     "language": "English",
     "year": 2013,
     "genre": "Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/obDS8pTWVWZiNAaTyfIFWYZbRsZ.jpg",
     "viewingDate": "2026-03-17T00:00:00.000Z",
     "loved": false,
     "imdbRating": "7.0",
     "imdbId": "tt1714206",
-    "tmdbId": null,
+    "tmdbId": 157386,
     "createdAt": "2026-03-17T21:25:54.301Z",
-    "updatedAt": "2026-03-17T21:25:54.301Z"
+    "updatedAt": "2026-04-03T13:24:39.227Z"
   },
   {
     "id": 287,
@@ -80,14 +80,14 @@
     "language": "English",
     "year": 2016,
     "genre": "Comedy, Drama, Music",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
     "viewingDate": "2026-03-16T00:00:00.000Z",
     "loved": false,
     "imdbRating": "8.0",
     "imdbId": "tt3783958",
-    "tmdbId": null,
+    "tmdbId": 313369,
     "createdAt": "2026-03-16T22:25:27.981Z",
-    "updatedAt": "2026-03-16T22:25:27.981Z"
+    "updatedAt": "2026-04-03T13:24:39.411Z"
   },
   {
     "id": 205,
@@ -98,14 +98,14 @@
     "language": "English",
     "year": 2025,
     "genre": "Adventure, Mystery",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tXdFEmtqLm8tewIErDJgnbTS9qs.jpg",
     "viewingDate": "2026-03-14T00:00:00.000Z",
     "loved": false,
     "imdbRating": "7.8",
     "imdbId": "tt36616410",
-    "tmdbId": null,
+    "tmdbId": 1070186,
     "createdAt": "2026-03-16T14:33:58.170Z",
-    "updatedAt": "2026-03-16T14:37:39.545Z"
+    "updatedAt": "2026-04-03T13:24:39.597Z"
   },
   {
     "id": 204,
@@ -116,14 +116,14 @@
     "language": "English",
     "year": 2003,
     "genre": "Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sYgimsiBywqVwJI8H4sETke8m7v.jpg",
     "viewingDate": "2026-03-13T00:00:00.000Z",
     "loved": false,
     "imdbRating": "7.3",
     "imdbId": "tt0309698",
-    "tmdbId": null,
+    "tmdbId": 2832,
     "createdAt": "2026-03-16T14:31:41.043Z",
-    "updatedAt": "2026-03-16T14:37:46.181Z"
+    "updatedAt": "2026-04-03T13:24:39.796Z"
   },
   {
     "id": 192,
@@ -134,14 +134,14 @@
     "language": "English",
     "year": 2017,
     "genre": "Drama, Horror, Mystery",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
     "viewingDate": "2026-03-06T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.0",
     "imdbId": "tt5715874",
-    "tmdbId": null,
+    "tmdbId": 399057,
     "createdAt": "2026-03-11T20:16:53.739Z",
-    "updatedAt": "2026-03-11T20:16:53.739Z"
+    "updatedAt": "2026-04-03T13:24:39.990Z"
   },
   {
     "id": 191,
@@ -152,14 +152,14 @@
     "language": "English",
     "year": 2022,
     "genre": "Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg",
     "viewingDate": "2026-02-19T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.6",
     "imdbId": "tt13833688",
-    "tmdbId": null,
+    "tmdbId": 785084,
     "createdAt": "2026-02-19T19:19:07.505Z",
-    "updatedAt": "2026-02-19T19:19:07.505Z"
+    "updatedAt": "2026-04-03T13:24:40.174Z"
   },
   {
     "id": 190,
@@ -170,14 +170,14 @@
     "language": "English",
     "year": 2021,
     "genre": "Crime, Drama, Mystery",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1b3dNFDuE7i05TJlXrIC571yR01.jpg",
     "viewingDate": "2026-02-18T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.1",
     "imdbId": "tt11233960",
-    "tmdbId": null,
+    "tmdbId": 645886,
     "createdAt": "2026-02-18T22:32:42.425Z",
-    "updatedAt": "2026-02-18T22:32:42.425Z"
+    "updatedAt": "2026-04-03T13:24:40.354Z"
   },
   {
     "id": 188,
@@ -188,14 +188,14 @@
     "language": "English",
     "year": 2007,
     "genre": "Adventure, Comedy, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg",
     "viewingDate": "2026-02-17T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.2",
     "imdbId": "tt0838221",
-    "tmdbId": null,
+    "tmdbId": 4538,
     "createdAt": "2026-02-17T21:32:37.321Z",
-    "updatedAt": "2026-02-17T21:32:37.321Z"
+    "updatedAt": "2026-04-03T13:24:40.541Z"
   },
   {
     "id": 187,
@@ -206,14 +206,14 @@
     "language": "English",
     "year": 2024,
     "genre": "Drama, Mystery, Sci-Fi",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/86dAl9HAGDOhvOIM8uPVjfk9P1v.jpg",
     "viewingDate": "2026-02-15T00:00:00.000Z",
     "loved": true,
     "imdbRating": "6.8",
     "imdbId": "tt15552142",
-    "tmdbId": null,
+    "tmdbId": 863873,
     "createdAt": "2026-02-15T22:42:39.440Z",
-    "updatedAt": "2026-02-15T22:42:39.440Z"
+    "updatedAt": "2026-04-03T13:24:40.742Z"
   },
   {
     "id": 186,
@@ -224,14 +224,14 @@
     "language": "English",
     "year": 2025,
     "genre": "Crime, Action, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rRjh3zumdW89fNMe4tdjmALB1xG.jpg",
     "viewingDate": "2026-02-14T00:00:00.000Z",
     "loved": false,
     "imdbRating": "6.3",
     "imdbId": "tt28434143",
-    "tmdbId": null,
+    "tmdbId": 1318308,
     "createdAt": "2026-02-15T21:09:31.241Z",
-    "updatedAt": "2026-02-15T21:09:31.241Z"
+    "updatedAt": "2026-04-03T13:24:40.931Z"
   },
   {
     "id": 185,
@@ -242,32 +242,14 @@
     "language": "English",
     "year": 2026,
     "genre": "Comedy, Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ekAIg0GSbbHTH7y1GPgWj0brLTW.jpg",
     "viewingDate": "2026-02-09T00:00:00.000Z",
     "loved": false,
     "imdbRating": "0.0",
     "imdbId": "tt0497465",
-    "tmdbId": null,
+    "tmdbId": 5038,
     "createdAt": "2026-02-08T19:02:59.963Z",
-    "updatedAt": "2026-02-15T21:10:08.934Z"
-  },
-  {
-    "id": 184,
-    "title": "The Perks of Being a Wallflower",
-    "description": "A pair of charismatic seniors take socially awkward Charlie under their wing.",
-    "review": null,
-    "note": null,
-    "language": "Unknown",
-    "year": 2012,
-    "genre": "Drama",
-    "posterUrl": null,
-    "viewingDate": "2026-02-08T00:00:00.000Z",
-    "loved": true,
-    "imdbRating": "7.9",
-    "imdbId": "tt1659337",
-    "tmdbId": null,
-    "createdAt": "2026-02-08T01:52:07.163Z",
-    "updatedAt": "2026-02-08T01:52:07.163Z"
+    "updatedAt": "2026-04-03T13:24:41.109Z"
   },
   {
     "id": 183,
@@ -278,14 +260,32 @@
     "language": "Unknown",
     "year": 2005,
     "genre": "Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
     "viewingDate": "2026-02-08T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.8",
     "imdbId": "tt0414387",
-    "tmdbId": null,
+    "tmdbId": 4348,
     "createdAt": "2026-02-08T01:52:02.306Z",
-    "updatedAt": "2026-02-08T01:52:02.306Z"
+    "updatedAt": "2026-04-03T13:24:41.484Z"
+  },
+  {
+    "id": 184,
+    "title": "The Perks of Being a Wallflower",
+    "description": "A pair of charismatic seniors take socially awkward Charlie under their wing.",
+    "review": null,
+    "note": null,
+    "language": "Unknown",
+    "year": 2012,
+    "genre": "Drama",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg",
+    "viewingDate": "2026-02-08T00:00:00.000Z",
+    "loved": true,
+    "imdbRating": "7.9",
+    "imdbId": "tt1659337",
+    "tmdbId": 84892,
+    "createdAt": "2026-02-08T01:52:07.163Z",
+    "updatedAt": "2026-04-03T13:24:41.296Z"
   },
   {
     "id": 182,
@@ -296,14 +296,14 @@
     "language": "English",
     "year": 2023,
     "genre": "Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aviJMFZSnnCAsCVyJGaPNx4Ef3i.jpg",
     "viewingDate": "2026-02-07T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.6",
     "imdbId": "tt21192142",
-    "tmdbId": null,
+    "tmdbId": 994108,
     "createdAt": "2026-02-07T20:36:27.268Z",
-    "updatedAt": "2026-02-07T23:47:29.644Z"
+    "updatedAt": "2026-04-03T13:24:41.665Z"
   },
   {
     "id": 180,
@@ -314,14 +314,14 @@
     "language": "English",
     "year": 2014,
     "genre": "Biography, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yAhoeIwwtPxJ7uf9HLIMHIqWFnL.jpg",
     "viewingDate": "2026-02-06T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.4",
     "imdbId": "tt2652092",
-    "tmdbId": null,
+    "tmdbId": 250538,
     "createdAt": "2026-02-06T23:29:29.071Z",
-    "updatedAt": "2026-02-15T12:39:41.887Z"
+    "updatedAt": "2026-04-03T13:24:41.853Z"
   },
   {
     "id": 181,
@@ -332,14 +332,14 @@
     "language": "English",
     "year": 2003,
     "genre": "Action, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/a8jmJPs5eZBARmnuEEvZwbjwyz4.jpg",
     "viewingDate": "2026-02-06T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.8",
     "imdbId": "tt0325710",
-    "tmdbId": null,
+    "tmdbId": 616,
     "createdAt": "2026-02-07T02:32:35.080Z",
-    "updatedAt": "2026-02-07T23:47:50.960Z"
+    "updatedAt": "2026-04-03T13:24:42.039Z"
   },
   {
     "id": 255,
@@ -368,14 +368,14 @@
     "language": "English",
     "year": 2005,
     "genre": "Comedy, Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/32OxUzs9ETQ3QvLFFYaDuuAtq3Y.jpg",
     "viewingDate": "2025-11-11T00:00:00.000Z",
     "loved": true,
     "imdbRating": "6.2",
     "imdbId": "tt0448206",
-    "tmdbId": null,
+    "tmdbId": 11763,
     "createdAt": "2026-03-16T15:45:18.831Z",
-    "updatedAt": "2026-03-16T15:45:18.831Z"
+    "updatedAt": "2026-04-03T13:24:42.408Z"
   },
   {
     "id": 189,
@@ -386,14 +386,14 @@
     "language": "English",
     "year": 2009,
     "genre": "Biography, Drama, Sport",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg",
     "viewingDate": "2025-10-31T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.6",
     "imdbId": "tt0878804",
-    "tmdbId": null,
+    "tmdbId": 22881,
     "createdAt": "2026-02-18T20:38:26.642Z",
-    "updatedAt": "2026-02-18T20:38:26.642Z"
+    "updatedAt": "2026-04-03T13:24:42.585Z"
   },
   {
     "id": 212,
@@ -404,14 +404,14 @@
     "language": "English",
     "year": 2007,
     "genre": "Animation, Adventure, Comedy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
     "viewingDate": "2025-10-16T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt0382932",
-    "tmdbId": null,
+    "tmdbId": 2062,
     "createdAt": "2026-03-16T15:44:52.789Z",
-    "updatedAt": "2026-03-16T15:44:52.789Z"
+    "updatedAt": "2026-04-03T13:24:42.766Z"
   },
   {
     "id": 210,
@@ -422,14 +422,14 @@
     "language": "English",
     "year": 2019,
     "genre": "Drama, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
     "viewingDate": "2025-05-26T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.5",
     "imdbId": "tt6751668",
-    "tmdbId": null,
+    "tmdbId": 496243,
     "createdAt": "2026-03-16T15:44:51.841Z",
-    "updatedAt": "2026-03-16T15:44:51.841Z"
+    "updatedAt": "2026-04-03T13:24:42.954Z"
   },
   {
     "id": 231,
@@ -440,14 +440,14 @@
     "language": "English",
     "year": 2022,
     "genre": "Comedy, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
     "viewingDate": "2025-04-15T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.6",
     "imdbId": "tt11813216",
-    "tmdbId": null,
+    "tmdbId": 674324,
     "createdAt": "2026-03-16T15:45:01.965Z",
-    "updatedAt": "2026-03-16T15:45:01.965Z"
+    "updatedAt": "2026-04-03T13:24:43.134Z"
   },
   {
     "id": 173,
@@ -458,14 +458,14 @@
     "language": "English",
     "year": 2014,
     "genre": "Mystery, Sci-Fi, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ezUtb9m5DeLwL2gxi4gktzNCvQv.jpg",
     "viewingDate": "2025-04-04T16:50:23.287Z",
     "loved": true,
     "imdbRating": "7.2",
     "imdbId": "tt2866360",
-    "tmdbId": null,
+    "tmdbId": 220289,
     "createdAt": "2025-04-04T21:46:30.442Z",
-    "updatedAt": "2025-04-14T10:14:28.408Z"
+    "updatedAt": "2026-04-03T13:24:43.319Z"
   },
   {
     "id": 174,
@@ -476,14 +476,14 @@
     "language": "English",
     "year": 2012,
     "genre": "Horror, Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nzx10sca3arCeYBAomHan4Q6wa1.jpg",
     "viewingDate": "2025-04-04T16:35:29.719Z",
     "loved": true,
     "imdbRating": "6.8",
     "imdbId": "tt1922777",
-    "tmdbId": null,
+    "tmdbId": 82507,
     "createdAt": "2025-04-04T21:46:45.927Z",
-    "updatedAt": "2025-04-04T21:46:45.927Z"
+    "updatedAt": "2026-04-03T13:24:43.497Z"
   },
   {
     "id": 285,
@@ -494,14 +494,14 @@
     "language": "English",
     "year": 2013,
     "genre": "Comedy, Drama, Musical",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/em39H81XLCDgXsI7V4IcBZseEO6.jpg",
     "viewingDate": "2025-03-14T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.3",
     "imdbId": "tt2178470",
-    "tmdbId": null,
+    "tmdbId": 185008,
     "createdAt": "2026-03-16T15:45:22.168Z",
-    "updatedAt": "2026-03-16T15:45:22.168Z"
+    "updatedAt": "2026-04-03T13:24:43.672Z"
   },
   {
     "id": 170,
@@ -512,14 +512,14 @@
     "language": "English",
     "year": 2018,
     "genre": "Drama, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gCVOQzV7Z556WnJFNeX7y8BFhyW.jpg",
     "viewingDate": "2025-03-10T18:57:57.942Z",
     "loved": true,
     "imdbRating": "6.8",
     "imdbId": "tt6218358",
-    "tmdbId": null,
+    "tmdbId": 474051,
     "createdAt": "2025-03-11T22:38:10.631Z",
-    "updatedAt": "2025-03-11T22:38:10.631Z"
+    "updatedAt": "2026-04-03T13:24:43.854Z"
   },
   {
     "id": 171,
@@ -530,14 +530,14 @@
     "language": "English",
     "year": 2021,
     "genre": "Crime, Drama, Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zM12bfL2TEqVRXjiQIFUWUMLcCg.jpg",
     "viewingDate": "2025-03-09T01:45:52.225Z",
     "loved": true,
     "imdbRating": "6.8",
     "imdbId": "tt5144174",
-    "tmdbId": null,
+    "tmdbId": 567797,
     "createdAt": "2025-03-11T22:38:22.550Z",
-    "updatedAt": "2025-03-11T22:38:22.550Z"
+    "updatedAt": "2026-04-03T13:24:44.081Z"
   },
   {
     "id": 280,
@@ -548,14 +548,14 @@
     "language": "English",
     "year": 2013,
     "genre": "Biography, Drama, Sport",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bXywc0CEzS1fIshPWWi4V8A58U3.jpg",
     "viewingDate": "2025-02-25T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.2",
     "imdbId": "tt2356180",
-    "tmdbId": null,
+    "tmdbId": 206324,
     "createdAt": "2026-03-16T15:45:20.456Z",
-    "updatedAt": "2026-03-16T15:45:20.456Z"
+    "updatedAt": "2026-04-03T13:24:44.264Z"
   },
   {
     "id": 169,
@@ -566,14 +566,14 @@
     "language": "Hindi",
     "year": 2018,
     "genre": "Drama, Fantasy, Horror, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/z1xOCxw780WFJC5uCTMfCkQ4Agi.jpg",
     "viewingDate": "2025-02-23T09:44:08.689Z",
     "loved": true,
     "imdbRating": "8.2",
     "imdbId": "tt8239946",
-    "tmdbId": null,
+    "tmdbId": 538858,
     "createdAt": "2025-02-23T09:52:42.084Z",
-    "updatedAt": "2025-02-23T09:52:42.084Z"
+    "updatedAt": "2026-04-03T13:24:44.436Z"
   },
   {
     "id": 168,
@@ -584,14 +584,14 @@
     "language": "English",
     "year": 1999,
     "genre": "Comedy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg",
     "viewingDate": "2025-02-17T17:13:45.166Z",
     "loved": true,
     "imdbRating": "7.6",
     "imdbId": "tt0151804",
-    "tmdbId": null,
+    "tmdbId": 1542,
     "createdAt": "2025-02-18T21:20:53.648Z",
-    "updatedAt": "2025-02-18T21:20:53.648Z"
+    "updatedAt": "2026-04-03T13:24:44.614Z"
   },
   {
     "id": 177,
@@ -602,14 +602,14 @@
     "language": "English",
     "year": 2021,
     "genre": "Drama, Mystery",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
     "viewingDate": "2025-01-07T03:15:18.830Z",
     "loved": true,
     "imdbRating": "8.2",
     "imdbId": "tt10272386",
-    "tmdbId": null,
+    "tmdbId": 600354,
     "createdAt": "2025-04-13T16:58:44.735Z",
-    "updatedAt": "2025-04-13T16:58:44.735Z"
+    "updatedAt": "2026-04-03T13:24:44.795Z"
   },
   {
     "id": 172,
@@ -620,14 +620,14 @@
     "language": "English",
     "year": 2023,
     "genre": "Drama, Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",
     "viewingDate": "2024-12-09T19:35:13.070Z",
     "loved": true,
     "imdbRating": "6.4",
     "imdbId": "tt12747748",
-    "tmdbId": null,
+    "tmdbId": 726209,
     "createdAt": "2025-04-04T21:45:08.505Z",
-    "updatedAt": "2025-04-04T21:45:08.505Z"
+    "updatedAt": "2026-04-03T13:24:44.975Z"
   },
   {
     "id": 166,
@@ -638,14 +638,14 @@
     "language": "English",
     "year": 1973,
     "genre": "Horror",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
     "viewingDate": "2024-12-02T04:53:18.239Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt0070047",
-    "tmdbId": null,
+    "tmdbId": 9552,
     "createdAt": "2024-12-02T14:59:17.397Z",
-    "updatedAt": "2024-12-02T14:59:17.397Z"
+    "updatedAt": "2026-04-03T13:24:45.159Z"
   },
   {
     "id": 167,
@@ -656,14 +656,14 @@
     "language": "English",
     "year": 2010,
     "genre": "Drama, Fantasy, Horror, Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3b5gD5vNmf7Vafj2MN8uMA8r0qu.jpg",
     "viewingDate": "2024-12-01T05:36:19.791Z",
     "loved": true,
     "imdbRating": "7.1",
     "imdbId": "tt1228987",
-    "tmdbId": null,
+    "tmdbId": 41402,
     "createdAt": "2024-12-02T14:59:30.775Z",
-    "updatedAt": "2024-12-02T14:59:30.775Z"
+    "updatedAt": "2026-04-03T13:24:45.350Z"
   },
   {
     "id": 162,
@@ -674,14 +674,14 @@
     "language": "Hindi",
     "year": 2003,
     "genre": "Crime, Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vlxRMeakczNOsovgluMk6T65rcw.jpg",
     "viewingDate": "2024-11-18T16:14:41.743Z",
     "loved": true,
     "imdbRating": "7.0",
     "imdbId": "tt0384491",
-    "tmdbId": null,
+    "tmdbId": 150922,
     "createdAt": "2024-11-18T16:14:45.366Z",
-    "updatedAt": "2024-11-18T16:14:45.366Z"
+    "updatedAt": "2026-04-03T13:24:45.529Z"
   },
   {
     "id": 161,
@@ -692,14 +692,14 @@
     "language": "English",
     "year": 2018,
     "genre": "Horror, Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9022CYEGqYETCeXN1oE3uwYJWub.jpg",
     "viewingDate": "2024-11-16T18:11:57.665Z",
     "loved": true,
     "imdbRating": "6.3",
     "imdbId": "tt5638642",
-    "tmdbId": null,
+    "tmdbId": 433808,
     "createdAt": "2024-11-17T20:12:49.909Z",
-    "updatedAt": "2026-02-15T20:55:52.543Z"
+    "updatedAt": "2026-04-03T13:24:45.721Z"
   },
   {
     "id": 160,
@@ -710,14 +710,14 @@
     "language": "Hindi",
     "year": 2024,
     "genre": "Comedy, Horror",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3AfHD1HoaQpQwKH8kxRdBKVmzeU.jpg",
     "viewingDate": "2024-11-09T14:35:48.585Z",
     "loved": true,
     "imdbRating": "5.9",
     "imdbId": "tt26932223",
-    "tmdbId": null,
+    "tmdbId": 980599,
     "createdAt": "2024-11-09T22:35:36.938Z",
-    "updatedAt": "2024-11-09T22:35:36.938Z"
+    "updatedAt": "2026-04-03T13:24:45.903Z"
   },
   {
     "id": 151,
@@ -728,14 +728,14 @@
     "language": "English",
     "year": 2015,
     "genre": "Drama, Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kH3qLP8pn68Xq5XwvmPkCyaAU7W.jpg",
     "viewingDate": "2024-10-26T23:00:00.000Z",
     "loved": true,
     "imdbRating": "7.0",
     "imdbId": "tt4178092",
-    "tmdbId": null,
+    "tmdbId": 328425,
     "createdAt": "2024-10-28T23:22:47.455Z",
-    "updatedAt": "2024-10-28T23:22:47.455Z"
+    "updatedAt": "2026-04-03T13:24:46.079Z"
   },
   {
     "id": 152,
@@ -746,14 +746,14 @@
     "language": "English",
     "year": 2020,
     "genre": "Drama, Horror, Mystery, Sci-Fi, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
     "viewingDate": "2024-10-25T23:00:00.000Z",
     "loved": true,
     "imdbRating": "7.1",
     "imdbId": "tt1051906",
-    "tmdbId": null,
+    "tmdbId": 570670,
     "createdAt": "2024-10-28T23:43:30.397Z",
-    "updatedAt": "2024-10-28T23:43:30.397Z"
+    "updatedAt": "2026-04-03T13:24:46.251Z"
   },
   {
     "id": 244,
@@ -764,14 +764,14 @@
     "language": "English",
     "year": 2011,
     "genre": "Comedy, Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/p4RafgAPk558muOjnBMHhMArjS2.jpg",
     "viewingDate": "2024-10-25T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.4",
     "imdbId": "tt1570728",
-    "tmdbId": null,
+    "tmdbId": 50646,
     "createdAt": "2026-03-16T15:45:08.017Z",
-    "updatedAt": "2026-03-16T15:45:08.017Z"
+    "updatedAt": "2026-04-03T13:24:46.431Z"
   },
   {
     "id": 228,
@@ -782,14 +782,14 @@
     "language": "English",
     "year": 2007,
     "genre": "Comedy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
     "viewingDate": "2024-10-23T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.6",
     "imdbId": "tt0829482",
-    "tmdbId": null,
+    "tmdbId": 8363,
     "createdAt": "2026-03-16T15:45:00.504Z",
-    "updatedAt": "2026-03-16T15:45:00.504Z"
+    "updatedAt": "2026-04-03T13:24:46.616Z"
   },
   {
     "id": 150,
@@ -800,14 +800,14 @@
     "language": "English",
     "year": 1997,
     "genre": "Drama, Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
     "viewingDate": "2024-10-19T23:00:00.000Z",
     "loved": true,
     "imdbRating": "7.7",
     "imdbId": "tt0119174",
-    "tmdbId": null,
+    "tmdbId": 2649,
     "createdAt": "2024-10-21T22:24:25.330Z",
-    "updatedAt": "2024-10-21T22:24:25.330Z"
+    "updatedAt": "2026-04-03T13:24:46.808Z"
   },
   {
     "id": 147,
@@ -818,14 +818,14 @@
     "language": "English",
     "year": 2022,
     "genre": "Horror, Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
     "viewingDate": "2024-10-17T23:00:00.000Z",
     "loved": true,
     "imdbRating": "7.0",
     "imdbId": "tt15791034",
-    "tmdbId": null,
+    "tmdbId": 913290,
     "createdAt": "2024-10-19T11:09:40.297Z",
-    "updatedAt": "2024-10-19T11:09:40.297Z"
+    "updatedAt": "2026-04-03T13:24:46.993Z"
   },
   {
     "id": 148,
@@ -836,14 +836,14 @@
     "language": "English",
     "year": 2024,
     "genre": "Action, Adventure, Comedy, Sci-Fi",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
     "viewingDate": "2024-10-05T23:00:00.000Z",
     "loved": true,
     "imdbRating": "7.8",
     "imdbId": "tt6263850",
-    "tmdbId": null,
+    "tmdbId": 533535,
     "createdAt": "2024-10-19T11:12:30.346Z",
-    "updatedAt": "2024-10-19T11:12:30.346Z"
+    "updatedAt": "2026-04-03T13:24:47.170Z"
   },
   {
     "id": 263,
@@ -854,14 +854,14 @@
     "language": "English",
     "year": 1987,
     "genre": "Action, Comedy, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nqDJ8vuVFYymUhOUKcGCZoHy4tu.jpg",
     "viewingDate": "2024-10-04T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.7",
     "imdbId": "tt0093578",
-    "tmdbId": null,
+    "tmdbId": 41903,
     "createdAt": "2026-03-16T15:45:14.597Z",
-    "updatedAt": "2026-03-16T15:45:14.597Z"
+    "updatedAt": "2026-04-03T13:24:47.349Z"
   },
   {
     "id": 143,
@@ -872,14 +872,14 @@
     "language": "English",
     "year": 2017,
     "genre": "Drama, Horror, Mystery",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
     "viewingDate": "2024-09-08T00:00:00.000Z",
     "loved": true,
     "imdbRating": "6.6",
     "imdbId": "tt5109784",
-    "tmdbId": null,
+    "tmdbId": 381283,
     "createdAt": "2024-09-09T13:33:44.651Z",
-    "updatedAt": "2024-09-09T13:33:44.651Z"
+    "updatedAt": "2026-04-03T13:24:47.526Z"
   },
   {
     "id": 144,
@@ -890,14 +890,14 @@
     "language": "Korean",
     "year": 2008,
     "genre": "Action, Crime, Drama, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hy49xJiKN1nakkN1ZmKuOf6vQYR.jpg",
     "viewingDate": "2024-09-07T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.8",
     "imdbId": "tt1190539",
-    "tmdbId": null,
+    "tmdbId": 13855,
     "createdAt": "2024-09-09T13:34:03.116Z",
-    "updatedAt": "2024-09-09T13:34:03.116Z"
+    "updatedAt": "2026-04-03T13:24:47.697Z"
   },
   {
     "id": 124,
@@ -908,14 +908,14 @@
     "language": "English",
     "year": 2005,
     "genre": "Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/j33szyBdJjrmnItyUgPBsqaBECE.jpg",
     "viewingDate": "2024-08-26T00:20:23.944Z",
     "loved": true,
     "imdbRating": "6.5",
     "imdbId": "tt0421239",
-    "tmdbId": null,
+    "tmdbId": 11460,
     "createdAt": "2024-08-26T00:20:24.537Z",
-    "updatedAt": "2024-08-26T00:20:24.537Z"
+    "updatedAt": "2026-04-03T13:24:47.883Z"
   },
   {
     "id": 140,
@@ -926,14 +926,14 @@
     "language": "English",
     "year": 2008,
     "genre": "Biography, Crime, Drama, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/84HdTM39G2MzyTl8N9R0wVU9I5b.jpg",
     "viewingDate": "2024-08-25T23:00:00.000Z",
     "loved": true,
     "imdbRating": "7.5",
     "imdbId": "tt0986233",
-    "tmdbId": null,
+    "tmdbId": 10360,
     "createdAt": "2024-08-31T01:15:04.272Z",
-    "updatedAt": "2024-08-31T01:15:04.272Z"
+    "updatedAt": "2026-04-03T13:24:48.064Z"
   },
   {
     "id": 119,
@@ -944,14 +944,14 @@
     "language": "English",
     "year": 2024,
     "genre": "Horror, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3Z9c1tbUhP0QruRjczPHnbx3U2D.jpg",
     "viewingDate": "2024-08-23T23:00:00.000Z",
     "loved": true,
     "imdbRating": "7.5",
     "imdbId": "tt26470109",
-    "tmdbId": null,
+    "tmdbId": 1216191,
     "createdAt": "2024-08-25T09:58:01.078Z",
-    "updatedAt": "2024-08-25T09:58:01.078Z"
+    "updatedAt": "2026-04-03T13:24:48.244Z"
   },
   {
     "id": 139,
@@ -962,14 +962,14 @@
     "language": "English",
     "year": 2000,
     "genre": "Crime, Drama, Horror",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
     "viewingDate": "2024-08-16T23:00:00.000Z",
     "loved": true,
     "imdbRating": "7.6",
     "imdbId": "tt0144084",
-    "tmdbId": null,
+    "tmdbId": 1359,
     "createdAt": "2024-08-31T01:14:21.880Z",
-    "updatedAt": "2024-08-31T01:14:21.880Z"
+    "updatedAt": "2026-04-03T13:24:48.422Z"
   },
   {
     "id": 158,
@@ -980,14 +980,14 @@
     "language": "Hindi",
     "year": 2024,
     "genre": "Comedy, Horror",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2NC7sj8rheKxWqLYAbHnCa4mYBH.jpg",
     "viewingDate": "2024-08-16T15:17:27.832Z",
     "loved": true,
     "imdbRating": "7.1",
     "imdbId": "tt27510174",
-    "tmdbId": null,
+    "tmdbId": 1112426,
     "createdAt": "2024-11-06T23:52:50.518Z",
-    "updatedAt": "2024-11-06T23:52:50.518Z"
+    "updatedAt": "2026-04-03T13:24:48.602Z"
   },
   {
     "id": 259,
@@ -998,14 +998,14 @@
     "language": "English",
     "year": 2001,
     "genre": "Drama, Musical, Sport",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yNX9lFRAFeNLNRIXdqZK9gYrYKa.jpg",
     "viewingDate": "2024-08-09T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt0169102",
-    "tmdbId": null,
+    "tmdbId": 19666,
     "createdAt": "2026-03-16T15:45:13.184Z",
-    "updatedAt": "2026-03-16T15:45:13.184Z"
+    "updatedAt": "2026-04-03T13:24:48.784Z"
   },
   {
     "id": 271,
@@ -1016,14 +1016,14 @@
     "language": "English",
     "year": 1989,
     "genre": "Drama, Musical, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aqZ9CEbXVLrEVAZFpT2F7PAE7dV.jpg",
     "viewingDate": "2024-06-27T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.3",
     "imdbId": "tt0100095",
-    "tmdbId": null,
+    "tmdbId": 27624,
     "createdAt": "2026-03-16T15:45:17.383Z",
-    "updatedAt": "2026-03-16T15:45:17.383Z"
+    "updatedAt": "2026-04-03T13:24:48.968Z"
   },
   {
     "id": 240,
@@ -1034,14 +1034,14 @@
     "language": "English",
     "year": 2005,
     "genre": "Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
     "viewingDate": "2024-06-22T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.7",
     "imdbId": "tt0388795",
-    "tmdbId": null,
+    "tmdbId": 142,
     "createdAt": "2026-03-16T15:45:06.375Z",
-    "updatedAt": "2026-03-16T15:45:06.375Z"
+    "updatedAt": "2026-04-03T13:24:49.149Z"
   },
   {
     "id": 243,
@@ -1052,14 +1052,14 @@
     "language": "English",
     "year": 2022,
     "genre": "Action, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
     "viewingDate": "2024-05-09T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.2",
     "imdbId": "tt1745960",
-    "tmdbId": null,
+    "tmdbId": 361743,
     "createdAt": "2026-03-16T15:45:07.565Z",
-    "updatedAt": "2026-03-16T15:45:07.565Z"
+    "updatedAt": "2026-04-03T13:24:49.502Z"
   },
   {
     "id": 123,
@@ -1070,14 +1070,14 @@
     "language": "English",
     "year": 2023,
     "genre": "Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
     "viewingDate": "2024-04-03T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.8",
     "imdbId": "tt13238346",
-    "tmdbId": null,
+    "tmdbId": 666277,
     "createdAt": "2024-08-26T00:16:03.643Z",
-    "updatedAt": "2024-08-26T00:16:03.643Z"
+    "updatedAt": "2026-04-03T13:24:49.677Z"
   },
   {
     "id": 272,
@@ -1088,14 +1088,14 @@
     "language": "English",
     "year": 2004,
     "genre": "Action, Comedy, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iiZ8BgmAsxKUEyO6ux8z6GHiE6j.jpg",
     "viewingDate": "2024-03-25T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.1",
     "imdbId": "tt0347473",
-    "tmdbId": null,
+    "tmdbId": 14134,
     "createdAt": "2026-03-16T15:45:17.763Z",
-    "updatedAt": "2026-03-16T15:45:17.763Z"
+    "updatedAt": "2026-04-03T13:24:49.860Z"
   },
   {
     "id": 159,
@@ -1106,14 +1106,14 @@
     "language": "English",
     "year": 2023,
     "genre": "Biography, Drama, History",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
     "viewingDate": "2024-03-11T04:36:17.301Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt15398776",
-    "tmdbId": null,
+    "tmdbId": 872585,
     "createdAt": "2024-11-06T23:54:03.121Z",
-    "updatedAt": "2024-11-06T23:54:03.121Z"
+    "updatedAt": "2026-04-03T13:24:50.036Z"
   },
   {
     "id": 146,
@@ -1124,14 +1124,14 @@
     "language": "Hindi",
     "year": 2023,
     "genre": "Action, Crime, Drama, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg",
     "viewingDate": "2024-02-22T01:12:18.000Z",
     "loved": true,
     "imdbRating": "6.1",
     "imdbId": "tt13751694",
-    "tmdbId": null,
+    "tmdbId": 781732,
     "createdAt": "2024-10-18T00:15:19.998Z",
-    "updatedAt": "2024-10-19T11:11:57.274Z"
+    "updatedAt": "2026-04-03T13:24:50.284Z"
   },
   {
     "id": 269,
@@ -1142,14 +1142,14 @@
     "language": "English",
     "year": 2008,
     "genre": "Action, Drama, History",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gPjgeywFNTlh9IUuXWy85nn4h8J.jpg",
     "viewingDate": "2024-01-30T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.5",
     "imdbId": "tt0449994",
-    "tmdbId": null,
+    "tmdbId": 14073,
     "createdAt": "2026-03-16T15:45:16.715Z",
-    "updatedAt": "2026-03-16T15:45:16.715Z"
+    "updatedAt": "2026-04-03T13:24:50.475Z"
   },
   {
     "id": 153,
@@ -1160,14 +1160,14 @@
     "language": "Hindi",
     "year": 2023,
     "genre": "Comedy, Crime, Drama, Mystery",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yzVMUMN3tkLXdGbLHbOJ6sfXYI.jpg",
     "viewingDate": "2023-11-28T00:00:00.000Z",
     "loved": true,
     "imdbRating": "6.7",
     "imdbId": "tt18413766",
-    "tmdbId": null,
+    "tmdbId": 946025,
     "createdAt": "2024-10-28T23:52:53.364Z",
-    "updatedAt": "2024-10-28T23:52:53.364Z"
+    "updatedAt": "2026-04-03T13:24:50.658Z"
   },
   {
     "id": 224,
@@ -1178,14 +1178,14 @@
     "language": "English",
     "year": 2014,
     "genre": "Biography, Drama, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
     "viewingDate": "2023-02-28T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.0",
     "imdbId": "tt2084970",
-    "tmdbId": null,
+    "tmdbId": 205596,
     "createdAt": "2026-03-16T15:44:58.810Z",
-    "updatedAt": "2026-03-16T15:44:58.810Z"
+    "updatedAt": "2026-04-03T13:24:50.834Z"
   },
   {
     "id": 250,
@@ -1196,14 +1196,14 @@
     "language": "English",
     "year": 2019,
     "genre": "Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
     "viewingDate": "2023-01-23T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.9",
     "imdbId": "tt7653254",
-    "tmdbId": null,
+    "tmdbId": 492188,
     "createdAt": "2026-03-16T15:45:10.262Z",
-    "updatedAt": "2026-03-16T15:45:10.262Z"
+    "updatedAt": "2026-04-03T13:24:51.026Z"
   },
   {
     "id": 206,
@@ -1214,14 +1214,14 @@
     "language": "English",
     "year": 2001,
     "genre": "Animation, Adventure, Comedy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
     "viewingDate": "2022-12-07T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.9",
     "imdbId": "tt0126029",
-    "tmdbId": null,
+    "tmdbId": 808,
     "createdAt": "2026-03-16T15:44:50.435Z",
-    "updatedAt": "2026-03-16T15:44:50.435Z"
+    "updatedAt": "2026-04-03T13:24:51.274Z"
   },
   {
     "id": 230,
@@ -1232,14 +1232,14 @@
     "language": "English",
     "year": 2006,
     "genre": "Action, Adventure, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
     "viewingDate": "2022-10-26T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.0",
     "imdbId": "tt0381061",
-    "tmdbId": null,
+    "tmdbId": 36557,
     "createdAt": "2026-03-16T15:45:01.198Z",
-    "updatedAt": "2026-03-16T15:45:01.198Z"
+    "updatedAt": "2026-04-03T13:24:51.555Z"
   },
   {
     "id": 276,
@@ -1250,14 +1250,14 @@
     "language": "English",
     "year": 2002,
     "genre": "Drama, Musical, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dUBFi7bnLRfm4WaTh4ZoF2tbBJj.jpg",
     "viewingDate": "2022-10-05T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.5",
     "imdbId": "tt0238936",
-    "tmdbId": null,
+    "tmdbId": 15917,
     "createdAt": "2026-03-16T15:45:19.161Z",
-    "updatedAt": "2026-03-16T15:45:19.161Z"
+    "updatedAt": "2026-04-03T13:24:51.856Z"
   },
   {
     "id": 254,
@@ -1268,14 +1268,14 @@
     "language": "English",
     "year": 2009,
     "genre": "Comedy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
     "viewingDate": "2022-09-24T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.7",
     "imdbId": "tt1119646",
-    "tmdbId": null,
+    "tmdbId": 18785,
     "createdAt": "2026-03-16T15:45:11.552Z",
-    "updatedAt": "2026-03-16T15:45:11.552Z"
+    "updatedAt": "2026-04-03T13:24:52.215Z"
   },
   {
     "id": 265,
@@ -1286,14 +1286,14 @@
     "language": "English",
     "year": 2007,
     "genre": "Comedy, Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iqiH6vnoEgjAypKsuIScN7JlE2j.jpg",
     "viewingDate": "2022-08-01T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.9",
     "imdbId": "tt1093370",
-    "tmdbId": null,
+    "tmdbId": 11807,
     "createdAt": "2026-03-16T15:45:15.304Z",
-    "updatedAt": "2026-03-16T15:45:15.304Z"
+    "updatedAt": "2026-04-03T13:24:52.563Z"
   },
   {
     "id": 242,
@@ -1304,14 +1304,14 @@
     "language": "English",
     "year": 1999,
     "genre": "Comedy, Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",
     "viewingDate": "2022-07-17T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.2",
     "imdbId": "tt0125439",
-    "tmdbId": null,
+    "tmdbId": 509,
     "createdAt": "2026-03-16T15:45:07.247Z",
-    "updatedAt": "2026-03-16T15:45:07.247Z"
+    "updatedAt": "2026-04-03T13:24:52.921Z"
   },
   {
     "id": 156,
@@ -1322,14 +1322,14 @@
     "language": "Hindi",
     "year": 2022,
     "genre": "Comedy, Horror",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fw0oMHiMt9qOuKEJEmzFiCNAnXc.jpg",
     "viewingDate": "2022-06-07T23:00:00.000Z",
     "loved": true,
     "imdbRating": "5.7",
     "imdbId": "tt6455162",
-    "tmdbId": null,
+    "tmdbId": 695962,
     "createdAt": "2024-11-06T23:33:09.217Z",
-    "updatedAt": "2024-11-06T23:33:09.217Z"
+    "updatedAt": "2026-04-03T13:24:53.278Z"
   },
   {
     "id": 281,
@@ -1340,14 +1340,14 @@
     "language": "English",
     "year": 2000,
     "genre": "Action, Comedy, Crime",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/23MKGUPT5laTStim4TaGhfgSltu.jpg",
     "viewingDate": "2022-04-22T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.2",
     "imdbId": "tt0242519",
-    "tmdbId": null,
+    "tmdbId": 21614,
     "createdAt": "2026-03-16T15:45:20.806Z",
-    "updatedAt": "2026-03-16T15:45:20.806Z"
+    "updatedAt": "2026-04-03T13:24:53.657Z"
   },
   {
     "id": 236,
@@ -1358,14 +1358,14 @@
     "language": "English",
     "year": 2012,
     "genre": "Adventure, Drama, Fantasy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iLgRu4hhSr6V1uManX6ukDriiSc.jpg",
     "viewingDate": "2022-03-11T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.9",
     "imdbId": "tt0454876",
-    "tmdbId": null,
+    "tmdbId": 87827,
     "createdAt": "2026-03-16T15:45:04.599Z",
-    "updatedAt": "2026-03-16T15:45:04.599Z"
+    "updatedAt": "2026-04-03T13:24:53.865Z"
   },
   {
     "id": 235,
@@ -1376,14 +1376,14 @@
     "language": "English",
     "year": 2016,
     "genre": "Drama, Romance, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dLlH4aNHdnmf62umnInL8xPlPzw.jpg",
     "viewingDate": "2022-03-01T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt4016934",
-    "tmdbId": null,
+    "tmdbId": 290098,
     "createdAt": "2026-03-16T15:45:04.145Z",
-    "updatedAt": "2026-03-16T15:45:04.145Z"
+    "updatedAt": "2026-04-03T13:24:54.079Z"
   },
   {
     "id": 118,
@@ -1394,14 +1394,14 @@
     "language": "English",
     "year": 2000,
     "genre": "Comedy, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5tXJ9ctuyEOMUFLaeqRisbXowWs.jpg",
     "viewingDate": "2022-02-03T04:12:45.989Z",
     "loved": true,
     "imdbRating": "7.0",
     "imdbId": "tt0212338",
-    "tmdbId": null,
+    "tmdbId": 1597,
     "createdAt": "2022-02-03T04:12:48.373Z",
-    "updatedAt": "2022-02-03T04:12:48.373Z"
+    "updatedAt": "2026-04-03T13:24:54.261Z"
   },
   {
     "id": 232,
@@ -1412,14 +1412,14 @@
     "language": "English",
     "year": 2014,
     "genre": "Drama, Sci-Fi, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
     "viewingDate": "2022-01-31T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.7",
     "imdbId": "tt0470752",
-    "tmdbId": null,
+    "tmdbId": 264660,
     "createdAt": "2026-03-16T15:45:02.882Z",
-    "updatedAt": "2026-03-16T15:45:02.882Z"
+    "updatedAt": "2026-04-03T13:24:54.443Z"
   },
   {
     "id": 117,
@@ -1430,14 +1430,14 @@
     "language": "English",
     "year": 2021,
     "genre": "Action, Drama, Horror",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aOu6PJVO9RyGAzdUwG6fupu0gpz.jpg",
     "viewingDate": "2022-01-24T00:51:05.628Z",
     "loved": true,
     "imdbRating": "6.1",
     "imdbId": "tt6246322",
-    "tmdbId": null,
+    "tmdbId": 482373,
     "createdAt": "2022-01-24T00:51:06.215Z",
-    "updatedAt": "2022-01-24T00:51:06.215Z"
+    "updatedAt": "2026-04-03T13:24:54.621Z"
   },
   {
     "id": 116,
@@ -1448,14 +1448,14 @@
     "language": "English",
     "year": 2016,
     "genre": "Crime, Horror, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dSxHyPZ2nipSfvdft4IhQKjk5eZ.jpg",
     "viewingDate": "2022-01-24T00:50:30.221Z",
     "loved": true,
     "imdbRating": "7.1",
     "imdbId": "tt4160708",
-    "tmdbId": null,
+    "tmdbId": 300669,
     "createdAt": "2022-01-24T00:50:32.458Z",
-    "updatedAt": "2022-01-24T00:50:32.458Z"
+    "updatedAt": "2026-04-03T13:24:54.799Z"
   },
   {
     "id": 115,
@@ -1466,14 +1466,14 @@
     "language": "English",
     "year": 1997,
     "genre": "Drama, Mystery, Sci-Fi",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg",
     "viewingDate": "2022-01-19T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.5",
     "imdbId": "tt0118884",
-    "tmdbId": null,
+    "tmdbId": 686,
     "createdAt": "2022-01-20T01:13:34.303Z",
-    "updatedAt": "2022-01-20T01:13:34.303Z"
+    "updatedAt": "2026-04-03T13:24:54.981Z"
   },
   {
     "id": 114,
@@ -1484,14 +1484,14 @@
     "language": "English",
     "year": 2008,
     "genre": "Comedy, Crime, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg",
     "viewingDate": "2022-01-18T06:40:58.751Z",
     "loved": false,
     "imdbRating": "7.9",
     "imdbId": "tt0780536",
-    "tmdbId": null,
+    "tmdbId": 8321,
     "createdAt": "2022-01-18T06:41:00.392Z",
-    "updatedAt": "2022-01-18T06:41:00.392Z"
+    "updatedAt": "2026-04-03T13:24:55.165Z"
   },
   {
     "id": 113,
@@ -1502,14 +1502,14 @@
     "language": "English",
     "year": 2021,
     "genre": "Action, Adventure, Fantasy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
     "viewingDate": "2022-01-17T23:45:19.922Z",
     "loved": false,
     "imdbRating": "6.7",
     "imdbId": "tt9032400",
-    "tmdbId": null,
+    "tmdbId": 524434,
     "createdAt": "2022-01-17T23:45:20.500Z",
-    "updatedAt": "2022-01-17T23:45:20.500Z"
+    "updatedAt": "2026-04-03T13:24:55.413Z"
   },
   {
     "id": 100,
@@ -1520,14 +1520,14 @@
     "language": "English",
     "year": 1997,
     "genre": "Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
     "viewingDate": "2021-12-14T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.8",
     "imdbId": "tt0120338",
-    "tmdbId": null,
+    "tmdbId": 597,
     "createdAt": "2021-12-15T22:46:27.512Z",
-    "updatedAt": "2021-12-15T22:46:27.512Z"
+    "updatedAt": "2026-04-03T13:24:55.589Z"
   },
   {
     "id": 239,
@@ -1538,14 +1538,14 @@
     "language": "English",
     "year": 2014,
     "genre": "Crime, Drama, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
     "viewingDate": "2021-05-12T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.8",
     "imdbId": "tt2872718",
-    "tmdbId": null,
+    "tmdbId": 242582,
     "createdAt": "2026-03-16T15:45:05.552Z",
-    "updatedAt": "2026-03-16T15:45:05.552Z"
+    "updatedAt": "2026-04-03T13:24:55.769Z"
   },
   {
     "id": 252,
@@ -1556,14 +1556,14 @@
     "language": "English",
     "year": 2013,
     "genre": "Drama, Romance, Sci-Fi",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
     "viewingDate": "2021-03-28T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.0",
     "imdbId": "tt1798709",
-    "tmdbId": null,
+    "tmdbId": 152601,
     "createdAt": "2026-03-16T15:45:10.916Z",
-    "updatedAt": "2026-03-16T15:45:10.916Z"
+    "updatedAt": "2026-04-03T13:24:55.953Z"
   },
   {
     "id": 282,
@@ -1574,14 +1574,14 @@
     "language": "English",
     "year": 2004,
     "genre": "Drama, Musical",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yUSL24kpHc9Nls4Pohia4shgcIM.jpg",
     "viewingDate": "2021-03-03T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.2",
     "imdbId": "tt0367110",
-    "tmdbId": null,
+    "tmdbId": 15774,
     "createdAt": "2026-03-16T15:45:21.157Z",
-    "updatedAt": "2026-03-16T15:45:21.157Z"
+    "updatedAt": "2026-04-03T13:24:56.135Z"
   },
   {
     "id": 279,
@@ -1592,14 +1592,14 @@
     "language": "English",
     "year": 2010,
     "genre": "Action, Comedy, Crime",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bi2J6IrRK7oFK63EMbzORIos8KP.jpg",
     "viewingDate": "2021-01-20T00:00:00.000Z",
     "loved": true,
     "imdbRating": "6.3",
     "imdbId": "tt1620719",
-    "tmdbId": null,
+    "tmdbId": 44425,
     "createdAt": "2026-03-16T15:45:20.140Z",
-    "updatedAt": "2026-03-16T15:45:20.140Z"
+    "updatedAt": "2026-04-03T13:24:56.313Z"
   },
   {
     "id": 248,
@@ -1610,14 +1610,14 @@
     "language": "English",
     "year": 2019,
     "genre": "Comedy, Crime, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
     "viewingDate": "2020-10-23T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.9",
     "imdbId": "tt8946378",
-    "tmdbId": null,
+    "tmdbId": 546554,
     "createdAt": "2026-03-16T15:45:09.487Z",
-    "updatedAt": "2026-03-16T15:45:09.487Z"
+    "updatedAt": "2026-04-03T13:24:56.581Z"
   },
   {
     "id": 241,
@@ -1628,14 +1628,14 @@
     "language": "English",
     "year": 1996,
     "genre": "Crime, Drama, Mystery",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
     "viewingDate": "2020-01-20T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.7",
     "imdbId": "tt0117381",
-    "tmdbId": null,
+    "tmdbId": 1592,
     "createdAt": "2026-03-16T15:45:06.901Z",
-    "updatedAt": "2026-03-16T15:45:06.901Z"
+    "updatedAt": "2026-04-03T13:24:56.759Z"
   },
   {
     "id": 283,
@@ -1646,14 +1646,14 @@
     "language": "English",
     "year": 2006,
     "genre": "Comedy, Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lgSn1tXDstMXSHJYkSibKkHqW8y.jpg",
     "viewingDate": "2020-01-15T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.0",
     "imdbId": "tt0456144",
-    "tmdbId": null,
+    "tmdbId": 21461,
     "createdAt": "2026-03-16T15:45:21.503Z",
-    "updatedAt": "2026-03-16T15:45:21.503Z"
+    "updatedAt": "2026-04-03T13:24:56.958Z"
   },
   {
     "id": 229,
@@ -1664,14 +1664,14 @@
     "language": "English",
     "year": 2008,
     "genre": "Comedy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nvggBbEraUTAVR6ffP3AaBUWSHs.jpg",
     "viewingDate": "2019-11-28T00:00:00.000Z",
     "loved": true,
     "imdbRating": "6.9",
     "imdbId": "tt0838283",
-    "tmdbId": null,
+    "tmdbId": 12133,
     "createdAt": "2026-03-16T15:45:00.861Z",
-    "updatedAt": "2026-03-16T15:45:00.861Z"
+    "updatedAt": "2026-04-03T13:24:57.144Z"
   },
   {
     "id": 16,
@@ -1682,14 +1682,14 @@
     "language": "English",
     "year": 2019,
     "genre": "Action, Adventure, Sci-Fi",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg",
     "viewingDate": "2019-11-01T00:00:00.000Z",
     "loved": true,
     "imdbRating": "6.6",
     "imdbId": "tt6450804",
-    "tmdbId": null,
+    "tmdbId": 290859,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:24:57.330Z"
   },
   {
     "id": 17,
@@ -1700,14 +1700,14 @@
     "language": "English",
     "year": 2007,
     "genre": "Crime, Drama, Mystery",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
     "viewingDate": "2019-10-27T01:00:00.000Z",
     "loved": true,
     "imdbRating": "7.7",
     "imdbId": "tt0443706",
-    "tmdbId": null,
+    "tmdbId": 1949,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:24:57.506Z"
   },
   {
     "id": 273,
@@ -1718,14 +1718,14 @@
     "language": "English",
     "year": 2013,
     "genre": "Adventure, Comedy, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vKLp0X2RQOuA31R3AdaYtDdKIPK.jpg",
     "viewingDate": "2019-10-12T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt3322420",
-    "tmdbId": null,
+    "tmdbId": 247645,
     "createdAt": "2026-03-16T15:45:18.132Z",
-    "updatedAt": "2026-03-16T15:45:18.132Z"
+    "updatedAt": "2026-04-03T13:24:57.689Z"
   },
   {
     "id": 18,
@@ -1736,14 +1736,14 @@
     "language": "English",
     "year": 2010,
     "genre": "Adventure, Comedy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sBxWS09pOOyXZ0dcnqfqqCAQGan.jpg",
     "viewingDate": "2019-04-10T01:00:00.000Z",
     "loved": true,
     "imdbRating": "6.5",
     "imdbId": "tt1231583",
-    "tmdbId": null,
+    "tmdbId": 41733,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:24:57.870Z"
   },
   {
     "id": 19,
@@ -1754,14 +1754,14 @@
     "language": "English",
     "year": 1990,
     "genre": "Comedy, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hVHUfT801LQATGd26VPzhorIYza.jpg",
     "viewingDate": "2019-04-08T01:00:00.000Z",
     "loved": true,
     "imdbRating": "7.0",
     "imdbId": "tt0100405",
-    "tmdbId": null,
+    "tmdbId": 114,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:24:58.054Z"
   },
   {
     "id": 20,
@@ -1772,14 +1772,14 @@
     "language": "English",
     "year": 2011,
     "genre": "Comedy, Fantasy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iV6ARQZyGpjygtzFMdWH9U1Lj9x.jpg",
     "viewingDate": "2019-04-06T01:00:00.000Z",
     "loved": false,
     "imdbRating": "6.3",
     "imdbId": "tt1488555",
-    "tmdbId": null,
+    "tmdbId": 49520,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:24:58.243Z"
   },
   {
     "id": 21,
@@ -1790,14 +1790,14 @@
     "language": "English",
     "year": 2007,
     "genre": "Comedy, Drama, Romance ",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/b4OaXw2MW97VvIiZE0Sbn1NfxSh.jpg",
     "viewingDate": "2019-04-03T01:00:00.000Z",
     "loved": false,
     "imdbRating": "7.0",
     "imdbId": "tt0478311",
-    "tmdbId": null,
+    "tmdbId": 4964,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:24:58.424Z"
   },
   {
     "id": 22,
@@ -1808,14 +1808,14 @@
     "language": "English",
     "year": 2009,
     "genre": "Animation, Adventure, Comedy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
     "viewingDate": "2019-04-01T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt1049413",
-    "tmdbId": null,
+    "tmdbId": 14160,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:24:58.608Z"
   },
   {
     "id": 23,
@@ -1826,14 +1826,14 @@
     "language": "English",
     "year": 2019,
     "genre": "Horror, Thriller ",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
     "viewingDate": "2019-03-28T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.5",
     "imdbId": "tt6857112",
-    "tmdbId": null,
+    "tmdbId": 458723,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:24:58.786Z"
   },
   {
     "id": 24,
@@ -1844,14 +1844,14 @@
     "language": "English",
     "year": 2019,
     "genre": "Action, Adventure, Sci-Fi",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
     "viewingDate": "2019-03-08T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.2",
     "imdbId": "tt4154664",
-    "tmdbId": null,
+    "tmdbId": 299537,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:24:58.965Z"
   },
   {
     "id": 247,
@@ -1862,14 +1862,14 @@
     "language": "English",
     "year": 2017,
     "genre": "Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
     "viewingDate": "2019-02-14T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.8",
     "imdbId": "tt5726616",
-    "tmdbId": null,
+    "tmdbId": 398818,
     "createdAt": "2026-03-16T15:45:09.040Z",
-    "updatedAt": "2026-03-16T15:45:09.040Z"
+    "updatedAt": "2026-04-03T13:24:59.154Z"
   },
   {
     "id": 25,
@@ -1880,14 +1880,14 @@
     "language": "English",
     "year": 2014,
     "genre": "Comedy, Drama, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bU7IUeTdYFOgeUPtwpWKQNhORMC.jpg",
     "viewingDate": "2018-09-26T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt3011894",
-    "tmdbId": null,
+    "tmdbId": 265195,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:24:59.330Z"
   },
   {
     "id": 26,
@@ -1898,14 +1898,14 @@
     "language": "English",
     "year": 2015,
     "genre": "Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cJeled7EyPdur6TnCA5GYg0UVna.jpg",
     "viewingDate": "2018-09-24T01:00:00.000Z",
     "loved": true,
     "imdbRating": "7.2",
     "imdbId": "tt2402927",
-    "tmdbId": null,
+    "tmdbId": 258480,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:24:59.501Z"
   },
   {
     "id": 27,
@@ -1916,14 +1916,14 @@
     "language": "English",
     "year": 1993,
     "genre": "Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8FxWgsfDNosewo7H65oE4QkOb7g.jpg",
     "viewingDate": "2018-09-22T01:00:00.000Z",
     "loved": true,
     "imdbRating": "7.8",
     "imdbId": "tt0108550",
-    "tmdbId": null,
+    "tmdbId": 1587,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:24:59.688Z"
   },
   {
     "id": 28,
@@ -1934,14 +1934,14 @@
     "language": "English",
     "year": 2018,
     "genre": "Horror, Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
     "viewingDate": "2018-09-15T01:00:00.000Z",
     "loved": true,
     "imdbRating": "5.4",
     "imdbId": "tt5814060",
-    "tmdbId": null,
+    "tmdbId": 439079,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:24:59.866Z"
   },
   {
     "id": 29,
@@ -1952,14 +1952,14 @@
     "language": "English",
     "year": 2018,
     "genre": "Comedy, Horror",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2xLDWr72Wxc1JGmbxza2V8g26YH.jpg",
     "viewingDate": "2018-09-08T01:00:00.000Z",
     "loved": true,
     "imdbRating": "7.8",
     "imdbId": "tt8108202",
-    "tmdbId": null,
+    "tmdbId": 533991,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:00.050Z"
   },
   {
     "id": 225,
@@ -1970,14 +1970,14 @@
     "language": "English",
     "year": 2003,
     "genre": "Crime, Drama, Mystery",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dsEoTJKM1s5OVDkS2P2JdoTxo4K.jpg",
     "viewingDate": "2018-07-07T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt0353969",
-    "tmdbId": null,
+    "tmdbId": 11423,
     "createdAt": "2026-03-16T15:44:59.224Z",
-    "updatedAt": "2026-03-16T15:44:59.224Z"
+    "updatedAt": "2026-04-03T13:25:00.229Z"
   },
   {
     "id": 215,
@@ -1988,14 +1988,14 @@
     "language": "English",
     "year": 2000,
     "genre": "Adventure, Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg",
     "viewingDate": "2018-06-09T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.8",
     "imdbId": "tt0162222",
-    "tmdbId": null,
+    "tmdbId": 8358,
     "createdAt": "2026-03-16T15:44:54.518Z",
-    "updatedAt": "2026-03-16T15:44:54.518Z"
+    "updatedAt": "2026-04-03T13:25:00.453Z"
   },
   {
     "id": 30,
@@ -2006,14 +2006,14 @@
     "language": "English",
     "year": 2018,
     "genre": "Action, Adventure, Sci-Fi",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
     "viewingDate": "2018-04-27T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.5",
     "imdbId": "tt4154756",
-    "tmdbId": null,
+    "tmdbId": 299536,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:00.664Z"
   },
   {
     "id": 267,
@@ -2024,32 +2024,14 @@
     "language": "English",
     "year": 2007,
     "genre": "Drama, Family, Sport",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mmFMgEsTRCAGAtwffGpuo3mJsxN.jpg",
     "viewingDate": "2018-04-07T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt0871510",
-    "tmdbId": null,
+    "tmdbId": 14163,
     "createdAt": "2026-03-16T15:45:16.019Z",
-    "updatedAt": "2026-03-16T15:45:16.019Z"
-  },
-  {
-    "id": 270,
-    "title": "Ghajini",
-    "description": "A short-term memory loss patient goes on a killing spree in order to avenge the death of his ladylove.",
-    "review": null,
-    "note": null,
-    "language": "English",
-    "year": 2008,
-    "genre": "Action, Mystery, Thriller",
-    "posterUrl": null,
-    "viewingDate": "2018-02-24T00:00:00.000Z",
-    "loved": true,
-    "imdbRating": "7.4",
-    "imdbId": "tt1166100",
-    "tmdbId": null,
-    "createdAt": "2026-03-16T15:45:17.052Z",
-    "updatedAt": "2026-03-16T15:45:17.052Z"
+    "updatedAt": "2026-04-03T13:25:00.899Z"
   },
   {
     "id": 253,
@@ -2060,14 +2042,32 @@
     "language": "English",
     "year": 2007,
     "genre": "Drama, Mystery, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg",
     "viewingDate": "2018-02-24T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.8",
     "imdbId": "tt0783233",
-    "tmdbId": null,
+    "tmdbId": 4347,
     "createdAt": "2026-03-16T15:45:11.228Z",
-    "updatedAt": "2026-03-16T15:45:11.228Z"
+    "updatedAt": "2026-04-03T13:25:01.257Z"
+  },
+  {
+    "id": 270,
+    "title": "Ghajini",
+    "description": "A short-term memory loss patient goes on a killing spree in order to avenge the death of his ladylove.",
+    "review": null,
+    "note": null,
+    "language": "English",
+    "year": 2008,
+    "genre": "Action, Mystery, Thriller",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cPLzHxPFRjzNvoyncdtDGBAxjp.jpg",
+    "viewingDate": "2018-02-24T00:00:00.000Z",
+    "loved": true,
+    "imdbRating": "7.4",
+    "imdbId": "tt1166100",
+    "tmdbId": 14070,
+    "createdAt": "2026-03-16T15:45:17.052Z",
+    "updatedAt": "2026-04-03T13:25:01.079Z"
   },
   {
     "id": 237,
@@ -2078,14 +2078,14 @@
     "language": "English",
     "year": 1992,
     "genre": "Drama, Mystery, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
     "viewingDate": "2018-02-23T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.1",
     "imdbId": "tt0103772",
-    "tmdbId": null,
+    "tmdbId": 402,
     "createdAt": "2026-03-16T15:45:04.925Z",
-    "updatedAt": "2026-03-16T15:45:04.925Z"
+    "updatedAt": "2026-04-03T13:25:01.433Z"
   },
   {
     "id": 218,
@@ -2096,14 +2096,14 @@
     "language": "English",
     "year": 1957,
     "genre": "Crime, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
     "viewingDate": "2018-02-06T00:00:00.000Z",
     "loved": true,
     "imdbRating": "9.0",
     "imdbId": "tt0050083",
-    "tmdbId": null,
+    "tmdbId": 389,
     "createdAt": "2026-03-16T15:44:56.029Z",
-    "updatedAt": "2026-03-16T15:44:56.029Z"
+    "updatedAt": "2026-04-03T13:25:01.611Z"
   },
   {
     "id": 234,
@@ -2114,14 +2114,14 @@
     "language": "English",
     "year": 2003,
     "genre": "Comedy, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
     "viewingDate": "2017-12-16T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.7",
     "imdbId": "tt0335266",
-    "tmdbId": null,
+    "tmdbId": 153,
     "createdAt": "2026-03-16T15:45:03.822Z",
-    "updatedAt": "2026-03-16T15:45:03.822Z"
+    "updatedAt": "2026-04-03T13:25:01.787Z"
   },
   {
     "id": 31,
@@ -2132,14 +2132,14 @@
     "language": "English",
     "year": 2016,
     "genre": "Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
     "viewingDate": "2017-11-29T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.8",
     "imdbId": "tt4034228",
-    "tmdbId": null,
+    "tmdbId": 334541,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:01.970Z"
   },
   {
     "id": 249,
@@ -2150,14 +2150,14 @@
     "language": "English",
     "year": 1992,
     "genre": "Drama, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
     "viewingDate": "2017-11-16T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.7",
     "imdbId": "tt0104257",
-    "tmdbId": null,
+    "tmdbId": 881,
     "createdAt": "2026-03-16T15:45:09.843Z",
-    "updatedAt": "2026-03-16T15:45:09.843Z"
+    "updatedAt": "2026-04-03T13:25:02.166Z"
   },
   {
     "id": 32,
@@ -2168,14 +2168,14 @@
     "language": "English",
     "year": 2007,
     "genre": "Crime, Drama, Thriller ",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg",
     "viewingDate": "2017-06-06T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt0477348",
-    "tmdbId": null,
+    "tmdbId": 6977,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:02.350Z"
   },
   {
     "id": 262,
@@ -2186,14 +2186,14 @@
     "language": "English",
     "year": 2001,
     "genre": "Comedy, Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/c6Cicaf2FFmfcInfsbPTxMLk5CS.jpg",
     "viewingDate": "2017-05-05T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt0292490",
-    "tmdbId": null,
+    "tmdbId": 14752,
     "createdAt": "2026-03-16T15:45:14.215Z",
-    "updatedAt": "2026-03-16T15:45:14.215Z"
+    "updatedAt": "2026-04-03T13:25:02.533Z"
   },
   {
     "id": 33,
@@ -2204,14 +2204,14 @@
     "language": "English",
     "year": 1960,
     "genre": "Comedy, Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
     "viewingDate": "2017-04-07T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt0053604",
-    "tmdbId": null,
+    "tmdbId": 284,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:02.716Z"
   },
   {
     "id": 34,
@@ -2222,14 +2222,14 @@
     "language": "English",
     "year": 2001,
     "genre": "Drama, Sci-Fi, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
     "viewingDate": "2017-03-01T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt0246578",
-    "tmdbId": null,
+    "tmdbId": 141,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:02.901Z"
   },
   {
     "id": 246,
@@ -2240,14 +2240,14 @@
     "language": "English",
     "year": 2009,
     "genre": "Comedy, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/66A9MqXOyVFCssoloscw79z8Tew.jpg",
     "viewingDate": "2017-02-12T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.4",
     "imdbId": "tt1187043",
-    "tmdbId": null,
+    "tmdbId": 20453,
     "createdAt": "2026-03-16T15:45:08.683Z",
-    "updatedAt": "2026-03-16T15:45:08.683Z"
+    "updatedAt": "2026-04-03T13:25:03.077Z"
   },
   {
     "id": 35,
@@ -2258,14 +2258,14 @@
     "language": "English",
     "year": 2013,
     "genre": "Crime, Drama, Mystery",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg",
     "viewingDate": "2017-01-19T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt1392214",
-    "tmdbId": null,
+    "tmdbId": 146233,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:03.253Z"
   },
   {
     "id": 36,
@@ -2276,14 +2276,14 @@
     "language": "English",
     "year": 2014,
     "genre": "Drama, Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
     "viewingDate": "2016-12-17T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt2267998",
-    "tmdbId": null,
+    "tmdbId": 210577,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:03.435Z"
   },
   {
     "id": 37,
@@ -2294,14 +2294,14 @@
     "language": "English",
     "year": 2012,
     "genre": "Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jkixsXzRh28q3PCqFoWcf7unghT.jpg",
     "viewingDate": "2016-12-14T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt2106476",
-    "tmdbId": null,
+    "tmdbId": 103663,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:03.612Z"
   },
   {
     "id": 38,
@@ -2312,32 +2312,14 @@
     "language": "English",
     "year": 2001,
     "genre": "Action, Crime, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
     "viewingDate": "2016-12-07T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt0266697",
-    "tmdbId": null,
+    "tmdbId": 24,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
-  },
-  {
-    "id": 258,
-    "title": "Dilwale Dulhania Le Jayenge",
-    "description": "When Raj meets Simran in Europe, it isn't love at first sight but when Simran moves to India for an arranged marriage, love makes its presence felt.",
-    "review": null,
-    "note": null,
-    "language": "English",
-    "year": 1995,
-    "genre": "Drama, Romance",
-    "posterUrl": null,
-    "viewingDate": "2016-12-06T00:00:00.000Z",
-    "loved": true,
-    "imdbRating": "8.0",
-    "imdbId": "tt0112870",
-    "tmdbId": null,
-    "createdAt": "2026-03-16T15:45:12.861Z",
-    "updatedAt": "2026-03-16T15:45:12.861Z"
+    "updatedAt": "2026-04-03T13:25:03.784Z"
   },
   {
     "id": 39,
@@ -2348,14 +2330,32 @@
     "language": "English",
     "year": 1986,
     "genre": "Adventure, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
     "viewingDate": "2016-12-06T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt0092005",
-    "tmdbId": null,
+    "tmdbId": 235,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:04.170Z"
+  },
+  {
+    "id": 258,
+    "title": "Dilwale Dulhania Le Jayenge",
+    "description": "When Raj meets Simran in Europe, it isn't love at first sight but when Simran moves to India for an arranged marriage, love makes its presence felt.",
+    "review": null,
+    "note": null,
+    "language": "English",
+    "year": 1995,
+    "genre": "Drama, Romance",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+    "viewingDate": "2016-12-06T00:00:00.000Z",
+    "loved": true,
+    "imdbRating": "8.0",
+    "imdbId": "tt0112870",
+    "tmdbId": 19404,
+    "createdAt": "2026-03-16T15:45:12.861Z",
+    "updatedAt": "2026-04-03T13:25:03.993Z"
   },
   {
     "id": 40,
@@ -2366,14 +2366,14 @@
     "language": "English",
     "year": 2009,
     "genre": "Adventure, Drama, War",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
     "viewingDate": "2016-12-01T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt0361748",
-    "tmdbId": null,
+    "tmdbId": 16869,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:04.345Z"
   },
   {
     "id": 41,
@@ -2384,14 +2384,14 @@
     "language": "English",
     "year": 2014,
     "genre": "Drama, Music",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
     "viewingDate": "2016-11-28T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.5",
     "imdbId": "tt2582802",
-    "tmdbId": null,
+    "tmdbId": 244786,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:04.529Z"
   },
   {
     "id": 42,
@@ -2402,14 +2402,14 @@
     "language": "English",
     "year": 2014,
     "genre": "Action, Biography, Drama ",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vJgtfUmZE5i4L12sOryAPuBa04K.jpg",
     "viewingDate": "2016-11-26T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.3",
     "imdbId": "tt2179136",
-    "tmdbId": null,
+    "tmdbId": 190859,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:04.710Z"
   },
   {
     "id": 43,
@@ -2420,14 +2420,14 @@
     "language": "English",
     "year": 1958,
     "genre": " Mystery, Romance, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
     "viewingDate": "2016-11-21T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt0052357",
-    "tmdbId": null,
+    "tmdbId": 426,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:04.892Z"
   },
   {
     "id": 284,
@@ -2438,14 +2438,14 @@
     "language": "English",
     "year": 2004,
     "genre": "Drama, Family, Musical",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/j267YqLvKAHeyykTflxzpgVgviQ.jpg",
     "viewingDate": "2016-11-14T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.8",
     "imdbId": "tt0420332",
-    "tmdbId": null,
+    "tmdbId": 4251,
     "createdAt": "2026-03-16T15:45:21.834Z",
-    "updatedAt": "2026-03-16T15:45:21.834Z"
+    "updatedAt": "2026-04-03T13:25:05.068Z"
   },
   {
     "id": 44,
@@ -2456,14 +2456,14 @@
     "language": "English",
     "year": 2015,
     "genre": "Drama, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2hHDMeYyZjbGWn0BeNH1cTMxuM7.jpg",
     "viewingDate": "2016-10-31T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.2",
     "imdbId": "tt3170832",
-    "tmdbId": null,
+    "tmdbId": 264644,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:05.242Z"
   },
   {
     "id": 256,
@@ -2474,14 +2474,14 @@
     "language": "English",
     "year": 1999,
     "genre": "Action, Adventure, Fantasy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
     "viewingDate": "2016-10-31T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.1",
     "imdbId": "tt0120616",
-    "tmdbId": null,
+    "tmdbId": 564,
     "createdAt": "2026-03-16T15:45:12.202Z",
-    "updatedAt": "2026-03-16T15:45:12.202Z"
+    "updatedAt": "2026-04-03T13:25:05.425Z"
   },
   {
     "id": 45,
@@ -2492,14 +2492,14 @@
     "language": "English",
     "year": 2003,
     "genre": "Action, Drama, Mystery",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
     "viewingDate": "2016-10-26T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.4",
     "imdbId": "tt0364569",
-    "tmdbId": null,
+    "tmdbId": 670,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:05.613Z"
   },
   {
     "id": 245,
@@ -2510,14 +2510,14 @@
     "language": "English",
     "year": 2002,
     "genre": "Comedy, Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2dzSBmFWWqt8NbnubJKIWU21Y86.jpg",
     "viewingDate": "2016-09-25T00:00:00.000Z",
     "loved": true,
     "imdbRating": "6.7",
     "imdbId": "tt0286499",
-    "tmdbId": null,
+    "tmdbId": 455,
     "createdAt": "2026-03-16T15:45:08.356Z",
-    "updatedAt": "2026-03-16T15:45:08.356Z"
+    "updatedAt": "2026-04-03T13:25:05.796Z"
   },
   {
     "id": 286,
@@ -2528,14 +2528,14 @@
     "language": "English",
     "year": 1994,
     "genre": "Comedy, Drama, Musical",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/v5CutZgZgai1if2U2CPssiig7VW.jpg",
     "viewingDate": "2016-09-03T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.5",
     "imdbId": "tt0110076",
-    "tmdbId": null,
+    "tmdbId": 46387,
     "createdAt": "2026-03-16T15:45:22.502Z",
-    "updatedAt": "2026-03-16T15:45:22.502Z"
+    "updatedAt": "2026-04-03T13:25:05.978Z"
   },
   {
     "id": 266,
@@ -2546,14 +2546,14 @@
     "language": "English",
     "year": 2012,
     "genre": "Comedy, Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5cJIx2zKjDoUtPSliou23xsReb1.jpg",
     "viewingDate": "2016-05-29T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt2082197",
-    "tmdbId": null,
+    "tmdbId": 127501,
     "createdAt": "2026-03-16T15:45:15.666Z",
-    "updatedAt": "2026-03-16T15:45:15.666Z"
+    "updatedAt": "2026-04-03T13:25:06.156Z"
   },
   {
     "id": 207,
@@ -2564,14 +2564,14 @@
     "language": "English",
     "year": 2012,
     "genre": "Drama, Western",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
     "viewingDate": "2016-05-10T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.5",
     "imdbId": "tt1853728",
-    "tmdbId": null,
+    "tmdbId": 68718,
     "createdAt": "2026-03-16T15:44:50.762Z",
-    "updatedAt": "2026-03-16T15:44:50.762Z"
+    "updatedAt": "2026-04-03T13:25:06.339Z"
   },
   {
     "id": 238,
@@ -2582,14 +2582,14 @@
     "language": "English",
     "year": 2003,
     "genre": "Crime, Drama, Mystery",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hCHVDbo6XJGj3r2i4hVjKhE0GKF.jpg",
     "viewingDate": "2016-04-05T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.9",
     "imdbId": "tt0327056",
-    "tmdbId": null,
+    "tmdbId": 322,
     "createdAt": "2026-03-16T15:45:05.231Z",
-    "updatedAt": "2026-03-16T15:45:05.231Z"
+    "updatedAt": "2026-04-03T13:25:06.521Z"
   },
   {
     "id": 213,
@@ -2600,14 +2600,14 @@
     "language": "English",
     "year": 1974,
     "genre": "Crime, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
     "viewingDate": "2016-03-31T00:00:00.000Z",
     "loved": true,
     "imdbRating": "9.0",
     "imdbId": "tt0071562",
-    "tmdbId": null,
+    "tmdbId": 240,
     "createdAt": "2026-03-16T15:44:53.216Z",
-    "updatedAt": "2026-03-16T15:44:53.216Z"
+    "updatedAt": "2026-04-03T13:25:06.702Z"
   },
   {
     "id": 277,
@@ -2636,14 +2636,14 @@
     "language": "English",
     "year": 2014,
     "genre": "Adventure, Drama, Sci-Fi",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
     "viewingDate": "2015-11-11T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.6",
     "imdbId": "tt0816692",
-    "tmdbId": null,
+    "tmdbId": 157336,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:07.062Z"
   },
   {
     "id": 47,
@@ -2654,14 +2654,14 @@
     "language": "English",
     "year": 2000,
     "genre": "Comedy, Crime ",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kJZoAHq1SLDdWjeNGtlHAnGpmFV.jpg",
     "viewingDate": "2015-11-08T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt0208092",
-    "tmdbId": null,
+    "tmdbId": 107,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:07.233Z"
   },
   {
     "id": 48,
@@ -2672,14 +2672,14 @@
     "language": "Spanish",
     "year": 2009,
     "genre": "Drama, Mystery, Romance ",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dkeAwfZzwL3WvToydE3CXiY80E0.jpg",
     "viewingDate": "2015-10-27T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.2",
     "imdbId": "tt1305806",
-    "tmdbId": null,
+    "tmdbId": 25376,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:07.413Z"
   },
   {
     "id": 49,
@@ -2690,14 +2690,14 @@
     "language": "English",
     "year": 1994,
     "genre": "Crime, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
     "viewingDate": "2015-10-20T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.9",
     "imdbId": "tt0110912",
-    "tmdbId": null,
+    "tmdbId": 680,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:07.592Z"
   },
   {
     "id": 278,
@@ -2708,14 +2708,14 @@
     "language": "English",
     "year": 2004,
     "genre": "Action, Crime, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/A7fxXAsuYEohxYNl8YeH3FYkuDv.jpg",
     "viewingDate": "2015-10-14T00:00:00.000Z",
     "loved": true,
     "imdbRating": "6.6",
     "imdbId": "tt0422091",
-    "tmdbId": null,
+    "tmdbId": 17478,
     "createdAt": "2026-03-16T15:45:19.810Z",
-    "updatedAt": "2026-03-16T15:45:19.810Z"
+    "updatedAt": "2026-04-03T13:25:07.777Z"
   },
   {
     "id": 50,
@@ -2726,14 +2726,14 @@
     "language": "English",
     "year": 1999,
     "genre": "Crime, Drama, Fantasy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
     "viewingDate": "2015-08-28T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.6",
     "imdbId": "tt0120689",
-    "tmdbId": null,
+    "tmdbId": 497,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:07.953Z"
   },
   {
     "id": 51,
@@ -2744,14 +2744,14 @@
     "language": "English",
     "year": 1995,
     "genre": "Biography, Drama, History",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg",
     "viewingDate": "2015-07-27T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.4",
     "imdbId": "tt0112573",
-    "tmdbId": null,
+    "tmdbId": 197,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:08.137Z"
   },
   {
     "id": 221,
@@ -2762,14 +2762,14 @@
     "language": "English",
     "year": 2010,
     "genre": "Biography, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
     "viewingDate": "2015-06-30T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.8",
     "imdbId": "tt1285016",
-    "tmdbId": null,
+    "tmdbId": 37799,
     "createdAt": "2026-03-16T15:44:57.290Z",
-    "updatedAt": "2026-03-16T15:44:57.290Z"
+    "updatedAt": "2026-04-03T13:25:08.382Z"
   },
   {
     "id": 208,
@@ -2780,14 +2780,14 @@
     "language": "English",
     "year": 1990,
     "genre": "Comedy, Family",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
     "viewingDate": "2015-04-05T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.8",
     "imdbId": "tt0099785",
-    "tmdbId": null,
+    "tmdbId": 771,
     "createdAt": "2026-03-16T15:44:51.183Z",
-    "updatedAt": "2026-03-16T15:44:51.183Z"
+    "updatedAt": "2026-04-03T13:25:08.709Z"
   },
   {
     "id": 223,
@@ -2798,14 +2798,14 @@
     "language": "English",
     "year": 2011,
     "genre": "Comedy, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1QU7HKgsQbGpzsJbJK4pAVQV9F5.jpg",
     "viewingDate": "2015-03-14T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.5",
     "imdbId": "tt1675434",
-    "tmdbId": null,
+    "tmdbId": 77338,
     "createdAt": "2026-03-16T15:44:58.315Z",
-    "updatedAt": "2026-03-16T15:44:58.315Z"
+    "updatedAt": "2026-04-03T13:25:09.035Z"
   },
   {
     "id": 52,
@@ -2816,14 +2816,14 @@
     "language": "English",
     "year": 2004,
     "genre": "Drama, Romance, Sci-Fi",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
     "viewingDate": "2015-03-08T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt0338013",
-    "tmdbId": null,
+    "tmdbId": 38,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:09.389Z"
   },
   {
     "id": 53,
@@ -2834,14 +2834,14 @@
     "language": "English",
     "year": 1968,
     "genre": "Western",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
     "viewingDate": "2015-02-27T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.5",
     "imdbId": "tt0064116",
-    "tmdbId": null,
+    "tmdbId": 335,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:09.588Z"
   },
   {
     "id": 54,
@@ -2852,14 +2852,14 @@
     "language": "English",
     "year": 1984,
     "genre": "Biography, Drama, History",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gQRfiyfGvr1az0quaYyMram3Aqt.jpg",
     "viewingDate": "2015-01-17T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt0086879",
-    "tmdbId": null,
+    "tmdbId": 279,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:09.808Z"
   },
   {
     "id": 209,
@@ -2870,14 +2870,14 @@
     "language": "English",
     "year": 2001,
     "genre": "Drama, Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/x7A59t6ySylr1L7aubOQEA480vM.jpg",
     "viewingDate": "2015-01-12T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.9",
     "imdbId": "tt0166924",
-    "tmdbId": null,
+    "tmdbId": 1018,
     "createdAt": "2026-03-16T15:44:51.506Z",
-    "updatedAt": "2026-03-16T15:44:51.506Z"
+    "updatedAt": "2026-04-03T13:25:09.995Z"
   },
   {
     "id": 233,
@@ -2888,14 +2888,14 @@
     "language": "English",
     "year": 2004,
     "genre": "Action, Comedy, Fantasy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
     "viewingDate": "2014-10-17T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.7",
     "imdbId": "tt0373074",
-    "tmdbId": null,
+    "tmdbId": 9470,
     "createdAt": "2026-03-16T15:45:03.290Z",
-    "updatedAt": "2026-03-16T15:45:03.290Z"
+    "updatedAt": "2026-04-03T13:25:10.196Z"
   },
   {
     "id": 55,
@@ -2906,14 +2906,14 @@
     "language": "English",
     "year": 1966,
     "genre": "Western",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
     "viewingDate": "2014-10-12T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.9",
     "imdbId": "tt0060196",
-    "tmdbId": null,
+    "tmdbId": 429,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:10.384Z"
   },
   {
     "id": 264,
@@ -2924,14 +2924,14 @@
     "language": "English",
     "year": 2007,
     "genre": "Action, Comedy, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oArsQTD4bPPMtRjqr03SO9W6phF.jpg",
     "viewingDate": "2014-07-23T00:00:00.000Z",
     "loved": true,
     "imdbRating": "6.8",
     "imdbId": "tt1024943",
-    "tmdbId": null,
+    "tmdbId": 8079,
     "createdAt": "2026-03-16T15:45:14.936Z",
-    "updatedAt": "2026-03-16T15:45:14.936Z"
+    "updatedAt": "2026-04-03T13:25:10.578Z"
   },
   {
     "id": 56,
@@ -2942,14 +2942,14 @@
     "language": "English",
     "year": 2006,
     "genre": "Crime, Drama, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
     "viewingDate": "2014-06-20T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.5",
     "imdbId": "tt0407887",
-    "tmdbId": null,
+    "tmdbId": 1422,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:10.758Z"
   },
   {
     "id": 222,
@@ -2978,14 +2978,14 @@
     "language": "English",
     "year": 1997,
     "genre": "Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
     "viewingDate": "2014-06-10T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt0119217",
-    "tmdbId": null,
+    "tmdbId": 489,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:11.135Z"
   },
   {
     "id": 58,
@@ -2996,14 +2996,14 @@
     "language": "French",
     "year": 2001,
     "genre": "Comedy, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
     "viewingDate": "2014-05-02T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt0211915",
-    "tmdbId": null,
+    "tmdbId": 194,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:11.317Z"
   },
   {
     "id": 59,
@@ -3014,14 +3014,14 @@
     "language": "English",
     "year": 1960,
     "genre": "Horror, Mystery, Thriller ",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
     "viewingDate": "2014-03-03T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.5",
     "imdbId": "tt0054215",
-    "tmdbId": null,
+    "tmdbId": 539,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:11.506Z"
   },
   {
     "id": 60,
@@ -3032,14 +3032,14 @@
     "language": "English",
     "year": 1997,
     "genre": "Crime, Drama, Mystery",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg",
     "viewingDate": "2014-02-26T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt0119488",
-    "tmdbId": null,
+    "tmdbId": 2118,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:11.691Z"
   },
   {
     "id": 61,
@@ -3050,14 +3050,14 @@
     "language": "English",
     "year": 2009,
     "genre": "Drama, Family",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lsy3aEsEfYIHdLRk4dontZ4s85h.jpg",
     "viewingDate": "2013-10-09T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt1028532",
-    "tmdbId": null,
+    "tmdbId": 28178,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:11.883Z"
   },
   {
     "id": 62,
@@ -3068,14 +3068,14 @@
     "language": "English",
     "year": 2012,
     "genre": "Action, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
     "viewingDate": "2013-09-16T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.4",
     "imdbId": "tt1345836",
-    "tmdbId": null,
+    "tmdbId": 49026,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:12.067Z"
   },
   {
     "id": 216,
@@ -3086,14 +3086,14 @@
     "language": "English",
     "year": 2004,
     "genre": "Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
     "viewingDate": "2013-08-23T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.8",
     "imdbId": "tt0332280",
-    "tmdbId": null,
+    "tmdbId": 11036,
     "createdAt": "2026-03-16T15:44:54.928Z",
-    "updatedAt": "2026-03-16T15:44:54.928Z"
+    "updatedAt": "2026-04-03T13:25:12.249Z"
   },
   {
     "id": 63,
@@ -3104,14 +3104,14 @@
     "language": "English",
     "year": 1995,
     "genre": "Crime, Drama, Mystery ",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
     "viewingDate": "2013-07-04T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.6",
     "imdbId": "tt0114369",
-    "tmdbId": null,
+    "tmdbId": 807,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:12.433Z"
   },
   {
     "id": 274,
@@ -3122,14 +3122,14 @@
     "language": "English",
     "year": 1998,
     "genre": "Comedy, Drama, Musical",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5FmtHHDGPofW5Zjns1EM1D8503c.jpg",
     "viewingDate": "2013-05-08T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.5",
     "imdbId": "tt0172684",
-    "tmdbId": null,
+    "tmdbId": 11854,
     "createdAt": "2026-03-16T15:45:18.477Z",
-    "updatedAt": "2026-03-16T15:45:18.477Z"
+    "updatedAt": "2026-04-03T13:25:12.625Z"
   },
   {
     "id": 64,
@@ -3140,14 +3140,14 @@
     "language": "English",
     "year": 2006,
     "genre": "Drama, Mystery, Sci-Fi ",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
     "viewingDate": "2013-02-05T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.5",
     "imdbId": "tt0482571",
-    "tmdbId": null,
+    "tmdbId": 1124,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:12.800Z"
   },
   {
     "id": 65,
@@ -3158,14 +3158,14 @@
     "language": "English",
     "year": 2002,
     "genre": " Biography, Drama, Music",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
     "viewingDate": "2013-01-18T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.5",
     "imdbId": "tt0253474",
-    "tmdbId": null,
+    "tmdbId": 423,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:12.979Z"
   },
   {
     "id": 66,
@@ -3176,14 +3176,14 @@
     "language": "English",
     "year": 2004,
     "genre": "Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4sW5XH9ZfYXpvFzev00S1IGAEbg.jpg",
     "viewingDate": "2013-01-12T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt0381681",
-    "tmdbId": null,
+    "tmdbId": 80,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:13.158Z"
   },
   {
     "id": 219,
@@ -3194,14 +3194,14 @@
     "language": "English",
     "year": 1975,
     "genre": "Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
     "viewingDate": "2012-12-22T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.6",
     "imdbId": "tt0073486",
-    "tmdbId": null,
+    "tmdbId": 510,
     "createdAt": "2026-03-16T15:44:56.532Z",
-    "updatedAt": "2026-03-16T15:44:56.532Z"
+    "updatedAt": "2026-04-03T13:25:13.337Z"
   },
   {
     "id": 227,
@@ -3212,14 +3212,14 @@
     "language": "English",
     "year": 2006,
     "genre": "Drama, Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cVUDMnskSc01rdbyH0tLATTJUdP.jpg",
     "viewingDate": "2012-12-14T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.4",
     "imdbId": "tt0405094",
-    "tmdbId": null,
+    "tmdbId": 582,
     "createdAt": "2026-03-16T15:44:59.885Z",
-    "updatedAt": "2026-03-16T15:44:59.885Z"
+    "updatedAt": "2026-04-03T13:25:13.519Z"
   },
   {
     "id": 67,
@@ -3230,14 +3230,14 @@
     "language": "English",
     "year": 2010,
     "genre": "Mystery, Thriller ",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
     "viewingDate": "2012-08-24T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt1130884",
-    "tmdbId": null,
+    "tmdbId": 11324,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:13.696Z"
   },
   {
     "id": 68,
@@ -3248,14 +3248,14 @@
     "language": "English",
     "year": 2000,
     "genre": "Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
     "viewingDate": "2012-01-09T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt0180093",
-    "tmdbId": null,
+    "tmdbId": 641,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:13.879Z"
   },
   {
     "id": 69,
@@ -3266,14 +3266,14 @@
     "language": "English",
     "year": 2007,
     "genre": "Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
     "viewingDate": "2011-11-13T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.2",
     "imdbId": "tt0469494",
-    "tmdbId": null,
+    "tmdbId": 7345,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:14.059Z"
   },
   {
     "id": 70,
@@ -3284,14 +3284,14 @@
     "language": "English",
     "year": 2011,
     "genre": "Drama, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xQadpnoLokxzN3hRpCPbBGpxsiz.jpg",
     "viewingDate": "2011-09-18T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt1832382",
-    "tmdbId": null,
+    "tmdbId": 60243,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:14.232Z"
   },
   {
     "id": 71,
@@ -3302,14 +3302,14 @@
     "language": "English",
     "year": 1999,
     "genre": "Drama, Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
     "viewingDate": "2011-09-17T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt0167404",
-    "tmdbId": null,
+    "tmdbId": 745,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:14.413Z"
   },
   {
     "id": 72,
@@ -3320,14 +3320,14 @@
     "language": "English",
     "year": 1931,
     "genre": "Comedy, Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bXNvzjULc9jrOVhGfjcc64uKZmZ.jpg",
     "viewingDate": "2011-08-17T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.5",
     "imdbId": "tt0021749",
-    "tmdbId": null,
+    "tmdbId": 901,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:14.590Z"
   },
   {
     "id": 73,
@@ -3338,14 +3338,14 @@
     "language": "English",
     "year": 1976,
     "genre": "Crime, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
     "viewingDate": "2011-07-01T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt0075314",
-    "tmdbId": null,
+    "tmdbId": 103,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:14.771Z"
   },
   {
     "id": 268,
@@ -3356,14 +3356,14 @@
     "language": "English",
     "year": 2001,
     "genre": "Drama, Musical, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/12BvYKueY0eruZuTYIextEZaCC.jpg",
     "viewingDate": "2011-07-01T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.4",
     "imdbId": "tt0248126",
-    "tmdbId": null,
+    "tmdbId": 10757,
     "createdAt": "2026-03-16T15:45:16.371Z",
-    "updatedAt": "2026-03-16T15:45:16.371Z"
+    "updatedAt": "2026-04-03T13:25:14.984Z"
   },
   {
     "id": 74,
@@ -3374,14 +3374,14 @@
     "language": "English",
     "year": 1994,
     "genre": "Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
     "viewingDate": "2011-06-16T01:00:00.000Z",
     "loved": true,
     "imdbRating": "9.3",
     "imdbId": "tt0111161",
-    "tmdbId": null,
+    "tmdbId": 278,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:15.174Z"
   },
   {
     "id": 220,
@@ -3392,14 +3392,14 @@
     "language": "English",
     "year": 1999,
     "genre": "Comedy, Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
     "viewingDate": "2011-06-01T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.4",
     "imdbId": "tt0147800",
-    "tmdbId": null,
+    "tmdbId": 4951,
     "createdAt": "2026-03-16T15:44:56.956Z",
-    "updatedAt": "2026-03-16T15:44:56.956Z"
+    "updatedAt": "2026-04-03T13:25:15.361Z"
   },
   {
     "id": 75,
@@ -3410,14 +3410,14 @@
     "language": "English",
     "year": 1959,
     "genre": "Comedy, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
     "viewingDate": "2011-05-29T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.2",
     "imdbId": "tt0053291",
-    "tmdbId": null,
+    "tmdbId": 239,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:15.540Z"
   },
   {
     "id": 76,
@@ -3428,14 +3428,14 @@
     "language": "English",
     "year": 1991,
     "genre": " Crime, Drama, Thriller ",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
     "viewingDate": "2011-05-08T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.6",
     "imdbId": "tt0102926",
-    "tmdbId": null,
+    "tmdbId": 274,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:15.721Z"
   },
   {
     "id": 77,
@@ -3446,14 +3446,14 @@
     "language": "English",
     "year": 2010,
     "genre": "Action, Adventure, Sci-Fi ",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
     "viewingDate": "2011-04-15T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.8",
     "imdbId": "tt1375666",
-    "tmdbId": null,
+    "tmdbId": 27205,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:15.897Z"
   },
   {
     "id": 78,
@@ -3464,14 +3464,14 @@
     "language": "English",
     "year": 1999,
     "genre": "Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
     "viewingDate": "2011-04-07T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.8",
     "imdbId": "tt0137523",
-    "tmdbId": null,
+    "tmdbId": 550,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:16.092Z"
   },
   {
     "id": 79,
@@ -3482,14 +3482,14 @@
     "language": "English",
     "year": 1972,
     "genre": "Crime, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
     "viewingDate": "2011-04-05T01:00:00.000Z",
     "loved": true,
     "imdbRating": "9.2",
     "imdbId": "tt0068646",
-    "tmdbId": null,
+    "tmdbId": 238,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:16.277Z"
   },
   {
     "id": 257,
@@ -3500,14 +3500,14 @@
     "language": "English",
     "year": 1975,
     "genre": "Action, Adventure, Comedy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ya9bwgqA4eNl5bQ9QqS0jcmRoBS.jpg",
     "viewingDate": "2011-03-10T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt0073707",
-    "tmdbId": null,
+    "tmdbId": 12259,
     "createdAt": "2026-03-16T15:45:12.527Z",
-    "updatedAt": "2026-03-16T15:45:12.527Z"
+    "updatedAt": "2026-04-03T13:25:16.469Z"
   },
   {
     "id": 80,
@@ -3518,14 +3518,14 @@
     "language": "English",
     "year": 1974,
     "genre": "Crime, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
     "viewingDate": "2011-03-08T00:00:00.000Z",
     "loved": true,
     "imdbRating": "9.0",
     "imdbId": "tt0071562",
-    "tmdbId": null,
+    "tmdbId": 240,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:16.592Z"
   },
   {
     "id": 81,
@@ -3536,14 +3536,14 @@
     "language": "English",
     "year": 1962,
     "genre": "Crime, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gZycFUMLx2110dzK3nBNai7gfpM.jpg",
     "viewingDate": "2011-03-05T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt0056592",
-    "tmdbId": null,
+    "tmdbId": 595,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:16.778Z"
   },
   {
     "id": 82,
@@ -3554,14 +3554,14 @@
     "language": "English",
     "year": 1971,
     "genre": "Crime, Drama, Sci-Fi",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
     "viewingDate": "2011-02-27T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt0066921",
-    "tmdbId": null,
+    "tmdbId": 185,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:16.965Z"
   },
   {
     "id": 261,
@@ -3572,14 +3572,14 @@
     "language": "English",
     "year": 1994,
     "genre": "Action, Comedy, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/a0GV2V3yif2DbsMCSBrivvSHUWQ.jpg",
     "viewingDate": "2011-02-20T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.0",
     "imdbId": "tt0109117",
-    "tmdbId": null,
+    "tmdbId": 58128,
     "createdAt": "2026-03-16T15:45:13.866Z",
-    "updatedAt": "2026-03-16T15:45:13.866Z"
+    "updatedAt": "2026-04-03T13:25:17.153Z"
   },
   {
     "id": 251,
@@ -3590,14 +3590,14 @@
     "language": "English",
     "year": 2008,
     "genre": "Crime, Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
     "viewingDate": "2011-02-09T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.0",
     "imdbId": "tt1010048",
-    "tmdbId": null,
+    "tmdbId": 12405,
     "createdAt": "2026-03-16T15:45:10.571Z",
-    "updatedAt": "2026-03-16T15:45:10.571Z"
+    "updatedAt": "2026-04-03T13:25:17.336Z"
   },
   {
     "id": 214,
@@ -3608,14 +3608,14 @@
     "language": "English",
     "year": 2000,
     "genre": "Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
     "viewingDate": "2011-01-09T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.0",
     "imdbId": "tt0118694",
-    "tmdbId": null,
+    "tmdbId": 843,
     "createdAt": "2026-03-16T15:44:54.082Z",
-    "updatedAt": "2026-03-16T15:44:54.082Z"
+    "updatedAt": "2026-04-03T13:25:17.512Z"
   },
   {
     "id": 260,
@@ -3626,14 +3626,14 @@
     "language": "English",
     "year": 1983,
     "genre": "Comedy, Crime, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gidaBJsPuq0nTG7PI93mERZoVAh.jpg",
     "viewingDate": "2010-12-21T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt0085743",
-    "tmdbId": null,
+    "tmdbId": 25499,
     "createdAt": "2026-03-16T15:45:13.525Z",
-    "updatedAt": "2026-03-16T15:45:13.525Z"
+    "updatedAt": "2026-04-03T13:25:17.698Z"
   },
   {
     "id": 211,
@@ -3644,14 +3644,14 @@
     "language": "English",
     "year": 2006,
     "genre": "Biography, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
     "viewingDate": "2010-11-27T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.0",
     "imdbId": "tt0454921",
-    "tmdbId": null,
+    "tmdbId": 1402,
     "createdAt": "2026-03-16T15:44:52.272Z",
-    "updatedAt": "2026-03-16T15:44:52.272Z"
+    "updatedAt": "2026-04-03T13:25:17.887Z"
   },
   {
     "id": 226,
@@ -3662,14 +3662,14 @@
     "language": "English",
     "year": 1981,
     "genre": "Biography, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dHNonSmzgxMzEWp0FrzQIVvcBD6.jpg",
     "viewingDate": "2010-10-16T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.5",
     "imdbId": "tt0082176",
-    "tmdbId": null,
+    "tmdbId": 9589,
     "createdAt": "2026-03-16T15:44:59.556Z",
-    "updatedAt": "2026-03-16T15:44:59.556Z"
+    "updatedAt": "2026-04-03T13:25:18.064Z"
   },
   {
     "id": 83,
@@ -3680,14 +3680,14 @@
     "language": "English",
     "year": 2008,
     "genre": "Action, Crime, Drama ",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
     "viewingDate": "2010-10-06T01:00:00.000Z",
     "loved": true,
     "imdbRating": "9.0",
     "imdbId": "tt0468569",
-    "tmdbId": null,
+    "tmdbId": 155,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:18.241Z"
   },
   {
     "id": 84,
@@ -3698,14 +3698,14 @@
     "language": "English",
     "year": 2002,
     "genre": "Crime, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
     "viewingDate": "2010-09-12T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.6",
     "imdbId": "tt0317248",
-    "tmdbId": null,
+    "tmdbId": 598,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:18.426Z"
   },
   {
     "id": 85,
@@ -3716,14 +3716,14 @@
     "language": "English",
     "year": 1992,
     "genre": "Crime, Drama, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
     "viewingDate": "2010-08-14T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.3",
     "imdbId": "tt0105236",
-    "tmdbId": null,
+    "tmdbId": 500,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:18.619Z"
   },
   {
     "id": 86,
@@ -3734,14 +3734,14 @@
     "language": "English",
     "year": 1936,
     "genre": "Comedy, Drama, Family",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg",
     "viewingDate": "2010-07-22T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.5",
     "imdbId": "tt0027977",
-    "tmdbId": null,
+    "tmdbId": 3082,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:18.807Z"
   },
   {
     "id": 87,
@@ -3752,14 +3752,14 @@
     "language": "English",
     "year": 1999,
     "genre": "Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wby9315QzVKdW9BonAefg8jGTTb.jpg",
     "viewingDate": "2010-07-11T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.4",
     "imdbId": "tt0169547",
-    "tmdbId": null,
+    "tmdbId": 14,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:18.996Z"
   },
   {
     "id": 217,
@@ -3770,14 +3770,14 @@
     "language": "English",
     "year": 2008,
     "genre": "Animation, Action, Adventure",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
     "viewingDate": "2010-05-25T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.6",
     "imdbId": "tt0441773",
-    "tmdbId": null,
+    "tmdbId": 9502,
     "createdAt": "2026-03-16T15:44:55.238Z",
-    "updatedAt": "2026-03-16T15:44:55.238Z"
+    "updatedAt": "2026-04-03T13:25:19.176Z"
   },
   {
     "id": 88,
@@ -3788,14 +3788,14 @@
     "language": "English",
     "year": 2005,
     "genre": "Action, Adventure",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
     "viewingDate": "2010-04-22T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.2",
     "imdbId": "tt0372784",
-    "tmdbId": null,
+    "tmdbId": 272,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:19.362Z"
   },
   {
     "id": 89,
@@ -3806,14 +3806,14 @@
     "language": "English",
     "year": 2001,
     "genre": "Biography, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
     "viewingDate": "2010-04-16T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.2",
     "imdbId": "tt0268978",
-    "tmdbId": null,
+    "tmdbId": 453,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:19.541Z"
   },
   {
     "id": 90,
@@ -3824,14 +3824,14 @@
     "language": "English",
     "year": 1996,
     "genre": "Crime, Drama, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
     "viewingDate": "2010-02-15T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt0116282",
-    "tmdbId": null,
+    "tmdbId": 275,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:19.727Z"
   },
   {
     "id": 91,
@@ -3842,14 +3842,14 @@
     "language": "English",
     "year": 1995,
     "genre": "Crime, Mystery, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
     "viewingDate": "2009-12-18T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.6",
     "imdbId": "tt0114814",
-    "tmdbId": null,
+    "tmdbId": 629,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:19.907Z"
   },
   {
     "id": 92,
@@ -3860,14 +3860,14 @@
     "language": "English",
     "year": 1994,
     "genre": "Drama, Romance",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
     "viewingDate": "2009-10-29T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.8",
     "imdbId": "tt0109830",
-    "tmdbId": null,
+    "tmdbId": 13,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:20.085Z"
   },
   {
     "id": 93,
@@ -3878,14 +3878,14 @@
     "language": "English",
     "year": 2000,
     "genre": "Mystery, Thriller ",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
     "viewingDate": "2008-08-23T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.5",
     "imdbId": "tt0209144",
-    "tmdbId": null,
+    "tmdbId": 77,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:20.259Z"
   },
   {
     "id": 94,
@@ -3896,14 +3896,14 @@
     "language": "English",
     "year": 2003,
     "genre": "Action, Adventure, Fantasy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
     "viewingDate": "2008-08-02T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.0",
     "imdbId": "tt0325980",
-    "tmdbId": null,
+    "tmdbId": 22,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:20.438Z"
   },
   {
     "id": 95,
@@ -3914,14 +3914,14 @@
     "language": "English",
     "year": 1942,
     "genre": "Drama, Romance, War ",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
     "viewingDate": "2008-05-12T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.5",
     "imdbId": "tt0034583",
-    "tmdbId": null,
+    "tmdbId": 289,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:20.631Z"
   },
   {
     "id": 155,
@@ -3932,14 +3932,14 @@
     "language": "English",
     "year": 2002,
     "genre": "Adventure, Family, Fantasy, Mystery",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
     "viewingDate": "2008-03-12T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.4",
     "imdbId": "tt0295297",
-    "tmdbId": null,
+    "tmdbId": 672,
     "createdAt": "2024-11-06T23:27:52.562Z",
-    "updatedAt": "2024-11-06T23:27:52.562Z"
+    "updatedAt": "2026-04-03T13:25:20.807Z"
   },
   {
     "id": 96,
@@ -3950,14 +3950,14 @@
     "language": "English",
     "year": 1982,
     "genre": "Biography, Drama, History",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
     "viewingDate": "2007-10-02T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt0083987",
-    "tmdbId": null,
+    "tmdbId": 783,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:20.984Z"
   },
   {
     "id": 292,
@@ -3968,14 +3968,14 @@
     "language": "hi",
     "year": 2006,
     "genre": "Comedy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/c1Mvyd983ZyrU5Vf2aKEe6WncSq.jpg",
     "viewingDate": "2007-06-19T00:00:00.000Z",
     "loved": true,
     "imdbRating": "7.3",
     "imdbId": "tt0419058",
-    "tmdbId": null,
+    "tmdbId": 20359,
     "createdAt": "2026-04-03T09:14:37.921Z",
-    "updatedAt": "2026-04-03T09:14:37.921Z"
+    "updatedAt": "2026-04-03T13:25:21.164Z"
   },
   {
     "id": 97,
@@ -3986,14 +3986,14 @@
     "language": "English",
     "year": 1993,
     "genre": "Adventure, Sci-Fi, Thriller",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/maFjKnJ62hDQ9E66dKqDZgbUy0H.jpg",
     "viewingDate": "2007-02-09T00:00:00.000Z",
     "loved": true,
     "imdbRating": "8.1",
     "imdbId": "tt0107290",
-    "tmdbId": null,
+    "tmdbId": 329,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:21.339Z"
   },
   {
     "id": 98,
@@ -4004,14 +4004,14 @@
     "language": "English",
     "year": 2000,
     "genre": "Action, Adventure, Drama",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
     "viewingDate": "2006-04-19T01:00:00.000Z",
     "loved": true,
     "imdbRating": "8.5",
     "imdbId": "tt0172495",
-    "tmdbId": null,
+    "tmdbId": 98,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:21.522Z"
   },
   {
     "id": 99,
@@ -4022,14 +4022,14 @@
     "language": "English",
     "year": 2005,
     "genre": "Adventure, Family, Fantasy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
     "viewingDate": "2006-04-05T01:00:00.000Z",
     "loved": true,
     "imdbRating": "7.7",
     "imdbId": "tt0330373",
-    "tmdbId": null,
+    "tmdbId": 674,
     "createdAt": "2021-12-12T05:45:19.393Z",
-    "updatedAt": "2021-12-12T05:45:19.393Z"
+    "updatedAt": "2026-04-03T13:25:21.701Z"
   },
   {
     "id": 112,
@@ -4040,13 +4040,13 @@
     "language": "English",
     "year": 2001,
     "genre": "Adventure, Family, Fantasy",
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
     "viewingDate": "2005-09-23T06:23:48.204Z",
     "loved": false,
     "imdbRating": "7.6",
     "imdbId": "tt0241527",
-    "tmdbId": null,
+    "tmdbId": 671,
     "createdAt": "2022-01-17T19:04:04.817Z",
-    "updatedAt": "2022-01-17T19:04:04.817Z"
+    "updatedAt": "2026-04-03T13:25:21.889Z"
   }
 ]
