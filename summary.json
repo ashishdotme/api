@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 25,
-      "quote": "Knowing is not enough; we must apply. Wishing is not enough; we must do.",
+      "id": 14,
+      "quote": "You are never too old to set another goal or to dream a new dream.",
       "category": "Motivational",
-      "author": "Johann Wolfgang Von Goethe",
+      "author": "C.S. Lewis",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -228,28 +228,28 @@
   ],
   "listens": [
     {
-      "id": 2620,
-      "title": "Jaiye Sajana (From \"Dhurandhar The Revenge\")",
-      "artist": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
+      "id": 2623,
+      "title": "Suniyan Suniyan",
+      "artist": "Juss, Mixsingh",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-03T21:46:45.000Z",
+      "listenDate": "2026-04-03T21:58:08.000Z",
       "trackNumber": null,
-      "createdAt": "2026-04-03T21:46:53.955Z",
-      "updatedAt": "2026-04-03T21:46:53.955Z"
+      "createdAt": "2026-04-03T21:58:18.586Z",
+      "updatedAt": "2026-04-03T21:58:18.586Z"
     }
   ],
   "github": {
-    "lastCommit": "2026-04-03T21:31:18Z",
+    "lastCommit": "2026-04-03T21:40:41Z",
     "recentRepos": [
+      {
+        "name": "jobsapi.ashish.me",
+        "pushedAt": "2026-04-03T21:40:59Z"
+      },
       {
         "name": "assets",
         "pushedAt": "2026-04-02T21:14:49Z"
-      },
-      {
-        "name": "jobsapi.ashish.me",
-        "pushedAt": "2026-04-02T17:55:01Z"
       },
       {
         "name": "wiki.ashish.me",
