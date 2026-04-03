@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 71,
-      "quote": "If you are working on something that you really care about, you do not have to be pushed. The vision pulls you.",
-      "category": "motivational",
-      "author": "Steve Jobs",
-      "createdAt": "2026-04-03T10:41:02.528Z",
-      "updatedAt": "2026-04-03T10:41:02.528Z"
+      "id": 12,
+      "quote": "In the middle of every difficulty lies opportunity.",
+      "category": "Motivational",
+      "author": "Albert Einstein",
+      "createdAt": "2026-04-02T18:29:36.110Z",
+      "updatedAt": "2026-04-02T18:29:36.110Z"
     }
   ],
   "shows": [
@@ -241,7 +241,7 @@
     }
   ],
   "github": {
-    "lastCommit": "2026-04-03T10:39:35Z",
+    "lastCommit": "2026-04-03T11:13:43Z",
     "recentRepos": [
       {
         "name": "assets",
