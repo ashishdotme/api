@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 23,
-      "quote": "Failure will never overtake me if my determination to succeed is strong enough.",
+      "id": 25,
+      "quote": "Knowing is not enough; we must apply. Wishing is not enough; we must do.",
       "category": "Motivational",
-      "author": "Og Mandino",
+      "author": "Johann Wolfgang Von Goethe",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -228,20 +228,20 @@
   ],
   "listens": [
     {
-      "id": 2616,
-      "title": "Attraction",
-      "artist": "Sukha, Prodgk",
+      "id": 2620,
+      "title": "Jaiye Sajana (From \"Dhurandhar The Revenge\")",
+      "artist": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-02T18:12:40.000Z",
+      "listenDate": "2026-04-03T21:46:45.000Z",
       "trackNumber": null,
-      "createdAt": "2026-04-02T18:12:51.767Z",
-      "updatedAt": "2026-04-02T18:12:51.767Z"
+      "createdAt": "2026-04-03T21:46:53.955Z",
+      "updatedAt": "2026-04-03T21:46:53.955Z"
     }
   ],
   "github": {
-    "lastCommit": "2026-04-03T11:13:43Z",
+    "lastCommit": "2026-04-03T21:31:18Z",
     "recentRepos": [
       {
         "name": "assets",

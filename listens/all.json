@@ -1,5 +1,53 @@
 [
   {
+    "id": 2620,
+    "title": "Jaiye Sajana (From \"Dhurandhar The Revenge\")",
+    "artist": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
+    "album": null,
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2026-04-03T21:46:45.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-04-03T21:46:53.955Z",
+    "updatedAt": "2026-04-03T21:46:53.955Z"
+  },
+  {
+    "id": 2619,
+    "title": "Destiny - Mann Atkeya (From \"Dhurandhar The Revenge\")",
+    "artist": "Shashwat Sachdev, Token, Vaibhav Gupta, Shahzad Ali, and Traditional",
+    "album": null,
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2026-04-03T21:46:14.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-04-03T21:46:25.498Z",
+    "updatedAt": "2026-04-03T21:46:25.498Z"
+  },
+  {
+    "id": 2618,
+    "title": "Jaan Se Guzarte Hain (From \"Dhurandhar The Revenge\")",
+    "artist": "Shashwat Sachdev, Khan Saab, Nusrat Fateh Ali Khan",
+    "album": null,
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2026-04-03T21:44:23.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-04-03T21:44:31.850Z",
+    "updatedAt": "2026-04-03T21:44:31.850Z"
+  },
+  {
+    "id": 2617,
+    "title": "Dhurandhar The Revenge - Aari Aari",
+    "artist": "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Token, Jasmine Sandlas, and Sudhir Yaduvanshi",
+    "album": null,
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2026-04-03T21:43:42.000Z",
+    "trackNumber": null,
+    "createdAt": "2026-04-03T21:43:51.418Z",
+    "updatedAt": "2026-04-03T21:43:51.418Z"
+  },
+  {
     "id": 2616,
     "title": "Attraction",
     "artist": "Sukha, Prodgk",
