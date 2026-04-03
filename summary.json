@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 19,
-      "quote": "Don't let yesterday take up too much of today.",
+      "id": 40,
+      "quote": "Life isn't about getting and having, it's about giving and being.",
       "category": "Motivational",
-      "author": "Will Rogers",
+      "author": "Kevin Kruse",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -241,11 +241,11 @@
     }
   ],
   "github": {
-    "lastCommit": "2026-04-03T21:40:41Z",
+    "lastCommit": "2026-04-03T23:09:18Z",
     "recentRepos": [
       {
         "name": "jobsapi.ashish.me",
-        "pushedAt": "2026-04-03T21:40:59Z"
+        "pushedAt": "2026-04-03T23:09:31Z"
       },
       {
         "name": "assets",
