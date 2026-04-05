@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11952,
-      "stepCount": 4641,
-      "date": "4/3/26",
-      "fullDate": "2026-04-03T00:00:00.000Z",
-      "createdAt": "2026-04-03T23:13:26.324Z",
-      "updatedAt": "2026-04-04T05:32:18.584Z"
+      "id": 11954,
+      "stepCount": 5778,
+      "date": "4/4/26",
+      "fullDate": "2026-04-04T00:00:00.000Z",
+      "createdAt": "2026-04-05T05:33:00.677Z",
+      "updatedAt": "2026-04-05T05:33:00.677Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 45,
-      "quote": "The mind is everything. What you think you become.",
+      "id": 50,
+      "quote": "A person who never made a mistake never tried anything new.",
       "category": "Motivational",
-      "author": "Buddha",
+      "author": "Albert Einstein",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
