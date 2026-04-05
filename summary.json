@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11954,
-      "stepCount": 5778,
-      "date": "4/4/26",
-      "fullDate": "2026-04-04T00:00:00.000Z",
-      "createdAt": "2026-04-05T05:33:00.677Z",
-      "updatedAt": "2026-04-05T05:33:00.677Z"
+      "id": 11955,
+      "stepCount": 6444,
+      "date": "4/5/26",
+      "fullDate": "2026-04-05T00:00:00.000Z",
+      "createdAt": "2026-04-05T23:05:09.547Z",
+      "updatedAt": "2026-04-05T23:05:09.547Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 5,
-      "quote": "Believe you can and you're halfway there.",
+      "id": 20,
+      "quote": "You learn more from failure than from success. Don't let it stop you. Failure builds character.",
       "category": "Motivational",
-      "author": "Theodore Roosevelt",
+      "author": "Unknown",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
