@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 17,
+      "quote": "I find that the harder I work, the more luck I seem to have.",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Thomas Jefferson",
+      "createdAt": "2026-04-02T18:29:36.110Z",
+      "updatedAt": "2026-04-02T18:29:36.110Z"
     }
   ],
   "shows": [
@@ -228,16 +228,16 @@
   ],
   "listens": [
     {
-      "id": 2639,
+      "id": 2644,
       "title": "Jaiye Sajana",
       "artist": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-06T14:36:18.820Z",
+      "listenDate": "2026-04-06T14:43:38.978Z",
       "trackNumber": null,
-      "createdAt": "2026-04-06T14:36:18.851Z",
-      "updatedAt": "2026-04-06T14:36:18.851Z"
+      "createdAt": "2026-04-06T14:43:39.201Z",
+      "updatedAt": "2026-04-06T14:43:39.201Z"
     }
   ],
   "github": {
