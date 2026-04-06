@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 4,
-      "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "id": 31,
+      "quote": "You miss 100% of the shots you don't take.",
       "category": "Motivational",
-      "author": "Winston Churchill",
+      "author": "Wayne Gretzky",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -231,17 +231,19 @@
       "id": 2679,
       "title": "Main Aur Tu",
       "artist": "Shashwat Sachdev, Jasmine Sandlas, Reble",
+      "artistNormalized": "shashwat sachdev, jasmine sandlas, reble",
       "album": null,
       "releaseYear": null,
       "genre": null,
       "listenDate": "2026-04-06T18:08:17.000Z",
+      "titleNormalized": "main aur tu",
       "trackNumber": null,
       "createdAt": "2026-04-06T18:08:20.210Z",
       "updatedAt": "2026-04-06T18:08:20.210Z"
     }
   ],
   "github": {
-    "lastCommit": "2026-04-03T23:09:18Z",
+    "lastCommit": "2026-04-06T18:11:44Z",
     "recentRepos": [
       {
         "name": "jobsapi.ashish.me",
