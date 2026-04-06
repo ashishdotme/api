@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 39,
+      "quote": "Definiteness of purpose is the starting point of all achievement.",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "W. Clement Stone",
+      "createdAt": "2026-04-02T18:29:36.110Z",
+      "updatedAt": "2026-04-02T18:29:36.110Z"
     }
   ],
   "shows": [
@@ -228,16 +228,16 @@
   ],
   "listens": [
     {
-      "id": 2672,
-      "title": "Sahiba",
-      "artist": "Aditya Rikhari",
+      "id": 2675,
+      "title": "Saadi Galli Aaja",
+      "artist": "Ayushmann Khurrana, Neeti Mohan",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-06T16:21:39.974Z",
+      "listenDate": "2026-04-06T16:29:50.066Z",
       "trackNumber": null,
-      "createdAt": "2026-04-06T16:21:40.012Z",
-      "updatedAt": "2026-04-06T16:21:40.012Z"
+      "createdAt": "2026-04-06T16:29:50.097Z",
+      "updatedAt": "2026-04-06T16:29:50.097Z"
     }
   ],
   "github": {
