@@ -1,15 +1,15 @@
 [
   {
-    "id": 2678,
+    "id": 2679,
     "title": "Main Aur Tu",
     "artist": "Shashwat Sachdev, Jasmine Sandlas, Reble",
     "album": null,
     "releaseYear": null,
     "genre": null,
-    "listenDate": "2026-04-06T17:54:35.925Z",
+    "listenDate": "2026-04-06T18:08:17.000Z",
     "trackNumber": null,
-    "createdAt": "2026-04-06T17:54:35.959Z",
-    "updatedAt": "2026-04-06T17:54:35.959Z"
+    "createdAt": "2026-04-06T18:08:20.210Z",
+    "updatedAt": "2026-04-06T18:08:20.210Z"
   },
   {
     "id": 2677,
@@ -22,18 +22,6 @@
     "trackNumber": null,
     "createdAt": "2026-04-06T17:54:33.945Z",
     "updatedAt": "2026-04-06T17:54:33.945Z"
-  },
-  {
-    "id": 2676,
-    "title": "Jaiye Sajana",
-    "artist": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
-    "album": null,
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2026-04-06T17:52:00.988Z",
-    "trackNumber": null,
-    "createdAt": "2026-04-06T17:52:01.143Z",
-    "updatedAt": "2026-04-06T17:52:01.143Z"
   },
   {
     "id": 2675,
@@ -72,18 +60,6 @@
     "updatedAt": "2026-04-06T16:24:50.175Z"
   },
   {
-    "id": 2672,
-    "title": "Sahiba",
-    "artist": "Aditya Rikhari",
-    "album": null,
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2026-04-06T16:21:39.974Z",
-    "trackNumber": null,
-    "createdAt": "2026-04-06T16:21:40.012Z",
-    "updatedAt": "2026-04-06T16:21:40.012Z"
-  },
-  {
     "id": 2671,
     "title": "Jaan Se Guzarte Hain",
     "artist": "Shashwat Sachdev, Khan Saab",
@@ -108,18 +84,6 @@
     "updatedAt": "2026-04-06T16:16:04.943Z"
   },
   {
-    "id": 2669,
-    "title": "Dhurandhar The Revenge - Aari Aari",
-    "artist": "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi",
-    "album": null,
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2026-04-06T16:12:34.979Z",
-    "trackNumber": null,
-    "createdAt": "2026-04-06T16:12:35.015Z",
-    "updatedAt": "2026-04-06T16:12:35.015Z"
-  },
-  {
     "id": 2668,
     "title": "Main Aur Tu",
     "artist": "Shashwat Sachdev, Jasmine Sandlas, Reble",
@@ -142,18 +106,6 @@
     "trackNumber": null,
     "createdAt": "2026-04-06T16:09:03.725Z",
     "updatedAt": "2026-04-06T16:09:03.725Z"
-  },
-  {
-    "id": 2666,
-    "title": "Destiny - Mann Atkeya",
-    "artist": "Shashwat Sachdev, Token, Vaibhav Gupta, Shahzad Ali",
-    "album": null,
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2026-04-06T16:05:19.887Z",
-    "trackNumber": null,
-    "createdAt": "2026-04-06T16:05:19.921Z",
-    "updatedAt": "2026-04-06T16:05:19.921Z"
   },
   {
     "id": 2665,
@@ -216,30 +168,6 @@
     "updatedAt": "2026-04-06T15:58:27.136Z"
   },
   {
-    "id": 2660,
-    "title": "Do Pall",
-    "artist": "Coachsahb, Asa Singh Mastana, Surinder Kaur",
-    "album": null,
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2026-04-06T15:54:59.859Z",
-    "trackNumber": null,
-    "createdAt": "2026-04-06T15:54:59.894Z",
-    "updatedAt": "2026-04-06T15:54:59.894Z"
-  },
-  {
-    "id": 2658,
-    "title": "Afsos",
-    "artist": "Anuv Jain, AP Dhillon",
-    "album": null,
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2026-04-06T15:51:44.856Z",
-    "trackNumber": null,
-    "createdAt": "2026-04-06T15:51:45.181Z",
-    "updatedAt": "2026-04-06T15:51:45.181Z"
-  },
-  {
     "id": 2659,
     "title": "Pani Da Rang - Male",
     "artist": "Ayushmann Khurrana, Rochak Kohli",
@@ -250,18 +178,6 @@
     "trackNumber": null,
     "createdAt": "2026-04-06T15:51:46.125Z",
     "updatedAt": "2026-04-06T15:51:46.125Z"
-  },
-  {
-    "id": 2657,
-    "title": "Pani Da Rang - Male",
-    "artist": "Ayushmann Khurrana, Rochak Kohli",
-    "album": null,
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2026-04-06T15:47:44.830Z",
-    "trackNumber": null,
-    "createdAt": "2026-04-06T15:47:44.865Z",
-    "updatedAt": "2026-04-06T15:47:44.865Z"
   },
   {
     "id": 2656,
@@ -372,18 +288,6 @@
     "updatedAt": "2026-04-06T15:22:30.819Z"
   },
   {
-    "id": 2647,
-    "title": "Too Close",
-    "artist": "Alex Clare",
-    "album": null,
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2026-04-06T15:18:49.488Z",
-    "trackNumber": null,
-    "createdAt": "2026-04-06T15:18:49.518Z",
-    "updatedAt": "2026-04-06T15:18:49.518Z"
-  },
-  {
     "id": 2646,
     "title": "Gravity",
     "artist": "Sara Bareilles",
@@ -394,18 +298,6 @@
     "trackNumber": null,
     "createdAt": "2026-04-06T15:18:47.208Z",
     "updatedAt": "2026-04-06T15:18:47.208Z"
-  },
-  {
-    "id": 2645,
-    "title": "Gravity",
-    "artist": "Sara Bareilles",
-    "album": null,
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2026-04-06T15:15:14.496Z",
-    "trackNumber": null,
-    "createdAt": "2026-04-06T15:15:14.581Z",
-    "updatedAt": "2026-04-06T15:15:14.581Z"
   },
   {
     "id": 2644,
@@ -492,18 +384,6 @@
     "updatedAt": "2026-04-06T14:36:15.778Z"
   },
   {
-    "id": 2637,
-    "title": "Everything Has Grown",
-    "artist": "Colouring",
-    "album": null,
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2026-04-06T14:32:23.796Z",
-    "trackNumber": null,
-    "createdAt": "2026-04-06T14:32:23.831Z",
-    "updatedAt": "2026-04-06T14:32:23.831Z"
-  },
-  {
     "id": 2636,
     "title": "All I Need",
     "artist": "Within Temptation",
@@ -528,18 +408,6 @@
     "updatedAt": "2026-04-06T14:26:18.805Z"
   },
   {
-    "id": 2634,
-    "title": "A Drop in the Ocean",
-    "artist": "Ron Pope",
-    "album": null,
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2026-04-06T14:26:16.000Z",
-    "trackNumber": null,
-    "createdAt": "2026-04-06T14:26:18.583Z",
-    "updatedAt": "2026-04-06T14:26:18.583Z"
-  },
-  {
     "id": 2632,
     "title": "A Drop in the Ocean",
     "artist": "Ron Pope",
@@ -562,18 +430,6 @@
     "trackNumber": null,
     "createdAt": "2026-04-06T14:22:38.915Z",
     "updatedAt": "2026-04-06T14:22:38.915Z"
-  },
-  {
-    "id": 2631,
-    "title": "Never Let Me Go",
-    "artist": "Florence + The Machine",
-    "album": null,
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2026-04-06T14:18:43.759Z",
-    "trackNumber": null,
-    "createdAt": "2026-04-06T14:18:43.890Z",
-    "updatedAt": "2026-04-06T14:18:43.890Z"
   },
   {
     "id": 2630,
@@ -3192,18 +3048,6 @@
     "updatedAt": "2026-02-11T12:52:10.839Z"
   },
   {
-    "id": 2412,
-    "title": "Afsos",
-    "artist": "Anuv Jain, AP Dhillon",
-    "album": null,
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2026-02-11T12:48:46.000Z",
-    "trackNumber": null,
-    "createdAt": "2026-02-11T12:48:57.485Z",
-    "updatedAt": "2026-02-11T12:48:57.485Z"
-  },
-  {
     "id": 2411,
     "title": "Paro x Maand - Shubhadip Dey & Vibevik - (Lyrics)",
     "artist": "TribleTunes",
@@ -5436,18 +5280,6 @@
     "updatedAt": "2025-11-18T10:20:25.859Z"
   },
   {
-    "id": 2216,
-    "title": "Aayi Nai",
-    "artist": "Sachin-Jigar",
-    "album": "Stree 2",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2025-11-18T10:17:21.000Z",
-    "trackNumber": null,
-    "createdAt": "2025-11-18T10:17:23.610Z",
-    "updatedAt": "2025-11-18T10:17:23.610Z"
-  },
-  {
     "id": 2215,
     "title": "Tumhare Hi Rahenge Hum",
     "artist": "Sachin-Jigar",
@@ -7018,18 +6850,6 @@
     "trackNumber": null,
     "createdAt": "2025-07-10T09:09:10.905Z",
     "updatedAt": "2025-07-10T09:09:10.905Z"
-  },
-  {
-    "id": 2096,
-    "title": "Aap Ki Ankhon Mein Kuch",
-    "artist": "Kishore Kumar",
-    "album": "Remembering Lata Mangeshkar",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2025-07-10T09:05:43.000Z",
-    "trackNumber": null,
-    "createdAt": "2025-07-19T15:20:40.426Z",
-    "updatedAt": "2025-07-19T15:20:40.426Z"
   },
   {
     "id": 2055,
@@ -9118,18 +8938,6 @@
     "trackNumber": null,
     "createdAt": "2025-04-20T18:31:41.237Z",
     "updatedAt": "2025-04-20T18:31:41.237Z"
-  },
-  {
-    "id": 1855,
-    "title": "Admirin' You (feat. Preston Pablo)",
-    "artist": "Karan Aujla",
-    "album": "Making Memories",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2025-04-15T22:34:37.000Z",
-    "trackNumber": null,
-    "createdAt": "2025-04-16T12:58:47.406Z",
-    "updatedAt": "2025-04-16T12:58:47.406Z"
   },
   {
     "id": 1854,
@@ -13500,18 +13308,6 @@
     "updatedAt": "2025-03-23T10:18:19.316Z"
   },
   {
-    "id": 1481,
-    "title": "Aaja Piya Tohe Pyar Doon",
-    "artist": "Lata Mangeshkar",
-    "album": "Lata Surili Phuljhadi",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2025-03-23T10:13:43.000Z",
-    "trackNumber": null,
-    "createdAt": "2025-03-23T10:13:44.478Z",
-    "updatedAt": "2025-03-23T10:13:44.478Z"
-  },
-  {
     "id": 1480,
     "title": "Millionaire",
     "artist": "Yo Yo Honey Singh",
@@ -13716,18 +13512,6 @@
     "updatedAt": "2025-03-18T17:54:00.333Z"
   },
   {
-    "id": 1463,
-    "title": "Aarambh",
-    "artist": "Piyush Mishra",
-    "album": "Gulaal",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2025-03-18T17:51:17.000Z",
-    "trackNumber": null,
-    "createdAt": "2025-03-18T17:51:19.793Z",
-    "updatedAt": "2025-03-18T17:51:19.793Z"
-  },
-  {
     "id": 1462,
     "title": "Raanjhan (From \"Do Patti\")",
     "artist": "Sachet-Parampara",
@@ -13810,18 +13594,6 @@
     "trackNumber": null,
     "createdAt": "2025-03-15T16:58:31.589Z",
     "updatedAt": "2025-03-15T16:58:31.589Z"
-  },
-  {
-    "id": 1455,
-    "title": "Aarambh",
-    "artist": "Piyush Mishra",
-    "album": "Gulaal",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2025-03-15T16:55:57.000Z",
-    "trackNumber": null,
-    "createdAt": "2025-03-15T16:55:59.050Z",
-    "updatedAt": "2025-03-15T16:55:59.050Z"
   },
   {
     "id": 1454,
@@ -13990,18 +13762,6 @@
     "trackNumber": null,
     "createdAt": "2025-03-15T03:19:36.661Z",
     "updatedAt": "2025-03-15T03:19:36.661Z"
-  },
-  {
-    "id": 1440,
-    "title": "12 Bande",
-    "artist": "Varinder Brar",
-    "album": "12 Bande",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2025-03-14T18:27:25.000Z",
-    "trackNumber": null,
-    "createdAt": "2025-03-14T18:27:27.212Z",
-    "updatedAt": "2025-03-14T18:27:27.212Z"
   },
   {
     "id": 1439,
@@ -17064,18 +16824,6 @@
     "updatedAt": "2024-12-18T16:01:20.801Z"
   },
   {
-    "id": 1184,
-    "title": "Aaj Ki Raat",
-    "artist": "Alisha Chinai",
-    "album": "Don",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-12-17T18:42:06.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-12-17T18:42:07.409Z",
-    "updatedAt": "2024-12-17T18:42:07.409Z"
-  },
-  {
     "id": 1183,
     "title": "Aaj Ki Raat",
     "artist": "Alisha Chinai",
@@ -17856,18 +17604,6 @@
     "updatedAt": "2024-12-03T16:48:47.025Z"
   },
   {
-    "id": 1147,
-    "title": "After Midnight",
-    "artist": "Andy James",
-    "album": "Arrival",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-12-03T16:48:43.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-12-16T09:18:01.770Z",
-    "updatedAt": "2024-12-16T09:18:01.770Z"
-  },
-  {
     "id": 1101,
     "title": "Magic",
     "artist": "Olympic Ayres",
@@ -18154,18 +17890,6 @@
     "trackNumber": null,
     "createdAt": "2024-12-02T15:35:08.498Z",
     "updatedAt": "2024-12-02T15:35:08.498Z"
-  },
-  {
-    "id": 1134,
-    "title": "Abhi Kuch Dino Se",
-    "artist": "Pritam",
-    "album": "Dil Toh Baccha Hai Ji",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-12-02T15:35:06.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-12-16T09:17:44.734Z",
-    "updatedAt": "2024-12-16T09:17:44.734Z"
   },
   {
     "id": 1089,
@@ -19260,18 +18984,6 @@
     "updatedAt": "2024-11-24T15:08:58.385Z"
   },
   {
-    "id": 1001,
-    "title": "Abhi Kuch Dino Se",
-    "artist": "Pritam",
-    "album": "Dil Toh Baccha Hai Ji",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-11-24T15:03:41.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-11-24T15:03:43.453Z",
-    "updatedAt": "2024-11-24T15:03:43.453Z"
-  },
-  {
     "id": 1000,
     "title": "Dil Ye Bekarar Kyun Hai",
     "artist": "Pritam",
@@ -19536,18 +19248,6 @@
     "updatedAt": "2024-11-17T19:26:29.989Z"
   },
   {
-    "id": 978,
-    "title": "After Midnight",
-    "artist": "Andy James",
-    "album": "Arrival",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-11-17T19:22:38.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-11-17T19:22:41.122Z",
-    "updatedAt": "2024-11-17T19:22:41.122Z"
-  },
-  {
     "id": 977,
     "title": "Daddy Cool",
     "artist": "Boney M.",
@@ -19630,18 +19330,6 @@
     "trackNumber": null,
     "createdAt": "2024-11-17T18:52:44.423Z",
     "updatedAt": "2024-11-17T18:52:44.423Z"
-  },
-  {
-    "id": 970,
-    "title": "Afterhours",
-    "artist": "Bir",
-    "album": "Afterhours",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-11-17T17:40:51.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-11-17T17:40:52.590Z",
-    "updatedAt": "2024-11-17T17:40:52.590Z"
   },
   {
     "id": 969,
@@ -19812,18 +19500,6 @@
     "updatedAt": "2024-11-12T17:46:09.159Z"
   },
   {
-    "id": 955,
-    "title": "10:35",
-    "artist": "Tiësto",
-    "album": "10:35",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-11-11T17:25:32.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-11-11T17:25:34.680Z",
-    "updatedAt": "2024-11-11T17:25:34.680Z"
-  },
-  {
     "id": 954,
     "title": "Black Friday (pretty like the sun)",
     "artist": "Lost Frequencies",
@@ -19882,18 +19558,6 @@
     "trackNumber": null,
     "createdAt": "2024-11-11T17:11:07.065Z",
     "updatedAt": "2024-11-11T17:11:07.065Z"
-  },
-  {
-    "id": 949,
-    "title": "10:35",
-    "artist": "Tiësto",
-    "album": "10:35",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-11-11T17:08:43.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-11-11T17:08:44.529Z",
-    "updatedAt": "2024-11-11T17:08:44.529Z"
   },
   {
     "id": 948,
@@ -20220,18 +19884,6 @@
     "updatedAt": "2024-11-09T12:50:30.490Z"
   },
   {
-    "id": 921,
-    "title": "10:35",
-    "artist": "Tiësto",
-    "album": "10:35",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-11-09T12:47:55.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-11-09T12:47:55.946Z",
-    "updatedAt": "2024-11-09T12:47:55.946Z"
-  },
-  {
     "id": 920,
     "title": "Belly Dancer",
     "artist": "Imanbek",
@@ -20242,18 +19894,6 @@
     "trackNumber": null,
     "createdAt": "2024-11-09T12:45:15.265Z",
     "updatedAt": "2024-11-09T12:45:15.265Z"
-  },
-  {
-    "id": 919,
-    "title": "10:35",
-    "artist": "Tiësto",
-    "album": "10:35",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-11-09T12:43:21.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-11-09T12:43:22.699Z",
-    "updatedAt": "2024-11-09T12:43:22.699Z"
   },
   {
     "id": 918,
@@ -20374,18 +20014,6 @@
     "trackNumber": null,
     "createdAt": "2024-11-08T16:31:11.145Z",
     "updatedAt": "2024-11-08T16:31:11.145Z"
-  },
-  {
-    "id": 908,
-    "title": "10:35",
-    "artist": "Tiësto",
-    "album": "10:35",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-11-08T16:29:59.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-11-08T16:30:00.626Z",
-    "updatedAt": "2024-11-08T16:30:00.626Z"
   },
   {
     "id": 907,
@@ -20566,18 +20194,6 @@
     "trackNumber": null,
     "createdAt": "2024-11-08T15:39:14.437Z",
     "updatedAt": "2024-11-08T15:39:14.437Z"
-  },
-  {
-    "id": 892,
-    "title": "Afterhours",
-    "artist": "Bir",
-    "album": "Afterhours",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-11-08T15:37:41.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-11-08T15:37:41.649Z",
-    "updatedAt": "2024-11-08T15:37:41.649Z"
   },
   {
     "id": 891,
@@ -21252,18 +20868,6 @@
     "updatedAt": "2024-11-06T13:18:34.693Z"
   },
   {
-    "id": 784,
-    "title": "10:35",
-    "artist": "Tiësto",
-    "album": "10:35",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-10-26T11:04:44.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-11-06T13:18:33.384Z",
-    "updatedAt": "2024-11-06T13:18:33.384Z"
-  },
-  {
     "id": 740,
     "title": "MONTAGEM - PR FUNK",
     "artist": "S3BZS",
@@ -21274,18 +20878,6 @@
     "trackNumber": null,
     "createdAt": "2024-10-26T11:02:06.988Z",
     "updatedAt": "2024-10-26T11:02:06.988Z"
-  },
-  {
-    "id": 783,
-    "title": "10:35",
-    "artist": "Tiësto",
-    "album": "10:35",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-10-26T11:01:20.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-11-06T13:18:32.056Z",
-    "updatedAt": "2024-11-06T13:18:32.056Z"
   },
   {
     "id": 738,
@@ -23280,18 +22872,6 @@
     "updatedAt": "2024-10-13T13:38:31.742Z"
   },
   {
-    "id": 580,
-    "title": "10:35",
-    "artist": "Tiësto",
-    "album": "10:35",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-10-13T13:35:56.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-10-13T13:35:59.076Z",
-    "updatedAt": "2024-10-13T13:35:59.076Z"
-  },
-  {
     "id": 579,
     "title": "Paint The Town Red",
     "artist": "Doja Cat",
@@ -23662,18 +23242,6 @@
     "trackNumber": null,
     "createdAt": "2024-10-12T15:07:02.105Z",
     "updatedAt": "2024-10-12T15:07:02.105Z"
-  },
-  {
-    "id": 548,
-    "title": "10:35",
-    "artist": "Tiësto",
-    "album": "10:35",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-10-12T15:05:07.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-10-12T15:05:09.517Z",
-    "updatedAt": "2024-10-12T15:05:09.517Z"
   },
   {
     "id": 547,
@@ -24600,18 +24168,6 @@
     "updatedAt": "2024-10-02T19:20:31.628Z"
   },
   {
-    "id": 470,
-    "title": "10:35",
-    "artist": "Tiësto",
-    "album": "10:35",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-10-02T19:18:20.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-10-02T19:18:22.277Z",
-    "updatedAt": "2024-10-02T19:18:22.277Z"
-  },
-  {
     "id": 469,
     "title": "Goosebumps - Remix",
     "artist": "Travis Scott",
@@ -25414,18 +24970,6 @@
     "trackNumber": null,
     "createdAt": "2024-09-28T11:25:16.020Z",
     "updatedAt": "2024-09-28T11:25:16.020Z"
-  },
-  {
-    "id": 362,
-    "title": "Aadha Ishq",
-    "artist": "Salim–Sulaiman",
-    "album": "Band Baaja Baaraat",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-09-28T11:25:12.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-09-29T16:22:20.101Z",
-    "updatedAt": "2024-09-29T16:22:20.101Z"
   },
   {
     "id": 313,
@@ -28066,18 +27610,6 @@
     "trackNumber": null,
     "createdAt": "2024-09-09T14:12:42.996Z",
     "updatedAt": "2024-09-09T14:12:42.996Z"
-  },
-  {
-    "id": 138,
-    "title": "Aaj Ki Raat (From \"Stree 2\")",
-    "artist": "Sachin-Jigar",
-    "album": "Aaj Ki Raat (From \"Stree 2\")",
-    "releaseYear": null,
-    "genre": null,
-    "listenDate": "2024-09-09T14:09:31.000Z",
-    "trackNumber": null,
-    "createdAt": "2024-09-09T14:09:32.037Z",
-    "updatedAt": "2024-09-09T14:09:32.037Z"
   },
   {
     "id": 137,
