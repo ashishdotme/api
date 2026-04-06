@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 17,
-      "quote": "I find that the harder I work, the more luck I seem to have.",
+      "id": 31,
+      "quote": "You miss 100% of the shots you don't take.",
       "category": "Motivational",
-      "author": "Thomas Jefferson",
+      "author": "Wayne Gretzky",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -228,16 +228,16 @@
   ],
   "listens": [
     {
-      "id": 2644,
-      "title": "Jaiye Sajana",
-      "artist": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
+      "id": 2648,
+      "title": "Say (All I Need)",
+      "artist": "OneRepublic",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-06T14:43:38.978Z",
+      "listenDate": "2026-04-06T15:22:29.582Z",
       "trackNumber": null,
-      "createdAt": "2026-04-06T14:43:39.201Z",
-      "updatedAt": "2026-04-06T14:43:39.201Z"
+      "createdAt": "2026-04-06T15:22:29.986Z",
+      "updatedAt": "2026-04-06T15:22:29.986Z"
     }
   ],
   "github": {
