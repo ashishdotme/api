@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11956,
-      "stepCount": 459,
-      "date": "4/6/26",
-      "fullDate": "2026-04-06T00:00:00.000Z",
-      "createdAt": "2026-04-07T00:16:57.857Z",
-      "updatedAt": "2026-04-07T00:16:57.857Z"
+      "id": 11957,
+      "stepCount": 1767,
+      "date": "4/7/26",
+      "fullDate": "2026-04-07T00:00:00.000Z",
+      "createdAt": "2026-04-07T17:55:18.886Z",
+      "updatedAt": "2026-04-07T17:55:18.886Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 44,
-      "quote": "The most common way people give up their power is by thinking they don't have any.",
+      "id": 42,
+      "quote": "I attribute my success to this: I never gave or took any excuse.",
       "category": "Motivational",
-      "author": "Alice Walker",
+      "author": "Florence Nightingale",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
