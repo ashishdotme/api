@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11955,
-      "stepCount": 6445,
-      "date": "4/5/26",
-      "fullDate": "2026-04-05T00:00:00.000Z",
-      "createdAt": "2026-04-05T23:05:09.547Z",
-      "updatedAt": "2026-04-06T07:01:30.269Z"
+      "id": 11956,
+      "stepCount": 459,
+      "date": "4/6/26",
+      "fullDate": "2026-04-06T00:00:00.000Z",
+      "createdAt": "2026-04-07T00:16:57.857Z",
+      "updatedAt": "2026-04-07T00:16:57.857Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 30,
-      "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "id": 8,
+      "quote": "Everything you've ever wanted is on the other side of fear.",
       "category": "Motivational",
-      "author": "Ralph Waldo Emerson",
+      "author": "George Addair",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
