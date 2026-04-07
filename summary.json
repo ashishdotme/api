@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 15,
-      "quote": "The way to get started is to quit talking and begin doing.",
+      "id": 6,
+      "quote": "The future belongs to those who believe in the beauty of their dreams.",
       "category": "Motivational",
-      "author": "Walt Disney",
+      "author": "Eleanor Roosevelt",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -105,22 +105,22 @@
   ],
   "movies": [
     {
-      "id": 294,
-      "title": "Kasoor",
-      "description": "The film starts with the murder of Priti (Divya Dutta), wife of Shekhar (Aftab Shivdasani), a well-known journalist. Inspector Lokhande (Ashutosh Rana) investigates the case and accuses Shekhar of the murder, saying he has enough evidences to arrest him. Upon getting bail from the court, Shekhar's lawyer tells him that he will not be able to fight his case because he is a corporate lawyer. He asks him to contact Simran Bhargav (Lisa Ray), who is a criminal lawyer to fight his case.",
-      "review": 4,
-      "note": "I found the film too slow, but I guess that's expected from an older Bollywood movie. The twist was predictable and dull, but the songs were excellent. I'd say it's worth watching for the music alone.",
-      "language": "Hindi",
-      "year": 2001,
-      "genre": "Drama, Mystery, Thriller",
-      "posterUrl": "https://image.tmdb.org/t/p/w200/szT2yDKj5MUNBovMS1l69Boh8o0.jpg",
-      "viewingDate": "2026-04-02T00:00:00.000Z",
+      "id": 296,
+      "title": "3-Iron",
+      "description": "A drifter lives in people's houses while they are away and repays them by doing chores for them. His life changes when he meets a beautiful woman who wants to escape her unhappy marriage.",
+      "review": 8,
+      "note": "",
+      "language": "Korean",
+      "year": 2004,
+      "genre": "Drama, Romance, Crime",
+      "posterUrl": "https://image.tmdb.org/t/p/w200/mejeTOe8aGWyAAjaGj7Mi66Vtfc.jpg",
+      "viewingDate": "2026-04-07T00:00:00.000Z",
       "loved": true,
       "imdbRating": "0.0",
-      "imdbId": "tt0272688",
-      "tmdbId": 136615,
-      "createdAt": "2026-04-03T21:18:53.802Z",
-      "updatedAt": "2026-04-03T21:18:53.802Z"
+      "imdbId": "tt0423866",
+      "tmdbId": 1280,
+      "createdAt": "2026-04-07T21:53:04.406Z",
+      "updatedAt": "2026-04-07T21:53:04.406Z"
     }
   ],
   "tasks": [
