@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 11,
-      "quote": "The only impossible journey is the one you never begin.",
+      "id": 50,
+      "quote": "A person who never made a mistake never tried anything new.",
       "category": "Motivational",
-      "author": "Tony Robbins",
+      "author": "Albert Einstein",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -228,18 +228,18 @@
   ],
   "listens": [
     {
-      "id": 2685,
-      "title": "Hass Hass",
-      "artist": "Diljit Dosanjh, Sia, Greg Kurstin",
-      "artistNormalized": "diljit dosanjh, sia, greg kurstin",
+      "id": 2690,
+      "title": "Pal Pal",
+      "artist": "Afusic, AliSoomroMusic",
+      "artistNormalized": "afusic, alisoomromusic",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-08T22:36:26.000Z",
-      "titleNormalized": "hass hass",
+      "listenDate": "2026-04-08T22:50:58.000Z",
+      "titleNormalized": "pal pal",
       "trackNumber": null,
-      "createdAt": "2026-04-08T22:36:36.215Z",
-      "updatedAt": "2026-04-08T22:36:36.215Z"
+      "createdAt": "2026-04-08T22:51:08.091Z",
+      "updatedAt": "2026-04-08T22:51:08.091Z"
     }
   ],
   "github": {
