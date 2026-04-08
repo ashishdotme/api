@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 42,
-      "quote": "I attribute my success to this: I never gave or took any excuse.",
+      "id": 13,
+      "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
       "category": "Motivational",
-      "author": "Florence Nightingale",
+      "author": "Zig Ziglar",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -228,18 +228,18 @@
   ],
   "listens": [
     {
-      "id": 2679,
-      "title": "Main Aur Tu",
-      "artist": "Shashwat Sachdev, Jasmine Sandlas, Reble",
-      "artistNormalized": "shashwat sachdev, jasmine sandlas, reble",
+      "id": 2681,
+      "title": "Jaan Se Guzarte Hain",
+      "artist": "Shashwat Sachdev, Khan Saab",
+      "artistNormalized": "shashwat sachdev, khan saab",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-06T18:08:17.000Z",
-      "titleNormalized": "main aur tu",
+      "listenDate": "2026-04-08T14:28:49.149Z",
+      "titleNormalized": "jaan se guzarte hain",
       "trackNumber": null,
-      "createdAt": "2026-04-06T18:08:20.210Z",
-      "updatedAt": "2026-04-06T18:08:20.210Z"
+      "createdAt": "2026-04-08T14:28:49.376Z",
+      "updatedAt": "2026-04-08T14:28:49.376Z"
     }
   ],
   "github": {
