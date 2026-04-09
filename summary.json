@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11958,
-      "stepCount": 138,
-      "date": "4/8/26",
-      "fullDate": "2026-04-08T00:00:00.000Z",
-      "createdAt": "2026-04-09T01:11:43.062Z",
-      "updatedAt": "2026-04-09T01:11:43.062Z"
+      "id": 11959,
+      "stepCount": 1020,
+      "date": "4/9/26",
+      "fullDate": "2026-04-09T00:00:00.000Z",
+      "createdAt": "2026-04-09T23:06:23.245Z",
+      "updatedAt": "2026-04-09T23:06:23.245Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 5,
-      "quote": "Believe you can and you're halfway there.",
+      "id": 30,
+      "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
       "category": "Motivational",
-      "author": "Theodore Roosevelt",
+      "author": "Ralph Waldo Emerson",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
