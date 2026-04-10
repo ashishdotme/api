@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 47,
-      "quote": "Do one thing every day that scares you.",
+      "id": 25,
+      "quote": "Knowing is not enough; we must apply. Wishing is not enough; we must do.",
       "category": "Motivational",
-      "author": "Eleanor Roosevelt",
+      "author": "Johann Wolfgang Von Goethe",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -105,22 +105,22 @@
   ],
   "movies": [
     {
-      "id": 296,
-      "title": "3-Iron",
-      "description": "A drifter lives in people's houses while they are away and repays them by doing chores for them. His life changes when he meets a beautiful woman who wants to escape her unhappy marriage.",
-      "review": 8,
-      "note": "",
-      "language": "Korean",
-      "year": 2004,
-      "genre": "Drama, Romance, Crime",
-      "posterUrl": "https://image.tmdb.org/t/p/w200/mejeTOe8aGWyAAjaGj7Mi66Vtfc.jpg",
-      "viewingDate": "2026-04-07T00:00:00.000Z",
-      "loved": true,
-      "imdbRating": "0.0",
-      "imdbId": "tt0423866",
-      "tmdbId": 1280,
-      "createdAt": "2026-04-07T21:53:04.406Z",
-      "updatedAt": "2026-04-07T21:53:04.406Z"
+      "id": 297,
+      "title": "Good Night",
+      "description": "A simple boy-next-door whose biggest problem in life is his snoring, falls in love with a girl. Follow how the couple overcome his sleeping problem while living together.",
+      "review": null,
+      "note": null,
+      "language": "English",
+      "year": 2023,
+      "genre": "Comedy, Drama, Romance",
+      "posterUrl": null,
+      "viewingDate": "2026-04-10T00:00:00.000Z",
+      "loved": false,
+      "imdbRating": "7.7",
+      "imdbId": "tt26691319",
+      "tmdbId": null,
+      "createdAt": "2026-04-10T21:43:20.490Z",
+      "updatedAt": "2026-04-10T21:43:20.490Z"
     }
   ],
   "tasks": [
