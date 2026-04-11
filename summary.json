@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 32,
-      "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "id": 14,
+      "quote": "You are never too old to set another goal or to dream a new dream.",
       "category": "Motivational",
-      "author": "Chinese Proverb",
+      "author": "C.S. Lewis",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -243,8 +243,12 @@
     }
   ],
   "github": {
-    "lastCommit": "2026-04-11T14:07:31Z",
+    "lastCommit": "2026-04-11T14:53:27Z",
     "recentRepos": [
+      {
+        "name": "wiki.ashish.me",
+        "pushedAt": "2026-04-11T14:55:06Z"
+      },
       {
         "name": "blog",
         "pushedAt": "2026-04-09T00:30:22Z"
@@ -256,10 +260,6 @@
       {
         "name": "jobsapi.ashish.me",
         "pushedAt": "2026-04-03T23:09:31Z"
-      },
-      {
-        "name": "wiki.ashish.me",
-        "pushedAt": "2026-03-31T20:36:15Z"
       },
       {
         "name": "mdbook-summary-tools",
