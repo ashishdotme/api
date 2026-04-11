@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 14,
-      "quote": "You are never too old to set another goal or to dream a new dream.",
+      "id": 52,
+      "quote": "It is never too late to be what you might have been.",
       "category": "Motivational",
-      "author": "C.S. Lewis",
+      "author": "George Eliot",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -105,22 +105,22 @@
   ],
   "movies": [
     {
-      "id": 297,
-      "title": "Good Night",
-      "description": "A simple boy-next-door whose biggest problem in life is his snoring, falls in love with a girl. Follow how the couple overcome his sleeping problem while living together.",
+      "id": 298,
+      "title": "Love Per Square Foot",
+      "description": "Individually, Sanjay and Karina don't earn enough to be able to buy a home, so they enter into a marriage of convenience.",
       "review": null,
       "note": null,
       "language": "English",
-      "year": 2023,
-      "genre": "Comedy, Drama, Romance",
+      "year": 2018,
+      "genre": "Comedy, Romance",
       "posterUrl": null,
-      "viewingDate": "2026-04-10T00:00:00.000Z",
+      "viewingDate": "2026-04-11T00:00:00.000Z",
       "loved": false,
-      "imdbRating": "7.7",
-      "imdbId": "tt26691319",
+      "imdbRating": "7.1",
+      "imdbId": "tt7853242",
       "tmdbId": null,
-      "createdAt": "2026-04-10T21:43:20.490Z",
-      "updatedAt": "2026-04-10T21:43:20.490Z"
+      "createdAt": "2026-04-11T17:57:15.728Z",
+      "updatedAt": "2026-04-11T17:57:15.728Z"
     }
   ],
   "tasks": [
