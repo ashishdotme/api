@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 12,
-      "quote": "In the middle of every difficulty lies opportunity.",
+      "id": 14,
+      "quote": "You are never too old to set another goal or to dream a new dream.",
       "category": "Motivational",
-      "author": "Albert Einstein",
+      "author": "C.S. Lewis",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -243,8 +243,12 @@
     }
   ],
   "github": {
-    "lastCommit": "2026-04-11T14:53:27Z",
+    "lastCommit": "2026-04-11T17:31:16Z",
     "recentRepos": [
+      {
+        "name": "jobsapi.ashish.me",
+        "pushedAt": "2026-04-11T17:31:22Z"
+      },
       {
         "name": "wiki.ashish.me",
         "pushedAt": "2026-04-11T14:55:06Z"
@@ -256,10 +260,6 @@
       {
         "name": "assets",
         "pushedAt": "2026-04-08T23:53:17Z"
-      },
-      {
-        "name": "jobsapi.ashish.me",
-        "pushedAt": "2026-04-03T23:09:31Z"
       },
       {
         "name": "mdbook-summary-tools",
