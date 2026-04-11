@@ -13,11 +13,11 @@
   "steps": [
     {
       "id": 11960,
-      "stepCount": 909,
+      "stepCount": 911,
       "date": "4/10/26",
       "fullDate": "2026-04-10T00:00:00.000Z",
       "createdAt": "2026-04-11T03:52:17.213Z",
-      "updatedAt": "2026-04-11T03:52:17.213Z"
+      "updatedAt": "2026-04-11T07:13:52.766Z"
     }
   ],
   "sleep": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 71,
-      "quote": "If you are working on something that you really care about, you do not have to be pushed. The vision pulls you.",
-      "category": "motivational",
-      "author": "Steve Jobs",
-      "createdAt": "2026-04-03T10:41:02.528Z",
-      "updatedAt": "2026-04-03T10:41:02.528Z"
+      "id": 41,
+      "quote": "Strive not to be a success, but rather to be of value.",
+      "category": "Motivational",
+      "author": "Albert Einstein",
+      "createdAt": "2026-04-02T18:29:36.110Z",
+      "updatedAt": "2026-04-02T18:29:36.110Z"
     }
   ],
   "shows": [
