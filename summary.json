@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11960,
-      "stepCount": 911,
-      "date": "4/10/26",
-      "fullDate": "2026-04-10T00:00:00.000Z",
-      "createdAt": "2026-04-11T03:52:17.213Z",
-      "updatedAt": "2026-04-11T07:13:52.766Z"
+      "id": 11961,
+      "stepCount": 1112,
+      "date": "4/11/26",
+      "fullDate": "2026-04-11T00:00:00.000Z",
+      "createdAt": "2026-04-12T01:23:24.486Z",
+      "updatedAt": "2026-04-12T01:23:24.486Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 13,
-      "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "id": 3,
+      "quote": "The only way to do great work is to love what you do.",
       "category": "Motivational",
-      "author": "Zig Ziglar",
+      "author": "Steve Jobs",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
