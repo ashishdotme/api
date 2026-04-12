@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 19,
-      "quote": "Don't let yesterday take up too much of today.",
+      "id": 43,
+      "quote": "You become what you believe.",
       "category": "Motivational",
-      "author": "Will Rogers",
+      "author": "Oprah Winfrey",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -228,18 +228,18 @@
   ],
   "listens": [
     {
-      "id": 2690,
-      "title": "Pal Pal",
-      "artist": "Afusic, AliSoomroMusic",
-      "artistNormalized": "afusic, alisoomromusic",
+      "id": 2694,
+      "title": "Arz Kiya Hai | Coke Studio Bharat",
+      "artist": "Anuv Jain",
+      "artistNormalized": "anuv jain",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-08T22:50:58.000Z",
-      "titleNormalized": "pal pal",
+      "listenDate": "2026-04-12T09:46:19.000Z",
+      "titleNormalized": "arz kiya hai | coke studio bharat",
       "trackNumber": null,
-      "createdAt": "2026-04-08T22:51:08.091Z",
-      "updatedAt": "2026-04-08T22:51:08.091Z"
+      "createdAt": "2026-04-12T09:46:27.730Z",
+      "updatedAt": "2026-04-12T09:46:27.730Z"
     }
   ],
   "github": {
