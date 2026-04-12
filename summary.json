@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 46,
-      "quote": "The best revenge is massive success.",
+      "id": 22,
+      "quote": "People who are crazy enough to think they can change the world, are the ones who do.",
       "category": "Motivational",
-      "author": "Frank Sinatra",
+      "author": "Rob Siltanen",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -105,22 +105,22 @@
   ],
   "movies": [
     {
-      "id": 298,
-      "title": "Love Per Square Foot",
-      "description": "Individually, Sanjay and Karina don't earn enough to be able to buy a home, so they enter into a marriage of convenience.",
+      "id": 302,
+      "title": "Anweshippin Kandethum",
+      "description": "Revolves around two major crimes that shook kerala and the subsequent inquiry into the cases by sop.",
       "review": null,
       "note": null,
       "language": "English",
-      "year": 2018,
-      "genre": "Comedy, Romance",
+      "year": 2024,
+      "genre": "Crime, Drama, Thriller",
       "posterUrl": null,
-      "viewingDate": "2026-04-11T00:00:00.000Z",
+      "viewingDate": "2026-04-12T00:00:00.000Z",
       "loved": false,
-      "imdbRating": "7.1",
-      "imdbId": "tt7853242",
+      "imdbRating": "7.4",
+      "imdbId": "tt13885428",
       "tmdbId": null,
-      "createdAt": "2026-04-11T17:57:15.728Z",
-      "updatedAt": "2026-04-11T17:57:15.728Z"
+      "createdAt": "2026-04-12T22:34:24.311Z",
+      "updatedAt": "2026-04-12T22:34:24.311Z"
     }
   ],
   "tasks": [
