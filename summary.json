@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 6,
-      "quote": "The future belongs to those who believe in the beauty of their dreams.",
+      "id": 28,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
       "category": "Motivational",
-      "author": "Eleanor Roosevelt",
+      "author": "Franklin D. Roosevelt",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -107,20 +107,20 @@
     {
       "id": 302,
       "title": "Anweshippin Kandethum",
-      "description": "Revolves around two major crimes that shook kerala and the subsequent inquiry into the cases by sop.",
+      "description": "A team of four expert policemen go through extreme trials and tribulations to find the killer of a young woman.",
       "review": null,
       "note": null,
-      "language": "English",
+      "language": "Malayalam",
       "year": 2024,
-      "genre": "Crime, Drama, Thriller",
-      "posterUrl": null,
+      "genre": "Crime, Thriller, Drama",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zjNKLsXCEEZCzT1ZiJScvqVxevA.jpg",
       "viewingDate": "2026-04-12T00:00:00.000Z",
       "loved": false,
       "imdbRating": "7.4",
       "imdbId": "tt13885428",
-      "tmdbId": null,
+      "tmdbId": 834664,
       "createdAt": "2026-04-12T22:34:24.311Z",
-      "updatedAt": "2026-04-12T22:34:24.311Z"
+      "updatedAt": "2026-04-13T14:33:43.059Z"
     }
   ],
   "tasks": [
