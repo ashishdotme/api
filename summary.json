@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 37,
-      "quote": "The most difficult thing is the decision to act, the rest is merely tenacity.",
-      "category": "Motivational",
-      "author": "Amelia Earhart",
-      "createdAt": "2026-04-02T18:29:36.110Z",
-      "updatedAt": "2026-04-02T18:29:36.110Z"
+      "id": 71,
+      "quote": "If you are working on something that you really care about, you do not have to be pushed. The vision pulls you.",
+      "category": "motivational",
+      "author": "Steve Jobs",
+      "createdAt": "2026-04-03T10:41:02.528Z",
+      "updatedAt": "2026-04-03T10:41:02.528Z"
     }
   ],
   "shows": [
@@ -228,18 +228,18 @@
   ],
   "listens": [
     {
-      "id": 2694,
-      "title": "Arz Kiya Hai | Coke Studio Bharat",
-      "artist": "Anuv Jain",
-      "artistNormalized": "anuv jain",
+      "id": 2695,
+      "title": "Jaiye Sajana (From \"Dhurandhar The Revenge\")",
+      "artist": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
+      "artistNormalized": "shashwat sachdev, jasmine sandlas, satinder sartaaj",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-12T09:46:19.000Z",
-      "titleNormalized": "arz kiya hai | coke studio bharat",
+      "listenDate": "2026-04-13T17:48:58.000Z",
+      "titleNormalized": "jaiye sajana (from \"dhurandhar the revenge\")",
       "trackNumber": null,
-      "createdAt": "2026-04-12T09:46:27.730Z",
-      "updatedAt": "2026-04-12T09:46:27.730Z"
+      "createdAt": "2026-04-13T17:49:08.571Z",
+      "updatedAt": "2026-04-13T17:49:08.571Z"
     }
   ],
   "github": {
