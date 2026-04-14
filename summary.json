@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 34,
-      "quote": "Your time is limited, so don't waste it living someone else's life.",
+      "id": 38,
+      "quote": "Every strike brings me closer to the next home run.",
       "category": "Motivational",
-      "author": "Steve Jobs",
+      "author": "Babe Ruth",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -216,11 +216,11 @@
     }
   ],
   "github": {
-    "lastCommit": "2026-04-14T00:39:58Z",
+    "lastCommit": "2026-04-14T01:05:46Z",
     "recentRepos": [
       {
         "name": "jobsapi.ashish.me",
-        "pushedAt": "2026-04-14T00:40:11Z"
+        "pushedAt": "2026-04-14T01:06:03Z"
       },
       {
         "name": "wiki.ashish.me",
