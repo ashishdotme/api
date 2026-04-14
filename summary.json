@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 38,
-      "quote": "Every strike brings me closer to the next home run.",
+      "id": 12,
+      "quote": "In the middle of every difficulty lies opportunity.",
       "category": "Motivational",
-      "author": "Babe Ruth",
+      "author": "Albert Einstein",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -171,18 +171,6 @@
       "dueDate": "2025-04-07T20:48:22.891Z",
       "createdAt": "2025-04-07T20:48:22.894Z",
       "updatedAt": "2026-04-14T22:31:24.894Z"
-    },
-    {
-      "id": 569,
-      "content": "Build add tv show page in website",
-      "category": "Done",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "67bf90878f084becd44a7da9",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2025-02-26T22:07:02.530Z",
-      "createdAt": "2025-02-26T22:07:03.281Z",
-      "updatedAt": "2026-04-14T22:31:39.252Z"
     }
   ],
   "updates": [
