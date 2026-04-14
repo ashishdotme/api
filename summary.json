@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 31,
-      "quote": "You miss 100% of the shots you don't take.",
+      "id": 21,
+      "quote": "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you.",
       "category": "Motivational",
-      "author": "Wayne Gretzky",
+      "author": "Steve Jobs",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -253,22 +253,22 @@
   ],
   "listens": [
     {
-      "id": 2702,
-      "title": "Jaiye Sajana",
-      "artist": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
-      "artistNormalized": "shashwat sachdev, jasmine sandlas, satinder sartaaj",
+      "id": 2707,
+      "title": "Dhurandhar The Revenge - Aari Aari",
+      "artist": "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi",
+      "artistNormalized": "shashwat sachdev, bombay rockers, irshad kamil, khan saab, reble, token, jasmine sandlas, sudhir yaduvanshi",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-14T23:27:21.626Z",
-      "titleNormalized": "jaiye sajana",
+      "listenDate": "2026-04-14T23:38:30.000Z",
+      "titleNormalized": "dhurandhar the revenge - aari aari",
       "trackNumber": null,
-      "createdAt": "2026-04-14T23:27:21.798Z",
-      "updatedAt": "2026-04-14T23:27:21.798Z"
+      "createdAt": "2026-04-14T23:38:33.434Z",
+      "updatedAt": "2026-04-14T23:38:33.434Z"
     }
   ],
   "github": {
-    "lastCommit": "2026-04-14T22:23:21Z",
+    "lastCommit": "2026-04-14T23:16:59Z",
     "recentRepos": [
       {
         "name": "jobsapi.ashish.me",
