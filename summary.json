@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 3,
-      "quote": "The only way to do great work is to love what you do.",
+      "id": 43,
+      "quote": "You become what you believe.",
       "category": "Motivational",
-      "author": "Steve Jobs",
+      "author": "Oprah Winfrey",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -236,7 +236,7 @@
     }
   ],
   "github": {
-    "lastCommit": "2026-04-14T12:29:51Z",
+    "lastCommit": "2026-04-14T18:33:42Z",
     "recentRepos": [
       {
         "name": "jobsapi.ashish.me",
