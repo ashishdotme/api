@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 30,
-      "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "id": 34,
+      "quote": "Your time is limited, so don't waste it living someone else's life.",
       "category": "Motivational",
-      "author": "Ralph Waldo Emerson",
+      "author": "Steve Jobs",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -175,10 +175,10 @@
       "referencedSourceUrl": null,
       "sourceUrl": "https://www.threads.com/@ashishdotme/post/DXF7ozsiEjV",
       "mediaUrls": [],
-      "blueskyUri": null,
+      "blueskyUri": "at://did:plc:76yjmeje3achjsllh7df4io5/app.bsky.feed.post/3mjg6s6l7xb2b",
       "bridgePublisher": "jobsapi.ashish.me",
       "createdAt": "2026-04-14T00:55:00.699Z",
-      "updatedAt": "2026-04-14T00:55:00.699Z"
+      "updatedAt": "2026-04-14T01:05:01.027Z"
     },
     {
       "id": 12,
@@ -197,132 +197,6 @@
       "bridgePublisher": "jobsapi.ashish.me",
       "createdAt": "2026-04-14T00:50:00.452Z",
       "updatedAt": "2026-04-14T01:00:00.923Z"
-    },
-    {
-      "id": 11,
-      "category": "Life",
-      "content": null,
-      "title": "Moved to Dublin, Ireland",
-      "date": "2021-09-13T10:29:42.297Z",
-      "source": null,
-      "sourceId": null,
-      "sourcePostType": null,
-      "referencedSourceId": null,
-      "referencedSourceUrl": null,
-      "sourceUrl": null,
-      "mediaUrls": null,
-      "blueskyUri": null,
-      "bridgePublisher": null,
-      "createdAt": "2024-09-15T13:36:36.858Z",
-      "updatedAt": "2024-09-15T13:36:36.858Z"
-    },
-    {
-      "id": 10,
-      "category": "Life",
-      "content": null,
-      "title": "Started job at Honeywell, India",
-      "date": "2020-10-12T10:29:42.297Z",
-      "source": null,
-      "sourceId": null,
-      "sourcePostType": null,
-      "referencedSourceId": null,
-      "referencedSourceUrl": null,
-      "sourceUrl": null,
-      "mediaUrls": null,
-      "blueskyUri": null,
-      "bridgePublisher": null,
-      "createdAt": "2024-09-15T13:32:54.840Z",
-      "updatedAt": "2024-09-15T13:32:54.840Z"
-    },
-    {
-      "id": 9,
-      "category": "Life",
-      "content": null,
-      "title": "Started job at Amdocs, India",
-      "date": "2019-01-19T10:29:42.297Z",
-      "source": null,
-      "sourceId": null,
-      "sourcePostType": null,
-      "referencedSourceId": null,
-      "referencedSourceUrl": null,
-      "sourceUrl": null,
-      "mediaUrls": null,
-      "blueskyUri": null,
-      "bridgePublisher": null,
-      "createdAt": "2024-09-15T13:28:28.681Z",
-      "updatedAt": "2024-09-15T13:33:11.559Z"
-    },
-    {
-      "id": 8,
-      "category": "Life",
-      "content": null,
-      "title": "Started job at Nitor Infotech",
-      "date": "2016-06-27T10:29:42.000Z",
-      "source": null,
-      "sourceId": null,
-      "sourcePostType": null,
-      "referencedSourceId": null,
-      "referencedSourceUrl": null,
-      "sourceUrl": null,
-      "mediaUrls": null,
-      "blueskyUri": null,
-      "bridgePublisher": null,
-      "createdAt": "2024-09-15T13:27:56.348Z",
-      "updatedAt": "2024-09-15T13:35:21.819Z"
-    },
-    {
-      "id": 7,
-      "category": "Life",
-      "content": null,
-      "title": "Moved to Pune, India",
-      "date": "2016-06-17T10:29:42.000Z",
-      "source": null,
-      "sourceId": null,
-      "sourcePostType": null,
-      "referencedSourceId": null,
-      "referencedSourceUrl": null,
-      "sourceUrl": null,
-      "mediaUrls": null,
-      "blueskyUri": null,
-      "bridgePublisher": null,
-      "createdAt": "2024-09-15T13:22:04.990Z",
-      "updatedAt": "2024-09-15T13:35:34.498Z"
-    },
-    {
-      "id": 6,
-      "category": "Life",
-      "content": null,
-      "title": "Graduated in Computer Science and Engineering from Nagpur University, India",
-      "date": "2016-05-30T10:29:42.297Z",
-      "source": null,
-      "sourceId": null,
-      "sourcePostType": null,
-      "referencedSourceId": null,
-      "referencedSourceUrl": null,
-      "sourceUrl": null,
-      "mediaUrls": null,
-      "blueskyUri": null,
-      "bridgePublisher": null,
-      "createdAt": "2024-09-15T13:21:23.009Z",
-      "updatedAt": "2024-09-15T13:32:38.727Z"
-    },
-    {
-      "id": 5,
-      "category": "Life",
-      "content": null,
-      "title": "Born in Chhattisgarh, India",
-      "date": "1993-06-04T10:29:42.297Z",
-      "source": null,
-      "sourceId": null,
-      "sourcePostType": null,
-      "referencedSourceId": null,
-      "referencedSourceUrl": null,
-      "sourceUrl": null,
-      "mediaUrls": null,
-      "blueskyUri": null,
-      "bridgePublisher": null,
-      "createdAt": "2024-09-15T13:19:16.078Z",
-      "updatedAt": "2024-09-15T13:19:16.078Z"
     }
   ],
   "listens": [
@@ -342,11 +216,11 @@
     }
   ],
   "github": {
-    "lastCommit": "2026-04-13T22:38:50Z",
+    "lastCommit": "2026-04-14T00:39:58Z",
     "recentRepos": [
       {
         "name": "jobsapi.ashish.me",
-        "pushedAt": "2026-04-11T17:31:22Z"
+        "pushedAt": "2026-04-14T00:40:11Z"
       },
       {
         "name": "wiki.ashish.me",
