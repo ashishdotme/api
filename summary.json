@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 44,
-      "quote": "The most common way people give up their power is by thinking they don't have any.",
+      "id": 30,
+      "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
       "category": "Motivational",
-      "author": "Alice Walker",
+      "author": "Ralph Waldo Emerson",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -162,6 +162,42 @@
     }
   ],
   "updates": [
+    {
+      "id": 13,
+      "category": "threads",
+      "content": "Threads > Bluesky?",
+      "title": "Threads post",
+      "date": "2026-04-14T00:54:05.000Z",
+      "source": "threads",
+      "sourceId": "18127725937586151",
+      "sourcePostType": "post",
+      "referencedSourceId": null,
+      "referencedSourceUrl": null,
+      "sourceUrl": "https://www.threads.com/@ashishdotme/post/DXF7ozsiEjV",
+      "mediaUrls": [],
+      "blueskyUri": null,
+      "bridgePublisher": "jobsapi.ashish.me",
+      "createdAt": "2026-04-14T00:55:00.699Z",
+      "updatedAt": "2026-04-14T00:55:00.699Z"
+    },
+    {
+      "id": 12,
+      "category": "threads",
+      "content": "Testing threads :D",
+      "title": "Threads post",
+      "date": "2026-04-14T00:45:20.000Z",
+      "source": "threads",
+      "sourceId": "18387239224081958",
+      "sourcePostType": "post",
+      "referencedSourceId": null,
+      "referencedSourceUrl": null,
+      "sourceUrl": "https://www.threads.com/@ashishdotme/post/DXF6owiiHUW",
+      "mediaUrls": [],
+      "blueskyUri": "at://did:plc:76yjmeje3achjsllh7df4io5/app.bsky.feed.post/3mjg6jahjjx2b",
+      "bridgePublisher": "jobsapi.ashish.me",
+      "createdAt": "2026-04-14T00:50:00.452Z",
+      "updatedAt": "2026-04-14T01:00:00.923Z"
+    },
     {
       "id": 11,
       "category": "Life",
