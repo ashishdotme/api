@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 22,
-      "quote": "People who are crazy enough to think they can change the world, are the ones who do.",
+      "id": 27,
+      "quote": "The man who has confidence in himself gains the confidence of others.",
       "category": "Motivational",
-      "author": "Rob Siltanen",
+      "author": "Hasidic Proverb",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -171,6 +171,18 @@
       "dueDate": "2026-04-14T21:19:36.260Z",
       "createdAt": "2026-04-14T21:19:36.942Z",
       "updatedAt": "2026-04-14T21:30:08.644Z"
+    },
+    {
+      "id": 581,
+      "content": "test",
+      "category": "Now",
+      "projectId": "66d2ec458f0891d1c89a4e21",
+      "todoId": "69deb4b38f089ba4ae34bb2b",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T00:00:00.000Z",
+      "createdAt": "2026-04-14T21:42:11.673Z",
+      "updatedAt": "2026-04-14T21:42:11.673Z"
     }
   ],
   "updates": [
