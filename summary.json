@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 12,
-      "quote": "In the middle of every difficulty lies opportunity.",
+      "id": 31,
+      "quote": "You miss 100% of the shots you don't take.",
       "category": "Motivational",
-      "author": "Albert Einstein",
+      "author": "Wayne Gretzky",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -253,18 +253,18 @@
   ],
   "listens": [
     {
-      "id": 2701,
-      "title": "Voh Dekhnay Mein",
-      "artist": "Ali Zafar",
-      "artistNormalized": "ali zafar",
+      "id": 2702,
+      "title": "Jaiye Sajana",
+      "artist": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
+      "artistNormalized": "shashwat sachdev, jasmine sandlas, satinder sartaaj",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-14T16:24:26.000Z",
-      "titleNormalized": "voh dekhnay mein",
+      "listenDate": "2026-04-14T23:27:21.626Z",
+      "titleNormalized": "jaiye sajana",
       "trackNumber": null,
-      "createdAt": "2026-04-14T16:24:37.837Z",
-      "updatedAt": "2026-04-14T16:24:37.837Z"
+      "createdAt": "2026-04-14T23:27:21.798Z",
+      "updatedAt": "2026-04-14T23:27:21.798Z"
     }
   ],
   "github": {

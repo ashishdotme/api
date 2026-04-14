@@ -404,13 +404,13 @@
     "genre": "Drama, Crime",
     "posterUrl": "https://image.tmdb.org/t/p/w200/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
     "startedDate": "2014-10-15T00:00:00.000Z",
-    "completedDate": null,
-    "status": "watching",
+    "completedDate": "2026-04-15T00:00:00.000Z",
+    "status": "completed",
     "imdbRating": null,
     "imdbId": "tt2442560",
     "tmdbId": 60574,
     "createdAt": "2026-04-03T15:19:59.391Z",
-    "updatedAt": "2026-04-03T15:19:59.391Z",
+    "updatedAt": "2026-04-14T23:24:16.915Z",
     "seasons": [
       {
         "id": 44,
@@ -471,12 +471,12 @@
         "id": 50,
         "seasonNumber": 6,
         "startedDate": "2026-03-01T00:00:00.000Z",
-        "completedDate": null,
-        "status": "watching",
+        "completedDate": "2026-04-15T00:00:00.000Z",
+        "status": "completed",
         "review": null,
         "note": null,
         "createdAt": "2026-04-03T15:30:05.531Z",
-        "updatedAt": "2026-04-03T15:30:05.531Z"
+        "updatedAt": "2026-04-14T23:23:57.851Z"
       }
     ]
   },
