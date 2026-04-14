@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 52,
-      "quote": "It is never too late to be what you might have been.",
+      "id": 19,
+      "quote": "Don't let yesterday take up too much of today.",
       "category": "Motivational",
-      "author": "George Eliot",
+      "author": "Will Rogers",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -236,7 +236,7 @@
     }
   ],
   "github": {
-    "lastCommit": "2026-04-14T09:22:39Z",
+    "lastCommit": "2026-04-14T10:13:21Z",
     "recentRepos": [
       {
         "name": "jobsapi.ashish.me",
