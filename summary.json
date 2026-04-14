@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 8,
-      "quote": "Everything you've ever wanted is on the other side of fear.",
+      "id": 22,
+      "quote": "People who are crazy enough to think they can change the world, are the ones who do.",
       "category": "Motivational",
-      "author": "George Addair",
+      "author": "Rob Siltanen",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -159,6 +159,18 @@
       "dueDate": "2025-04-14T08:11:04.430Z",
       "createdAt": "2025-04-14T08:11:04.431Z",
       "updatedAt": "2025-04-14T08:11:04.431Z"
+    },
+    {
+      "id": 580,
+      "content": "Codex E2E Task 2219 Browser Fixed",
+      "category": "Now",
+      "projectId": "58308c6a07df1124540da3e6",
+      "todoId": "69deaf688f081c109ba87136",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-14T21:19:36.260Z",
+      "createdAt": "2026-04-14T21:19:36.942Z",
+      "updatedAt": "2026-04-14T21:30:08.644Z"
     }
   ],
   "updates": [
@@ -236,7 +248,7 @@
     }
   ],
   "github": {
-    "lastCommit": "2026-04-14T18:33:42Z",
+    "lastCommit": "2026-04-14T21:03:44Z",
     "recentRepos": [
       {
         "name": "jobsapi.ashish.me",
