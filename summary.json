@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11962,
-      "stepCount": 4956,
-      "date": "4/12/26",
-      "fullDate": "2026-04-12T00:00:00.000Z",
-      "createdAt": "2026-04-13T00:28:27.632Z",
-      "updatedAt": "2026-04-13T00:28:27.632Z"
+      "id": 11963,
+      "stepCount": 669,
+      "date": "4/13/26",
+      "fullDate": "2026-04-13T00:00:00.000Z",
+      "createdAt": "2026-04-14T09:17:20.539Z",
+      "updatedAt": "2026-04-14T09:17:20.539Z"
     }
   ],
   "sleep": [
@@ -45,8 +45,8 @@
   ],
   "quote": [
     {
-      "id": 3,
-      "quote": "The only way to do great work is to love what you do.",
+      "id": 21,
+      "quote": "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you.",
       "category": "Motivational",
       "author": "Steve Jobs",
       "createdAt": "2026-04-02T18:29:36.110Z",
