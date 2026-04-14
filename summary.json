@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 21,
-      "quote": "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you.",
+      "id": 32,
+      "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
       "category": "Motivational",
-      "author": "Steve Jobs",
+      "author": "Chinese Proverb",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -162,6 +162,26 @@
     }
   ],
   "updates": [
+    {
+      "id": 14,
+      "category": "threads",
+      "content": "",
+      "title": "Threads post",
+      "date": "2026-04-14T09:35:19.000Z",
+      "source": "threads",
+      "sourceId": "18089947375969248",
+      "sourcePostType": "post",
+      "referencedSourceId": null,
+      "referencedSourceUrl": null,
+      "sourceUrl": "https://www.threads.com/@ashishdotme/post/DXG3SbXCLNA",
+      "mediaUrls": [
+        "https://scontent-hel3-1.cdninstagram.com/v/t51.82787-15/673130795_17958984435111989_486091496472083889_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=sjde7SNO35YQ7kNvwEy5R7p&_nc_oc=AdpDBj0FmKhy9KMQ5eZgjqTAJvDUoawXauD81JAZDEuaaZpUbRNoBNETaVCVoCAyXIk&_nc_zt=23&_nc_ht=scontent-hel3-1.cdninstagram.com&edm=ACx9VUEEAAAA&_nc_gid=0WmRqNuONnaDO1hufFDoDA&_nc_tpa=Q5bMBQFhjh3CcHJfkkWsuORR272DRxzsyunuo7n7DWabAonRfick1JtGd-sAj0WnDdtURLuzAdAiJ7_4YQ&oh=00_Af1AK7hiVxK5zp9_7bpHoyxhYi4kwXMptrgOruzM7tmX8w&oe=69E3E0AA"
+      ],
+      "blueskyUri": "at://did:plc:76yjmeje3achjsllh7df4io5/app.bsky.feed.post/3mjh3def6cs2m",
+      "bridgePublisher": "jobsapi.ashish.me",
+      "createdAt": "2026-04-14T09:35:41.496Z",
+      "updatedAt": "2026-04-14T09:35:42.145Z"
+    },
     {
       "id": 13,
       "category": "threads",
