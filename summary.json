@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 40,
-      "quote": "Life isn't about getting and having, it's about giving and being.",
+      "id": 32,
+      "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
       "category": "Motivational",
-      "author": "Kevin Kruse",
+      "author": "Chinese Proverb",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -125,18 +125,6 @@
   ],
   "tasks": [
     {
-      "id": 571,
-      "content": "Fix url shortner",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "67f439efead49106d09f3c8d",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2025-04-07T20:48:22.891Z",
-      "createdAt": "2025-04-07T20:48:22.894Z",
-      "updatedAt": "2025-04-07T20:48:22.894Z"
-    },
-    {
       "id": 575,
       "content": "Look into owntracks or Dawarich",
       "category": "Now",
@@ -173,6 +161,18 @@
       "updatedAt": "2026-04-14T21:42:11.673Z"
     },
     {
+      "id": 571,
+      "content": "Fix url shortner",
+      "category": "In Progress",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "67f439efead49106d09f3c8d",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2025-04-07T20:48:22.891Z",
+      "createdAt": "2025-04-07T20:48:22.894Z",
+      "updatedAt": "2026-04-14T22:31:24.894Z"
+    },
+    {
       "id": 569,
       "content": "Build add tv show page in website",
       "category": "Done",
@@ -182,10 +182,30 @@
       "completedDate": null,
       "dueDate": "2025-02-26T22:07:02.530Z",
       "createdAt": "2025-02-26T22:07:03.281Z",
-      "updatedAt": "2026-04-14T22:05:24.970Z"
+      "updatedAt": "2026-04-14T22:31:39.252Z"
     }
   ],
   "updates": [
+    {
+      "id": 15,
+      "category": "threads",
+      "content": "Watching the last episode of *Peaky Blinders*, then I’ll be done with the series :'(",
+      "title": "Threads post",
+      "date": "2026-04-14T22:15:47.000Z",
+      "source": "threads",
+      "sourceId": "18152864476460366",
+      "sourcePostType": "post",
+      "referencedSourceId": null,
+      "referencedSourceUrl": null,
+      "sourceUrl": "https://www.threads.com/@ashishdotme/post/DXIOUROiIvj",
+      "mediaUrls": [
+        "https://scontent-hel3-1.cdninstagram.com/v/t51.82787-15/670915712_17959117041111989_8832264407237789100_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=xMadc7m2tIQQ7kNvwE2v3Tl&_nc_oc=Adrrnkd5Gnh0y6U5I7WLXKhnhodOpEEE1ykihO8nZObNpFOwIKUz3kADSKDFLn0v3bw&_nc_zt=23&_nc_ht=scontent-hel3-1.cdninstagram.com&edm=ACx9VUEEAAAA&_nc_gid=-7-Ymd-rlDkVxUnK5oYBlw&_nc_tpa=Q5bMBQFGFSYtzVdd42H5l0cpd6oMP_AU6vsZ3YspIKhjKpU2QMGcqeqtN1Q0OSN5svq4gEJc7LfaYAnNwg&oh=00_Af1XRo16O9nMp2wESvdO0Dz4aPmJSe-f4efMhRJKstCGeg&oe=69E47348"
+      ],
+      "blueskyUri": "at://did:plc:76yjmeje3achjsllh7df4io5/app.bsky.feed.post/3mjiftnyoql2x",
+      "bridgePublisher": "jobsapi.ashish.me",
+      "createdAt": "2026-04-14T22:16:24.482Z",
+      "updatedAt": "2026-04-14T22:16:26.694Z"
+    },
     {
       "id": 14,
       "category": "threads",
