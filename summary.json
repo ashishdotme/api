@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 45,
-      "quote": "The mind is everything. What you think you become.",
+      "id": 46,
+      "quote": "The best revenge is massive success.",
       "category": "Motivational",
-      "author": "Buddha",
+      "author": "Frank Sinatra",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -221,18 +221,18 @@
   ],
   "listens": [
     {
-      "id": 2695,
-      "title": "Jaiye Sajana (From \"Dhurandhar The Revenge\")",
-      "artist": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
-      "artistNormalized": "shashwat sachdev, jasmine sandlas, satinder sartaaj",
+      "id": 2701,
+      "title": "Voh Dekhnay Mein",
+      "artist": "Ali Zafar",
+      "artistNormalized": "ali zafar",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-13T17:48:58.000Z",
-      "titleNormalized": "jaiye sajana (from \"dhurandhar the revenge\")",
+      "listenDate": "2026-04-14T16:24:26.000Z",
+      "titleNormalized": "voh dekhnay mein",
       "trackNumber": null,
-      "createdAt": "2026-04-13T17:49:08.571Z",
-      "updatedAt": "2026-04-13T17:49:08.571Z"
+      "createdAt": "2026-04-14T16:24:37.837Z",
+      "updatedAt": "2026-04-14T16:24:37.837Z"
     }
   ],
   "github": {
