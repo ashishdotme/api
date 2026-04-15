@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 4,
-      "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "id": 13,
+      "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
       "category": "Motivational",
-      "author": "Winston Churchill",
+      "author": "Zig Ziglar",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -1144,7 +1144,7 @@
     }
   ],
   "github": {
-    "lastCommit": "2026-04-14T23:59:14Z",
+    "lastCommit": "2026-04-15T15:31:47Z",
     "recentRepos": [
       {
         "name": "jobsapi.ashish.me",
