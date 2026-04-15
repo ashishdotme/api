@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 17,
-      "quote": "I find that the harder I work, the more luck I seem to have.",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Thomas Jefferson",
-      "createdAt": "2026-04-02T18:29:36.110Z",
-      "updatedAt": "2026-04-02T18:29:36.110Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
@@ -125,6 +125,18 @@
   ],
   "tasks": [
     {
+      "id": 571,
+      "content": "Fix url shortner",
+      "category": "Backlog",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "67f439efead49106d09f3c8d",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2025-04-07T20:48:22.891Z",
+      "createdAt": "2025-04-07T20:48:22.894Z",
+      "updatedAt": "2026-04-15T19:31:23.316Z"
+    },
+    {
       "id": 580,
       "content": "Codex E2E Task 2219 Browser Fixed",
       "category": "Now",
@@ -159,18 +171,6 @@
       "dueDate": "2026-04-15T10:23:22.286Z",
       "createdAt": "2026-04-15T10:23:22.827Z",
       "updatedAt": "2026-04-15T11:58:18.512Z"
-    },
-    {
-      "id": 571,
-      "content": "Fix url shortner",
-      "category": "Blocked",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "67f439efead49106d09f3c8d",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2025-04-07T20:48:22.891Z",
-      "createdAt": "2025-04-07T20:48:22.894Z",
-      "updatedAt": "2026-04-15T12:16:11.748Z"
     },
     {
       "id": 583,
