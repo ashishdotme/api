@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 3,
-      "quote": "The only way to do great work is to love what you do.",
+      "id": 52,
+      "quote": "It is never too late to be what you might have been.",
       "category": "Motivational",
-      "author": "Steve Jobs",
+      "author": "George Eliot",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -125,18 +125,6 @@
   ],
   "tasks": [
     {
-      "id": 575,
-      "content": "Look into owntracks or Dawarich",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "67fcc2fca8e8110e2623a81c",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2025-04-14T08:11:04.430Z",
-      "createdAt": "2025-04-14T08:11:04.431Z",
-      "updatedAt": "2025-04-14T08:11:04.431Z"
-    },
-    {
       "id": 580,
       "content": "Codex E2E Task 2219 Browser Fixed",
       "category": "Now",
@@ -195,6 +183,18 @@
       "dueDate": "2026-04-15T00:00:00.000Z",
       "createdAt": "2026-04-15T12:19:43.395Z",
       "updatedAt": "2026-04-15T12:19:43.395Z"
+    },
+    {
+      "id": 575,
+      "content": "Look into owntracks or Dawarich",
+      "category": "Blocked",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "67fcc2fca8e8110e2623a81c",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2025-04-14T08:11:04.430Z",
+      "createdAt": "2025-04-14T08:11:04.431Z",
+      "updatedAt": "2026-04-15T13:47:04.576Z"
     }
   ],
   "updates": [
