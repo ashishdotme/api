@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11963,
-      "stepCount": 669,
-      "date": "4/13/26",
-      "fullDate": "2026-04-13T00:00:00.000Z",
-      "createdAt": "2026-04-14T09:17:20.539Z",
-      "updatedAt": "2026-04-14T09:17:20.539Z"
+      "id": 11964,
+      "stepCount": 572,
+      "date": "4/14/26",
+      "fullDate": "2026-04-14T00:00:00.000Z",
+      "createdAt": "2026-04-15T06:22:08.551Z",
+      "updatedAt": "2026-04-15T06:22:08.551Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 20,
-      "quote": "You learn more from failure than from success. Don't let it stop you. Failure builds character.",
+      "id": 13,
+      "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
       "category": "Motivational",
-      "author": "Unknown",
+      "author": "Zig Ziglar",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
