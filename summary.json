@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 10,
-      "quote": "Don't watch the clock; do what it does. Keep going.",
+      "id": 24,
+      "quote": "We may encounter many defeats but we must not be defeated.",
       "category": "Motivational",
-      "author": "Sam Levenson",
+      "author": "Maya Angelou",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -163,14 +163,26 @@
     {
       "id": 571,
       "content": "Fix url shortner",
-      "category": "In Progress",
+      "category": "Backlog",
       "projectId": "671d02e0eba7b8000000022f",
       "todoId": "67f439efead49106d09f3c8d",
       "completed": false,
       "completedDate": null,
       "dueDate": "2025-04-07T20:48:22.891Z",
       "createdAt": "2025-04-07T20:48:22.894Z",
-      "updatedAt": "2026-04-14T22:31:24.894Z"
+      "updatedAt": "2026-04-15T10:08:44.768Z"
+    },
+    {
+      "id": 582,
+      "content": "Browser verification temp 2026-04-15 10:20",
+      "category": "Now",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "69df671a8f08fa3ae627e9ea",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T10:23:22.286Z",
+      "createdAt": "2026-04-15T10:23:22.827Z",
+      "updatedAt": "2026-04-15T10:23:22.827Z"
     }
   ],
   "updates": [
