@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 25,
-      "quote": "Knowing is not enough; we must apply. Wishing is not enough; we must do.",
+      "id": 51,
+      "quote": "The person who says it cannot be done should not interrupt the person who is doing it.",
       "category": "Motivational",
-      "author": "Johann Wolfgang Von Goethe",
+      "author": "Chinese Proverb",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -161,18 +161,6 @@
       "updatedAt": "2026-04-14T21:42:11.673Z"
     },
     {
-      "id": 582,
-      "content": "Browser verification temp 2026-04-15 10:20",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "69df671a8f08fa3ae627e9ea",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-15T10:23:22.286Z",
-      "createdAt": "2026-04-15T10:23:22.827Z",
-      "updatedAt": "2026-04-15T10:23:22.827Z"
-    },
-    {
       "id": 571,
       "content": "Fix url shortner",
       "category": "In Progress",
@@ -183,6 +171,18 @@
       "dueDate": "2025-04-07T20:48:22.891Z",
       "createdAt": "2025-04-07T20:48:22.894Z",
       "updatedAt": "2026-04-15T11:30:14.229Z"
+    },
+    {
+      "id": 582,
+      "content": "Browser verification temp 2026-04-15 10:20",
+      "category": "Backlog",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "69df671a8f08fa3ae627e9ea",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T10:23:22.286Z",
+      "createdAt": "2026-04-15T10:23:22.827Z",
+      "updatedAt": "2026-04-15T11:58:18.512Z"
     }
   ],
   "updates": [
