@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 25,
-      "quote": "Knowing is not enough; we must apply. Wishing is not enough; we must do.",
+      "id": 27,
+      "quote": "The man who has confidence in himself gains the confidence of others.",
       "category": "Motivational",
-      "author": "Johann Wolfgang Von Goethe",
+      "author": "Hasidic Proverb",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -1047,6 +1047,18 @@
       "dueDate": "2026-04-15T15:41:03.937Z",
       "createdAt": "2026-04-15T15:41:03.976Z",
       "updatedAt": "2026-04-15T15:41:17.296Z"
+    },
+    {
+      "id": 656,
+      "content": "Setup mac crons jobs",
+      "category": "Now",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69e01ca48f08a4b23ceb9557",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-17T00:00:00.000Z",
+      "createdAt": "2026-04-15T23:17:56.298Z",
+      "updatedAt": "2026-04-15T23:17:56.298Z"
     }
   ],
   "updates": [
