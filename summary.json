@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11964,
-      "stepCount": 572,
-      "date": "4/14/26",
-      "fullDate": "2026-04-14T00:00:00.000Z",
-      "createdAt": "2026-04-15T06:22:08.551Z",
-      "updatedAt": "2026-04-15T06:22:08.551Z"
+      "id": 11965,
+      "stepCount": 283,
+      "date": "4/15/26",
+      "fullDate": "2026-04-15T00:00:00.000Z",
+      "createdAt": "2026-04-16T08:28:09.242Z",
+      "updatedAt": "2026-04-16T08:28:09.242Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 34,
-      "quote": "Your time is limited, so don't waste it living someone else's life.",
+      "id": 19,
+      "quote": "Don't let yesterday take up too much of today.",
       "category": "Motivational",
-      "author": "Steve Jobs",
+      "author": "Will Rogers",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -1003,14 +1003,14 @@
     {
       "id": 662,
       "content": "Setup mac cron jobs",
-      "category": "Backlog",
+      "category": "In Progress",
       "projectId": "67cade46eba776000000040a",
       "todoId": "69e028288f083d3daced728c",
       "completed": false,
       "completedDate": null,
       "dueDate": "2026-04-17T00:00:00.000Z",
       "createdAt": "2026-04-16T00:07:04.541Z",
-      "updatedAt": "2026-04-16T00:07:04.541Z"
+      "updatedAt": "2026-04-16T08:53:20.176Z"
     }
   ],
   "updates": [
