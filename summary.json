@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 18,
-      "quote": "Success usually comes to those who are too busy to be looking for it.",
+      "id": 48,
+      "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
       "category": "Motivational",
-      "author": "Henry David Thoreau",
+      "author": "Eleanor Roosevelt",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -159,30 +159,6 @@
       "dueDate": "2026-04-15T00:00:00.000Z",
       "createdAt": "2026-04-14T21:42:11.673Z",
       "updatedAt": "2026-04-14T21:42:11.673Z"
-    },
-    {
-      "id": 582,
-      "content": "Browser verification temp 2026-04-15 10:20",
-      "category": "Backlog",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "69df671a8f08fa3ae627e9ea",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-15T10:23:22.286Z",
-      "createdAt": "2026-04-15T10:23:22.827Z",
-      "updatedAt": "2026-04-15T11:58:18.512Z"
-    },
-    {
-      "id": 583,
-      "content": "Book train ticket",
-      "category": "Now",
-      "projectId": "671d02e0eba7b8000000022f",
-      "todoId": "69df825f8f0896856ad7eedb",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-15T00:00:00.000Z",
-      "createdAt": "2026-04-15T12:19:43.395Z",
-      "updatedAt": "2026-04-15T12:19:43.395Z"
     },
     {
       "id": 575,
@@ -509,18 +485,6 @@
       "updatedAt": "2026-04-15T15:41:13.538Z"
     },
     {
-      "id": 597,
-      "content": "Write gym notes",
-      "category": "Backlog",
-      "projectId": "67cade46eba776000000040a",
-      "todoId": "67f3d7a0e3d55106d09f3242",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-15T15:41:03.770Z",
-      "createdAt": "2026-04-15T15:41:03.770Z",
-      "updatedAt": "2026-04-15T15:41:03.770Z"
-    },
-    {
       "id": 616,
       "content": "Tesco 12 Irish Barn Eggs",
       "category": "Backlog",
@@ -567,18 +531,6 @@
       "dueDate": "2026-04-15T15:41:03.968Z",
       "createdAt": "2026-04-15T15:41:03.981Z",
       "updatedAt": "2026-04-15T15:41:03.981Z"
-    },
-    {
-      "id": 598,
-      "content": "India ticket book",
-      "category": "Backlog",
-      "projectId": "67cade46eba776000000040a",
-      "todoId": "69aef2839d265105eeef6a2b",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-15T15:41:03.770Z",
-      "createdAt": "2026-04-15T15:41:03.770Z",
-      "updatedAt": "2026-04-15T15:41:03.770Z"
     },
     {
       "id": 599,
@@ -1049,66 +1001,6 @@
       "updatedAt": "2026-04-15T15:41:17.296Z"
     },
     {
-      "id": 657,
-      "content": "Setup mac cron jobs",
-      "category": "Backlog",
-      "projectId": "67cade46eba776000000040a",
-      "todoId": "69e028208f08fa3ae63fb854",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-17T00:00:00.000Z",
-      "createdAt": "2026-04-16T00:06:56.141Z",
-      "updatedAt": "2026-04-16T00:06:56.141Z"
-    },
-    {
-      "id": 658,
-      "content": "Setup mac cron jobs",
-      "category": "Backlog",
-      "projectId": "67cade46eba776000000040a",
-      "todoId": "69e028228f083d3daced7228",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-17T00:00:00.000Z",
-      "createdAt": "2026-04-16T00:06:58.957Z",
-      "updatedAt": "2026-04-16T00:06:58.957Z"
-    },
-    {
-      "id": 659,
-      "content": "Setup mac cron jobs",
-      "category": "Backlog",
-      "projectId": "67cade46eba776000000040a",
-      "todoId": "69e028248f083d3daced7240",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-17T00:00:00.000Z",
-      "createdAt": "2026-04-16T00:07:00.453Z",
-      "updatedAt": "2026-04-16T00:07:00.453Z"
-    },
-    {
-      "id": 660,
-      "content": "Setup mac cron jobs",
-      "category": "Backlog",
-      "projectId": "67cade46eba776000000040a",
-      "todoId": "69e028258f08fa3ae63fb8cb",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-17T00:00:00.000Z",
-      "createdAt": "2026-04-16T00:07:01.799Z",
-      "updatedAt": "2026-04-16T00:07:01.799Z"
-    },
-    {
-      "id": 661,
-      "content": "Setup mac cron jobs",
-      "category": "Backlog",
-      "projectId": "67cade46eba776000000040a",
-      "todoId": "69e028278f08a4b23cec84dd",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-17T00:00:00.000Z",
-      "createdAt": "2026-04-16T00:07:03.528Z",
-      "updatedAt": "2026-04-16T00:07:03.528Z"
-    },
-    {
       "id": 662,
       "content": "Setup mac cron jobs",
       "category": "Backlog",
@@ -1119,102 +1011,6 @@
       "dueDate": "2026-04-17T00:00:00.000Z",
       "createdAt": "2026-04-16T00:07:04.541Z",
       "updatedAt": "2026-04-16T00:07:04.541Z"
-    },
-    {
-      "id": 663,
-      "content": "Setup mac cron jobs",
-      "category": "Backlog",
-      "projectId": "67cade46eba776000000040a",
-      "todoId": "69e028298f0896856aeb8f18",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-17T00:00:00.000Z",
-      "createdAt": "2026-04-16T00:07:05.730Z",
-      "updatedAt": "2026-04-16T00:07:05.730Z"
-    },
-    {
-      "id": 664,
-      "content": "Setup mac cron jobs",
-      "category": "Backlog",
-      "projectId": "67cade46eba776000000040a",
-      "todoId": "69e0282b8f08f83a14d64898",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-17T00:00:00.000Z",
-      "createdAt": "2026-04-16T00:07:07.663Z",
-      "updatedAt": "2026-04-16T00:07:07.663Z"
-    },
-    {
-      "id": 665,
-      "content": "Setup mac cron jobs",
-      "category": "Backlog",
-      "projectId": "67cade46eba776000000040a",
-      "todoId": "69e0282d8f08a4b23cec8555",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-17T00:00:00.000Z",
-      "createdAt": "2026-04-16T00:07:09.138Z",
-      "updatedAt": "2026-04-16T00:07:09.138Z"
-    },
-    {
-      "id": 666,
-      "content": "Setup mac cron jobs",
-      "category": "Backlog",
-      "projectId": "67cade46eba776000000040a",
-      "todoId": "69e028328f083d3daced736f",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-17T00:00:00.000Z",
-      "createdAt": "2026-04-16T00:07:14.624Z",
-      "updatedAt": "2026-04-16T00:07:14.624Z"
-    },
-    {
-      "id": 667,
-      "content": "Setup mac cron jobs",
-      "category": "Backlog",
-      "projectId": "67cade46eba776000000040a",
-      "todoId": "69e028338f08fa3ae63fb9da",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-17T00:00:00.000Z",
-      "createdAt": "2026-04-16T00:07:15.924Z",
-      "updatedAt": "2026-04-16T00:07:15.924Z"
-    },
-    {
-      "id": 668,
-      "content": "Setup mac cron jobs",
-      "category": "Backlog",
-      "projectId": "67cade46eba776000000040a",
-      "todoId": "69e028358f08f83a14d64a28",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-17T00:00:00.000Z",
-      "createdAt": "2026-04-16T00:07:17.389Z",
-      "updatedAt": "2026-04-16T00:07:17.389Z"
-    },
-    {
-      "id": 670,
-      "content": "codex-debug-create-check",
-      "category": "Backlog",
-      "projectId": "67cade46eba776000000040a",
-      "todoId": "69e02a7c8f08f83a14d6a850",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-16T00:37:34.330Z",
-      "createdAt": "2026-04-16T00:37:34.340Z",
-      "updatedAt": "2026-04-16T00:37:34.340Z"
-    },
-    {
-      "id": 671,
-      "content": "codex-debug-create-check-no-category",
-      "category": "Backlog",
-      "projectId": "67cade46eba776000000040a",
-      "todoId": "69e02a7c8f083d3daceda493",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-16T00:37:34.331Z",
-      "createdAt": "2026-04-16T00:37:34.372Z",
-      "updatedAt": "2026-04-16T00:37:34.372Z"
     }
   ],
   "updates": [
@@ -1312,7 +1108,7 @@
     }
   ],
   "github": {
-    "lastCommit": "2026-04-15T23:22:14Z",
+    "lastCommit": "2026-04-16T00:26:53Z",
     "recentRepos": [
       {
         "name": "jobsapi.ashish.me",
