@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 2,
-      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
+      "id": 18,
+      "quote": "Success usually comes to those who are too busy to be looking for it.",
       "category": "Motivational",
-      "author": "Marcus Aurelius",
-      "createdAt": "2024-10-21T22:30:21.598Z",
-      "updatedAt": "2024-10-21T22:30:21.598Z"
+      "author": "Henry David Thoreau",
+      "createdAt": "2026-04-02T18:29:36.110Z",
+      "updatedAt": "2026-04-02T18:29:36.110Z"
     }
   ],
   "shows": [
@@ -105,22 +105,22 @@
   ],
   "movies": [
     {
-      "id": 304,
-      "title": "Vadh",
-      "description": "A leading psychologist's much younger wife begins an extramarital affair with his close friend. When the doctor finds out, he plots revenge, which puts himself, his wife, his close friend and his brother in mortal danger.",
-      "review": 6,
+      "id": 305,
+      "title": "Vadh 2",
+      "description": "A police officer's pursuit of truth in a shocking prison crime intertwines with the lives of a widowed prison guard and a soon to be released inmate, unravelling a web of morality and redemption.",
+      "review": 7,
       "note": "",
       "language": "Hindi",
-      "year": 2002,
-      "genre": "Mystery, Thriller",
-      "posterUrl": "https://image.tmdb.org/t/p/w200/wkd1gkp8JIndTA2CNo1vJXobws4.jpg",
-      "viewingDate": "2026-04-15T00:00:00.000Z",
+      "year": 2026,
+      "genre": "Crime, Drama, Thriller",
+      "posterUrl": "https://image.tmdb.org/t/p/w200/Aj1Q7QPpt1kTrbNBRENPh0rwEot.jpg",
+      "viewingDate": "2026-04-16T00:00:00.000Z",
       "loved": true,
       "imdbRating": "0.0",
-      "imdbId": "tt0313743",
-      "tmdbId": 224260,
-      "createdAt": "2026-04-14T23:54:18.634Z",
-      "updatedAt": "2026-04-14T23:54:18.634Z"
+      "imdbId": "tt30176955",
+      "tmdbId": 1595507,
+      "createdAt": "2026-04-16T00:20:54.749Z",
+      "updatedAt": "2026-04-16T00:20:54.749Z"
     }
   ],
   "tasks": [
@@ -1049,16 +1049,172 @@
       "updatedAt": "2026-04-15T15:41:17.296Z"
     },
     {
-      "id": 656,
-      "content": "Setup mac crons jobs",
-      "category": "Now",
+      "id": 657,
+      "content": "Setup mac cron jobs",
+      "category": "Backlog",
       "projectId": "67cade46eba776000000040a",
-      "todoId": "69e01ca48f08a4b23ceb9557",
+      "todoId": "69e028208f08fa3ae63fb854",
       "completed": false,
       "completedDate": null,
       "dueDate": "2026-04-17T00:00:00.000Z",
-      "createdAt": "2026-04-15T23:17:56.298Z",
-      "updatedAt": "2026-04-15T23:17:56.298Z"
+      "createdAt": "2026-04-16T00:06:56.141Z",
+      "updatedAt": "2026-04-16T00:06:56.141Z"
+    },
+    {
+      "id": 658,
+      "content": "Setup mac cron jobs",
+      "category": "Backlog",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69e028228f083d3daced7228",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-17T00:00:00.000Z",
+      "createdAt": "2026-04-16T00:06:58.957Z",
+      "updatedAt": "2026-04-16T00:06:58.957Z"
+    },
+    {
+      "id": 659,
+      "content": "Setup mac cron jobs",
+      "category": "Backlog",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69e028248f083d3daced7240",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-17T00:00:00.000Z",
+      "createdAt": "2026-04-16T00:07:00.453Z",
+      "updatedAt": "2026-04-16T00:07:00.453Z"
+    },
+    {
+      "id": 660,
+      "content": "Setup mac cron jobs",
+      "category": "Backlog",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69e028258f08fa3ae63fb8cb",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-17T00:00:00.000Z",
+      "createdAt": "2026-04-16T00:07:01.799Z",
+      "updatedAt": "2026-04-16T00:07:01.799Z"
+    },
+    {
+      "id": 661,
+      "content": "Setup mac cron jobs",
+      "category": "Backlog",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69e028278f08a4b23cec84dd",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-17T00:00:00.000Z",
+      "createdAt": "2026-04-16T00:07:03.528Z",
+      "updatedAt": "2026-04-16T00:07:03.528Z"
+    },
+    {
+      "id": 662,
+      "content": "Setup mac cron jobs",
+      "category": "Backlog",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69e028288f083d3daced728c",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-17T00:00:00.000Z",
+      "createdAt": "2026-04-16T00:07:04.541Z",
+      "updatedAt": "2026-04-16T00:07:04.541Z"
+    },
+    {
+      "id": 663,
+      "content": "Setup mac cron jobs",
+      "category": "Backlog",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69e028298f0896856aeb8f18",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-17T00:00:00.000Z",
+      "createdAt": "2026-04-16T00:07:05.730Z",
+      "updatedAt": "2026-04-16T00:07:05.730Z"
+    },
+    {
+      "id": 664,
+      "content": "Setup mac cron jobs",
+      "category": "Backlog",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69e0282b8f08f83a14d64898",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-17T00:00:00.000Z",
+      "createdAt": "2026-04-16T00:07:07.663Z",
+      "updatedAt": "2026-04-16T00:07:07.663Z"
+    },
+    {
+      "id": 665,
+      "content": "Setup mac cron jobs",
+      "category": "Backlog",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69e0282d8f08a4b23cec8555",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-17T00:00:00.000Z",
+      "createdAt": "2026-04-16T00:07:09.138Z",
+      "updatedAt": "2026-04-16T00:07:09.138Z"
+    },
+    {
+      "id": 666,
+      "content": "Setup mac cron jobs",
+      "category": "Backlog",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69e028328f083d3daced736f",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-17T00:00:00.000Z",
+      "createdAt": "2026-04-16T00:07:14.624Z",
+      "updatedAt": "2026-04-16T00:07:14.624Z"
+    },
+    {
+      "id": 667,
+      "content": "Setup mac cron jobs",
+      "category": "Backlog",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69e028338f08fa3ae63fb9da",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-17T00:00:00.000Z",
+      "createdAt": "2026-04-16T00:07:15.924Z",
+      "updatedAt": "2026-04-16T00:07:15.924Z"
+    },
+    {
+      "id": 668,
+      "content": "Setup mac cron jobs",
+      "category": "Backlog",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69e028358f08f83a14d64a28",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-17T00:00:00.000Z",
+      "createdAt": "2026-04-16T00:07:17.389Z",
+      "updatedAt": "2026-04-16T00:07:17.389Z"
+    },
+    {
+      "id": 670,
+      "content": "codex-debug-create-check",
+      "category": "Backlog",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69e02a7c8f08f83a14d6a850",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-16T00:37:34.330Z",
+      "createdAt": "2026-04-16T00:37:34.340Z",
+      "updatedAt": "2026-04-16T00:37:34.340Z"
+    },
+    {
+      "id": 671,
+      "content": "codex-debug-create-check-no-category",
+      "category": "Backlog",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69e02a7c8f083d3daceda493",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-16T00:37:34.331Z",
+      "createdAt": "2026-04-16T00:37:34.372Z",
+      "updatedAt": "2026-04-16T00:37:34.372Z"
     }
   ],
   "updates": [
