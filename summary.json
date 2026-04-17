@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11965,
-      "stepCount": 283,
-      "date": "4/15/26",
-      "fullDate": "2026-04-15T00:00:00.000Z",
-      "createdAt": "2026-04-16T08:28:09.242Z",
-      "updatedAt": "2026-04-16T08:28:09.242Z"
+      "id": 11966,
+      "stepCount": 4674,
+      "date": "4/16/26",
+      "fullDate": "2026-04-16T00:00:00.000Z",
+      "createdAt": "2026-04-17T02:16:33.387Z",
+      "updatedAt": "2026-04-17T02:16:33.387Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 21,
-      "quote": "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you.",
+      "id": 31,
+      "quote": "You miss 100% of the shots you don't take.",
       "category": "Motivational",
-      "author": "Steve Jobs",
+      "author": "Wayne Gretzky",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
