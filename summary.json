@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 48,
-      "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "id": 9,
+      "quote": "Success is not how high you have climbed, but how you make a positive difference to the world.",
       "category": "Motivational",
-      "author": "Eleanor Roosevelt",
+      "author": "Roy T. Bennett",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -1129,18 +1129,18 @@
   ],
   "listens": [
     {
-      "id": 2719,
-      "title": "Rock Tha Party (Extended Version)",
-      "artist": "Bombay Rockers",
-      "artistNormalized": "bombay rockers",
+      "id": 2724,
+      "title": "Psycho Saiyaan (From \"Saaho\")",
+      "artist": "Sachet Tandon, Dhvani Bhanushali, Tanishk Bagchi",
+      "artistNormalized": "sachet tandon, dhvani bhanushali, tanishk bagchi",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-17T21:58:14.000Z",
-      "titleNormalized": "rock tha party (extended version)",
+      "listenDate": "2026-04-17T22:18:20.000Z",
+      "titleNormalized": "psycho saiyaan (from \"saaho\")",
       "trackNumber": null,
-      "createdAt": "2026-04-17T21:58:24.026Z",
-      "updatedAt": "2026-04-17T21:58:24.026Z"
+      "createdAt": "2026-04-17T22:18:30.011Z",
+      "updatedAt": "2026-04-17T22:18:30.011Z"
     }
   ],
   "github": {
