@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 48,
-      "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "id": 46,
+      "quote": "The best revenge is massive success.",
       "category": "Motivational",
-      "author": "Eleanor Roosevelt",
+      "author": "Frank Sinatra",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -1129,18 +1129,18 @@
   ],
   "listens": [
     {
-      "id": 2709,
-      "title": "Oo Antava Oo Oo Antava (feat. Allu Arjun, Samantha)",
-      "artist": "Indravathi Chauhan",
-      "artistNormalized": "indravathi chauhan",
+      "id": 2713,
+      "title": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+      "artist": "Usher",
+      "artistNormalized": "usher",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-17T21:20:32.000Z",
-      "titleNormalized": "oo antava oo oo antava (feat. allu arjun, samantha)",
+      "listenDate": "2026-04-17T21:36:32.000Z",
+      "titleNormalized": "dj got us fallin' in love (feat. pitbull)",
       "trackNumber": null,
-      "createdAt": "2026-04-17T21:20:42.000Z",
-      "updatedAt": "2026-04-17T21:20:42.000Z"
+      "createdAt": "2026-04-17T21:36:42.324Z",
+      "updatedAt": "2026-04-17T21:36:42.324Z"
     }
   ],
   "github": {
