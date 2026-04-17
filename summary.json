@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 41,
-      "quote": "Strive not to be a success, but rather to be of value.",
+      "id": 26,
+      "quote": "Whether you think you can or think you can't, you're right.",
       "category": "Motivational",
-      "author": "Albert Einstein",
+      "author": "Henry Ford",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -1129,18 +1129,18 @@
   ],
   "listens": [
     {
-      "id": 2729,
-      "title": "Kamariya (From \"Stree\")",
-      "artist": "Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar",
-      "artistNormalized": "aastha gill, sachin sanghvi, jigar saraiya, divya kumar",
+      "id": 2733,
+      "title": "Aankh Marey (From \"Simmba\")",
+      "artist": "Neha Kakkar, Mika Singh, Kumar Sanu, Tanishk Bagchi",
+      "artistNormalized": "neha kakkar, mika singh, kumar sanu, tanishk bagchi",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-17T22:34:54.000Z",
-      "titleNormalized": "kamariya (from \"stree\")",
+      "listenDate": "2026-04-17T22:50:52.000Z",
+      "titleNormalized": "aankh marey (from \"simmba\")",
       "trackNumber": null,
-      "createdAt": "2026-04-17T22:35:03.855Z",
-      "updatedAt": "2026-04-17T22:35:03.855Z"
+      "createdAt": "2026-04-17T22:51:02.686Z",
+      "updatedAt": "2026-04-17T22:51:02.686Z"
     }
   ],
   "github": {
