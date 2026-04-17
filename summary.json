@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 46,
-      "quote": "The best revenge is massive success.",
+      "id": 48,
+      "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
       "category": "Motivational",
-      "author": "Frank Sinatra",
+      "author": "Eleanor Roosevelt",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -1129,18 +1129,18 @@
   ],
   "listens": [
     {
-      "id": 2713,
-      "title": "DJ Got Us Fallin' In Love (feat. Pitbull)",
-      "artist": "Usher",
-      "artistNormalized": "usher",
+      "id": 2719,
+      "title": "Rock Tha Party (Extended Version)",
+      "artist": "Bombay Rockers",
+      "artistNormalized": "bombay rockers",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-17T21:36:32.000Z",
-      "titleNormalized": "dj got us fallin' in love (feat. pitbull)",
+      "listenDate": "2026-04-17T21:58:14.000Z",
+      "titleNormalized": "rock tha party (extended version)",
       "trackNumber": null,
-      "createdAt": "2026-04-17T21:36:42.324Z",
-      "updatedAt": "2026-04-17T21:36:42.324Z"
+      "createdAt": "2026-04-17T21:58:24.026Z",
+      "updatedAt": "2026-04-17T21:58:24.026Z"
     }
   ],
   "github": {
