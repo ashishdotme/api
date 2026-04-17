@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 9,
-      "quote": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+      "id": 41,
+      "quote": "Strive not to be a success, but rather to be of value.",
       "category": "Motivational",
-      "author": "Roy T. Bennett",
+      "author": "Albert Einstein",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -1129,18 +1129,18 @@
   ],
   "listens": [
     {
-      "id": 2724,
-      "title": "Psycho Saiyaan (From \"Saaho\")",
-      "artist": "Sachet Tandon, Dhvani Bhanushali, Tanishk Bagchi",
-      "artistNormalized": "sachet tandon, dhvani bhanushali, tanishk bagchi",
+      "id": 2729,
+      "title": "Kamariya (From \"Stree\")",
+      "artist": "Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar",
+      "artistNormalized": "aastha gill, sachin sanghvi, jigar saraiya, divya kumar",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-17T22:18:20.000Z",
-      "titleNormalized": "psycho saiyaan (from \"saaho\")",
+      "listenDate": "2026-04-17T22:34:54.000Z",
+      "titleNormalized": "kamariya (from \"stree\")",
       "trackNumber": null,
-      "createdAt": "2026-04-17T22:18:30.011Z",
-      "updatedAt": "2026-04-17T22:18:30.011Z"
+      "createdAt": "2026-04-17T22:35:03.855Z",
+      "updatedAt": "2026-04-17T22:35:03.855Z"
     }
   ],
   "github": {
