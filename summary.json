@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 35,
-      "quote": "Nothing in the world can take the place of Persistence.",
+      "id": 48,
+      "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
       "category": "Motivational",
-      "author": "Calvin Coolidge",
+      "author": "Eleanor Roosevelt",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -1129,18 +1129,18 @@
   ],
   "listens": [
     {
-      "id": 2707,
-      "title": "Dhurandhar The Revenge - Aari Aari",
-      "artist": "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi",
-      "artistNormalized": "shashwat sachdev, bombay rockers, irshad kamil, khan saab, reble, token, jasmine sandlas, sudhir yaduvanshi",
+      "id": 2709,
+      "title": "Oo Antava Oo Oo Antava (feat. Allu Arjun, Samantha)",
+      "artist": "Indravathi Chauhan",
+      "artistNormalized": "indravathi chauhan",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-14T23:38:30.000Z",
-      "titleNormalized": "dhurandhar the revenge - aari aari",
+      "listenDate": "2026-04-17T21:20:32.000Z",
+      "titleNormalized": "oo antava oo oo antava (feat. allu arjun, samantha)",
       "trackNumber": null,
-      "createdAt": "2026-04-14T23:38:33.434Z",
-      "updatedAt": "2026-04-14T23:38:33.434Z"
+      "createdAt": "2026-04-17T21:20:42.000Z",
+      "updatedAt": "2026-04-17T21:20:42.000Z"
     }
   ],
   "github": {
