@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 14,
-      "quote": "You are never too old to set another goal or to dream a new dream.",
+      "id": 47,
+      "quote": "Do one thing every day that scares you.",
       "category": "Motivational",
-      "author": "C.S. Lewis",
+      "author": "Eleanor Roosevelt",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -105,22 +105,22 @@
   ],
   "movies": [
     {
-      "id": 305,
-      "title": "Vadh 2",
-      "description": "A police officer's pursuit of truth in a shocking prison crime intertwines with the lives of a widowed prison guard and a soon to be released inmate, unravelling a web of morality and redemption.",
-      "review": 7,
-      "note": "",
-      "language": "Hindi",
-      "year": 2026,
-      "genre": "Crime, Drama, Thriller",
-      "posterUrl": "https://image.tmdb.org/t/p/w200/Aj1Q7QPpt1kTrbNBRENPh0rwEot.jpg",
-      "viewingDate": "2026-04-16T00:00:00.000Z",
-      "loved": true,
-      "imdbRating": "0.0",
-      "imdbId": "tt30176955",
-      "tmdbId": 1595507,
-      "createdAt": "2026-04-16T00:20:54.749Z",
-      "updatedAt": "2026-04-16T00:20:54.749Z"
+      "id": 308,
+      "title": "Get Out",
+      "description": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+      "review": null,
+      "note": null,
+      "language": "English",
+      "year": 2017,
+      "genre": "Mystery, Thriller, Horror",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg",
+      "viewingDate": "2026-04-18T00:00:00.000Z",
+      "loved": false,
+      "imdbRating": "7.6",
+      "imdbId": "tt5052448",
+      "tmdbId": 419430,
+      "createdAt": "2026-04-18T22:51:54.127Z",
+      "updatedAt": "2026-04-18T22:51:54.127Z"
     }
   ],
   "tasks": [
