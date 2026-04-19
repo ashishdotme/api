@@ -12,24 +12,24 @@
   ],
   "steps": [
     {
-      "id": 11967,
-      "stepCount": 2155,
-      "date": "4/17/26",
-      "fullDate": "2026-04-17T00:00:00.000Z",
-      "createdAt": "2026-04-18T01:04:27.672Z",
-      "updatedAt": "2026-04-18T20:32:19.868Z"
+      "id": 11968,
+      "stepCount": 9183,
+      "date": "4/18/26",
+      "fullDate": "2026-04-18T00:00:00.000Z",
+      "createdAt": "2026-04-19T00:54:49.491Z",
+      "updatedAt": "2026-04-19T00:54:49.491Z"
     }
   ],
   "sleep": [
     {
-      "id": 367,
-      "sleep": "5",
-      "date": "4/17/26",
-      "fullDate": "2026-04-17T00:00:00.000Z",
-      "sleepStart": "2026-04-17T02:30:19.000Z",
-      "sleepEnd": "2026-04-17T07:00:18.000Z",
-      "createdAt": "2026-04-18T20:32:19.946Z",
-      "updatedAt": "2026-04-18T20:32:19.946Z"
+      "id": 368,
+      "sleep": "14",
+      "date": "4/18/26",
+      "fullDate": "2026-04-18T00:00:00.000Z",
+      "sleepStart": "2026-04-17T18:27:18.000Z",
+      "sleepEnd": "2026-04-18T08:14:18.000Z",
+      "createdAt": "2026-04-19T00:54:49.561Z",
+      "updatedAt": "2026-04-19T00:54:49.561Z"
     }
   ],
   "word": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 28,
-      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "id": 26,
+      "quote": "Whether you think you can or think you can't, you're right.",
       "category": "Motivational",
-      "author": "Franklin D. Roosevelt",
+      "author": "Henry Ford",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
