@@ -1,5 +1,33 @@
 [
   {
+    "id": 2743,
+    "title": "BANDE NU BANDA (Official Video) Nirbhay Punia x MixSingh",
+    "artist": "MixSingh",
+    "artistNormalized": "mixsingh",
+    "album": null,
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2026-04-19T16:47:49.000Z",
+    "titleNormalized": "bande nu banda (official video) nirbhay punia x mixsingh",
+    "trackNumber": null,
+    "createdAt": "2026-04-19T16:47:59.296Z",
+    "updatedAt": "2026-04-19T16:47:59.296Z"
+  },
+  {
+    "id": 2742,
+    "title": "AFSOS [Official Lyric Video]",
+    "artist": "Anuv Jain, AP Dhillon",
+    "artistNormalized": "anuv jain, ap dhillon",
+    "album": null,
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2026-04-19T16:44:42.000Z",
+    "titleNormalized": "afsos [official lyric video]",
+    "trackNumber": null,
+    "createdAt": "2026-04-19T16:44:53.741Z",
+    "updatedAt": "2026-04-19T16:44:53.741Z"
+  },
+  {
     "id": 2741,
     "title": "Suniyan Suniyan",
     "artist": "Juss, MixSingh",
