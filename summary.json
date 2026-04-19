@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 6,
-      "quote": "The future belongs to those who believe in the beauty of their dreams.",
+      "id": 51,
+      "quote": "The person who says it cannot be done should not interrupt the person who is doing it.",
       "category": "Motivational",
-      "author": "Eleanor Roosevelt",
+      "author": "Chinese Proverb",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -1129,18 +1129,18 @@
   ],
   "listens": [
     {
-      "id": 2740,
-      "title": "Gangsta's Paradise",
-      "artist": "Coolio, L.V.",
-      "artistNormalized": "coolio, l.v.",
+      "id": 2741,
+      "title": "Suniyan Suniyan",
+      "artist": "Juss, MixSingh",
+      "artistNormalized": "juss, mixsingh",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-19T11:10:12.000Z",
-      "titleNormalized": "gangsta's paradise",
+      "listenDate": "2026-04-19T16:35:02.000Z",
+      "titleNormalized": "suniyan suniyan",
       "trackNumber": null,
-      "createdAt": "2026-04-19T11:10:22.084Z",
-      "updatedAt": "2026-04-19T11:10:22.084Z"
+      "createdAt": "2026-04-19T16:35:11.655Z",
+      "updatedAt": "2026-04-19T16:35:11.655Z"
     }
   ],
   "github": {
