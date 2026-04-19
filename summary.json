@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 1,
-      "quote": "Kindness is the language which the deaf can hear and the blind can see",
+      "id": 13,
+      "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
       "category": "Motivational",
-      "author": "Mark Twain",
-      "createdAt": "2024-10-21T22:28:52.934Z",
-      "updatedAt": "2024-10-21T22:28:52.934Z"
+      "author": "Zig Ziglar",
+      "createdAt": "2026-04-02T18:29:36.110Z",
+      "updatedAt": "2026-04-02T18:29:36.110Z"
     }
   ],
   "shows": [
@@ -1129,18 +1129,18 @@
   ],
   "listens": [
     {
-      "id": 2738,
-      "title": "Subha Hone Na De - Remix",
-      "artist": "Mika Singh | Shefali Alvaris",
-      "artistNormalized": "mika singh | shefali alvaris",
+      "id": 2739,
+      "title": "Tip Tip",
+      "artist": "Udit Narayan, Alka Yagnik",
+      "artistNormalized": "udit narayan, alka yagnik",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-19T07:24:29.000Z",
-      "titleNormalized": "subha hone na de - remix",
+      "listenDate": "2026-04-19T07:29:09.000Z",
+      "titleNormalized": "tip tip",
       "trackNumber": null,
-      "createdAt": "2026-04-19T07:24:39.301Z",
-      "updatedAt": "2026-04-19T07:24:39.301Z"
+      "createdAt": "2026-04-19T07:29:18.971Z",
+      "updatedAt": "2026-04-19T07:29:18.971Z"
     }
   ],
   "github": {
