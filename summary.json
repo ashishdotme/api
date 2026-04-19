@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11968,
-      "stepCount": 9228,
-      "date": "4/18/26",
-      "fullDate": "2026-04-18T00:00:00.000Z",
-      "createdAt": "2026-04-19T00:54:49.491Z",
-      "updatedAt": "2026-04-19T11:17:12.391Z"
+      "id": 11969,
+      "stepCount": 7948,
+      "date": "4/19/26",
+      "fullDate": "2026-04-19T00:00:00.000Z",
+      "createdAt": "2026-04-19T23:43:04.793Z",
+      "updatedAt": "2026-04-19T23:43:04.793Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 28,
-      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "id": 19,
+      "quote": "Don't let yesterday take up too much of today.",
       "category": "Motivational",
-      "author": "Franklin D. Roosevelt",
+      "author": "Will Rogers",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
