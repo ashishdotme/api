@@ -13,11 +13,11 @@
   "steps": [
     {
       "id": 11968,
-      "stepCount": 9183,
+      "stepCount": 9228,
       "date": "4/18/26",
       "fullDate": "2026-04-18T00:00:00.000Z",
       "createdAt": "2026-04-19T00:54:49.491Z",
-      "updatedAt": "2026-04-19T00:54:49.491Z"
+      "updatedAt": "2026-04-19T11:17:12.391Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 48,
-      "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "id": 37,
+      "quote": "The most difficult thing is the decision to act, the rest is merely tenacity.",
       "category": "Motivational",
-      "author": "Eleanor Roosevelt",
+      "author": "Amelia Earhart",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -1129,18 +1129,18 @@
   ],
   "listens": [
     {
-      "id": 2739,
-      "title": "Tip Tip",
-      "artist": "Udit Narayan, Alka Yagnik",
-      "artistNormalized": "udit narayan, alka yagnik",
+      "id": 2740,
+      "title": "Gangsta's Paradise",
+      "artist": "Coolio, L.V.",
+      "artistNormalized": "coolio, l.v.",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-19T07:29:09.000Z",
-      "titleNormalized": "tip tip",
+      "listenDate": "2026-04-19T11:10:12.000Z",
+      "titleNormalized": "gangsta's paradise",
       "trackNumber": null,
-      "createdAt": "2026-04-19T07:29:18.971Z",
-      "updatedAt": "2026-04-19T07:29:18.971Z"
+      "createdAt": "2026-04-19T11:10:22.084Z",
+      "updatedAt": "2026-04-19T11:10:22.084Z"
     }
   ],
   "github": {
