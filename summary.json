@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 30,
-      "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "id": 51,
+      "quote": "The person who says it cannot be done should not interrupt the person who is doing it.",
       "category": "Motivational",
-      "author": "Ralph Waldo Emerson",
+      "author": "Chinese Proverb",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -1144,7 +1144,7 @@
     }
   ],
   "github": {
-    "lastCommit": "2026-04-16T01:28:54Z",
+    "lastCommit": "2026-04-20T16:18:37Z",
     "recentRepos": [
       {
         "name": "jobsapi.ashish.me",
