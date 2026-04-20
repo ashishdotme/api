@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 18,
-      "quote": "Success usually comes to those who are too busy to be looking for it.",
+      "id": 27,
+      "quote": "The man who has confidence in himself gains the confidence of others.",
       "category": "Motivational",
-      "author": "Henry David Thoreau",
+      "author": "Hasidic Proverb",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -1027,26 +1027,26 @@
     {
       "id": 677,
       "content": "Chicken tandoori recipe",
-      "category": "In Progress",
+      "category": "Backlog",
       "projectId": "69dfe885c3f011904906b178",
       "todoId": "69e0a7898f08a4b23cf9299d",
       "completed": false,
       "completedDate": null,
       "dueDate": "2026-04-17T00:00:00.000Z",
       "createdAt": "2026-04-16T09:10:33.836Z",
-      "updatedAt": "2026-04-20T22:14:31.130Z"
+      "updatedAt": "2026-04-20T23:37:44.451Z"
     },
     {
       "id": 686,
       "content": "Malai Kebab",
-      "category": "In Progress",
+      "category": "Backlog",
       "projectId": "69dfe885c3f011904906b178",
       "todoId": "69e603ad8f08e6e745db7f8d",
       "completed": false,
       "completedDate": null,
       "dueDate": "2026-04-21T00:00:00.000Z",
       "createdAt": "2026-04-20T10:45:01.116Z",
-      "updatedAt": "2026-04-20T22:14:33.012Z"
+      "updatedAt": "2026-04-20T23:37:45.052Z"
     }
   ],
   "updates": [
