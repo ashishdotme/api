@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 41,
-      "quote": "Strive not to be a success, but rather to be of value.",
+      "id": 37,
+      "quote": "The most difficult thing is the decision to act, the rest is merely tenacity.",
       "category": "Motivational",
-      "author": "Albert Einstein",
+      "author": "Amelia Earhart",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -869,30 +869,6 @@
       "updatedAt": "2026-04-15T15:41:03.943Z"
     },
     {
-      "id": 639,
-      "content": "Papad",
-      "category": "Indian",
-      "projectId": "66d2ec458f0891d1c89a4e22",
-      "todoId": "699f723092ca2158099c0361",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-15T15:41:03.937Z",
-      "createdAt": "2026-04-15T15:41:03.949Z",
-      "updatedAt": "2026-04-15T15:41:03.949Z"
-    },
-    {
-      "id": 642,
-      "content": "Murra",
-      "category": "Indian",
-      "projectId": "66d2ec458f0891d1c89a4e22",
-      "todoId": "69ca7d41f67ea1737c0c16d1",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-15T15:41:03.937Z",
-      "createdAt": "2026-04-15T15:41:03.971Z",
-      "updatedAt": "2026-04-15T15:41:03.971Z"
-    },
-    {
       "id": 641,
       "content": "Besan",
       "category": "Indian",
@@ -915,18 +891,6 @@
       "dueDate": "2026-04-15T15:41:03.937Z",
       "createdAt": "2026-04-15T15:41:03.971Z",
       "updatedAt": "2026-04-15T15:41:03.971Z"
-    },
-    {
-      "id": 644,
-      "content": "Apple",
-      "category": "Not Sectioned",
-      "projectId": "66d2ec458f0891d1c89a4e22",
-      "todoId": "69cfef1c80da11043eed2d67",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-15T15:41:03.937Z",
-      "createdAt": "2026-04-15T15:41:03.972Z",
-      "updatedAt": "2026-04-15T15:41:03.972Z"
     },
     {
       "id": 650,
@@ -1047,6 +1011,54 @@
       "dueDate": "2026-04-17T00:00:00.000Z",
       "createdAt": "2026-04-16T09:30:59.657Z",
       "updatedAt": "2026-04-16T09:30:59.657Z"
+    },
+    {
+      "id": 684,
+      "content": "Soya sauce",
+      "category": "Not Sectioned",
+      "projectId": "66d2ec458f0891d1c89a4e22",
+      "todoId": "69e4b587c75791a2cf55b1f5",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-20T10:43:55.755Z",
+      "createdAt": "2026-04-20T10:43:55.794Z",
+      "updatedAt": "2026-04-20T10:43:55.794Z"
+    },
+    {
+      "id": 686,
+      "content": "Malai Kebab",
+      "category": "Backlog",
+      "projectId": "69dfe885c3f011904906b178",
+      "todoId": "69e603ad8f08e6e745db7f8d",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-21T00:00:00.000Z",
+      "createdAt": "2026-04-20T10:45:01.116Z",
+      "updatedAt": "2026-04-20T10:45:01.116Z"
+    },
+    {
+      "id": 687,
+      "content": "Egg fried Rice",
+      "category": "Backlog",
+      "projectId": "69dfe885c3f011904906b178",
+      "todoId": "69e603c18f08f83a15f7c4a5",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-21T00:00:00.000Z",
+      "createdAt": "2026-04-20T10:45:21.337Z",
+      "updatedAt": "2026-04-20T10:45:21.337Z"
+    },
+    {
+      "id": 688,
+      "content": "Frozen items shelf life",
+      "category": "Backlog",
+      "projectId": "69dfe885c3f011904906b178",
+      "todoId": "69e604098f08fa3ae6d51131",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-21T00:00:00.000Z",
+      "createdAt": "2026-04-20T10:46:33.564Z",
+      "updatedAt": "2026-04-20T10:46:33.564Z"
     }
   ],
   "updates": [
