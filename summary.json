@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 23,
-      "quote": "Failure will never overtake me if my determination to succeed is strong enough.",
+      "id": 16,
+      "quote": "Don't be afraid to give up the good to go for the great.",
       "category": "Motivational",
-      "author": "Og Mandino",
+      "author": "John D. Rockefeller",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -965,18 +965,6 @@
       "updatedAt": "2026-04-16T08:53:20.176Z"
     },
     {
-      "id": 677,
-      "content": "Chicken tandoori recipe",
-      "category": "Backlog",
-      "projectId": "69dfe885c3f011904906b178",
-      "todoId": "69e0a7898f08a4b23cf9299d",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-17T00:00:00.000Z",
-      "createdAt": "2026-04-16T09:10:33.836Z",
-      "updatedAt": "2026-04-16T09:10:33.836Z"
-    },
-    {
       "id": 678,
       "content": "Do DP problems",
       "category": "Backlog",
@@ -1013,18 +1001,6 @@
       "updatedAt": "2026-04-20T10:43:55.794Z"
     },
     {
-      "id": 686,
-      "content": "Malai Kebab",
-      "category": "Backlog",
-      "projectId": "69dfe885c3f011904906b178",
-      "todoId": "69e603ad8f08e6e745db7f8d",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-21T00:00:00.000Z",
-      "createdAt": "2026-04-20T10:45:01.116Z",
-      "updatedAt": "2026-04-20T10:45:01.116Z"
-    },
-    {
       "id": 687,
       "content": "Egg fried Rice",
       "category": "Backlog",
@@ -1047,6 +1023,30 @@
       "dueDate": "2026-04-21T00:00:00.000Z",
       "createdAt": "2026-04-20T10:46:33.564Z",
       "updatedAt": "2026-04-20T10:46:33.564Z"
+    },
+    {
+      "id": 677,
+      "content": "Chicken tandoori recipe",
+      "category": "In Progress",
+      "projectId": "69dfe885c3f011904906b178",
+      "todoId": "69e0a7898f08a4b23cf9299d",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-17T00:00:00.000Z",
+      "createdAt": "2026-04-16T09:10:33.836Z",
+      "updatedAt": "2026-04-20T22:14:31.130Z"
+    },
+    {
+      "id": 686,
+      "content": "Malai Kebab",
+      "category": "In Progress",
+      "projectId": "69dfe885c3f011904906b178",
+      "todoId": "69e603ad8f08e6e745db7f8d",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-21T00:00:00.000Z",
+      "createdAt": "2026-04-20T10:45:01.116Z",
+      "updatedAt": "2026-04-20T22:14:33.012Z"
     }
   ],
   "updates": [
