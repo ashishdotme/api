@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 42,
-      "quote": "I attribute my success to this: I never gave or took any excuse.",
+      "id": 30,
+      "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
       "category": "Motivational",
-      "author": "Florence Nightingale",
+      "author": "Ralph Waldo Emerson",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -293,18 +293,6 @@
       "updatedAt": "2026-04-15T15:41:03.743Z"
     },
     {
-      "id": 595,
-      "content": "Hardisk Cleanup",
-      "category": "Backlog",
-      "projectId": "67cade46eba776000000040a",
-      "todoId": "69aefeb715f9d105eeef6b04",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-15T15:41:03.770Z",
-      "createdAt": "2026-04-15T15:41:03.772Z",
-      "updatedAt": "2026-04-15T15:41:03.772Z"
-    },
-    {
       "id": 618,
       "content": "Tesco Baby Potatoes 1Kg",
       "category": "Backlog",
@@ -353,6 +341,18 @@
       "updatedAt": "2026-04-15T15:41:03.995Z"
     },
     {
+      "id": 595,
+      "content": "Hardisk Cleanup",
+      "category": "Blocked",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69aefeb715f9d105eeef6b04",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.770Z",
+      "createdAt": "2026-04-15T15:41:03.772Z",
+      "updatedAt": "2026-04-20T16:26:42.631Z"
+    },
+    {
       "id": 594,
       "content": "Add mobile app to github",
       "category": "Todo",
@@ -389,18 +389,6 @@
       "updatedAt": "2026-04-15T15:41:03.903Z"
     },
     {
-      "id": 637,
-      "content": "Hardisk cleanup",
-      "category": "Not Priority",
-      "projectId": "66d2ec458f0891d1c89a4e22",
-      "todoId": "68c93df6c9d4d1117dcec692",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-15T15:41:03.937Z",
-      "createdAt": "2026-04-15T15:41:03.947Z",
-      "updatedAt": "2026-04-15T15:41:03.947Z"
-    },
-    {
       "id": 647,
       "content": "Passport",
       "category": "Backlog",
@@ -411,18 +399,6 @@
       "dueDate": "2026-04-15T15:41:03.968Z",
       "createdAt": "2026-04-15T15:41:03.980Z",
       "updatedAt": "2026-04-15T15:41:03.980Z"
-    },
-    {
-      "id": 596,
-      "content": "News use rss",
-      "category": "Backlog",
-      "projectId": "67cade46eba776000000040a",
-      "todoId": "69ce4c8ddf33112de4b64eef",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-15T15:41:03.770Z",
-      "createdAt": "2026-04-15T15:41:03.773Z",
-      "updatedAt": "2026-04-15T15:41:03.773Z"
     },
     {
       "id": 610,
@@ -483,6 +459,18 @@
       "dueDate": "2026-04-15T15:41:03.937Z",
       "createdAt": "2026-04-15T15:41:03.975Z",
       "updatedAt": "2026-04-15T15:41:13.538Z"
+    },
+    {
+      "id": 596,
+      "content": "News use rss",
+      "category": "Blocked",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69ce4c8ddf33112de4b64eef",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.770Z",
+      "createdAt": "2026-04-15T15:41:03.773Z",
+      "updatedAt": "2026-04-20T16:26:44.238Z"
     },
     {
       "id": 616,
