@@ -12,24 +12,24 @@
   ],
   "steps": [
     {
-      "id": 11970,
-      "stepCount": 2022,
-      "date": "4/20/26",
-      "fullDate": "2026-04-20T00:00:00.000Z",
-      "createdAt": "2026-04-21T00:54:28.937Z",
-      "updatedAt": "2026-04-21T13:01:53.609Z"
+      "id": 11971,
+      "stepCount": 4998,
+      "date": "4/21/26",
+      "fullDate": "2026-04-21T00:00:00.000Z",
+      "createdAt": "2026-04-21T23:36:12.107Z",
+      "updatedAt": "2026-04-21T23:36:12.107Z"
     }
   ],
   "sleep": [
     {
-      "id": 369,
-      "sleep": "8",
-      "date": "4/20/26",
-      "fullDate": "2026-04-20T00:00:00.000Z",
-      "sleepStart": "2026-04-19T23:57:36.000Z",
-      "sleepEnd": "2026-04-20T08:24:36.000Z",
-      "createdAt": "2026-04-21T13:01:53.681Z",
-      "updatedAt": "2026-04-21T21:08:20.204Z"
+      "id": 370,
+      "sleep": "5",
+      "date": "4/21/26",
+      "fullDate": "2026-04-21T00:00:00.000Z",
+      "sleepStart": "2026-04-21T02:25:19.000Z",
+      "sleepEnd": "2026-04-21T07:01:18.000Z",
+      "createdAt": "2026-04-21T23:36:12.186Z",
+      "updatedAt": "2026-04-21T23:36:12.186Z"
     }
   ],
   "word": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 22,
-      "quote": "People who are crazy enough to think they can change the world, are the ones who do.",
+      "id": 12,
+      "quote": "In the middle of every difficulty lies opportunity.",
       "category": "Motivational",
-      "author": "Rob Siltanen",
+      "author": "Albert Einstein",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
