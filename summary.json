@@ -29,7 +29,7 @@
       "sleepStart": "2026-04-19T23:57:36.000Z",
       "sleepEnd": "2026-04-20T08:24:36.000Z",
       "createdAt": "2026-04-21T13:01:53.681Z",
-      "updatedAt": "2026-04-21T18:24:17.897Z"
+      "updatedAt": "2026-04-21T21:08:20.204Z"
     }
   ],
   "word": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 48,
-      "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "id": 19,
+      "quote": "Don't let yesterday take up too much of today.",
       "category": "Motivational",
-      "author": "Eleanor Roosevelt",
+      "author": "Will Rogers",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
