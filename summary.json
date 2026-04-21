@@ -29,7 +29,7 @@
       "sleepStart": "2026-04-19T23:57:36.000Z",
       "sleepEnd": "2026-04-20T08:24:36.000Z",
       "createdAt": "2026-04-21T13:01:53.681Z",
-      "updatedAt": "2026-04-21T13:01:53.681Z"
+      "updatedAt": "2026-04-21T17:28:08.771Z"
     }
   ],
   "word": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 41,
-      "quote": "Strive not to be a success, but rather to be of value.",
+      "id": 11,
+      "quote": "The only impossible journey is the one you never begin.",
       "category": "Motivational",
-      "author": "Albert Einstein",
+      "author": "Tony Robbins",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
