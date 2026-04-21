@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11969,
-      "stepCount": 7948,
-      "date": "4/19/26",
-      "fullDate": "2026-04-19T00:00:00.000Z",
-      "createdAt": "2026-04-19T23:43:04.793Z",
-      "updatedAt": "2026-04-19T23:43:04.793Z"
+      "id": 11970,
+      "stepCount": 332,
+      "date": "4/20/26",
+      "fullDate": "2026-04-20T00:00:00.000Z",
+      "createdAt": "2026-04-21T00:54:28.937Z",
+      "updatedAt": "2026-04-21T00:54:28.937Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 44,
-      "quote": "The most common way people give up their power is by thinking they don't have any.",
+      "id": 9,
+      "quote": "Success is not how high you have climbed, but how you make a positive difference to the world.",
       "category": "Motivational",
-      "author": "Alice Walker",
+      "author": "Roy T. Bennett",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
