@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 48,
-      "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "id": 15,
+      "quote": "The way to get started is to quit talking and begin doing.",
       "category": "Motivational",
-      "author": "Eleanor Roosevelt",
+      "author": "Walt Disney",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -1063,32 +1063,12 @@
       "referencedSourceUrl": null,
       "sourceUrl": "https://www.threads.com/@ashishdotme/post/DXIOUROiIvj",
       "mediaUrls": [
-        "https://scontent-hel3-1.cdninstagram.com/v/t51.82787-15/670915712_17959117041111989_8832264407237789100_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=xMadc7m2tIQQ7kNvwE2v3Tl&_nc_oc=Adrrnkd5Gnh0y6U5I7WLXKhnhodOpEEE1ykihO8nZObNpFOwIKUz3kADSKDFLn0v3bw&_nc_zt=23&_nc_ht=scontent-hel3-1.cdninstagram.com&edm=ACx9VUEEAAAA&_nc_gid=-7-Ymd-rlDkVxUnK5oYBlw&_nc_tpa=Q5bMBQFGFSYtzVdd42H5l0cpd6oMP_AU6vsZ3YspIKhjKpU2QMGcqeqtN1Q0OSN5svq4gEJc7LfaYAnNwg&oh=00_Af1XRo16O9nMp2wESvdO0Dz4aPmJSe-f4efMhRJKstCGeg&oe=69E47348"
+        "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:76yjmeje3achjsllh7df4io5/bafkreigtejhjozu5t7ii4hvgpdumaxcg77ljwzlxvtvkqyooqjp23tiikq"
       ],
       "blueskyUri": "at://did:plc:76yjmeje3achjsllh7df4io5/app.bsky.feed.post/3mjiftnyoql2x",
       "bridgePublisher": "jobsapi.ashish.me",
       "createdAt": "2026-04-14T22:16:24.482Z",
-      "updatedAt": "2026-04-14T22:16:26.694Z"
-    },
-    {
-      "id": 14,
-      "category": "threads",
-      "content": "",
-      "title": "Threads post",
-      "date": "2026-04-14T09:35:19.000Z",
-      "source": "threads",
-      "sourceId": "18089947375969248",
-      "sourcePostType": "post",
-      "referencedSourceId": null,
-      "referencedSourceUrl": null,
-      "sourceUrl": "https://www.threads.com/@ashishdotme/post/DXG3SbXCLNA",
-      "mediaUrls": [
-        "https://scontent-hel3-1.cdninstagram.com/v/t51.82787-15/673130795_17958984435111989_486091496472083889_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=sjde7SNO35YQ7kNvwEy5R7p&_nc_oc=AdpDBj0FmKhy9KMQ5eZgjqTAJvDUoawXauD81JAZDEuaaZpUbRNoBNETaVCVoCAyXIk&_nc_zt=23&_nc_ht=scontent-hel3-1.cdninstagram.com&edm=ACx9VUEEAAAA&_nc_gid=0WmRqNuONnaDO1hufFDoDA&_nc_tpa=Q5bMBQFhjh3CcHJfkkWsuORR272DRxzsyunuo7n7DWabAonRfick1JtGd-sAj0WnDdtURLuzAdAiJ7_4YQ&oh=00_Af1AK7hiVxK5zp9_7bpHoyxhYi4kwXMptrgOruzM7tmX8w&oe=69E3E0AA"
-      ],
-      "blueskyUri": "at://did:plc:76yjmeje3achjsllh7df4io5/app.bsky.feed.post/3mjh3def6cs2m",
-      "bridgePublisher": "jobsapi.ashish.me",
-      "createdAt": "2026-04-14T09:35:41.496Z",
-      "updatedAt": "2026-04-14T09:35:42.145Z"
+      "updatedAt": "2026-04-22T22:08:21.889Z"
     },
     {
       "id": 13,
