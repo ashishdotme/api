@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 15,
-      "quote": "The way to get started is to quit talking and begin doing.",
+      "id": 36,
+      "quote": "Life is 10% what happens to you and 90% how you react to it.",
       "category": "Motivational",
-      "author": "Walt Disney",
+      "author": "Charles R. Swindoll",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -1047,6 +1047,54 @@
       "dueDate": "2026-04-21T00:00:00.000Z",
       "createdAt": "2026-04-20T10:45:01.116Z",
       "updatedAt": "2026-04-20T23:37:45.052Z"
+    },
+    {
+      "id": 689,
+      "content": "Red pasta",
+      "category": "Backlog",
+      "projectId": "69dfe885c3f011904906b178",
+      "todoId": "69e94e9b8f083d3dadec421c",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-23T00:00:00.000Z",
+      "createdAt": "2026-04-22T22:41:31.551Z",
+      "updatedAt": "2026-04-22T22:41:31.551Z"
+    },
+    {
+      "id": 690,
+      "content": "Use blusky image in updates",
+      "category": "Backlog",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "69e94ecb8f08fa3ae73be3d6",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-23T00:00:00.000Z",
+      "createdAt": "2026-04-22T22:42:19.461Z",
+      "updatedAt": "2026-04-22T22:42:19.461Z"
+    },
+    {
+      "id": 691,
+      "content": "Paneer masala",
+      "category": "Backlog",
+      "projectId": "69dfe885c3f011904906b178",
+      "todoId": "69e951888f08fa3ae73c1814",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-23T00:00:00.000Z",
+      "createdAt": "2026-04-22T22:54:00.486Z",
+      "updatedAt": "2026-04-22T22:54:00.486Z"
+    },
+    {
+      "id": 692,
+      "content": "Sev Bhaji",
+      "category": "Backlog",
+      "projectId": "69dfe885c3f011904906b178",
+      "todoId": "69e9519e8f083d3dadec7d19",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-23T00:00:00.000Z",
+      "createdAt": "2026-04-22T22:54:23.078Z",
+      "updatedAt": "2026-04-22T22:54:23.078Z"
     }
   ],
   "updates": [
