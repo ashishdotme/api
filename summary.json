@@ -13,11 +13,11 @@
   "steps": [
     {
       "id": 11971,
-      "stepCount": 4998,
+      "stepCount": 5323,
       "date": "4/21/26",
       "fullDate": "2026-04-21T00:00:00.000Z",
       "createdAt": "2026-04-21T23:36:12.107Z",
-      "updatedAt": "2026-04-21T23:36:12.107Z"
+      "updatedAt": "2026-04-22T12:02:11.532Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 21,
-      "quote": "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you.",
+      "id": 11,
+      "quote": "The only impossible journey is the one you never begin.",
       "category": "Motivational",
-      "author": "Steve Jobs",
+      "author": "Tony Robbins",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
