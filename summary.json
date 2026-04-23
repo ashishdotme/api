@@ -12,24 +12,24 @@
   ],
   "steps": [
     {
-      "id": 11971,
-      "stepCount": 5323,
-      "date": "4/21/26",
-      "fullDate": "2026-04-21T00:00:00.000Z",
-      "createdAt": "2026-04-21T23:36:12.107Z",
-      "updatedAt": "2026-04-22T12:02:11.532Z"
+      "id": 11972,
+      "stepCount": 650,
+      "date": "4/22/26",
+      "fullDate": "2026-04-22T00:00:00.000Z",
+      "createdAt": "2026-04-23T00:40:47.119Z",
+      "updatedAt": "2026-04-23T00:40:47.119Z"
     }
   ],
   "sleep": [
     {
-      "id": 370,
-      "sleep": "5",
-      "date": "4/21/26",
-      "fullDate": "2026-04-21T00:00:00.000Z",
-      "sleepStart": "2026-04-21T02:25:19.000Z",
-      "sleepEnd": "2026-04-21T07:01:18.000Z",
-      "createdAt": "2026-04-21T23:36:12.186Z",
-      "updatedAt": "2026-04-21T23:36:12.186Z"
+      "id": 371,
+      "sleep": "7",
+      "date": "4/22/26",
+      "fullDate": "2026-04-22T00:00:00.000Z",
+      "sleepStart": "2026-04-22T01:24:19.000Z",
+      "sleepEnd": "2026-04-22T08:04:18.000Z",
+      "createdAt": "2026-04-23T00:40:47.271Z",
+      "updatedAt": "2026-04-23T00:40:47.271Z"
     }
   ],
   "word": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 42,
-      "quote": "I attribute my success to this: I never gave or took any excuse.",
+      "id": 17,
+      "quote": "I find that the harder I work, the more luck I seem to have.",
       "category": "Motivational",
-      "author": "Florence Nightingale",
+      "author": "Thomas Jefferson",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -1001,18 +1001,6 @@
       "updatedAt": "2026-04-20T10:43:55.794Z"
     },
     {
-      "id": 687,
-      "content": "Egg fried Rice",
-      "category": "Backlog",
-      "projectId": "69dfe885c3f011904906b178",
-      "todoId": "69e603c18f08f83a15f7c4a5",
-      "completed": false,
-      "completedDate": null,
-      "dueDate": "2026-04-21T00:00:00.000Z",
-      "createdAt": "2026-04-20T10:45:21.337Z",
-      "updatedAt": "2026-04-20T10:45:21.337Z"
-    },
-    {
       "id": 688,
       "content": "Frozen items shelf life",
       "category": "Backlog",
@@ -1095,6 +1083,18 @@
       "dueDate": "2026-04-23T00:00:00.000Z",
       "createdAt": "2026-04-22T22:54:23.078Z",
       "updatedAt": "2026-04-22T22:54:23.078Z"
+    },
+    {
+      "id": 687,
+      "content": "Egg fried Rice",
+      "category": "In Progress",
+      "projectId": "69dfe885c3f011904906b178",
+      "todoId": "69e603c18f08f83a15f7c4a5",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-21T00:00:00.000Z",
+      "createdAt": "2026-04-20T10:45:21.337Z",
+      "updatedAt": "2026-04-23T00:05:22.840Z"
     }
   ],
   "updates": [
