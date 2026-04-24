@@ -13,11 +13,11 @@
   "steps": [
     {
       "id": 11973,
-      "stepCount": 617,
+      "stepCount": 623,
       "date": "4/23/26",
       "fullDate": "2026-04-23T00:00:00.000Z",
       "createdAt": "2026-04-24T08:16:24.405Z",
-      "updatedAt": "2026-04-24T08:16:24.405Z"
+      "updatedAt": "2026-04-24T09:16:48.294Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 28,
-      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "id": 26,
+      "quote": "Whether you think you can or think you can't, you're right.",
       "category": "Motivational",
-      "author": "Franklin D. Roosevelt",
+      "author": "Henry Ford",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
