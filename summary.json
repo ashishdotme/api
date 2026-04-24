@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11972,
-      "stepCount": 650,
-      "date": "4/22/26",
-      "fullDate": "2026-04-22T00:00:00.000Z",
-      "createdAt": "2026-04-23T00:40:47.119Z",
-      "updatedAt": "2026-04-23T00:40:47.119Z"
+      "id": 11973,
+      "stepCount": 617,
+      "date": "4/23/26",
+      "fullDate": "2026-04-23T00:00:00.000Z",
+      "createdAt": "2026-04-24T08:16:24.405Z",
+      "updatedAt": "2026-04-24T08:16:24.405Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 35,
-      "quote": "Nothing in the world can take the place of Persistence.",
+      "id": 28,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
       "category": "Motivational",
-      "author": "Calvin Coolidge",
+      "author": "Franklin D. Roosevelt",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
