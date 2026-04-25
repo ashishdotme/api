@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 10,
-      "quote": "Don't watch the clock; do what it does. Keep going.",
+      "id": 36,
+      "quote": "Life is 10% what happens to you and 90% how you react to it.",
       "category": "Motivational",
-      "author": "Sam Levenson",
+      "author": "Charles R. Swindoll",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -105,22 +105,22 @@
   ],
   "movies": [
     {
-      "id": 308,
-      "title": "Get Out",
-      "description": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
-      "review": null,
-      "note": null,
+      "id": 309,
+      "title": "Misery",
+      "description": "After an accident, acclaimed novelist Paul Sheldon is rescued by a nurse who claims to be his biggest fan.  Her obsession takes a dark turn when she holds him captive in her remote Colorado home and forces him to write back to life the popular literary character he killed off.",
+      "review": 7,
+      "note": "",
       "language": "English",
-      "year": 2017,
-      "genre": "Mystery, Thriller, Horror",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg",
-      "viewingDate": "2026-04-18T00:00:00.000Z",
-      "loved": false,
-      "imdbRating": "7.6",
-      "imdbId": "tt5052448",
-      "tmdbId": 419430,
-      "createdAt": "2026-04-18T22:51:54.127Z",
-      "updatedAt": "2026-04-18T22:51:54.127Z"
+      "year": 1990,
+      "genre": "Drama, Thriller",
+      "posterUrl": "https://image.tmdb.org/t/p/w200/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+      "viewingDate": "2026-04-24T00:00:00.000Z",
+      "loved": true,
+      "imdbRating": "0.0",
+      "imdbId": "tt0100157",
+      "tmdbId": 1700,
+      "createdAt": "2026-04-25T00:05:17.822Z",
+      "updatedAt": "2026-04-25T00:05:17.822Z"
     }
   ],
   "tasks": [
