@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11973,
-      "stepCount": 623,
-      "date": "4/23/26",
-      "fullDate": "2026-04-23T00:00:00.000Z",
-      "createdAt": "2026-04-24T08:16:24.405Z",
-      "updatedAt": "2026-04-24T09:16:48.294Z"
+      "id": 11974,
+      "stepCount": 4236,
+      "date": "4/24/26",
+      "fullDate": "2026-04-24T00:00:00.000Z",
+      "createdAt": "2026-04-25T02:13:45.374Z",
+      "updatedAt": "2026-04-25T02:13:45.374Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 23,
-      "quote": "Failure will never overtake me if my determination to succeed is strong enough.",
+      "id": 27,
+      "quote": "The man who has confidence in himself gains the confidence of others.",
       "category": "Motivational",
-      "author": "Og Mandino",
+      "author": "Hasidic Proverb",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
