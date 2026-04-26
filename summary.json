@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 29,
-      "quote": "Creativity is intelligence having fun.",
+      "id": 38,
+      "quote": "Every strike brings me closer to the next home run.",
       "category": "Motivational",
-      "author": "Albert Einstein",
+      "author": "Babe Ruth",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -105,22 +105,22 @@
   ],
   "movies": [
     {
-      "id": 309,
-      "title": "Misery",
-      "description": "After an accident, acclaimed novelist Paul Sheldon is rescued by a nurse who claims to be his biggest fan.  Her obsession takes a dark turn when she holds him captive in her remote Colorado home and forces him to write back to life the popular literary character he killed off.",
+      "id": 310,
+      "title": "Aap Jaisa Koi",
+      "description": "Shrirenu lives by tradition. Madhu lives unapologetically. When their paths cross, a tender romance unfolds — awkward, sweet but shadowed by patriarchy.",
       "review": 7,
       "note": "",
-      "language": "English",
-      "year": 1990,
-      "genre": "Drama, Thriller",
-      "posterUrl": "https://image.tmdb.org/t/p/w200/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
-      "viewingDate": "2026-04-24T00:00:00.000Z",
+      "language": "Hindi",
+      "year": 2025,
+      "genre": "Romance, Comedy",
+      "posterUrl": "https://image.tmdb.org/t/p/w200/fV9dswGQCvbpVsj1JOTrYCeos8w.jpg",
+      "viewingDate": "2026-04-26T00:00:00.000Z",
       "loved": true,
       "imdbRating": "0.0",
-      "imdbId": "tt0100157",
-      "tmdbId": 1700,
-      "createdAt": "2026-04-25T00:05:17.822Z",
-      "updatedAt": "2026-04-25T00:05:17.822Z"
+      "imdbId": "tt33888131",
+      "tmdbId": 1391013,
+      "createdAt": "2026-04-26T19:38:09.868Z",
+      "updatedAt": "2026-04-26T19:38:09.868Z"
     }
   ],
   "tasks": [
