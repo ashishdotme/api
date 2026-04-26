@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11974,
-      "stepCount": 4236,
-      "date": "4/24/26",
-      "fullDate": "2026-04-24T00:00:00.000Z",
-      "createdAt": "2026-04-25T02:13:45.374Z",
-      "updatedAt": "2026-04-25T02:13:45.374Z"
+      "id": 11975,
+      "stepCount": 5168,
+      "date": "4/25/26",
+      "fullDate": "2026-04-25T00:00:00.000Z",
+      "createdAt": "2026-04-26T08:10:10.241Z",
+      "updatedAt": "2026-04-26T08:10:10.241Z"
     }
   ],
   "sleep": [
@@ -45,12 +45,12 @@
   ],
   "quote": [
     {
-      "id": 51,
-      "quote": "The person who says it cannot be done should not interrupt the person who is doing it.",
+      "id": 2,
+      "quote": "If something upsets you, it is not that thing, but your judgement of it, that causes you distress. And that judgement is in your power",
       "category": "Motivational",
-      "author": "Chinese Proverb",
-      "createdAt": "2026-04-02T18:29:36.110Z",
-      "updatedAt": "2026-04-02T18:29:36.110Z"
+      "author": "Marcus Aurelius",
+      "createdAt": "2024-10-21T22:30:21.598Z",
+      "updatedAt": "2024-10-21T22:30:21.598Z"
     }
   ],
   "shows": [
