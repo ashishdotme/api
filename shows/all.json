@@ -27,6 +27,17 @@
         "note": null,
         "createdAt": "2026-04-27T08:53:55.838Z",
         "updatedAt": "2026-04-27T08:53:55.838Z"
+      },
+      {
+        "id": 52,
+        "seasonNumber": 2,
+        "startedDate": "2026-04-27T00:00:00.000Z",
+        "completedDate": null,
+        "status": "watching",
+        "review": null,
+        "note": null,
+        "createdAt": "2026-04-27T18:17:53.470Z",
+        "updatedAt": "2026-04-27T18:17:53.470Z"
       }
     ]
   },
