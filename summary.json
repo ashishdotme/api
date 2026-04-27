@@ -1,0 +1,1258 @@
+{
+  "locations": [
+    {
+      "id": 58169,
+      "batteryState": "unplugged",
+      "coordinates": "{\"-6.2062717\",\"53.2528098\"}",
+      "batteryLevel": 1,
+      "timestamp": "2025-08-25T09:44:35.000Z",
+      "createdAt": "2025-08-25T09:44:36.769Z",
+      "updatedAt": "2025-08-25T09:44:36.769Z"
+    }
+  ],
+  "steps": [
+    {
+      "id": 11976,
+      "stepCount": 7427,
+      "date": "4/26/26",
+      "fullDate": "2026-04-26T00:00:00.000Z",
+      "createdAt": "2026-04-27T01:14:08.633Z",
+      "updatedAt": "2026-04-27T01:14:08.633Z"
+    }
+  ],
+  "sleep": [
+    {
+      "id": 371,
+      "sleep": "7",
+      "date": "4/22/26",
+      "fullDate": "2026-04-22T00:00:00.000Z",
+      "sleepStart": "2026-04-22T01:24:19.000Z",
+      "sleepEnd": "2026-04-22T08:04:18.000Z",
+      "createdAt": "2026-04-23T00:40:47.271Z",
+      "updatedAt": "2026-04-23T00:40:47.271Z"
+    }
+  ],
+  "word": [
+    {
+      "id": 1,
+      "word": "clandestine",
+      "meaning": "characterized by, done in, or executed with secrecy or concealment, especially for purposes of subversion or deception; private or surreptitious",
+      "pronounciation": "klan-des-tin",
+      "sentences": "Their clandestine meetings went undiscovered for two years.",
+      "createdAt": "2022-01-24T19:45:33.772Z",
+      "updatedAt": "2022-01-24T19:45:33.772Z"
+    }
+  ],
+  "quote": [
+    {
+      "id": 48,
+      "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "category": "Motivational",
+      "author": "Eleanor Roosevelt",
+      "createdAt": "2026-04-02T18:29:36.110Z",
+      "updatedAt": "2026-04-02T18:29:36.110Z"
+    }
+  ],
+  "shows": [
+    {
+      "id": 14,
+      "title": "Aspirants",
+      "language": "Hindi",
+      "description": "Aspirants is a story of 3 friends - Abhilash, SK, and Guri. The story takes place in the past and the present where the past captures the struggle and the drama behind the making of UPSC CSE aspirants in Old Rajinder Nagar of Delhi, while the present talks about the aftermath. It is the story of three UPSC aspirants journey.",
+      "releaseStartYear": 2021,
+      "releaseEndYear": 2026,
+      "genre": "Drama",
+      "posterUrl": "https://image.tmdb.org/t/p/w200/lG8wK40jH4EX6dbVFI1fzw2E96N.jpg",
+      "startedDate": "2026-04-27T00:00:00.000Z",
+      "completedDate": null,
+      "status": "watching",
+      "imdbRating": null,
+      "imdbId": "tt14392248",
+      "tmdbId": 124411,
+      "createdAt": "2026-04-27T08:53:55.811Z",
+      "updatedAt": "2026-04-27T08:53:55.811Z"
+    }
+  ],
+  "books": [
+    {
+      "id": 11,
+      "title": "Atomic Habits",
+      "author": " James Clear",
+      "poster": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655988385i/40121378.jpg",
+      "description": "No matter your goals, Atomic Habits offers a proven framework for improving—every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.",
+      "notes": "Atomic Habits",
+      "year": 2018,
+      "genre": "Personal Development",
+      "completedDate": "2023-02-08T00:00:00.000Z",
+      "loved": true,
+      "createdAt": "2024-10-22T14:53:34.755Z",
+      "updatedAt": "2024-10-22T14:53:34.755Z"
+    }
+  ],
+  "courses": [
+    {
+      "id": 2,
+      "title": "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
+      "description": "Build and deploy a social network with Node.js, Express, React, Redux & MongoDB",
+      "author": "Brad Traversy",
+      "category": "React",
+      "notes": "NA",
+      "completedDate": "2019-01-02T00:00:00.000Z",
+      "platform": "Udemy",
+      "createdAt": "2022-01-21T03:28:37.957Z",
+      "updatedAt": "2022-01-21T03:28:37.957Z"
+    }
+  ],
+  "movies": [
+    {
+      "id": 311,
+      "title": "Pagglait",
+      "description": "Widowed soon after marriage, a young woman grapples with an inability to grieve, quirky relatives and a startling discovery about her late husband.",
+      "review": 7,
+      "note": "",
+      "language": "Hindi",
+      "year": 2021,
+      "genre": "Drama, Comedy",
+      "posterUrl": "https://image.tmdb.org/t/p/w200/oIVAwceJjOwFjUkoJoOiooGupm0.jpg",
+      "viewingDate": "2026-04-26T00:00:00.000Z",
+      "loved": true,
+      "imdbRating": "0.0",
+      "imdbId": "tt11142762",
+      "tmdbId": 786190,
+      "createdAt": "2026-04-27T08:52:32.664Z",
+      "updatedAt": "2026-04-27T08:52:32.664Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 571,
+      "content": "Fix url shortner",
+      "category": "Backlog",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "67f439efead49106d09f3c8d",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2025-04-07T20:48:22.891Z",
+      "createdAt": "2025-04-07T20:48:22.894Z",
+      "updatedAt": "2026-04-15T19:31:23.316Z"
+    },
+    {
+      "id": 580,
+      "content": "Codex E2E Task 2219 Browser Fixed",
+      "category": "Now",
+      "projectId": "58308c6a07df1124540da3e6",
+      "todoId": "69deaf688f081c109ba87136",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-14T21:19:36.260Z",
+      "createdAt": "2026-04-14T21:19:36.942Z",
+      "updatedAt": "2026-04-14T21:30:08.644Z"
+    },
+    {
+      "id": 581,
+      "content": "test",
+      "category": "Now",
+      "projectId": "66d2ec458f0891d1c89a4e21",
+      "todoId": "69deb4b38f089ba4ae34bb2b",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T00:00:00.000Z",
+      "createdAt": "2026-04-14T21:42:11.673Z",
+      "updatedAt": "2026-04-14T21:42:11.673Z"
+    },
+    {
+      "id": 575,
+      "content": "Look into owntracks or Dawarich",
+      "category": "Blocked",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "67fcc2fca8e8110e2623a81c",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2025-04-14T08:11:04.430Z",
+      "createdAt": "2025-04-14T08:11:04.431Z",
+      "updatedAt": "2026-04-15T13:47:04.576Z"
+    },
+    {
+      "id": 584,
+      "content": "Info",
+      "category": "Backlog",
+      "projectId": "58308c6a07df1124540da3e6",
+      "todoId": "67103134eba7b8000000027e",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.382Z",
+      "createdAt": "2026-04-15T15:41:03.396Z",
+      "updatedAt": "2026-04-15T15:41:03.396Z"
+    },
+    {
+      "id": 585,
+      "content": "Going out List",
+      "category": "Backlog",
+      "projectId": "58308c6a07df1124540da3e6",
+      "todoId": "67103139eba7b80000000284",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.383Z",
+      "createdAt": "2026-04-15T15:41:03.397Z",
+      "updatedAt": "2026-04-15T15:41:03.397Z"
+    },
+    {
+      "id": 586,
+      "content": "London Trip",
+      "category": "Backlog",
+      "projectId": "58308c6a07df1124540da3e6",
+      "todoId": "672935eaeba7b800000000bf",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.383Z",
+      "createdAt": "2026-04-15T15:41:03.397Z",
+      "updatedAt": "2026-04-15T15:41:03.397Z"
+    },
+    {
+      "id": 587,
+      "content": "Edinburgh Trip",
+      "category": "Backlog",
+      "projectId": "58308c6a07df1124540da3e6",
+      "todoId": "681140cca5a31106254b6ffd",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.383Z",
+      "createdAt": "2026-04-15T15:41:03.436Z",
+      "updatedAt": "2026-04-15T15:41:03.436Z"
+    },
+    {
+      "id": 588,
+      "content": "Trip",
+      "category": "Backlog",
+      "projectId": "58308c6a07df1124540da3e6",
+      "todoId": "673a2684fb199109633dc043",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.383Z",
+      "createdAt": "2026-04-15T15:41:03.436Z",
+      "updatedAt": "2026-04-15T15:41:03.436Z"
+    },
+    {
+      "id": 589,
+      "content": "Add shortcut to send steps count",
+      "category": "Todo",
+      "projectId": "66d2ec458f0891d1c89a4e20",
+      "todoId": "66d2ec458f0891d1c89a4e49",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.737Z",
+      "createdAt": "2026-04-15T15:41:03.743Z",
+      "updatedAt": "2026-04-15T15:41:03.743Z"
+    },
+    {
+      "id": 590,
+      "content": "Vscode settings in dotfiles",
+      "category": "Todo",
+      "projectId": "66d2ec458f0891d1c89a4e20",
+      "todoId": "66d2ec458f0891d1c89a4e38",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.737Z",
+      "createdAt": "2026-04-15T15:41:03.743Z",
+      "updatedAt": "2026-04-15T15:41:03.743Z"
+    },
+    {
+      "id": 591,
+      "content": "Remake stats endpoint",
+      "category": "Todo",
+      "projectId": "66d2ec458f0891d1c89a4e20",
+      "todoId": "66d2ec458f0891d1c89a4e4a",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.737Z",
+      "createdAt": "2026-04-15T15:41:03.743Z",
+      "updatedAt": "2026-04-15T15:41:03.743Z"
+    },
+    {
+      "id": 592,
+      "content": "add template generator to cli",
+      "category": "Todo",
+      "projectId": "66d2ec458f0891d1c89a4e20",
+      "todoId": "66d2ec458f0891d1c89a4e4f",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.737Z",
+      "createdAt": "2026-04-15T15:41:03.743Z",
+      "updatedAt": "2026-04-15T15:41:03.743Z"
+    },
+    {
+      "id": 593,
+      "content": "Try pumpkin syrup",
+      "category": "Todo",
+      "projectId": "66d2ec458f0891d1c89a4e20",
+      "todoId": "66d5bc7cb5ba572a5926e0b6",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.737Z",
+      "createdAt": "2026-04-15T15:41:03.743Z",
+      "updatedAt": "2026-04-15T15:41:03.743Z"
+    },
+    {
+      "id": 618,
+      "content": "Tesco Baby Potatoes 1Kg",
+      "category": "Backlog",
+      "projectId": "69823c8c47205132feb312ce",
+      "todoId": "698249178f080703cedc32b1",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.873Z",
+      "createdAt": "2026-04-15T15:41:03.875Z",
+      "updatedAt": "2026-04-15T15:41:03.875Z"
+    },
+    {
+      "id": 630,
+      "content": "[Holy Sword Gourd Pendant Necklace – Lingke Jewelry](https://lingkejewelry.com/product/holy-sword-gourd-pendant-necklace/)",
+      "category": "Backlog",
+      "projectId": "66d2ec458f0891d1c89a4e23",
+      "todoId": "67cf606deba776000000006b",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.903Z",
+      "createdAt": "2026-04-15T15:41:03.911Z",
+      "updatedAt": "2026-04-15T15:41:03.911Z"
+    },
+    {
+      "id": 640,
+      "content": "Bae leaf",
+      "category": "Indian",
+      "projectId": "66d2ec458f0891d1c89a4e22",
+      "todoId": "69c7d91df67ea1737c0c1640",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.937Z",
+      "createdAt": "2026-04-15T15:41:03.965Z",
+      "updatedAt": "2026-04-15T15:41:03.965Z"
+    },
+    {
+      "id": 649,
+      "content": "Nominee",
+      "category": "Backlog",
+      "projectId": "691028c8cc5c1105a6e5318e",
+      "todoId": "694ab5a39a15d106a0af7895",
+      "completed": false,
+      "completedDate": "2025-12-31T06:48:41.000Z",
+      "dueDate": "2026-04-15T15:41:03.968Z",
+      "createdAt": "2026-04-15T15:41:03.995Z",
+      "updatedAt": "2026-04-15T15:41:03.995Z"
+    },
+    {
+      "id": 595,
+      "content": "Hardisk Cleanup",
+      "category": "Blocked",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69aefeb715f9d105eeef6b04",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.770Z",
+      "createdAt": "2026-04-15T15:41:03.772Z",
+      "updatedAt": "2026-04-20T16:26:42.631Z"
+    },
+    {
+      "id": 594,
+      "content": "Add mobile app to github",
+      "category": "Todo",
+      "projectId": "66d2ec458f0891d1c89a4e20",
+      "todoId": "66fa96aaeba7b80000000690",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.737Z",
+      "createdAt": "2026-04-15T15:41:03.760Z",
+      "updatedAt": "2026-04-15T15:41:03.760Z"
+    },
+    {
+      "id": 617,
+      "content": "Tesco Carrot Bag 500G",
+      "category": "Backlog",
+      "projectId": "69823c8c47205132feb312ce",
+      "todoId": "698249188f08b17e795e872c",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.873Z",
+      "createdAt": "2026-04-15T15:41:03.875Z",
+      "updatedAt": "2026-04-15T15:41:03.875Z"
+    },
+    {
+      "id": 627,
+      "content": "Glass frame",
+      "category": "Backlog",
+      "projectId": "671a947ceba7b80000000295",
+      "todoId": "69d62eb49ca951043eed5e7f",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.897Z",
+      "createdAt": "2026-04-15T15:41:03.903Z",
+      "updatedAt": "2026-04-15T15:41:03.903Z"
+    },
+    {
+      "id": 647,
+      "content": "Passport",
+      "category": "Backlog",
+      "projectId": "691028c8cc5c1105a6e5318e",
+      "todoId": "691028d1f413d105a6e5319c",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.968Z",
+      "createdAt": "2026-04-15T15:41:03.980Z",
+      "updatedAt": "2026-04-15T15:41:03.980Z"
+    },
+    {
+      "id": 610,
+      "content": "Home",
+      "category": "Not Sectioned",
+      "projectId": "66dc45181e419109a70e2f20",
+      "todoId": "68e2cfc73a2d5172359f85ba",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.855Z",
+      "createdAt": "2026-04-15T15:41:03.856Z",
+      "updatedAt": "2026-04-15T15:41:03.856Z"
+    },
+    {
+      "id": 619,
+      "content": "Tesco Family Pack Onions 1 Kilograms",
+      "category": "Backlog",
+      "projectId": "69823c8c47205132feb312ce",
+      "todoId": "698249188f082a38d58714eb",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.873Z",
+      "createdAt": "2026-04-15T15:41:03.881Z",
+      "updatedAt": "2026-04-15T15:41:03.881Z"
+    },
+    {
+      "id": 628,
+      "content": "Watch",
+      "category": "Backlog",
+      "projectId": "671a947ceba7b80000000295",
+      "todoId": "69d784f380e391043eed72f4",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.897Z",
+      "createdAt": "2026-04-15T15:41:03.906Z",
+      "updatedAt": "2026-04-15T15:41:03.906Z"
+    },
+    {
+      "id": 635,
+      "content": "Ralph alureng jacket taurus reps",
+      "category": "Backlog",
+      "projectId": "66d2ec458f0891d1c89a4e23",
+      "todoId": "680e9a14849c1106254b4ae0",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.903Z",
+      "createdAt": "2026-04-15T15:41:03.942Z",
+      "updatedAt": "2026-04-15T15:41:03.942Z"
+    },
+    {
+      "id": 645,
+      "content": "Pav bhaji masala",
+      "category": "Indian",
+      "projectId": "66d2ec458f0891d1c89a4e22",
+      "todoId": "69dbec6f92cae06113e1de82",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.937Z",
+      "createdAt": "2026-04-15T15:41:03.975Z",
+      "updatedAt": "2026-04-15T15:41:13.538Z"
+    },
+    {
+      "id": 596,
+      "content": "News use rss",
+      "category": "Blocked",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69ce4c8ddf33112de4b64eef",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.770Z",
+      "createdAt": "2026-04-15T15:41:03.773Z",
+      "updatedAt": "2026-04-20T16:26:44.238Z"
+    },
+    {
+      "id": 616,
+      "content": "Tesco 12 Irish Barn Eggs",
+      "category": "Backlog",
+      "projectId": "69823c8c47205132feb312ce",
+      "todoId": "698249168f081f6152545e29",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.873Z",
+      "createdAt": "2026-04-15T15:41:03.875Z",
+      "updatedAt": "2026-04-15T15:41:03.875Z"
+    },
+    {
+      "id": 626,
+      "content": "Tesco Tomatoes On The Vine 500G",
+      "category": "Backlog",
+      "projectId": "69823c8c47205132feb312ce",
+      "todoId": "6982491d8f08ad49b3fe01c5",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.873Z",
+      "createdAt": "2026-04-15T15:41:03.902Z",
+      "updatedAt": "2026-04-15T15:41:03.902Z"
+    },
+    {
+      "id": 638,
+      "content": "Floor cleaner",
+      "category": "Not Sectioned",
+      "projectId": "66d2ec458f0891d1c89a4e22",
+      "todoId": "6993041e4f42e29975c6be1f",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.937Z",
+      "createdAt": "2026-04-15T15:41:03.949Z",
+      "updatedAt": "2026-04-15T15:41:03.949Z"
+    },
+    {
+      "id": 648,
+      "content": "NRE account",
+      "category": "Backlog",
+      "projectId": "691028c8cc5c1105a6e5318e",
+      "todoId": "69102b5dc848d105a6e53234",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.968Z",
+      "createdAt": "2026-04-15T15:41:03.981Z",
+      "updatedAt": "2026-04-15T15:41:03.981Z"
+    },
+    {
+      "id": 599,
+      "content": "Change email subscription provider",
+      "category": "Todo",
+      "projectId": "66d2ec458f0891d1c89a4e20",
+      "todoId": "66e5abe5eba7b8000000007f",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.737Z",
+      "createdAt": "2026-04-15T15:41:03.792Z",
+      "updatedAt": "2026-04-15T15:41:03.792Z"
+    },
+    {
+      "id": 600,
+      "content": "Try darkroom photo editor",
+      "category": "Todo",
+      "projectId": "66d2ec458f0891d1c89a4e20",
+      "todoId": "66dad73cb5ba57063d341be0",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.737Z",
+      "createdAt": "2026-04-15T15:41:03.793Z",
+      "updatedAt": "2026-04-15T15:41:03.793Z"
+    },
+    {
+      "id": 601,
+      "content": "Know ring size",
+      "category": "Todo",
+      "projectId": "66d2ec458f0891d1c89a4e20",
+      "todoId": "66d5df02b5ba5711810af6b6",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.737Z",
+      "createdAt": "2026-04-15T15:41:03.792Z",
+      "updatedAt": "2026-04-15T15:41:03.792Z"
+    },
+    {
+      "id": 602,
+      "content": "Create travel website",
+      "category": "Todo",
+      "projectId": "66d2ec458f0891d1c89a4e20",
+      "todoId": "66e2c69754baa07b36b55c14",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.737Z",
+      "createdAt": "2026-04-15T15:41:03.793Z",
+      "updatedAt": "2026-04-15T15:41:03.793Z"
+    },
+    {
+      "id": 603,
+      "content": "[Uses | Mina Markham — engineer. designer. writer. speaker.](https://mina.codes/uses/)",
+      "category": "Todo",
+      "projectId": "66d2ec458f0891d1c89a4e20",
+      "todoId": "66dadef3b5ba5705f55e0f17",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.737Z",
+      "createdAt": "2026-04-15T15:41:03.794Z",
+      "updatedAt": "2026-04-15T15:41:03.794Z"
+    },
+    {
+      "id": 604,
+      "content": "Going out List",
+      "category": "Not Sectioned",
+      "projectId": "66dc45181e419109a70e2f20",
+      "todoId": "66dc4561094ad109a70e2f9b",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.855Z",
+      "createdAt": "2026-04-15T15:41:03.856Z",
+      "updatedAt": "2026-04-15T15:41:03.856Z"
+    },
+    {
+      "id": 605,
+      "content": "Token",
+      "category": "Not Sectioned",
+      "projectId": "66dc45181e419109a70e2f20",
+      "todoId": "66dc456509c9d109a70e2fa2",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.855Z",
+      "createdAt": "2026-04-15T15:41:03.856Z",
+      "updatedAt": "2026-04-15T15:41:03.856Z"
+    },
+    {
+      "id": 606,
+      "content": "Info",
+      "category": "Not Sectioned",
+      "projectId": "66dc45181e419109a70e2f20",
+      "todoId": "6710291ceba7b80000000199",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.855Z",
+      "createdAt": "2026-04-15T15:41:03.856Z",
+      "updatedAt": "2026-04-15T15:41:03.856Z"
+    },
+    {
+      "id": 607,
+      "content": "Clothes",
+      "category": "Not Sectioned",
+      "projectId": "66dc45181e419109a70e2f20",
+      "todoId": "66dc4577ff711109a70e2fa8",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.855Z",
+      "createdAt": "2026-04-15T15:41:03.856Z",
+      "updatedAt": "2026-04-15T15:41:03.856Z"
+    },
+    {
+      "id": 608,
+      "content": "Coding",
+      "category": "Not Sectioned",
+      "projectId": "66dc45181e419109a70e2f20",
+      "todoId": "67192432fcd2910cd3efc8af",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.855Z",
+      "createdAt": "2026-04-15T15:41:03.856Z",
+      "updatedAt": "2026-04-15T15:41:03.856Z"
+    },
+    {
+      "id": 609,
+      "content": "Family",
+      "category": "Not Sectioned",
+      "projectId": "66dc45181e419109a70e2f20",
+      "todoId": "68add3b5be8c9113f7ba44f8",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.855Z",
+      "createdAt": "2026-04-15T15:41:03.856Z",
+      "updatedAt": "2026-04-15T15:41:03.856Z"
+    },
+    {
+      "id": 611,
+      "content": "Tesco Baby Button Mushrooms 150G",
+      "category": "Backlog",
+      "projectId": "69823c8c47205132feb312ce",
+      "todoId": "698249138f082a38d5871331",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.873Z",
+      "createdAt": "2026-04-15T15:41:03.875Z",
+      "updatedAt": "2026-04-15T15:41:03.875Z"
+    },
+    {
+      "id": 612,
+      "content": "Tesco Natural Yoghurt 500G",
+      "category": "Backlog",
+      "projectId": "69823c8c47205132feb312ce",
+      "todoId": "698249138f082a38d587131b",
+      "completed": false,
+      "completedDate": "2026-02-03T19:21:56.564Z",
+      "dueDate": "2026-04-15T15:41:03.873Z",
+      "createdAt": "2026-04-15T15:41:03.875Z",
+      "updatedAt": "2026-04-15T15:41:03.875Z"
+    },
+    {
+      "id": 613,
+      "content": "Tesco Cauliflower Each",
+      "category": "Backlog",
+      "projectId": "69823c8c47205132feb312ce",
+      "todoId": "698249148f082a38d5871347",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.873Z",
+      "createdAt": "2026-04-15T15:41:03.875Z",
+      "updatedAt": "2026-04-15T15:41:03.875Z"
+    },
+    {
+      "id": 614,
+      "content": "Tesco Low Fat Milk 3L",
+      "category": "Backlog",
+      "projectId": "69823c8c47205132feb312ce",
+      "todoId": "698249158f081f6152545df7",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.873Z",
+      "createdAt": "2026-04-15T15:41:03.875Z",
+      "updatedAt": "2026-04-15T15:41:03.875Z"
+    },
+    {
+      "id": 615,
+      "content": "Farm Select Fresh Ginger 150G",
+      "category": "Backlog",
+      "projectId": "69823c8c47205132feb312ce",
+      "todoId": "698249168f080703cedc3250",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.873Z",
+      "createdAt": "2026-04-15T15:41:03.875Z",
+      "updatedAt": "2026-04-15T15:41:03.875Z"
+    },
+    {
+      "id": 620,
+      "content": "Tesco Fun-Sized Apples 10 Pack",
+      "category": "Backlog",
+      "projectId": "69823c8c47205132feb312ce",
+      "todoId": "698249198f08b17e795e875b",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.873Z",
+      "createdAt": "2026-04-15T15:41:03.881Z",
+      "updatedAt": "2026-04-15T15:41:03.881Z"
+    },
+    {
+      "id": 621,
+      "content": "Tesco Garlic 4 Pack",
+      "category": "Backlog",
+      "projectId": "69823c8c47205132feb312ce",
+      "todoId": "6982491a8f082a38d5871506",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.873Z",
+      "createdAt": "2026-04-15T15:41:03.899Z",
+      "updatedAt": "2026-04-15T15:41:03.899Z"
+    },
+    {
+      "id": 622,
+      "content": "Tesco Ginger 100g",
+      "category": "Backlog",
+      "projectId": "69823c8c47205132feb312ce",
+      "todoId": "6982491a8f08b17e795e8776",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.873Z",
+      "createdAt": "2026-04-15T15:41:03.900Z",
+      "updatedAt": "2026-04-15T15:41:03.900Z"
+    },
+    {
+      "id": 623,
+      "content": "Tesco Lemons & Limes Pack",
+      "category": "Backlog",
+      "projectId": "69823c8c47205132feb312ce",
+      "todoId": "6982491b8f082a38d5871535",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.873Z",
+      "createdAt": "2026-04-15T15:41:03.900Z",
+      "updatedAt": "2026-04-15T15:41:03.900Z"
+    },
+    {
+      "id": 624,
+      "content": "Tesco Small Bananas 6 Pack",
+      "category": "Backlog",
+      "projectId": "69823c8c47205132feb312ce",
+      "todoId": "6982491c8f080703cedc3361",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.873Z",
+      "createdAt": "2026-04-15T15:41:03.901Z",
+      "updatedAt": "2026-04-15T15:41:03.901Z"
+    },
+    {
+      "id": 625,
+      "content": "Tesco Sweet Potato Bakers",
+      "category": "Backlog",
+      "projectId": "69823c8c47205132feb312ce",
+      "todoId": "6982491d8f082a38d587154d",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.873Z",
+      "createdAt": "2026-04-15T15:41:03.901Z",
+      "updatedAt": "2026-04-15T15:41:03.901Z"
+    },
+    {
+      "id": 629,
+      "content": "balenciaga checks pajama",
+      "category": "Backlog",
+      "projectId": "66d2ec458f0891d1c89a4e23",
+      "todoId": "67c03a03eba7b80000000087",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.903Z",
+      "createdAt": "2026-04-15T15:41:03.906Z",
+      "updatedAt": "2026-04-15T15:41:03.906Z"
+    },
+    {
+      "id": 631,
+      "content": "suede jacket",
+      "category": "Backlog",
+      "projectId": "66d2ec458f0891d1c89a4e23",
+      "todoId": "67cf6074eba7760000000075",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.903Z",
+      "createdAt": "2026-04-15T15:41:03.929Z",
+      "updatedAt": "2026-04-15T15:41:03.929Z"
+    },
+    {
+      "id": 632,
+      "content": "bomber jacket",
+      "category": "Backlog",
+      "projectId": "66d2ec458f0891d1c89a4e23",
+      "todoId": "67cf6079eba776000000007a",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.903Z",
+      "createdAt": "2026-04-15T15:41:03.930Z",
+      "updatedAt": "2026-04-15T15:41:03.930Z"
+    },
+    {
+      "id": 633,
+      "content": "new balance shoe",
+      "category": "Backlog",
+      "projectId": "66d2ec458f0891d1c89a4e23",
+      "todoId": "67cf6080eba7760000000082",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.903Z",
+      "createdAt": "2026-04-15T15:41:03.931Z",
+      "updatedAt": "2026-04-15T15:41:03.931Z"
+    },
+    {
+      "id": 634,
+      "content": "scarf",
+      "category": "Backlog",
+      "projectId": "66d2ec458f0891d1c89a4e23",
+      "todoId": "67cf8444eba77600000000cd",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.903Z",
+      "createdAt": "2026-04-15T15:41:03.932Z",
+      "updatedAt": "2026-04-15T15:41:03.932Z"
+    },
+    {
+      "id": 636,
+      "content": "nike stussy jacket",
+      "category": "Backlog",
+      "projectId": "66d2ec458f0891d1c89a4e23",
+      "todoId": "680feec354d99106254b5d59",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.903Z",
+      "createdAt": "2026-04-15T15:41:03.943Z",
+      "updatedAt": "2026-04-15T15:41:03.943Z"
+    },
+    {
+      "id": 641,
+      "content": "Besan",
+      "category": "Indian",
+      "projectId": "66d2ec458f0891d1c89a4e22",
+      "todoId": "69ccfd56300af5be5963d476",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.937Z",
+      "createdAt": "2026-04-15T15:41:03.971Z",
+      "updatedAt": "2026-04-15T15:41:03.971Z"
+    },
+    {
+      "id": 643,
+      "content": "Sewayi",
+      "category": "Indian",
+      "projectId": "66d2ec458f0891d1c89a4e22",
+      "todoId": "69ccfd5c300af5be5963d498",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.937Z",
+      "createdAt": "2026-04-15T15:41:03.971Z",
+      "updatedAt": "2026-04-15T15:41:03.971Z"
+    },
+    {
+      "id": 650,
+      "content": "Interior",
+      "category": "Backlog",
+      "projectId": "691028c8cc5c1105a6e5318e",
+      "todoId": "694ab5ac5ec31106a0af78aa",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.968Z",
+      "createdAt": "2026-04-15T15:41:03.995Z",
+      "updatedAt": "2026-04-15T15:41:03.995Z"
+    },
+    {
+      "id": 651,
+      "content": "credit card hdfc",
+      "category": "Backlog",
+      "projectId": "691028c8cc5c1105a6e5318e",
+      "todoId": "694b8cd493b95106a0af7d6b",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.968Z",
+      "createdAt": "2026-04-15T15:41:03.997Z",
+      "updatedAt": "2026-04-15T15:41:03.997Z"
+    },
+    {
+      "id": 652,
+      "content": "Bag Silai",
+      "category": "Backlog",
+      "projectId": "691028c8cc5c1105a6e5318e",
+      "todoId": "695cae4af0cb518719e12211",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.968Z",
+      "createdAt": "2026-04-15T15:41:03.998Z",
+      "updatedAt": "2026-04-15T15:41:03.998Z"
+    },
+    {
+      "id": 653,
+      "content": "Recharge gomo and hertner",
+      "category": "Backlog",
+      "projectId": "691028c8cc5c1105a6e5318e",
+      "todoId": "695cb9f0ca74918719e122e5",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.968Z",
+      "createdAt": "2026-04-15T15:41:03.998Z",
+      "updatedAt": "2026-04-15T15:41:03.998Z"
+    },
+    {
+      "id": 654,
+      "content": "ITR file",
+      "category": "Backlog",
+      "projectId": "66d2ec458f0891d1c89a4e21",
+      "todoId": "671e0640eba7b80000000653",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:04.018Z",
+      "createdAt": "2026-04-15T15:41:04.018Z",
+      "updatedAt": "2026-04-15T15:41:04.018Z"
+    },
+    {
+      "id": 646,
+      "content": "Rice flour",
+      "category": "Indian",
+      "projectId": "66d2ec458f0891d1c89a4e22",
+      "todoId": "69dbec8492cae06113e1de93",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-15T15:41:03.937Z",
+      "createdAt": "2026-04-15T15:41:03.976Z",
+      "updatedAt": "2026-04-15T15:41:17.296Z"
+    },
+    {
+      "id": 662,
+      "content": "Setup mac cron jobs",
+      "category": "In Progress",
+      "projectId": "67cade46eba776000000040a",
+      "todoId": "69e028288f083d3daced728c",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-17T00:00:00.000Z",
+      "createdAt": "2026-04-16T00:07:04.541Z",
+      "updatedAt": "2026-04-16T08:53:20.176Z"
+    },
+    {
+      "id": 678,
+      "content": "Do DP problems",
+      "category": "Backlog",
+      "projectId": "69e0ac08a7f051706fc835b9",
+      "todoId": "69e0ac3f8f08fa3ae64c59d1",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-17T00:00:00.000Z",
+      "createdAt": "2026-04-16T09:30:39.667Z",
+      "updatedAt": "2026-04-16T09:30:39.667Z"
+    },
+    {
+      "id": 679,
+      "content": "Cleanup wiki",
+      "category": "Backlog",
+      "projectId": "69dfe885c3f011904906b178",
+      "todoId": "69e0ac538f08fa3ae64c5c11",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-17T00:00:00.000Z",
+      "createdAt": "2026-04-16T09:30:59.657Z",
+      "updatedAt": "2026-04-16T09:30:59.657Z"
+    },
+    {
+      "id": 684,
+      "content": "Soya sauce",
+      "category": "Not Sectioned",
+      "projectId": "66d2ec458f0891d1c89a4e22",
+      "todoId": "69e4b587c75791a2cf55b1f5",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-20T10:43:55.755Z",
+      "createdAt": "2026-04-20T10:43:55.794Z",
+      "updatedAt": "2026-04-20T10:43:55.794Z"
+    },
+    {
+      "id": 688,
+      "content": "Frozen items shelf life",
+      "category": "Backlog",
+      "projectId": "69dfe885c3f011904906b178",
+      "todoId": "69e604098f08fa3ae6d51131",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-21T00:00:00.000Z",
+      "createdAt": "2026-04-20T10:46:33.564Z",
+      "updatedAt": "2026-04-20T10:46:33.564Z"
+    },
+    {
+      "id": 677,
+      "content": "Chicken tandoori recipe",
+      "category": "Backlog",
+      "projectId": "69dfe885c3f011904906b178",
+      "todoId": "69e0a7898f08a4b23cf9299d",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-17T00:00:00.000Z",
+      "createdAt": "2026-04-16T09:10:33.836Z",
+      "updatedAt": "2026-04-20T23:37:44.451Z"
+    },
+    {
+      "id": 686,
+      "content": "Malai Kebab",
+      "category": "Backlog",
+      "projectId": "69dfe885c3f011904906b178",
+      "todoId": "69e603ad8f08e6e745db7f8d",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-21T00:00:00.000Z",
+      "createdAt": "2026-04-20T10:45:01.116Z",
+      "updatedAt": "2026-04-20T23:37:45.052Z"
+    },
+    {
+      "id": 689,
+      "content": "Red pasta",
+      "category": "Backlog",
+      "projectId": "69dfe885c3f011904906b178",
+      "todoId": "69e94e9b8f083d3dadec421c",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-23T00:00:00.000Z",
+      "createdAt": "2026-04-22T22:41:31.551Z",
+      "updatedAt": "2026-04-22T22:41:31.551Z"
+    },
+    {
+      "id": 690,
+      "content": "Use blusky image in updates",
+      "category": "Backlog",
+      "projectId": "671d02e0eba7b8000000022f",
+      "todoId": "69e94ecb8f08fa3ae73be3d6",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-23T00:00:00.000Z",
+      "createdAt": "2026-04-22T22:42:19.461Z",
+      "updatedAt": "2026-04-22T22:42:19.461Z"
+    },
+    {
+      "id": 691,
+      "content": "Paneer masala",
+      "category": "Backlog",
+      "projectId": "69dfe885c3f011904906b178",
+      "todoId": "69e951888f08fa3ae73c1814",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-23T00:00:00.000Z",
+      "createdAt": "2026-04-22T22:54:00.486Z",
+      "updatedAt": "2026-04-22T22:54:00.486Z"
+    },
+    {
+      "id": 692,
+      "content": "Sev Bhaji",
+      "category": "Backlog",
+      "projectId": "69dfe885c3f011904906b178",
+      "todoId": "69e9519e8f083d3dadec7d19",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-23T00:00:00.000Z",
+      "createdAt": "2026-04-22T22:54:23.078Z",
+      "updatedAt": "2026-04-22T22:54:23.078Z"
+    },
+    {
+      "id": 687,
+      "content": "Egg fried Rice",
+      "category": "In Progress",
+      "projectId": "69dfe885c3f011904906b178",
+      "todoId": "69e603c18f08f83a15f7c4a5",
+      "completed": false,
+      "completedDate": null,
+      "dueDate": "2026-04-21T00:00:00.000Z",
+      "createdAt": "2026-04-20T10:45:21.337Z",
+      "updatedAt": "2026-04-23T00:05:22.840Z"
+    }
+  ],
+  "updates": [
+    {
+      "id": 15,
+      "category": "threads",
+      "content": "Watching the last episode of *Peaky Blinders*, then I’ll be done with the series :'(",
+      "title": "Threads post",
+      "date": "2026-04-14T22:15:47.000Z",
+      "source": "threads",
+      "sourceId": "18152864476460366",
+      "sourcePostType": "post",
+      "referencedSourceId": null,
+      "referencedSourceUrl": null,
+      "sourceUrl": "https://www.threads.com/@ashishdotme/post/DXIOUROiIvj",
+      "mediaUrls": [
+        "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:76yjmeje3achjsllh7df4io5/bafkreigtejhjozu5t7ii4hvgpdumaxcg77ljwzlxvtvkqyooqjp23tiikq"
+      ],
+      "blueskyUri": "at://did:plc:76yjmeje3achjsllh7df4io5/app.bsky.feed.post/3mjiftnyoql2x",
+      "bridgePublisher": "jobsapi.ashish.me",
+      "createdAt": "2026-04-14T22:16:24.482Z",
+      "updatedAt": "2026-04-22T22:08:21.889Z"
+    },
+    {
+      "id": 13,
+      "category": "threads",
+      "content": "Threads > Bluesky?",
+      "title": "Threads post",
+      "date": "2026-04-14T00:54:05.000Z",
+      "source": "threads",
+      "sourceId": "18127725937586151",
+      "sourcePostType": "post",
+      "referencedSourceId": null,
+      "referencedSourceUrl": null,
+      "sourceUrl": "https://www.threads.com/@ashishdotme/post/DXF7ozsiEjV",
+      "mediaUrls": [],
+      "blueskyUri": "at://did:plc:76yjmeje3achjsllh7df4io5/app.bsky.feed.post/3mjg6s6l7xb2b",
+      "bridgePublisher": "jobsapi.ashish.me",
+      "createdAt": "2026-04-14T00:55:00.699Z",
+      "updatedAt": "2026-04-14T01:05:01.027Z"
+    },
+    {
+      "id": 12,
+      "category": "threads",
+      "content": "Testing threads :D",
+      "title": "Threads post",
+      "date": "2026-04-14T00:45:20.000Z",
+      "source": "threads",
+      "sourceId": "18387239224081958",
+      "sourcePostType": "post",
+      "referencedSourceId": null,
+      "referencedSourceUrl": null,
+      "sourceUrl": "https://www.threads.com/@ashishdotme/post/DXF6owiiHUW",
+      "mediaUrls": [],
+      "blueskyUri": "at://did:plc:76yjmeje3achjsllh7df4io5/app.bsky.feed.post/3mjg6jahjjx2b",
+      "bridgePublisher": "jobsapi.ashish.me",
+      "createdAt": "2026-04-14T00:50:00.452Z",
+      "updatedAt": "2026-04-14T01:00:00.923Z"
+    }
+  ],
+  "listens": [
+    {
+      "id": 2752,
+      "title": "Silver Dream",
+      "artist": "CHVRN",
+      "artistNormalized": "chvrn",
+      "album": null,
+      "releaseYear": null,
+      "genre": null,
+      "listenDate": "2026-04-27T12:29:36.378Z",
+      "titleNormalized": "silver dream",
+      "trackNumber": null,
+      "createdAt": "2026-04-27T12:29:36.592Z",
+      "updatedAt": "2026-04-27T12:29:36.592Z"
+    }
+  ],
+  "github": {
+    "lastCommit": "2026-04-20T16:18:37Z",
+    "recentRepos": [
+      {
+        "name": "jobsapi.ashish.me",
+        "pushedAt": "2026-04-16T01:29:03Z"
+      },
+      {
+        "name": "wiki.ashish.me",
+        "pushedAt": "2026-04-11T14:55:06Z"
+      },
+      {
+        "name": "blog",
+        "pushedAt": "2026-04-09T00:30:22Z"
+      },
+      {
+        "name": "assets",
+        "pushedAt": "2026-04-08T23:53:17Z"
+      },
+      {
+        "name": "mdbook-summary-tools",
+        "pushedAt": "2026-03-15T21:53:39Z"
+      },
+      {
+        "name": "leetcode-python",
+        "pushedAt": "2026-02-08T14:47:00Z"
+      },
+      {
+        "name": "datasette-publish-dokploy",
+        "pushedAt": "2026-02-08T14:45:54Z"
+      },
+      {
+        "name": "imdb-api",
+        "pushedAt": "2026-02-06T23:12:40Z"
+      },
+      {
+        "name": "wiki.ashish.me-old",
+        "pushedAt": "2025-04-06T09:44:11Z"
+      },
+      {
+        "name": "omakub",
+        "pushedAt": "2024-12-16T20:11:21Z"
+      },
+      {
+        "name": "books.ashish.me",
+        "pushedAt": "2024-12-05T23:03:00Z"
+      },
+      {
+        "name": "shows.ashish.me",
+        "pushedAt": "2024-12-05T23:01:49Z"
+      },
+      {
+        "name": "movies.ashish.me",
+        "pushedAt": "2024-12-05T23:00:50Z"
+      },
+      {
+        "name": "cli",
+        "pushedAt": "2024-11-11T22:05:56Z"
+      },
+      {
+        "name": "workers",
+        "pushedAt": "2024-11-10T10:49:26Z"
+      },
+      {
+        "name": "ashishdotme-utils",
+        "pushedAt": "2024-11-09T00:31:07Z"
+      }
+    ]
+  },
+  "lastLeetcode": {
+    "path": "Array_Easy_1266-minimum-time-visiting-all-points_solution.py",
+    "title": "solution.py",
+    "body": "```python  \n# Created by Ashish Patel at 2025/01/17 14:20\n# leetgo: 1.4.11\n# https://leetcode.com/problems/minimum-time-visiting-all-points/\n\n\"\"\"\n1266. Minimum Time Visiting All Points (Easy)\nOn a 2D plane, there are n points with integer coordinates points[i] = [xᵢ, yᵢ]. Return the\n**minimum time** in seconds to visit all the points in the order given by  points.\n\nYou can move according to these rules:\n\n- In 1 second, you can either:\n\n  - move vertically by one unit,\n  - move horizontally by one unit, or\n  - move diagonally sqrt(2) units (in other words, move one unit vertically then one unit\nhorizontally in 1 second).\n- You have to visit the points in the same order as they appear in the array.\n- You are allowed to pass through points that appear later in the order, but these do not count as\nvisits.\n\n**Example 1:**\n\n![](https://assets.leetcode.com/uploads/2019/11/14/1626_example_1.PNG)\n\n\nInput: points = [[1,1],[3,4],[-1,0]]\nOutput: 7\nExplanation: One optimal path is [1,1] -> [2,2] -> [3,3] -> [3,4] -> [2,3] -> [1,2] -> [0,1] -> [-1,0]\nTime from [1,1] to [3,4] = 3 seconds\nTime from [3,4] to [-1,0] = 4 seconds\nTotal time = 7 seconds\n\n\n**Example 2:**\n\n\nInput: points = [[3,2],[-2,2]]\nOutput: 5\n\n\n**Constraints:**\n\n- points.length == n\n- 1 <= n <= 100\n- points[i].length == 2\n- -1000 <= points[i][0], points[i][1] <= 1000\n\n\"\"\"\n\nfrom typing import *\nfrom leetgo_py import *\n\nimport bisect\nimport collections \nimport functools\nimport heapq \nimport itertools \nimport operator\nimport math \nimport string\nimport leetcode as lc\n\n# @lc code=begin\n\nclass Solution:\n    def minTimeToVisitAllPoints(self, points: List[List[int]]) -> int:\n        \n\n# @lc code=end\n\nif __name__ == \"__main__\":\n    points: List[List[int]] = deserialize(\"List[List[int]]\", read_line())\n    ans = Solution().minTimeToVisitAllPoints(points)\n    print(\"\\noutput:\", serialize(ans, \"integer\"))\n```",
+    "topic1": "Array",
+    "topic2": "Easy",
+    "topic3": "1266-minimum-time-visiting-all-points",
+    "url": "https://github.com/ashishdotme/leetcode-python/blob/master/Array/Easy/1266-minimum-time-visiting-all-points/solution.py",
+    "slug": "solution",
+    "html": "<div class=\"highlight highlight-source-python\"><pre><span class=\"pl-c\"># Created by Ashish Patel at 2025/01/17 14:20</span>\n<span class=\"pl-c\"># leetgo: 1.4.11</span>\n<span class=\"pl-c\"># https://leetcode.com/problems/minimum-time-visiting-all-points/</span>\n\n<span class=\"pl-s\">\"\"\"</span>\n<span class=\"pl-s\">1266. Minimum Time Visiting All Points (Easy)</span>\n<span class=\"pl-s\">On a 2D plane, there are n points with integer coordinates points[i] = [xᵢ, yᵢ]. Return the</span>\n<span class=\"pl-s\">**minimum time** in seconds to visit all the points in the order given by  points.</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">You can move according to these rules:</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">- In 1 second, you can either:</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">  - move vertically by one unit,</span>\n<span class=\"pl-s\">  - move horizontally by one unit, or</span>\n<span class=\"pl-s\">  - move diagonally sqrt(2) units (in other words, move one unit vertically then one unit</span>\n<span class=\"pl-s\">horizontally in 1 second).</span>\n<span class=\"pl-s\">- You have to visit the points in the same order as they appear in the array.</span>\n<span class=\"pl-s\">- You are allowed to pass through points that appear later in the order, but these do not count as</span>\n<span class=\"pl-s\">visits.</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">**Example 1:**</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">![](https://assets.leetcode.com/uploads/2019/11/14/1626_example_1.PNG)</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">Input: points = [[1,1],[3,4],[-1,0]]</span>\n<span class=\"pl-s\">Output: 7</span>\n<span class=\"pl-s\">Explanation: One optimal path is [1,1] -&gt; [2,2] -&gt; [3,3] -&gt; [3,4] -&gt; [2,3] -&gt; [1,2] -&gt; [0,1] -&gt; [-1,0]</span>\n<span class=\"pl-s\">Time from [1,1] to [3,4] = 3 seconds</span>\n<span class=\"pl-s\">Time from [3,4] to [-1,0] = 4 seconds</span>\n<span class=\"pl-s\">Total time = 7 seconds</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">**Example 2:**</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">Input: points = [[3,2],[-2,2]]</span>\n<span class=\"pl-s\">Output: 5</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">**Constraints:**</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">- points.length == n</span>\n<span class=\"pl-s\">- 1 &lt;= n &lt;= 100</span>\n<span class=\"pl-s\">- points[i].length == 2</span>\n<span class=\"pl-s\">- -1000 &lt;= points[i][0], points[i][1] &lt;= 1000</span>\n<span class=\"pl-s\"></span>\n<span class=\"pl-s\">\"\"\"</span>\n\n<span class=\"pl-k\">from</span> <span class=\"pl-s1\">typing</span> <span class=\"pl-k\">import</span> <span class=\"pl-c1\">*</span>\n<span class=\"pl-k\">from</span> <span class=\"pl-s1\">leetgo_py</span> <span class=\"pl-k\">import</span> <span class=\"pl-c1\">*</span>\n\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">bisect</span>\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">collections</span> \n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">functools</span>\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">heapq</span> \n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">itertools</span> \n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">operator</span>\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">math</span> \n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">string</span>\n<span class=\"pl-k\">import</span> <span class=\"pl-s1\">leetcode</span> <span class=\"pl-k\">as</span> <span class=\"pl-s1\">lc</span>\n\n<span class=\"pl-c\"># @lc code=begin</span>\n\n<span class=\"pl-k\">class</span> <span class=\"pl-v\">Solution</span>:\n    <span class=\"pl-k\">def</span> <span class=\"pl-en\">minTimeToVisitAllPoints</span>(<span class=\"pl-s1\">self</span>, <span class=\"pl-s1\">points</span>: <span class=\"pl-v\">List</span>[<span class=\"pl-v\">List</span>[<span class=\"pl-smi\">int</span>]]) <span class=\"pl-c1\">-&gt;</span> <span class=\"pl-smi\">int</span>:\n        \n\n<span class=\"pl-c\"># @lc code=end</span>\n\n<span class=\"pl-k\">if</span> <span class=\"pl-s1\">__name__</span> <span class=\"pl-c1\">==</span> <span class=\"pl-s\">\"__main__\"</span>:\n    <span class=\"pl-s1\">points</span>: <span class=\"pl-v\">List</span>[<span class=\"pl-v\">List</span>[<span class=\"pl-smi\">int</span>]] <span class=\"pl-c1\">=</span> <span class=\"pl-en\">deserialize</span>(<span class=\"pl-s\">\"List[List[int]]\"</span>, <span class=\"pl-en\">read_line</span>())\n    <span class=\"pl-s1\">ans</span> <span class=\"pl-c1\">=</span> <span class=\"pl-en\">Solution</span>().<span class=\"pl-c1\">minTimeToVisitAllPoints</span>(<span class=\"pl-s1\">points</span>)\n    <span class=\"pl-en\">print</span>(<span class=\"pl-s\">\"<span class=\"pl-cce\">\\n</span>output:\"</span>, <span class=\"pl-en\">serialize</span>(<span class=\"pl-s1\">ans</span>, <span class=\"pl-s\">\"integer\"</span>))</pre></div>\n",
+    "created": "2025-02-11T12:18:15+00:00",
+    "created_utc": "2025-02-11T12:18:15+00:00",
+    "updated": "2025-02-11T12:18:15+00:00",
+    "updated_utc": "2025-02-11T12:18:15+00:00"
+  }
+}
