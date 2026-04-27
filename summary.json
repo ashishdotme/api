@@ -1157,18 +1157,18 @@
   ],
   "listens": [
     {
-      "id": 2743,
-      "title": "BANDE NU BANDA (Official Video) Nirbhay Punia x MixSingh",
-      "artist": "MixSingh",
-      "artistNormalized": "mixsingh",
+      "id": 2752,
+      "title": "Silver Dream",
+      "artist": "CHVRN",
+      "artistNormalized": "chvrn",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-19T16:47:49.000Z",
-      "titleNormalized": "bande nu banda (official video) nirbhay punia x mixsingh",
+      "listenDate": "2026-04-27T12:29:36.378Z",
+      "titleNormalized": "silver dream",
       "trackNumber": null,
-      "createdAt": "2026-04-19T16:47:59.296Z",
-      "updatedAt": "2026-04-19T16:47:59.296Z"
+      "createdAt": "2026-04-27T12:29:36.592Z",
+      "updatedAt": "2026-04-27T12:29:36.592Z"
     }
   ],
   "github": {
