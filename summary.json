@@ -12,12 +12,12 @@
   ],
   "steps": [
     {
-      "id": 11976,
-      "stepCount": 7427,
-      "date": "4/26/26",
-      "fullDate": "2026-04-26T00:00:00.000Z",
-      "createdAt": "2026-04-27T01:14:08.633Z",
-      "updatedAt": "2026-04-27T01:14:08.633Z"
+      "id": 11977,
+      "stepCount": 349,
+      "date": "4/27/26",
+      "fullDate": "2026-04-27T00:00:00.000Z",
+      "createdAt": "2026-04-27T23:34:53.271Z",
+      "updatedAt": "2026-04-27T23:34:53.271Z"
     }
   ],
   "sleep": [
@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 33,
-      "quote": "An unexamined life is not worth living.",
+      "id": 38,
+      "quote": "Every strike brings me closer to the next home run.",
       "category": "Motivational",
-      "author": "Socrates",
+      "author": "Babe Ruth",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
