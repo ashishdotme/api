@@ -45,10 +45,10 @@
   ],
   "quote": [
     {
-      "id": 31,
-      "quote": "You miss 100% of the shots you don't take.",
+      "id": 10,
+      "quote": "Don't watch the clock; do what it does. Keep going.",
       "category": "Motivational",
-      "author": "Wayne Gretzky",
+      "author": "Sam Levenson",
       "createdAt": "2026-04-02T18:29:36.110Z",
       "updatedAt": "2026-04-02T18:29:36.110Z"
     }
@@ -1157,18 +1157,18 @@
   ],
   "listens": [
     {
-      "id": 2752,
-      "title": "Silver Dream",
-      "artist": "CHVRN",
-      "artistNormalized": "chvrn",
+      "id": 2755,
+      "title": "Gora Gora Rang Mashup | Ft. Sonam Bajwa | Bohemia x Imran Khan | Naresh Parmar | Punjabi Song 2024",
+      "artist": "Naresh Parmar",
+      "artistNormalized": "naresh parmar",
       "album": null,
       "releaseYear": null,
       "genre": null,
-      "listenDate": "2026-04-27T12:29:36.378Z",
-      "titleNormalized": "silver dream",
+      "listenDate": "2026-04-28T10:20:31.000Z",
+      "titleNormalized": "gora gora rang mashup | ft. sonam bajwa | bohemia x imran khan | naresh parmar | punjabi song 2024",
       "trackNumber": null,
-      "createdAt": "2026-04-27T12:29:36.592Z",
-      "updatedAt": "2026-04-27T12:29:36.592Z"
+      "createdAt": "2026-04-28T10:20:42.186Z",
+      "updatedAt": "2026-04-28T10:20:42.186Z"
     }
   ],
   "github": {
